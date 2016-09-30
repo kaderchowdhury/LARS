@@ -1,0 +1,1544 @@
+<node id="10284689" lat="52.5215253" lon="-1.8689713"  n="Dove of Peace" t="tourism" st="artwork"/>
+<node id="23071047" lat="52.4902888" lon="-1.888618"  n="Aston Junction" t="tourism" st="information"/>
+<node id="32125112" lat="52.4111299" lon="-1.7710286"  n="Horse and Tamer" t="tourism" st="artwork"/>
+<node id="34238599" lat="52.4843057" lon="-1.9290946"  n="Rotton Park Junction" t="tourism" st="information"/>
+<node id="69238235" lat="52.4604459" lon="-1.7224128"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="90046258" lat="52.4774257" lon="-1.893986"  n="Richard Westmacott" t="tourism" st="artwork"/>
+<node id="187104810" lat="52.4870085" lon="-1.9125779"  n="Chamberlain Clock" t="tourism" st="attraction"/>
+<node id="248663093" lat="52.5354314" lon="-1.9479439"  n="RSPB Gates" t="tourism" st="artwork"/>
+<node id="273021549" lat="52.4133476" lon="-1.5116536"  n="James Brindley" t="tourism" st="artwork"/>
+<node id="273113404" lat="52.4811562" lon="-1.8974732"  n="The Angel Drinking Fountain" t="tourism" st="artwork"/>
+<node id="275463410" lat="52.4102897" lon="-1.5085823"  n="Sir Frank Whittle" t="tourism" st="artwork"/>
+<node id="275463412" lat="52.4106186" lon="-1.5082819"  n="Future Monument" t="tourism" st="artwork"/>
+<node id="275463689" lat="52.4131802" lon="-1.510079"  n="Canal Lock Gates" t="tourism" st="artwork"/>
+<node id="275731333" lat="52.4081412" lon="-1.5148982"  n="Mural" t="tourism" st="artwork"/>
+<node id="276553725" lat="52.4093001" lon="-1.5082474"  n="Water Window" t="tourism" st="artwork"/>
+<node id="281347892" lat="52.5471303" lon="-2.0266763"  n="Sleipnir" t="tourism" st="artwork"/>
+<node id="281416274" lat="52.4699999" lon="-1.7267286"  n="Heath Lodge Hotel" t="tourism" st="hotel"/>
+<node id="290237891" lat="52.4437684" lon="-2.0365861"  n="St Mary&#39;s Abbey" t="tourism" st="attraction"/>
+<node id="304057512" lat="52.4447252" lon="-2.0089784"  n="Visitor Centre" t="tourism" st="information"/>
+<node id="304821910" lat="52.4911466" lon="-1.9348144"  n="Centre of the Earth" t="tourism" st="attraction"/>
+<node id="305801465" lat="52.4570534" lon="-2.1466774"  n="The Talbot Hotel" t="tourism" st="hotel"/>
+<node id="308007202" lat="52.4730074" lon="-1.9586232"  n="Dormy Hotel" t="tourism" st="hotel"/>
+<node id="308007203" lat="52.4730279" lon="-1.9579123"  n="Fairlawns Hotel" t="tourism" st="hotel"/>
+<node id="309457042" lat="52.4740303" lon="-1.9223368"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="311132443" lat="52.4299949" lon="-1.9322108"  n="Cadbury World" t="tourism" st="attraction"/>
+<node id="312619557" lat="52.4821713" lon="-1.8944181"  n="Tony Hancock" t="tourism" st="artwork"/>
+<node id="319539797" lat="52.4766355" lon="-1.8939878"  n="Tree of Life War Memorial" t="tourism" st="artwork"/>
+<node id="319780144" lat="52.5175024" lon="-1.7947739"  n="Castle vale Knight" t="tourism" st="artwork"/>
+<node id="338534333" lat="52.4768489" lon="-1.9036938"  n="Malmaison" t="tourism" st="hotel"/>
+<node id="346384726" lat="52.4835749" lon="-1.906222"  n="Electro Plating Pioneers" t="tourism" st="artwork"/>
+<node id="346384729" lat="52.4835016" lon="-1.9060831"  n="The Reel Origin Of Celluloid" t="tourism" st="artwork"/>
+<node id="346384730" lat="52.4843985" lon="-1.9078003"  n="Mind The Curb" t="tourism" st="artwork"/>
+<node id="351654986" lat="52.4753993" lon="-1.9059807"  n="Ramada" t="tourism" st="hotel"/>
+<node id="352984514" lat="52.4846038" lon="-1.9116092"  n="The Pen Room" t="tourism" st="museum"/>
+<node id="352984528" lat="52.483093" lon="-1.9110384"  n="Rip van Winkle" t="tourism" st="artwork"/>
+<node id="352984531" lat="52.4832292" lon="-1.9110789"  n="Chartists" t="tourism" st="artwork"/>
+<node id="352984534" lat="52.4833913" lon="-1.9111268"  n="FA Cup was designed here" t="tourism" st="artwork"/>
+<node id="352984540" lat="52.4836714" lon="-1.9112082"  n="Titanic Whistle" t="tourism" st="artwork"/>
+<node id="352984545" lat="52.4841501" lon="-1.9114104"  n="Matthew Boulton" t="tourism" st="artwork"/>
+<node id="361132359" lat="52.4750216" lon="-2.0478193"  n="Highfield House Hotel" t="tourism" st="hotel"/>
+<node id="365573526" lat="52.6228039" lon="-1.9372309"  n="Barons Court Hotel" t="tourism" st="hotel"/>
+<node id="366762464" lat="52.4638058" lon="-1.7147594"  n="Holiday Inn Express" t="tourism" st="hotel"/>
+<node id="384961929" lat="52.3743" lon="-1.4602496"  n="Holiday Inn" t="tourism" st="hotel"/>
+<node id="410873671" lat="52.4975768" lon="-2.0987343"  n="Parkhead Locks" t="tourism" st="information"/>
+<node id="444642797" lat="52.6483602" lon="-1.9352527"  n="Brownhills Miner" t="tourism" st="artwork"/>
+<node id="445790600" lat="52.500758" lon="-2.0322271"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="445797468" lat="52.4998485" lon="-2.0305594"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="493626860" lat="52.472225" lon="-1.9192543"  n="http://www.birmingham.gov.uk/cs/Satellite?c=Page&#38;childpagename=SystemAdmin%2FPageLayout&#38;cid=1223092626075&#38;packedargs=website%3D1&#38;pagename=BCC%2FCommon%2FWrapper%2FWrapper&#38;rendermode=live" t="tourism" st="artwork"/>
+<node id="496530597" lat="52.5319773" lon="-2.1480189"  n="Baggeridge Toposcope" t="tourism" st="viewpoint"/>
+<node id="509322553" lat="52.4228524" lon="-1.8455085"  n="Kings Court Guesthouse" t="tourism" st="guest_house"/>
+<node id="556203244" lat="52.4679382" lon="-2.0623563"  n="Haden Hill House Museum" t="tourism" st="museum"/>
+<node id="559726441" lat="52.5457717" lon="-2.0861246"  n="Iron Horse" t="tourism" st="artwork"/>
+<node id="571186492" lat="52.4797764" lon="-2.0580043"  n="Eliza Tinsley" t="tourism" st="artwork"/>
+<node id="606366779" lat="52.5879488" lon="-2.1330268"  n="Travelodge Wolverhampton Central" t="tourism" st="hotel"/>
+<node id="616877492" lat="52.4798132" lon="-1.9042805"  n="The Birmingham Man: Thomas Attwood (1783-1856)" t="tourism" st="artwork_removed"/>
+<node id="617765380" lat="52.4806871" lon="-1.9128904"  n="Canal &#38; River Trust Customer Service Centre" t="tourism" st="information"/>
+<node id="618598488" lat="52.4295339" lon="-1.9363717"  n="Bournville Carillon" t="tourism" st="attraction"/>
+<node id="626323031" lat="52.4729513" lon="-1.9184953"  n="Impulse" t="tourism" st="artwork"/>
+<node id="711754119" lat="52.6010587" lon="-2.1542694"  n="Wildside Activity Centre" t="tourism" st="information"/>
+<node id="761373942" lat="52.5673495" lon="-1.846667"  n="Keepers Well" t="tourism" st="viewpoint"/>
+<node id="795656435" lat="52.4754081" lon="-2.0931684"  n="Mushroom Green Chain Shop" t="tourism" st="museum"/>
+<node id="824548321" lat="52.4254993" lon="-1.7681988"  n="Maze" t="tourism" st="artwork"/>
+<node id="842194160" lat="52.5715743" lon="-1.984858"  n="The Palfrey Horse" t="tourism" st="artwork"/>
+<node id="863205503" lat="52.4542455" lon="-2.0654451"  n="Thomas Attwood Scrolls" t="tourism" st="artwork"/>
+<node id="863782802" lat="52.4843689" lon="-1.8934551"  n="Keystone Head" t="tourism" st="artwork"/>
+<node id="867332844" lat="52.4849135" lon="-1.9074661"  n="RBSA Plaque" t="tourism" st="artwork"/>
+<node id="899424514" lat="52.4048981" lon="-1.8864484"  n="The Maypole" t="tourism" st="artwork"/>
+<node id="920225808" lat="52.4893721" lon="-1.9127845"  n="Jewellery Quarter Interchange" t="tourism" st="artwork"/>
+<node id="950324361" lat="52.4844418" lon="-1.8921735"  n="Robert Thomas" t="tourism" st="artwork"/>
+<node id="950348332" lat="52.4796426" lon="-1.9030116"  n="http://www.birmingham.gov.uk/cs/Satellite?c=Page&#38;childpagename=WT-General%2FPageLayout&#38;cid=1223092626187&#38;pagename=BCC%2FCommon%2FWrapper%2FWrapper" t="tourism" st="artwork"/>
+<node id="950360437" lat="52.4785868" lon="-1.9083947"  n="http://www.birmingham.gov.uk/cs/Satellite?c=Page&#38;childpagename=SystemAdmin%2FPageLayout&#38;cid=1223240423390&#38;packedargs=website%3D1&#38;pagename=BCC%2FCommon%2FWrapper%2FWrapper&#38;rendermode=live" t="tourism" st="artwork"/>
+<node id="950372027" lat="52.4545621" lon="-1.9072495"  n="http://www.birmingham.gov.uk/cs/Satellite?c=Page&#38;childpagename=SystemAdmin%2FPageLayout&#38;cid=1223092626351&#38;packedargs=website%3D1&#38;pagename=BCC%2FCommon%2FWrapper%2FWrapper&#38;rendermode=live" t="tourism" st="artwork"/>
+<node id="957146005" lat="52.4827808" lon="-1.8927983"  n="Wattilisk" t="tourism" st="artwork"/>
+<node id="957166255" lat="52.4794369" lon="-1.9027353"  n="http://www.birmingham.gov.uk/cs/Satellite?c=Page&#38;childpagename=WT-General%2FPageLayout&#38;cid=1223092625871&#38;pagename=BCC%2FCommon%2FWrapper%2FWrapper" t="tourism" st="artwork"/>
+<node id="957279524" lat="52.519205" lon="-1.8976996"  n="William James Bloye" t="tourism" st="artwork"/>
+<node id="959728212" lat="52.4440744" lon="-1.8341659"  n="William James Boyce" t="tourism" st="artwork"/>
+<node id="964762324" lat="52.4809641" lon="-1.9032144"  n="Rose Window" t="tourism" st="artwork"/>
+<node id="964786995" lat="52.5356116" lon="-1.9206868"  n="carving" t="tourism" st="artwork"/>
+<node id="966122369" lat="52.4801359" lon="-1.9037448"  n="Allegory of Fame Rewarding the Arts" t="tourism" st="artwork"/>
+<node id="966122380" lat="52.4800777" lon="-1.9027286"  n="Britannia and Manufacturers, Union of the Arts and Sciences, Literature, and Commerce" t="tourism" st="artwork"/>
+<node id="966122383" lat="52.4755329" lon="-1.8875171"  n="Allegorical figures (6)" t="tourism" st="artwork"/>
+<node id="967996668" lat="52.4823246" lon="-1.894977"  n="The History of Old Square" t="tourism" st="artwork"/>
+<node id="968008977" lat="52.4805318" lon="-1.9038243"  n="William James Bloye" t="tourism" st="artwork"/>
+<node id="968035161" lat="52.4748981" lon="-1.9004213"  n="Pagoda" t="tourism" st="artwork"/>
+<node id="968037005" lat="52.4836543" lon="-1.8928492"  n="Allegories of Methodist Teaching" t="tourism" st="artwork"/>
+<node id="969303423" lat="52.5291558" lon="-1.8954843"  n="Boar&#39;s Head" t="tourism" st="artwork"/>
+<node id="976500983" lat="52.4797637" lon="-1.9069046"  n="King Edward VII" t="tourism" st="artwork"/>
+<node id="984731352" lat="52.4815685" lon="-1.9049661"  n="Aesculapius" t="tourism" st="artwork"/>
+<node id="984747104" lat="52.4801425" lon="-1.9005131"  n="Industry &#38; Manufacturers" t="tourism" st="artwork"/>
+<node id="986566609" lat="52.4771879" lon="-1.8939244"  n="Water Feature" t="tourism" st="artwork_removed"/>
+<node id="986610740" lat="52.4751247" lon="-1.883826"  n="Tawny Gray" t="tourism" st="artwork"/>
+<node id="986610782" lat="52.4791358" lon="-1.8902635"  n="Madonna and Child" t="tourism" st="artwork"/>
+<node id="986610785" lat="52.4752037" lon="-1.8841982"  n="Dragon" t="tourism" st="artwork"/>
+<node id="992936220" lat="52.4610313" lon="-1.8160229"  n="William Bloye" t="tourism" st="artwork"/>
+<node id="1008086206" lat="52.4805016" lon="-1.884798"  n="Group of Trophies" t="tourism" st="artwork"/>
+<node id="1008161425" lat="52.4835699" lon="-1.8995035"  n="John McKenna" t="tourism" st="artwork"/>
+<node id="1008215773" lat="52.4784315" lon="-1.9114697"  n="Battle of the Godsand the Giants" t="tourism" st="artwork"/>
+<node id="1010849490" lat="52.5104117" lon="-1.8107849"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="1014876790" lat="52.4870044" lon="-1.8884036"  n="Angela Connor" t="tourism" st="artwork"/>
+<node id="1014882191" lat="52.4858774" lon="-1.8887932"  n="Inside &#39;Tempus Fugit&#39;" t="tourism" st="artwork"/>
+<node id="1014892266" lat="52.4844502" lon="-1.8932811"  n="Keystone Head" t="tourism" st="artwork"/>
+<node id="1014917215" lat="52.4827853" lon="-1.893951"  n="Carpenters and Diners" t="tourism" st="artwork"/>
+<node id="1014930916" lat="52.4835957" lon="-1.8928347"  n="Events from the Life of John Wesley" t="tourism" st="artwork"/>
+<node id="1014930929" lat="52.483835" lon="-1.895302"  n="Fountain (Nude Girl)" t="tourism" st="artwork"/>
+<node id="1014930940" lat="52.4836014" lon="-1.8928813"  n="Allegories of Methodist Teaching" t="tourism" st="artwork"/>
+<node id="1014930952" lat="52.4836346" lon="-1.892807"  n="Events from the Life of John Wesley" t="tourism" st="artwork"/>
+<node id="1014937456" lat="52.479927" lon="-1.8963511"  n="Heads, Beasts and Figures" t="tourism" st="artwork"/>
+<node id="1014970593" lat="52.4786121" lon="-1.898563"  n="Caryatids" t="tourism" st="artwork"/>
+<node id="1014998104" lat="52.4778357" lon="-1.901648"  n="Lee Grandjean" t="tourism" st="artwork"/>
+<node id="1015045927" lat="52.4803498" lon="-1.9000345"  n="Wisdom, Fortitude, Charity and Faith" t="tourism" st="artwork"/>
+<node id="1015060422" lat="52.4811697" lon="-1.900473"  n="Ghiberti and Cellini" t="tourism" st="artwork"/>
+<node id="1015535049" lat="52.4815071" lon="-1.8967514"  n="Allegories of Science and Art" t="tourism" st="artwork"/>
+<node id="1039883844" lat="52.4793853" lon="-1.900161"  n="Allegorical Figures" t="tourism" st="artwork"/>
+<node id="1039883847" lat="52.4798889" lon="-1.9004479"  n="Sun Emblem &#38; Lettering" t="tourism" st="artwork"/>
+<node id="1039896431" lat="52.4825352" lon="-1.9108603"  n="Mick Thacker" t="tourism" st="artwork"/>
+<node id="1040883754" lat="52.4465635" lon="-1.7299606"  n="Take Off" t="tourism" st="artwork"/>
+<node id="1042881285" lat="52.4504026" lon="-1.9274044"  n="Heraldic Shield" t="tourism" st="artwork"/>
+<node id="1042881311" lat="52.4504267" lon="-1.9273938"  n="Heraldic Shield" t="tourism" st="artwork"/>
+<node id="1042913448" lat="52.4493573" lon="-1.9307666"  n="Beethoven, Virgil, Michelangelo, Plato, Shakespeare, Newton, Watt, Faraday and Darwin" t="tourism" st="artwork"/>
+<node id="1042913505" lat="52.4489634" lon="-1.9336994"  n="Engineering" t="tourism" st="artwork"/>
+<node id="1042938314" lat="52.4610009" lon="-1.8735649"  n="Christ in Majesty and Scenes from the life of St Agatha" t="tourism" st="artwork"/>
+<node id="1042944805" lat="52.4568697" lon="-1.868741"  n="Mermaid" t="tourism" st="artwork"/>
+<node id="1059472949" lat="52.4736042" lon="-1.9168322"  n="Fiore De Henriques" t="tourism" st="artwork"/>
+<node id="1083332855" lat="52.4482621" lon="-1.8612208"  n="Bear and Staff" t="tourism" st="artwork"/>
+<node id="1083332883" lat="52.4533479" lon="-1.8658527"  n="Antelope" t="tourism" st="artwork"/>
+<node id="1085303365" lat="52.4780619" lon="-1.9139189"  n="Aquaduct" t="tourism" st="artwork"/>
+<node id="1085305080" lat="52.4768338" lon="-1.9129813"  n="Future" t="tourism" st="artwork"/>
+<node id="1085311143" lat="52.4771853" lon="-1.9114295"  n="untitled" t="tourism" st="artwork"/>
+<node id="1085311172" lat="52.4772497" lon="-1.9130926"  n="Water Feature" t="tourism" st="artwork"/>
+<node id="1085311173" lat="52.4769972" lon="-1.9113965"  n="untitled" t="tourism" st="artwork"/>
+<node id="1085317923" lat="52.4785878" lon="-1.9107955"  n="Convention" t="tourism" st="artwork"/>
+<node id="1085317924" lat="52.4789402" lon="-1.9099548"  n="Construction: an allegory" t="tourism" st="artwork"/>
+<node id="1085317928" lat="52.4785548" lon="-1.9112466"  n="Abstract Stained Glass Panel" t="tourism" st="artwork"/>
+<node id="1085317930" lat="52.4790452" lon="-1.9099407"  n="The Emergence of Women in the 20th Century" t="tourism" st="artwork"/>
+<node id="1088009882" lat="52.4858402" lon="-1.8950993"  n="William James Bloye" t="tourism" st="artwork_removed"/>
+<node id="1089454747" lat="52.533203" lon="-1.9305281"  n="Miners&#39; Memorial" t="tourism" st="artwork"/>
+<node id="1101446898" lat="52.4781259" lon="-1.8950918"  n="Bull" t="tourism" st="artwork"/>
+<node id="1101446903" lat="52.4784152" lon="-1.8950947"  n="Sculptural Light Wands" t="tourism" st="artwork"/>
+<node id="1102129485" lat="52.4821871" lon="-1.8946758"  n="Mosaic" t="tourism" st="artwork"/>
+<node id="1107967370" lat="52.5799991" lon="-2.1541891"  n="Bantock House" t="tourism" st="museum"/>
+<node id="1109122075" lat="52.4811186" lon="-1.9034791"  n="Rose Window" t="tourism" st="artwork"/>
+<node id="1110410931" lat="52.5134355" lon="-1.7981529"  n="The Sentinel" t="tourism" st="artwork"/>
+<node id="1118979168" lat="52.4774695" lon="-1.7808249"  n="Fire Fighters" t="tourism" st="artwork"/>
+<node id="1127803137" lat="52.4727517" lon="-1.9173858"  n="Trewin Copplestone" t="tourism" st="artwork (covered during building renovation 2015)"/>
+<node id="1135421637" lat="52.4837096" lon="-1.9001794"  n="GWR" t="tourism" st="artwork"/>
+<node id="1135747824" lat="52.4906813" lon="-1.9097859"  n="Pelican" t="tourism" st="artwork"/>
+<node id="1139095492" lat="52.4439604" lon="-1.8347612"  n="Centro Spring Road Interchange: Fox and Holly" t="tourism" st="artwork"/>
+<node id="1141027583" lat="52.4896913" lon="-1.9116436"  n="Gates to Jewellery Business Centre" t="tourism" st="artwork"/>
+<node id="1189195283" lat="52.506035" lon="-1.7924023"  n="CBHGT Information Centre" t="tourism" st="information"/>
+<node id="1228268326" lat="52.5007849" lon="-1.9233672"  n="Under the Sun" t="tourism" st="artwork"/>
+<node id="1238656214" lat="52.3800196" lon="-1.5607447"  n="White Koan" t="tourism" st="artwork"/>
+<node id="1303597157" lat="52.4852106" lon="-2.0055193"  n="Jugbury Hill (Barnford Hill)" t="tourism" st="viewpoint"/>
+<node id="1303655874" lat="52.4465918" lon="-1.8883133"  n="Centro Moseley Interchange:Spirit" t="tourism" st="artwork"/>
+<node id="1303656596" lat="52.4428969" lon="-1.8715945"  n="Centro Wake Green Road Interchange: Cascading Mountain" t="tourism" st="artwork"/>
+<node id="1303657065" lat="52.4434035" lon="-1.8567174"  n="College Road Interchange" t="tourism" st="artwork"/>
+<node id="1319239194" lat="52.4735565" lon="-1.9577131"  n="Woodlands Hotel" t="tourism" st="hotel"/>
+<node id="1370427072" lat="52.4557933" lon="-1.9097512"  n="Edgbaston Interchange" t="tourism" st="artwork"/>
+<node id="1370979563" lat="52.4845019" lon="-1.9205119"  n="Centro Ladywood Interchange: The Nonsens" t="tourism" st="artwork"/>
+<node id="1477751196" lat="52.5833673" lon="-2.059088"  n="Willenhall Lock Museum" t="tourism" st="museum"/>
+<node id="1486327020" lat="52.4082611" lon="-1.506894"  n="St Michael and the Devil" t="tourism" st="artwork"/>
+<node id="1493268135" lat="52.4485265" lon="-1.4975308"  n="DoubleTree by Hilton Hotel at the Ricoh Arena - Coventry" t="tourism" st="hotel"/>
+<node id="1493268138" lat="52.4491338" lon="-1.4961636"  n="Jimmy Hill" t="tourism" st="artwork"/>
+<node id="1493268141" lat="52.4478609" lon="-1.4946214"  n="Sky Blues Wall of Fame" t="tourism" st="artwork"/>
+<node id="1497177504" lat="52.5097191" lon="-1.9199024"  n="Victorian drinking fountain" t="tourism" st="artwork"/>
+<node id="1510302834" lat="52.410219" lon="-1.5114131"  n="Meter Room Project Space &#38; Studios" t="tourism" st="museum"/>
+<node id="1548122697" lat="52.4825743" lon="-1.8866822"  n="Thinktank Birmingham Science Museum" t="tourism" st="museum"/>
+<node id="1555804046" lat="52.4772828" lon="-1.8962299"  n="Martin Donlin" t="tourism" st="artwork"/>
+<node id="1582447287" lat="52.4049256" lon="-1.8858512"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="1685752437" lat="52.3678311" lon="-1.8400379"  n="Earlswood Lakes Craft Centre" t="tourism" st="attraction"/>
+<node id="1738390698" lat="52.4750754" lon="-1.9067533"  n="Hotel Indigo" t="tourism" st="hotel"/>
+<node id="1745739183" lat="52.419404" lon="-1.9196471"  n="The Patrick Collection" t="tourism" st="museum"/>
+<node id="1778509577" lat="52.407941" lon="-1.5080246"  n="Visit Coventry &#38; Warwickshire Tourist Information Office" t="tourism" st="information"/>
+<node id="1782785341" lat="52.4912699" lon="-2.0216222"  n="Traveller&#39;s Inn" t="tourism" st="hotel"/>
+<node id="1789178768" lat="52.4947579" lon="-2.0221386"  n="Holiday Inn Express" t="tourism" st="motel"/>
+<node id="1796993751" lat="52.4382133" lon="-1.804825"  n="Centro Olton Interchange: Saxon King on Horse" t="tourism" st="artwork"/>
+<node id="1797041986" lat="52.4134794" lon="-1.7758337"  n="Family Outing" t="tourism" st="artwork"/>
+<node id="1883437367" lat="52.4078038" lon="-1.507389"  n="Ecce Homo" t="tourism" st="artwork"/>
+<node id="1883437379" lat="52.4078885" lon="-1.5069772"  n="Charred Cross" t="tourism" st="artwork"/>
+<node id="1883437406" lat="52.4080631" lon="-1.507502"  n="Statue of Reconciliation" t="tourism" st="artwork"/>
+<node id="1923698201" lat="52.5859068" lon="-1.9790879"  n="John Henry Carless VC" t="tourism" st="artwork"/>
+<node id="1994195090" lat="52.4238527" lon="-1.4572396"  n="Highest Point" t="tourism" st="viewpoint"/>
+<node id="2049769973" lat="52.4826171" lon="-1.900832"  n="Umbra" t="tourism" st="artwork"/>
+<node id="2049769978" lat="52.4772275" lon="-1.8938134"  n="Water Feature" t="tourism" st="artwork"/>
+<node id="2051463581" lat="52.4135134" lon="-1.7760127"  n="Pyramid" t="tourism" st="artwork"/>
+<node id="2059986025" lat="52.4523491" lon="-1.5244026"  n="Viewpoint" t="tourism" st="viewpoint"/>
+<node id="2106304730" lat="52.4814568" lon="-1.9065067"  n="UCB Crest" t="tourism" st="artwork"/>
+<node id="2109265229" lat="52.4798631" lon="-1.9045624"  n="James Watt" t="tourism" st="artwork_removed"/>
+<node id="2109265230" lat="52.4799555" lon="-1.9045934"  n="Joseph Priestley" t="tourism" st="artwork_removed"/>
+<node id="2109265231" lat="52.4795524" lon="-1.9024183"  n="The Guardian" t="tourism" st="artwork"/>
+<node id="2109265232" lat="52.4797322" lon="-1.9020728"  n="The Guardian" t="tourism" st="artwork"/>
+<node id="2126644773" lat="52.4497416" lon="-1.931253"  n="Girl in Hat" t="tourism" st="artwork"/>
+<node id="2126644774" lat="52.4493094" lon="-1.9272486"  n="The Mermaid" t="tourism" st="artwork"/>
+<node id="2129430479" lat="52.450901" lon="-1.9310133"  n="Ancestor I" t="tourism" st="artwork"/>
+<node id="2129430481" lat="52.4811216" lon="-1.9005705"  n="Ghiberti and Cellini" t="tourism" st="artwork"/>
+<node id="2132886623" lat="52.5657362" lon="-2.0760975"  n="Women&#39;s Work" t="tourism" st="artwork"/>
+<node id="2136109520" lat="52.5635632" lon="-2.0833326"  n="Three Columns" t="tourism" st="artwork"/>
+<node id="2136187818" lat="52.5621174" lon="-2.0830189"  n="Beth&#39;s Arch" t="tourism" st="artwork"/>
+<node id="2136187999" lat="52.5655841" lon="-2.0652177"  n="Tower of Light" t="tourism" st="artwork"/>
+<node id="2136216573" lat="52.5680326" lon="-2.0716324"  n="Amber the Fire Breather" t="tourism" st="artwork"/>
+<node id="2136442636" lat="52.5684692" lon="-2.0552572"  n="Hovering Kestrel" t="tourism" st="artwork"/>
+<node id="2136442637" lat="52.5659907" lon="-2.0755042"  n="Witness" t="tourism" st="artwork"/>
+<node id="2137322419" lat="52.5635233" lon="-2.078591"  n="Enshrine Pressure" t="tourism" st="artwork"/>
+<node id="2137322421" lat="52.5634908" lon="-2.0787486"  n="Glory Hole" t="tourism" st="artwork"/>
+<node id="2137322423" lat="52.5634618" lon="-2.0788883"  n="Tools of the Trade" t="tourism" st="artwork"/>
+<node id="2137497491" lat="52.564303" lon="-2.079204"  n="Bilston" t="tourism" st="artwork"/>
+<node id="2137497492" lat="52.5661917" lon="-2.0740721"  n="Bilston" t="tourism" st="artwork"/>
+<node id="2150847119" lat="52.4059688" lon="-1.5123849"  n="The Phoenix" t="tourism" st="artwork"/>
+<node id="2150931074" lat="52.4209754" lon="-1.5149129"  n="Daimler Green" t="tourism" st="artwork"/>
+<node id="2188775875" lat="52.4213803" lon="-1.8919225"  n="Kings Heath Interchange" t="tourism" st="artwork"/>
+<node id="2201963244" lat="52.5139191" lon="-2.068436"  n="Village Hotel" t="tourism" st="hotel"/>
+<node id="2269444865" lat="52.4779656" lon="-1.9008169"  n="Iron Horse" t="tourism" st="artwork"/>
+<node id="2297687171" lat="52.5875053" lon="-2.1194283"  n="Iron Horse" t="tourism" st="artwork"/>
+<node id="2299815275" lat="52.5973925" lon="-1.9240165"  n="Eating Area" t="tourism" st="picnic_site"/>
+<node id="2312982821" lat="52.5275518" lon="-1.9848638"  n="Bluebell" t="tourism" st="artwork"/>
+<node id="2312982822" lat="52.5272021" lon="-1.9846646"  n="Kissing Gate" t="tourism" st="artwork"/>
+<node id="2330933351" lat="52.486599" lon="-1.9387892"  n="Centro Winson Green Interchange" t="tourism" st="artwork"/>
+<node id="2353971338" lat="52.4827348" lon="-1.9109286"  n="Renn and Thacker" t="tourism" st="artwork"/>
+<node id="2353971342" lat="52.4845957" lon="-1.9079253"  n="Dip Pen" t="tourism" st="artwork"/>
+<node id="2353971346" lat="52.4841571" lon="-1.9071776"  n="Heavens Above" t="tourism" st="artwork"/>
+<node id="2353971350" lat="52.4845057" lon="-1.9077866"  n="RBSA" t="tourism" st="artwork"/>
+<node id="2353971355" lat="52.4844047" lon="-1.9076448"  n="Roller Coaster" t="tourism" st="artwork"/>
+<node id="2353971359" lat="52.4828427" lon="-1.9109539"  n="Silent Boots" t="tourism" st="artwork"/>
+<node id="2353971363" lat="52.4844718" lon="-1.9106544"  n="Victoria" t="tourism" st="artwork"/>
+<node id="2353971366" lat="52.4845883" lon="-1.9078227"  n="Victorian Nannies" t="tourism" st="artwork"/>
+<node id="2353971370" lat="52.4841219" lon="-1.9073011"  n="Water from the Welsh Mountains" t="tourism" st="artwork"/>
+<node id="2355070642" lat="52.4843194" lon="-1.9109023"  n="Boys" t="tourism" st="artwork"/>
+<node id="2355070646" lat="52.4837061" lon="-1.9065472"  n="Two Scarred Fingers Take The Strain" t="tourism" st="artwork"/>
+<node id="2355070649" lat="52.4843795" lon="-1.9114683"  n="1863 Albert Works opens with a Turkish bath" t="tourism" st="artwork"/>
+<node id="2355085127" lat="52.4848178" lon="-1.9013591"  n="Lost Property Sun" t="tourism" st="artwork"/>
+<node id="2355085130" lat="52.4849075" lon="-1.901133"  n="Whistle Blizzard" t="tourism" st="artwork"/>
+<node id="2358833285" lat="52.5017024" lon="-1.9805592"  n="Centro Galton Bridge Interchange:Moontrap" t="tourism" st="artwork"/>
+<node id="2360835472" lat="52.5127763" lon="-2.0833864"  n="Apollo Fountain" t="tourism" st="artwork"/>
+<node id="2360929645" lat="52.507213" lon="-2.0808166"  n="Salamander in Flames" t="tourism" st="artwork"/>
+<node id="2360929651" lat="52.5135643" lon="-2.073185"  n="Medieval Life: Plough" t="tourism" st="artwork"/>
+<node id="2360929653" lat="52.5135771" lon="-2.0733959"  n="Medieval Life: Heraldic Lion" t="tourism" st="artwork"/>
+<node id="2360929656" lat="52.5136554" lon="-2.0730543"  n="Medieval Life: Crucible" t="tourism" st="artwork"/>
+<node id="2360929659" lat="52.5137131" lon="-2.0736278"  n="Medieval Life: Cannon" t="tourism" st="artwork"/>
+<node id="2360929662" lat="52.513726" lon="-2.0730437"  n="Medieval Life: Ruined Walls" t="tourism" st="artwork"/>
+<node id="2360929665" lat="52.5137503" lon="-2.0732209"  n="Medieval Life: Ruined Walls" t="tourism" st="artwork"/>
+<node id="2360929668" lat="52.513835" lon="-2.0733642"  n="Medieval Life: Cannonballs" t="tourism" st="artwork"/>
+<node id="2373580094" lat="52.4720703" lon="-2.0684853"  n="Sculpture" t="tourism" st="artwork"/>
+<node id="2373580741" lat="52.4722542" lon="-2.0693718"  n="Sculpture" t="tourism" st="artwork"/>
+<node id="2375749808" lat="52.3959785" lon="-1.981139"  n="Longbridge Interchange: the Genie of Industry" t="tourism" st="artwork"/>
+<node id="2377747002" lat="52.4592627" lon="-1.8716697"  n="Centro Sparkbrook Interchange:Mirror Image" t="tourism" st="artwork"/>
+<node id="2381378153" lat="52.4690139" lon="-1.8569675"  n="Centro Small Heath Interchange: Pomegranate Dress" t="tourism" st="artwork"/>
+<node id="2386677536" lat="52.47231" lon="-1.9687531"  n="Centro Bearwood Interchange: Voyage" t="tourism" st="artwork"/>
+<node id="2386677537" lat="52.415786" lon="-1.93094"  n="Centro Cotteridge Interchange: Feathers of freedom" t="tourism" st="artwork"/>
+<node id="2387721293" lat="52.4304613" lon="-1.9359174"  n="George Cadbury" t="tourism" st="artwork"/>
+<node id="2388308996" lat="52.4511832" lon="-1.7825325"  n="Centro Sheldon Interchange: The Wheatsheaf" t="tourism" st="artwork"/>
+<node id="2392851982" lat="52.4987044" lon="-1.895004"  n="Centro Aston Newtown Interchange:Mondobongo" t="tourism" st="artwork"/>
+<node id="2393190995" lat="52.4909158" lon="-1.9046342"  n="Thomas Rickman&#39;s Tomb" t="tourism" st="artwork"/>
+<node id="2394964179" lat="52.4919144" lon="-1.8592336"  n="Centro Saltley Interchange: Circular Dance" t="tourism" st="artwork"/>
+<node id="2394975545" lat="52.4764402" lon="-1.8564453"  n="Centro Bordesley Green Interchange: Juggernaut" t="tourism" st="artwork"/>
+<node id="2405737774" lat="52.408054" lon="-1.9660858"  n="Centro Northfield Station Interchange:All Seasons Tree" t="tourism" st="artwork"/>
+<node id="2409814558" lat="52.4814328" lon="-1.7361524"  n="Ceolmund" t="tourism" st="artwork"/>
+<node id="2412194709" lat="52.5055573" lon="-1.9661123"  n="Centro the Hawthorns Interchange: Aspire" t="tourism" st="artwork"/>
+<node id="2413264438" lat="52.496052" lon="-1.9158452"  n="Centro Hockley Circus Interchange: Coinstack – a monument to the bus fare" t="tourism" st="artwork"/>
+<node id="2413264439" lat="52.4851362" lon="-1.9202148"  n="Centro Ladywood Interchange: The Galloping Courier" t="tourism" st="artwork"/>
+<node id="2416088185" lat="52.4793525" lon="-1.907028"  n="Navy" t="tourism" st="artwork"/>
+<node id="2416088188" lat="52.4793909" lon="-1.907191"  n="Air Force" t="tourism" st="artwork"/>
+<node id="2416088191" lat="52.4794493" lon="-1.9069649"  n="Army" t="tourism" st="artwork"/>
+<node id="2416088195" lat="52.4794941" lon="-1.9071134"  n="Women&#39;s Services" t="tourism" st="artwork"/>
+<node id="2418858624" lat="52.5090663" lon="-2.0113536"  n="Centro Sandwell &#38; Dudley Interchange: Peacock" t="tourism" st="artwork"/>
+<node id="2429252721" lat="52.5060988" lon="-1.9620459"  n="ornamental gates" t="tourism" st="artwork"/>
+<node id="2448225665" lat="52.5055286" lon="-1.7910838"  n="Castle Bromwich Hall Hotel" t="tourism" st="hotel"/>
+<node id="2451805945" lat="52.4792359" lon="-1.9138514"  n="Old Turn Junction" t="tourism" st="information"/>
+<node id="2459610934" lat="52.4904663" lon="-1.8880199"  n="Aston Junction" t="tourism" st="information"/>
+<node id="2459610937" lat="52.482388" lon="-1.9349271"  n="Edgbaston Reservoir" t="tourism" st="information"/>
+<node id="2459610942" lat="52.4811338" lon="-1.9110461"  n="Locks and How They Work" t="tourism" st="information"/>
+<node id="2459706238" lat="52.4829582" lon="-1.9048308"  n="The Jewellery Quarter" t="tourism" st="artwork"/>
+<node id="2459837376" lat="52.4345888" lon="-1.8551073"  n="Sarehole Mill" t="tourism" st="information"/>
+<node id="2459837381" lat="52.4345854" lon="-1.8550742"  n="The Millstream Way" t="tourism" st="information"/>
+<node id="2460819489" lat="52.48117" lon="-1.8996466"  n="Lunar Society" t="tourism" st="artwork"/>
+<node id="2461330362" lat="52.4862175" lon="-1.8887063"  n="Aston Business School Conference Centre and Hotel" t="tourism" st="hotel"/>
+<node id="2465064502" lat="52.4790033" lon="-1.9096155"  n="Birdlife" t="tourism" st="artwork"/>
+<node id="2467643931" lat="52.463388" lon="-1.8716301"  n="Home Park" t="tourism" st="artwork"/>
+<node id="2480366571" lat="52.5037503" lon="-1.9373037"  n="Handsworth Centro Interchange: Tulip Tree" t="tourism" st="artwork"/>
+<node id="2487861993" lat="52.5174981" lon="-2.0875538"  n="The Return of Dorothy Round" t="tourism" st="artwork"/>
+<node id="2492700114" lat="52.4505452" lon="-1.8647107"  n="West Midlands Police Museum" t="tourism" st="museum"/>
+<node id="2493161147" lat="52.5031759" lon="-2.0151633"  n="Sandwell Community Information &#38; Participation Sevice Ltd." t="tourism" st="information"/>
+<node id="2495096234" lat="52.4798079" lon="-1.9024545"  n="&#39;The Floozie in the Jacuzzi&#39;" t="tourism" st="artwork"/>
+<node id="2499952738" lat="52.4960318" lon="-1.9037582"  n="Lucas&#39; Lion, Wheel, and Flambear" t="tourism" st="artwork"/>
+<node id="2501118657" lat="52.5524102" lon="-1.9081946"  n="Moonstones: Josiah Wedgwood" t="tourism" st="artwork"/>
+<node id="2501118658" lat="52.5525526" lon="-1.9094272"  n="Moonstones:William Withering" t="tourism" st="artwork"/>
+<node id="2501118659" lat="52.5526038" lon="-1.9091725"  n="Moonstones:Joseph Priestley" t="tourism" st="artwork"/>
+<node id="2501118660" lat="52.5526381" lon="-1.9090521"  n="Moonstones:James Watt" t="tourism" st="artwork"/>
+<node id="2501118661" lat="52.5526556" lon="-1.9089264"  n="Moonstones: Matthew Boulton" t="tourism" st="artwork"/>
+<node id="2501118662" lat="52.5524671" lon="-1.9082817"  n="MoonstonesL Erasmus Darwin" t="tourism" st="artwork"/>
+<node id="2501118663" lat="52.5526145" lon="-1.9085335"  n="Moonstones: William Murdoch" t="tourism" st="artwork"/>
+<node id="2501118664" lat="52.5525513" lon="-1.9083469"  n="Moonstones: Samuel Galton" t="tourism" st="artwork"/>
+<node id="2501127353" lat="52.552596" lon="-1.9092685"  n="Moonstones: James Keir" t="tourism" st="artwork"/>
+<node id="2501738196" lat="52.5025704" lon="-2.1049129"  n="Pegasus" t="tourism" st="artwork"/>
+<node id="2501744164" lat="52.5004385" lon="-2.0909883"  n="Bronze heroic worker" t="tourism" st="artwork"/>
+<node id="2501744165" lat="52.4999985" lon="-2.090586"  n="Fire Tower" t="tourism" st="artwork"/>
+<node id="2501752684" lat="52.5114567" lon="-2.0743593"  n="Living Fossil" t="tourism" st="artwork"/>
+<node id="2501794647" lat="52.5758613" lon="-2.1357985"  n="The Lone Rider" t="tourism" st="artwork"/>
+<node id="2502083294" lat="52.5789286" lon="-2.1277422"  n="John McKenna; Steve Field" t="tourism" st="artwork"/>
+<node id="2502341718" lat="52.3779249" lon="-1.5606705"  n="Bernard Schottlander" t="tourism" st="artwork"/>
+<node id="2509426090" lat="52.4767117" lon="-1.9135138"  n="SACO Birmingham Serviced Apartments" t="tourism" st="hotel"/>
+<node id="2515274500" lat="52.5042188" lon="-2.0097379"  n="Premier Inn" t="tourism" st="motel"/>
+<node id="2521041823" lat="52.479772" lon="-1.9033737"  n="Imperial Measure" t="tourism" st="artwork"/>
+<node id="2526028786" lat="52.4787068" lon="-1.8978356"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="2537022860" lat="52.5804297" lon="-2.128408"  n="Sunbeam Car Panel" t="tourism" st="artwork"/>
+<node id="2537090401" lat="52.5804791" lon="-2.1282004"  n="Sunbeam Car Panel" t="tourism" st="artwork"/>
+<node id="2537090402" lat="52.5804948" lon="-2.1279713"  n="Sunbeam Car Panel" t="tourism" st="artwork"/>
+<node id="2577027874" lat="52.4511925" lon="-1.938503"  n="Metchley Roman Fort" t="tourism" st="information"/>
+<node id="2577027875" lat="52.4513527" lon="-1.9387038"  n="Metchley Roman Fort" t="tourism" st="information"/>
+<node id="2577027876" lat="52.4513819" lon="-1.9385269"  n="Metchley Roman Fort" t="tourism" st="information"/>
+<node id="2577027877" lat="52.4514314" lon="-1.9403338"  n="Metchley Roman Fort" t="tourism" st="information"/>
+<node id="2577027878" lat="52.4515332" lon="-1.9411991"  n="To the Future" t="tourism" st="artwork"/>
+<node id="2587329562" lat="52.4755035" lon="-1.9044067"  n="Interstate Europe" t="tourism" st="hotel"/>
+<node id="2587329577" lat="52.4755124" lon="-1.9043734"  n="The Spires" t="tourism" st="hotel"/>
+<node id="2591702143" lat="52.4830206" lon="-1.9062797"  n="Birmingham Convention Quarter" t="tourism" st="information"/>
+<node id="2591702146" lat="52.4826293" lon="-1.9071261"  n="Hidden Waterways" t="tourism" st="information"/>
+<node id="2606265061" lat="52.4733499" lon="-1.8960468"  n="Rhinoceros" t="tourism" st="artwork"/>
+<node id="2614808500" lat="52.3953335" lon="-1.9847099"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="2617383861" lat="52.544549" lon="-1.9310678"  n="Centro Scott Arms Interchange: Beeav Beacon" t="tourism" st="artwork"/>
+<node id="2621723242" lat="52.4805562" lon="-1.8959886"  n="Staybridge Suites" t="tourism" st="hotel"/>
+<node id="2629999920" lat="52.474801" lon="-1.8841999"  n="Blue Plaque: Alfred Bird" t="tourism" st="artwork"/>
+<node id="2631075793" lat="52.639161" lon="-1.9535933"  n="Pit Mound" t="tourism" st="viewpoint"/>
+<node id="2631249380" lat="52.5842318" lon="-1.9822292"  n="Sister Dora" t="tourism" st="artwork"/>
+<node id="2688715861" lat="52.4198663" lon="-1.5066129"  n="1St Choice Mortgages" t="tourism" st="information"/>
+<node id="2688750302" lat="52.4246132" lon="-1.5021229"  n="Esol For Citizenship" t="tourism" st="information"/>
+<node id="2688767286" lat="52.4259445" lon="-1.5015596"  n="Arobo Business Centre" t="tourism" st="information"/>
+<node id="2689843355" lat="52.4267729" lon="-1.4973462"  n="All Nations Centre" t="tourism" st="information"/>
+<node id="2689848446" lat="52.4270705" lon="-1.494825"  n="Broad Street Young Peoples Centre" t="tourism" st="information"/>
+<node id="2689852362" lat="52.4268808" lon="-1.4991701"  n="Momentum Care" t="tourism" st="information"/>
+<node id="2689854780" lat="52.426413" lon="-1.5011818"  n="Joshi Estates" t="tourism" st="information"/>
+<node id="2689872676" lat="52.4275579" lon="-1.4999909"  n="Kang Forex" t="tourism" st="information"/>
+<node id="2692854222" lat="52.4281467" lon="-1.4995617"  n="Wilf Gilbert Betting Shop" t="tourism" st="information"/>
+<node id="2692862296" lat="52.4283724" lon="-1.4993472"  n="21st Century Estate Agent And Travel Agent" t="tourism" st="information"/>
+<node id="2692896940" lat="52.4291278" lon="-1.4989663"  n="On The Move Associates" t="tourism" st="information"/>
+<node id="2692924234" lat="52.4287944" lon="-1.4990199"  n="Midland Heart" t="tourism" st="information"/>
+<node id="2692931386" lat="52.429213" lon="-1.4987142"  n="Skyline Travel" t="tourism" st="information"/>
+<node id="2692937852" lat="52.4291507" lon="-1.4980007"  n="R Pan And Co" t="tourism" st="information"/>
+<node id="2692940316" lat="52.4294518" lon="-1.4985318"  n="Lexton Law Solicitors" t="tourism" st="information"/>
+<node id="2692954843" lat="52.4296414" lon="-1.4983869"  n="MP Legal Services" t="tourism" st="information"/>
+<node id="2692955335" lat="52.4297069" lon="-1.4983333"  n="Eagle Travel" t="tourism" st="information"/>
+<node id="2693032473" lat="52.430734" lon="-1.4975984"  n="The Law Partnership Solicitors" t="tourism" st="information"/>
+<node id="2693032527" lat="52.43094" lon="-1.4974213"  n="Foleshill Childrens Centre" t="tourism" st="information"/>
+<node id="2693044352" lat="52.4321044" lon="-1.4968581"  n="Accountability" t="tourism" st="information"/>
+<node id="2693065089" lat="52.4329743" lon="-1.4960615"  n="Niche" t="tourism" st="information"/>
+<node id="2714636541" lat="52.4830798" lon="-1.898202"  n="Snow Hill Mural" t="tourism" st="artwork"/>
+<node id="2727467888" lat="52.4556321" lon="-2.0362077"  n="Memorial Orchard" t="tourism" st="attraction"/>
+<node id="2740368965" lat="52.4830453" lon="-1.8980052"  n="Snow Hill Mural" t="tourism" st="artwork"/>
+<node id="2743348696" lat="52.4842598" lon="-1.8936379"  n="Keystone Head" t="tourism" st="artwork"/>
+<node id="2751586823" lat="52.4782464" lon="-1.9096582"  n="Inner Spirit" t="tourism" st="artwork"/>
+<node id="2751586824" lat="52.5026751" lon="-1.9005022"  n="Royal Oak" t="tourism" st="artwork"/>
+<node id="2751618643" lat="52.4343076" lon="-2.0046433"  n="Centro Bartley Green Interchange: Talking about the Weather" t="tourism" st="artwork"/>
+<node id="2766596726" lat="52.4905712" lon="-1.8859096"  n="White Curl" t="tourism" st="artwork"/>
+<node id="2769877420" lat="52.4750826" lon="-1.8833333"  n="Crushed Cars" t="tourism" st="artwork"/>
+<node id="2769877425" lat="52.47514" lon="-1.8832646"  n="Crushed Cars" t="tourism" st="artwork"/>
+<node id="2769886568" lat="52.4756231" lon="-1.8834531"  n="Octopus" t="tourism" st="artwork"/>
+<node id="2813743267" lat="52.5278955" lon="-1.8397598"  n="Insect and Celtic Cross" t="tourism" st="artwork"/>
+<node id="2825691132" lat="52.5831591" lon="-1.9784181"  n="Hole in the Wall" t="tourism" st="artwork"/>
+<node id="2825691133" lat="52.5830478" lon="-1.9792229"  n="Market Cross" t="tourism" st="artwork"/>
+<node id="2830817305" lat="52.4564915" lon="-2.1425842"  n="Stourbridge Glassblower" t="tourism" st="artwork"/>
+<node id="2846361438" lat="52.4832789" lon="-1.899042"  n="The Station Cat" t="tourism" st="artwork"/>
+<node id="2883971226" lat="52.4737123" lon="-1.9850331"  n="Drinking Fountain" t="tourism" st="artwork"/>
+<node id="2884007586" lat="52.5112693" lon="-2.0845463"  n="Barometer" t="tourism" st="artwork"/>
+<node id="2884012798" lat="52.4721164" lon="-1.9706427"  n="Drinking Fountain" t="tourism" st="artwork"/>
+<node id="2889361658" lat="52.5259019" lon="-2.0603384"  n="Drinking Fountain Canopy" t="tourism" st="artwork"/>
+<node id="2889361670" lat="52.5265805" lon="-2.0725974"  n="Phoenix House" t="tourism" st="artwork"/>
+<node id="2911264877" lat="52.4423514" lon="-1.7714687"  n="Totem Pole" t="tourism" st="artwork"/>
+<node id="2921560448" lat="52.4781811" lon="-1.9100668"  n="Broad Street Walk of Stars - Bev Bevan" t="tourism" st="artwork"/>
+<node id="2921560449" lat="52.478463" lon="-1.9087818"  n="Broad Street Walk of Stars - Beverley Knight" t="tourism" st="artwork"/>
+<node id="2921560450" lat="52.4785012" lon="-1.9093443"  n="Broad Street Walk of Stars - Birmingham Royal Ballet" t="tourism" st="artwork"/>
+<node id="2921560451" lat="52.4783958" lon="-1.9092361"  n="Broad Street Walk of Stars - Chris Tarrant" t="tourism" st="artwork"/>
+<node id="2921560452" lat="52.4781349" lon="-1.9101923"  n="Broad Street Walk of Stars - David Harewood MBE" t="tourism" st="artwork"/>
+<node id="2921560453" lat="52.4784515" lon="-1.9087829"  n="Broad Street Walk of Stars - Gary Newbon" t="tourism" st="artwork"/>
+<node id="2921560454" lat="52.4783036" lon="-1.9095822"  n="Broad Street Walk of Stars - Joan Armatrading" t="tourism" st="artwork"/>
+<node id="2921560455" lat="52.4784938" lon="-1.9087724"  n="Broad Street Walk of Stars - Lenny Henry" t="tourism" st="artwork"/>
+<node id="2921560456" lat="52.4784726" lon="-1.9087787"  n="Broad Street Walk of Stars - Murray Walker" t="tourism" st="artwork"/>
+<node id="2921560457" lat="52.4780941" lon="-1.9103307"  n="Broad Street Walk of Stars - Nigel Mansell" t="tourism" st="artwork"/>
+<node id="2921560458" lat="52.4782232" lon="-1.9099305"  n="Broad Street Walk of Stars - Norman Painting" t="tourism" st="artwork"/>
+<node id="2921560459" lat="52.4782575" lon="-1.9097726"  n="Broad Street Walk of Stars - The Archers" t="tourism" st="artwork"/>
+<node id="2921560460" lat="52.4784569" lon="-1.9095203"  n="Broad Street Walk of Stars - David Bintley" t="tourism" st="artwork"/>
+<node id="2921560461" lat="52.4784842" lon="-1.9087766"  n="Broad Street Walk of Stars - Ray Graydon Walsall FC" t="tourism" st="artwork"/>
+<node id="2921564525" lat="52.4778668" lon="-1.9109724"  n="Broad Street Walk of Stars - Ozzy Osbourne" t="tourism" st="artwork"/>
+<node id="2921564526" lat="52.478246" lon="-1.9102609"  n="Broad Street Walk of Stars - Roy Wood" t="tourism" st="artwork"/>
+<node id="2921564527" lat="52.4770479" lon="-1.9120159"  n="Broad Street Walk of Stars - Noddy Holder" t="tourism" st="artwork"/>
+<node id="2921564528" lat="52.4772032" lon="-1.911844"  n="Broad Street Walk of Stars - Malkit Singh" t="tourism" st="artwork"/>
+<node id="2921564529" lat="52.4774562" lon="-1.9114947"  n="Broad Street Walk of Stars - Tony Brown WBA" t="tourism" st="artwork"/>
+<node id="2921564530" lat="52.4781226" lon="-1.91053"  n="Broad Street Walk of Stars - Aston Villa Team of &#39;82" t="tourism" st="artwork"/>
+<node id="2921567737" lat="52.4769405" lon="-1.9119087"  n="Broad Street Walk of Stars - Frank Skinner" t="tourism" st="artwork"/>
+<node id="2921567738" lat="52.4769453" lon="-1.9121466"  n="Broad Street Walk of Stars - Gil Merrick BCFC" t="tourism" st="artwork"/>
+<node id="2921585781" lat="52.4754331" lon="-1.9141528"  n="Broad Street Walk of Stars - Jasper Carrott" t="tourism" st="artwork"/>
+<node id="2921585782" lat="52.4784067" lon="-1.9097458"  n="Broad Street Walk of Stars - Tony Iommi" t="tourism" st="artwork"/>
+<node id="2921608709" lat="52.4773759" lon="-1.9107879"  n="untitled" t="tourism" st="artwork"/>
+<node id="2942428343" lat="52.4879648" lon="-1.8885121"  n="Drinking Fountain" t="tourism" st="artwork"/>
+<node id="2946731018" lat="52.5863011" lon="-1.9787942"  n="The E.M. Flint Art Gallery" t="tourism" st="museum"/>
+<node id="2972519064" lat="52.5851769" lon="-2.0498109"  n="Cholera Memorial Inscription" t="tourism" st="artwork"/>
+<node id="2976075396" lat="52.5840118" lon="-2.1352716"  n="Out of the Darkness Cometh Light" t="tourism" st="artwork"/>
+<node id="2976946989" lat="52.5889346" lon="-2.1263345"  n="Gateway" t="tourism" st="artwork"/>
+<node id="2976946990" lat="52.5889355" lon="-2.1266116"  n="Gateway" t="tourism" st="artwork"/>
+<node id="2977405587" lat="52.5329378" lon="-2.0708114"  n="Iron Horse" t="tourism" st="artwork"/>
+<node id="2977420634" lat="52.5108209" lon="-2.0159102"  n="Iron Horse" t="tourism" st="artwork"/>
+<node id="2977431639" lat="52.5179763" lon="-2.0290291"  n="Iron Horse" t="tourism" st="artwork"/>
+<node id="2979726288" lat="52.591146" lon="-2.1305593"  n="Wolves Museum" t="tourism" st="museum"/>
+<node id="2979733560" lat="52.5900996" lon="-2.1318676"  n="Billy Wright" t="tourism" st="artwork"/>
+<node id="2982538574" lat="52.5888134" lon="-2.1199624"  n="Signal Man" t="tourism" st="artwork"/>
+<node id="2989242517" lat="52.4968615" lon="-1.9719362"  n="Iron Horse" t="tourism" st="artwork"/>
+<node id="2993914812" lat="52.5973516" lon="-2.093648"  n="Decorative Railings" t="tourism" st="artwork"/>
+<node id="2996986721" lat="52.591292" lon="-2.1305839"  n="Stan Cullis" t="tourism" st="artwork"/>
+<node id="3005622876" lat="52.5693324" lon="-2.0550624"  n="Bilston Oak" t="tourism" st="artwork"/>
+<node id="3005622877" lat="52.5694327" lon="-2.0541201"  n="Horse and Rider" t="tourism" st="artwork"/>
+<node id="3012285756" lat="52.6021213" lon="-2.1310322"  n="Locomotive wheels" t="tourism" st="artwork"/>
+<node id="3021864853" lat="52.4118962" lon="-1.7802485"  n="Little Flute Player" t="tourism" st="artwork"/>
+<node id="3046094257" lat="52.4859523" lon="-1.9120764"  n="Bits for Spitfires" t="tourism" st="artwork"/>
+<node id="3046094258" lat="52.4853094" lon="-1.9117759"  n="The Hockley Flyer" t="tourism" st="artwork"/>
+<node id="3046094259" lat="52.4856692" lon="-1.9119223"  n="Shrapnell 1940" t="tourism" st="artwork"/>
+<node id="3094228262" lat="52.4835714" lon="-1.8899483"  n="Granite Boulder" t="tourism" st="artwork"/>
+<node id="3100373303" lat="52.4462198" lon="-1.8234616"  n="Whistles" t="tourism" st="artwork"/>
+<node id="3101733968" lat="52.4754709" lon="-1.8834872"  n="High Rise" t="tourism" st="artwork"/>
+<node id="3101733969" lat="52.4756374" lon="-1.8836012"  n="Sateliite Dish Ice Cream Cones" t="tourism" st="artwork"/>
+<node id="3101774340" lat="52.474837" lon="-1.8840494"  n="Yellow Gorilla" t="tourism" st="artwork"/>
+<node id="3104230530" lat="52.5152663" lon="-2.0867183"  n="Gothic Gates" t="tourism" st="artwork"/>
+<node id="3104230531" lat="52.5155187" lon="-2.0844458"  n="Stone Carving" t="tourism" st="artwork"/>
+<node id="3104230532" lat="52.5155733" lon="-2.0844468"  n="Stone Carving" t="tourism" st="artwork"/>
+<node id="3105039129" lat="52.5154823" lon="-2.084696"  n="Medieval Tiles - Chancel" t="tourism" st="artwork"/>
+<node id="3105039130" lat="52.5155533" lon="-2.0849482"  n="Medieval Tiles - Chapter House" t="tourism" st="artwork"/>
+<node id="3105039131" lat="52.5155333" lon="-2.0850649"  n="Medieval Tiles - Cloister" t="tourism" st="artwork"/>
+<node id="3105039132" lat="52.5156842" lon="-2.0852683"  n="Medieval Tiles - Kitchen" t="tourism" st="artwork"/>
+<node id="3105039133" lat="52.5154447" lon="-2.0852184"  n="Medieval Tiles - Nave" t="tourism" st="artwork"/>
+<node id="3105039134" lat="52.515404" lon="-2.084699"  n="Medieval Tiles - Sutton Chapel" t="tourism" st="artwork"/>
+<node id="3105039135" lat="52.5154654" lon="-2.0849193"  n="Medieval Tiles - Tower" t="tourism" st="artwork"/>
+<node id="3105039136" lat="52.515384" lon="-2.0849049"  n="Medieval Tiles" t="tourism" st="artwork"/>
+<node id="3105039137" lat="52.5155141" lon="-2.0849272"  n="Medieval Tiles" t="tourism" st="artwork"/>
+<node id="3105039138" lat="52.5155181" lon="-2.0852748"  n="Medieval Tiles" t="tourism" st="artwork"/>
+<node id="3105039139" lat="52.5155796" lon="-2.0852919"  n="Medieval Tiles" t="tourism" st="artwork"/>
+<node id="3105039140" lat="52.5156634" lon="-2.0849862"  n="Medieval Tiles-Dormitory" t="tourism" st="artwork"/>
+<node id="3113283765" lat="52.4491848" lon="-1.9321681"  n="Lapworth Museum of Geology" t="tourism" st="museum"/>
+<node id="3114295197" lat="52.51129" lon="-2.0748035"  n="Hand" t="tourism" st="artwork"/>
+<node id="3144005025" lat="52.4113967" lon="-1.7746504"  n="School Centenary" t="tourism" st="artwork"/>
+<node id="3144005026" lat="52.4113862" lon="-1.7744716"  n="St Alphege" t="tourism" st="artwork"/>
+<node id="3151797275" lat="52.4061496" lon="-1.5129462"  n="William Mitchell" t="tourism" st="artwork"/>
+<node id="3158071506" lat="52.4791125" lon="-1.9081747"  n="A Real Birmingham Family" t="tourism" st="artwork"/>
+<node id="3220349396" lat="52.4568026" lon="-1.9055984"  n="Renn &#38; Thacker" t="tourism" st="artwork"/>
+<node id="3236224061" lat="52.5795245" lon="-2.189262"  n="On a windy day: dandelion" t="tourism" st="artwork"/>
+<node id="3241605842" lat="52.4750724" lon="-1.8812142"  n="Horror in the Streets" t="tourism" st="artwork"/>
+<node id="3241605843" lat="52.4753946" lon="-1.8820331"  n="Mind Control" t="tourism" st="artwork"/>
+<node id="3247963484" lat="52.4766531" lon="-1.9253089"  n="Charles Blondin" t="tourism" st="artwork"/>
+<node id="3413902375" lat="52.4680574" lon="-2.1528513"  n="The Crystal Mile" t="tourism" st="artwork"/>
+<node id="3413902377" lat="52.4407979" lon="-1.8347734"  n="sculpture by John Bridgman" t="tourism" st="artwork"/>
+<node id="3429594830" lat="52.4930186" lon="-1.8729225"  n="Lanchester Car" t="tourism" st="artwork"/>
+<node id="3430068446" lat="52.5187689" lon="-1.9942307"  n="King of the Castle" t="tourism" st="artwork"/>
+<node id="3436003836" lat="52.4725248" lon="-1.9501122"  n="Astoria Hotel" t="tourism" st="hotel"/>
+<node id="3461680670" lat="52.4772789" lon="-1.8933569"  n="A Meteorite lands in Birmingham’s BullRing" t="tourism" st="artwork"/>
+<node id="3470525075" lat="52.4707474" lon="-1.8606437"  n="Islamic Exhibition Experience" t="tourism" st="museum"/>
+<node id="3474099880" lat="52.4505156" lon="-1.9362234"  n="Faraday" t="tourism" st="artwork"/>
+<node id="3474099881" lat="52.4500699" lon="-1.9315265"  n="Heraldic Shields from Mason College" t="tourism" st="artwork"/>
+<node id="3474099882" lat="52.4494981" lon="-1.9334132"  n="The Wrestlers" t="tourism" st="artwork"/>
+<node id="3594292149" lat="52.4816616" lon="-1.906633"  n="Green Chessmen" t="tourism" st="artwork"/>
+<node id="3608459182" lat="52.5717524" lon="-2.1312153"  n="Blue Plaque: Moorfield Works" t="tourism" st="artwork"/>
+<node id="3608459183" lat="52.571054" lon="-2.1308365"  n="Decorative Gates" t="tourism" st="artwork"/>
+<node id="3619687415" lat="52.5726735" lon="-2.1296497"  n="Wolves Cartoon" t="tourism" st="artwork"/>
+<node id="3678840414" lat="52.5032844" lon="-2.0168548"  n="Centro Oldbury Interchange: Furnace" t="tourism" st="artwork"/>
+<node id="3757905387" lat="52.4783612" lon="-1.8994072"  n="Local Travel information" t="tourism" st="information"/>
+<node id="3761655452" lat="52.4772688" lon="-1.8995189"  n="Network Rail" t="tourism" st="information"/>
+<node id="3762879714" lat="52.4895625" lon="-1.8161051"  n="Centro Washwood Heath Interchange: Star Gazer" t="tourism" st="artwork"/>
+<node id="3766045665" lat="52.4791518" lon="-1.9071559"  n="Broad Street Walk of Stars - Laurie Mansfield" t="tourism" st="artwork"/>
+<node id="3766045666" lat="52.479179" lon="-1.9070573"  n="Broad Street Walk of Stars - Matt Croucher GC" t="tourism" st="artwork"/>
+<node id="3766045667" lat="52.4791661" lon="-1.9071074"  n="Broad Street Walk of Stars - Prof Sir Keith Porter" t="tourism" st="artwork"/>
+<node id="3801838077" lat="52.5951957" lon="-2.0827797"  n="Geometric Panels" t="tourism" st="artwork"/>
+<node id="3801838078" lat="52.5956188" lon="-2.0826459"  n="Lock" t="tourism" st="artwork"/>
+<node id="3801838080" lat="52.5986403" lon="-2.0843339"  n="Ron Thompson and Julie Ward (Planet Art)" t="tourism" st="artwork"/>
+<node id="3801838081" lat="52.5988514" lon="-2.0833159"  n="Ron Thompson and Julie Ward (Planet Art)" t="tourism" st="artwork"/>
+<node id="3801838082" lat="52.5981997" lon="-2.0846319"  n="Ron Thompson and Julie Ward (Planet Art)" t="tourism" st="artwork"/>
+<node id="3801838083" lat="52.5985525" lon="-2.0857598"  n="Ron Thompson and Julie Ward (Planet Art)" t="tourism" st="artwork"/>
+<node id="3801838084" lat="52.5981858" lon="-2.0846928"  n="Ron Thompson and Julie Ward (Planet Art)" t="tourism" st="artwork"/>
+<node id="3801838085" lat="52.5953878" lon="-2.0817152"  n="Trellis" t="tourism" st="artwork"/>
+<node id="3801838086" lat="52.5954081" lon="-2.0813319"  n="Trellis" t="tourism" st="artwork"/>
+<node id="3927322291" lat="52.5897234" lon="-2.140431"  n="Block of Felsite" t="tourism" st="artwork"/>
+<node id="3927363768" lat="52.5868264" lon="-2.1277757"  n="The Bargain Stone" t="tourism" st="artwork"/>
+<node id="4047986693" lat="52.478218" lon="-1.8930052"  n="James O&#39;Hanlon" t="tourism" st="artwork"/>
+<node id="4076702709" lat="52.5876138" lon="-2.1260253"  n="Staffordshire Regiment Insignia" t="tourism" st="artwork"/>
+<node id="4105137088" lat="52.4513234" lon="-1.9405639"  n="Uli Nimptsch" t="tourism" st="artwork"/>
+<node id="4203933489" lat="52.5214056" lon="-2.093741"  n="Murchison&#39;s View" t="tourism" st="viewpoint"/>
+<node id="4203981404" lat="52.5514571" lon="-2.1200743"  n="Black Country Geosite 8: Sedgley Beacon And Beacon Hill Quarries" t="tourism" st="information"/>
+<node id="4204949815" lat="52.472886" lon="-1.9174428"  n="Trewin Copplestone" t="tourism" st="artwork (covered during building renovation 2015)"/>
+<node id="4205447890" lat="52.5274276" lon="-2.0958102"  n="Black Country Geosite 9: Wren&#39;s Nest National Nature Reserve" t="tourism" st="information"/>
+<node id="4205447891" lat="52.5259491" lon="-2.0962205"  n="Time Periscope" t="tourism" st="artwork"/>
+<node id="16960853" lat="51.4099116" lon="-0.3361791"  n="Diana Fountain" t="tourism" st="artwork"/>
+<node id="19085022" lat="51.6696524" lon="-0.0682804"  n="Forty Hall Museum" t="tourism" st="museum"/>
+<node id="21632322" lat="51.3821745" lon="-0.1560632"  n="BedZED" t="tourism" st="attraction"/>
+<node id="25507019" lat="51.5050612" lon="-0.1249613"  n="The Gurkha Soldier" t="tourism" st="artwork"/>
+<node id="25524252" lat="51.4983179" lon="-0.1360484"  n="Blewcoat School" t="tourism" st="attraction"/>
+<node id="25607231" lat="51.506273" lon="-0.1317571"  n="Frederick, Duke of York" t="tourism" st="artwork"/>
+<node id="25831022" lat="51.5400398" lon="-0.143193"  n="Camden / Buck Street Market" t="tourism" st="attraction"/>
+<node id="25947730" lat="51.4975442" lon="-0.4558534"  n="Novotel" t="tourism" st="hotel"/>
+<node id="26197001" lat="51.4994407" lon="-0.4542096"  n="Crowne Plaza" t="tourism" st="hotel"/>
+<node id="26915020" lat="51.4988226" lon="-0.1376005"  n="Crowne Plaza London - St. James" t="tourism" st="hotel"/>
+<node id="26915114" lat="51.5065936" lon="-0.0734841"  n="The Tower Hotel" t="tourism" st="hotel"/>
+<node id="27084532" lat="51.505623" lon="-0.0227798"  n="Gate and railings" t="tourism" st="artwork"/>
+<node id="27408513" lat="51.5108862" lon="-0.307107"  n="Pitzhanger Manor House and Gallery" t="tourism" st="museum"/>
+<node id="29269886" lat="51.5228224" lon="-0.1547768"  n="Madame Tussauds" t="tourism" st="museum"/>
+<node id="29372721" lat="51.4170299" lon="0.0372264"  n="Sundridge Park hotel and conference Ctr" t="tourism" st="hotel"/>
+<node id="31314241" lat="51.5146111" lon="-0.1566998"  n="DoubleTree by Hilton Hotel London - Marble Arch" t="tourism" st="hotel"/>
+<node id="31452361" lat="51.4697472" lon="-0.0700773"  n="The Sassoon Gallery" t="tourism" st="gallery"/>
+<node id="35131367" lat="51.4880339" lon="0.1730956"  n="Green Chain" t="tourism" st="information"/>
+<node id="37124475" lat="51.36511" lon="-0.1668055"  n="Carshalton Water Tower" t="tourism" st="museum"/>
+<node id="47801969" lat="51.525688" lon="-0.077428"  n="Ace Hotel London Shoreditch" t="tourism" st="hotel"/>
+<node id="52716195" lat="51.5578921" lon="0.2450981"  n="Upminster Windmill" t="tourism" st="attraction"/>
+<node id="59931333" lat="51.4919364" lon="-0.1419446"  n="easyHotel Victoria" t="tourism" st="hotel"/>
+<node id="60240570" lat="51.5944531" lon="-0.1291317"  n="Alexandra Palace transmitter" t="tourism" st="Alexandra Palace"/>
+<node id="60882162" lat="51.478214" lon="-0.3733906"  n="The Master Robert" t="tourism" st="hotel"/>
+<node id="90386296" lat="51.4872647" lon="-0.3832483"  n="Thorncliffe Hotel" t="tourism" st="hotel"/>
+<node id="130157092" lat="51.4177105" lon="-0.1790682"  n="Holiday Inn Express" t="tourism" st="hotel"/>
+<node id="130223583" lat="51.4139796" lon="-0.1801989"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="169349332" lat="51.4988893" lon="-0.1343829"  n="Jolly Hotel St. Ermins" t="tourism" st="hotel"/>
+<node id="207183384" lat="51.4773583" lon="-0.3026928"  n="Mount Pleasant" t="tourism" st="viewpoint"/>
+<node id="207284862" lat="51.4802678" lon="-0.2900247"  n="Temple of Aeolus" t="tourism" st="viewpoint"/>
+<node id="213627484" lat="51.5943327" lon="-0.3548284"  n="Headstone Manor" t="tourism" st="museum"/>
+<node id="224091494" lat="51.4685494" lon="0.0098552"  n="The Clarendon" t="tourism" st="hotel"/>
+<node id="243769867" lat="51.4775927" lon="-0.0102912"  n="The Greenwich Gallery" t="tourism" st="gallery"/>
+<node id="244065165" lat="51.4015924" lon="-0.3008193"  n="The Antoinette" t="tourism" st="hotel"/>
+<node id="248617998" lat="51.5010897" lon="-0.0404578"  n="Stave Hill" t="tourism" st="viewpoint"/>
+<node id="249471729" lat="51.5196707" lon="-0.0804526"  n="Broadgate Venus" t="tourism" st="artwork"/>
+<node id="249513555" lat="51.4744324" lon="-0.2925382"  n="Mariane North Gallery" t="tourism" st="museum"/>
+<node id="252602371" lat="51.5063397" lon="-0.0883162"  n="London Bridge Experience" t="tourism" st="attraction"/>
+<node id="254025974" lat="51.5297557" lon="-0.1224147"  n="Crestfield Hotel" t="tourism" st="hotel"/>
+<node id="254025975" lat="51.5302618" lon="-0.1229357"  n="Kings Cross Inn Hotel" t="tourism" st="hotel"/>
+<node id="255282628" lat="51.4944034" lon="-0.1417547"  n="Victoria Park Plaza" t="tourism" st="hotel"/>
+<node id="255467667" lat="51.5086225" lon="-0.1759282"  n="Peter Pan Statue" t="tourism" st="attraction"/>
+<node id="255550893" lat="51.5067108" lon="-0.1783253"  n="Physical Energy" t="tourism" st="artwork"/>
+<node id="261633241" lat="51.3617505" lon="-0.1966293"  n="Holiday Inn" t="tourism" st="hotel"/>
+<node id="261700004" lat="51.4736073" lon="-0.1155806"  n="The Type Museum" t="tourism" st="museum"/>
+<node id="263506131" lat="51.492744" lon="-0.2508727"  n="Chiswick Hotel" t="tourism" st="hotel"/>
+<node id="264136836" lat="51.5588574" lon="0.042432"  n="Courtney Hotel" t="tourism" st="hotel"/>
+<node id="266749891" lat="51.3647626" lon="-0.2350237"  n="Nonsuch Park Hotel" t="tourism" st="hotel"/>
+<node id="266843474" lat="51.5020079" lon="-0.1195889"  n="London Aquarium" t="tourism" st="attraction"/>
+<node id="268039103" lat="51.596843" lon="-0.1951207"  n="Stephens Collection" t="tourism" st="museum"/>
+<node id="268988407" lat="51.489006" lon="-0.3667031"  n="The Ramblers" t="tourism" st="artwork"/>
+<node id="269138169" lat="51.5361775" lon="0.0075822"  n="The King&#39;s Head (now a hotel)" t="tourism" st="hotel"/>
+<node id="269139632" lat="51.3568421" lon="-0.1832416"  n="Albion Hotel" t="tourism" st="hotel"/>
+<node id="269236138" lat="51.3553025" lon="-0.1706494"  n="Little Holland House" t="tourism" st="attraction"/>
+<node id="270187353" lat="51.4509183" lon="-0.2995425"  n="The Petersham Hotel" t="tourism" st="hotel"/>
+<node id="270420470" lat="51.5044583" lon="-0.0331578"  n="DoubleTree by Hilton Hotel London - Docklands Riverside" t="tourism" st="hotel"/>
+<node id="270420473" lat="51.506231" lon="-0.0372858"  n="Pumphouse Educational Museum" t="tourism" st="museum"/>
+<node id="271811859" lat="51.5321106" lon="-0.1094659"  n="DoubleTree by Hilton Hotel London - Islington" t="tourism" st="hotel"/>
+<node id="271812284" lat="51.5198739" lon="-0.1432064"  n="Astor Court" t="tourism" st="hotel"/>
+<node id="273210322" lat="51.490333" lon="-0.138557"  n="Sidney Hotel" t="tourism" st="hotel"/>
+<node id="274343593" lat="51.5118489" lon="-0.0111672"  n="George IV" t="tourism" st="hotel"/>
+<node id="274870175" lat="51.526491" lon="0.1937294"  n="Odd sculpture" t="tourism" st="artwork"/>
+<node id="275399020" lat="51.49055" lon="-0.138318"  n="Huttons Hotel" t="tourism" st="hotel"/>
+<node id="276070664" lat="51.490678" lon="-0.138529"  n="Victor Hotel" t="tourism" st="hotel"/>
+<node id="276070737" lat="51.490747" lon="-0.138673"  n="Luna Simone Hotel" t="tourism" st="hotel"/>
+<node id="276070789" lat="51.490787" lon="-0.138809"  n="Lidos Hotel" t="tourism" st="hotel"/>
+<node id="276070998" lat="51.4908254" lon="-0.1388947"  n="Pimlico Inn" t="tourism" st="hotel"/>
+<node id="276316309" lat="51.6032893" lon="0.0108502"  n="The County Hotel" t="tourism" st="hotel"/>
+<node id="276757177" lat="51.4925292" lon="-0.1453529"  n="Ivy House Hotel" t="tourism" st="hotel"/>
+<node id="276757352" lat="51.4924811" lon="-0.145413"  n="Holly House Hotel" t="tourism" st="hotel"/>
+<node id="276757512" lat="51.492246" lon="-0.1457306"  n="Cedar Guest House" t="tourism" st="hotel"/>
+<node id="276757538" lat="51.4921926" lon="-0.1457907"  n="Alexandar House Hotel" t="tourism" st="hotel"/>
+<node id="276758018" lat="51.4919628" lon="-0.146031"  n="Comfort Inn" t="tourism" st="hotel"/>
+<node id="276758179" lat="51.4930476" lon="-0.1443144"  n="Comfort Inn Victoria" t="tourism" st="hotel"/>
+<node id="276758495" lat="51.4921231" lon="-0.145825"  n="Annexe Hotel" t="tourism" st="hotel"/>
+<node id="276759615" lat="51.491831" lon="-0.1417585"  n="Dover Hotel" t="tourism" st="hotel"/>
+<node id="276759626" lat="51.4918652" lon="-0.1418351"  n="Calvados Hotel" t="tourism" st="hotel"/>
+<node id="276761159" lat="51.4908678" lon="-0.1389894"  n="Central House Hotel" t="tourism" st="hotel"/>
+<node id="277271786" lat="51.5683173" lon="0.0085275"  n="Hitchcock Mosaics" t="tourism" st="artwork"/>
+<node id="277625421" lat="51.490223" lon="-0.138658"  n="Romanos Hotel" t="tourism" st="hotel"/>
+<node id="277625824" lat="51.4901228" lon="-0.1387816"  n="Melita Hotel" t="tourism" st="hotel"/>
+<node id="281610742" lat="51.4532116" lon="-0.1238363"  n="The Brixton Windmill" t="tourism" st="attraction"/>
+<node id="290868432" lat="51.4948774" lon="0.0706064"  n="Assembly" t="tourism" st="artwork"/>
+<node id="291719605" lat="51.5291745" lon="-0.1369244"  n="Thistle Euston" t="tourism" st="hotel"/>
+<node id="291719656" lat="51.5278716" lon="-0.1354309"  n="IBIS Euston" t="tourism" st="hotel"/>
+<node id="292170428" lat="51.5003049" lon="-0.138227"  n="The Guards Museum" t="tourism" st="museum"/>
+<node id="293221901" lat="51.447849" lon="0.1593837"  n="Hall Place and Gardens" t="tourism" st="attraction"/>
+<node id="293388361" lat="51.5287223" lon="-0.1613809"  n="Boat Hire" t="tourism" st="attraction"/>
+<node id="293390023" lat="51.5389338" lon="-0.1441543"  n="Mecca Bingo" t="tourism" st="attraction"/>
+<node id="294021389" lat="51.4412369" lon="-0.3327409"  n="The Pope&#39;s Grotto" t="tourism" st="hotel"/>
+<node id="295905008" lat="51.4984689" lon="-0.1433358"  n="Rubens Hotel" t="tourism" st="hotel"/>
+<node id="295905024" lat="51.515473" lon="-0.1570192"  n="The Churchill" t="tourism" st="hotel"/>
+<node id="295905061" lat="51.5221338" lon="-0.1640667"  n="Travelodge - London Marylebone" t="tourism" st="hotel"/>
+<node id="295905063" lat="51.5241093" lon="-0.1608709"  n="Four Seasons Hotel" t="tourism" st="hotel"/>
+<node id="296889743" lat="51.5243225" lon="-0.1283055"  n="Hotel Tavistock" t="tourism" st="hotel"/>
+<node id="296889744" lat="51.5207075" lon="-0.1235907"  n="Bedford Hotel" t="tourism" st="hotel"/>
+<node id="296889746" lat="51.520684" lon="-0.1228137"  n="Bloomsbury Park Hotel" t="tourism" st="hotel"/>
+<node id="297827896" lat="51.4956531" lon="-0.1893187"  n="The Park City Kensington" t="tourism" st="hotel"/>
+<node id="298347045" lat="51.526395" lon="-0.129567"  n="County Hotel" t="tourism" st="hotel"/>
+<node id="298347046" lat="51.5276532" lon="-0.1273678"  n="Mabeldon Court Hotel" t="tourism" st="hotel"/>
+<node id="298347047" lat="51.5260651" lon="-0.1261571"  n="Harlingford Hotel" t="tourism" st="hotel"/>
+<node id="300500875" lat="51.5403595" lon="-0.146078"  n="Holiday Inn" t="tourism" st="hotel"/>
+<node id="300954377" lat="51.5128624" lon="-0.1837817"  n="The Blakemore" t="tourism" st="hotel"/>
+<node id="300970900" lat="51.5139304" lon="-0.1841172"  n="Holiday House Hotel" t="tourism" st="hotel"/>
+<node id="302657695" lat="51.451654" lon="-0.2971637"  n="Richmond Hill Hotel" t="tourism" st="hotel"/>
+<node id="302658215" lat="51.4512154" lon="-0.2966916"  n="Richmond Gate Hotel" t="tourism" st="hotel"/>
+<node id="304938549" lat="51.5003912" lon="-0.1772665"  n="Memorial to the Great Exhibition" t="tourism" st="artwork"/>
+<node id="305075319" lat="51.6699396" lon="-0.1572604"  n="West Lodge Hotel" t="tourism" st="hotel"/>
+<node id="306047372" lat="51.5341226" lon="-0.1068017"  n="The Angel" t="tourism" st="artwork"/>
+<node id="306473587" lat="51.5001038" lon="-0.1614634"  n="Capital Hotel" t="tourism" st="hotel"/>
+<node id="306473655" lat="51.5000884" lon="-0.1601195"  n="Millenium Hotel" t="tourism" st="hotel"/>
+<node id="306680347" lat="51.5130744" lon="-0.1003656"  n="36 Carter Lane, London" t="tourism" st="hostel"/>
+<node id="308426149" lat="51.5058129" lon="-0.2226551"  n="Jim&#39;s Guesthouse" t="tourism" st="guest_house"/>
+<node id="308847205" lat="51.5225673" lon="-0.0868331"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="310527489" lat="51.6226807" lon="-0.2356185"  n="Millfield" t="tourism" st="viewpoint"/>
+<node id="317421493" lat="51.3464726" lon="-0.315857"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="319635445" lat="51.5243147" lon="-0.0402976"  n="Knowledge" t="tourism" st="artwork"/>
+<node id="320344531" lat="51.5489644" lon="-0.032624"  n="Mabley Green Boulder" t="tourism" st="attraction"/>
+<node id="321506811" lat="51.5362342" lon="-0.1278621"  n="St Pancras Lock" t="tourism" st="attraction"/>
+<node id="321507036" lat="51.5350528" lon="-0.1297409"  n="Hardy Tree" t="tourism" st="attraction"/>
+<node id="322270218" lat="51.5721717" lon="-0.338153"  n="Old Etonian Hotel" t="tourism" st="motel"/>
+<node id="334631276" lat="51.5233722" lon="-0.1162091"  n="Dickens Museum" t="tourism" st="museum"/>
+<node id="336347265" lat="51.5566742" lon="-0.1081434"  n="Arsenal Museum" t="tourism" st="museum"/>
+<node id="336351665" lat="51.5786747" lon="-0.4272326"  n="Manor Farm Complex" t="tourism" st="museum"/>
+<node id="338799188" lat="51.507557" lon="-0.1146731"  n="London Pride" t="tourism" st="artwork"/>
+<node id="338799189" lat="51.5073149" lon="-0.1152445"  n="Lawrence Olivier As Hamlet" t="tourism" st="artwork"/>
+<node id="339397782" lat="51.5439172" lon="-0.100417"  n="Estorick Collection" t="tourism" st="gallery"/>
+<node id="339857079" lat="51.5705976" lon="-0.0240807"  n="Lea Bridge East" t="tourism" st="hostel"/>
+<node id="340052362" lat="51.5053239" lon="-0.0990338"  n="Mercure London Bridge" t="tourism" st="hotel"/>
+<node id="340053837" lat="51.4945761" lon="-0.1183966"  n="Novotel Waterloo" t="tourism" st="hotel"/>
+<node id="345399488" lat="51.4242639" lon="-0.2292406"  n="Hotel du Vin" t="tourism" st="hotel"/>
+<node id="345405759" lat="51.359454" lon="-0.2074197"  n="Thatched House Hotel" t="tourism" st="hotel"/>
+<node id="345839407" lat="51.5035988" lon="-0.1286233"  n="Earl Mountbatten of Burma" t="tourism" st="artwork"/>
+<node id="345863424" lat="51.5063139" lon="-0.1292748"  n="Captain James Cook" t="tourism" st="artwork"/>
+<node id="345863425" lat="51.5065383" lon="-0.1295323"  n="Royal Marines" t="tourism" st="artwork"/>
+<node id="346430283" lat="51.5083078" lon="-0.124767"  n="Thistle Hotel Charing Cross" t="tourism" st="hotel"/>
+<node id="347084635" lat="51.4997936" lon="-0.1424564"  n="The Queen&#39;s Gallery" t="tourism" st="gallery"/>
+<node id="347151757" lat="51.5013601" lon="-0.1160331"  n="Park Plaza" t="tourism" st="hotel"/>
+<node id="347420319" lat="51.5065905" lon="-0.0896235"  n="Minerva" t="tourism" st="artwork"/>
+<node id="352646239" lat="51.4934236" lon="-0.2058463"  n="Olympia Rooms" t="tourism" st="hotel"/>
+<node id="356778681" lat="51.491409" lon="-0.200338"  n="Beaver Hotel" t="tourism" st="hotel"/>
+<node id="356800880" lat="51.49026" lon="-0.1989118"  n="York House Hotel" t="tourism" st="hotel"/>
+<node id="356833433" lat="51.4930268" lon="-0.1972447"  n="Olave House" t="tourism" st="hostel"/>
+<node id="356846267" lat="51.4934282" lon="-0.1961452"  n="James Hotel" t="tourism" st="hotel"/>
+<node id="356846269" lat="51.4934935" lon="-0.195948"  n="Barmy Badgers Backpackers" t="tourism" st="hostel"/>
+<node id="360016753" lat="51.5519566" lon="0.2826033"  n="Thames Chase Visitor Centre" t="tourism" st="attraction"/>
+<node id="364431460" lat="51.6603702" lon="-0.0981505"  n="Comfort Hotel (closed)" t="tourism" st="hotel"/>
+<node id="366909353" lat="51.5173879" lon="-0.1406166"  n="Gallery for Russian Arts and Design" t="tourism" st="gallery"/>
+<node id="368293880" lat="51.3787091" lon="0.1047038"  n="Bromley Museum" t="tourism" st="museum"/>
+<node id="370092514" lat="51.5851527" lon="-0.1155848"  n="White Lodge Hotel" t="tourism" st="hotel"/>
+<node id="370189735" lat="51.5173407" lon="-0.1304169"  n="London Central YMCA" t="tourism" st="hostel"/>
+<node id="371519726" lat="51.5234859" lon="-0.0723316"  n="Sunday Market" t="tourism" st="attraction"/>
+<node id="375843908" lat="51.5156254" lon="-0.1759924"  n="Hilton London Paddington" t="tourism" st="hotel"/>
+<node id="379422438" lat="51.3907898" lon="-0.2707485"  n="from Tolworth brook to the A3" t="tourism" st="information"/>
+<node id="381106486" lat="51.489325" lon="-0.1276005"  n="Locking Piece" t="tourism" st="artwork"/>
+<node id="387544035" lat="51.3936864" lon="-0.3033492"  n="Bosco Hotel &#38; Lounge" t="tourism" st="hotel"/>
+<node id="389783501" lat="51.4974761" lon="0.0370226"  n="Thames Barrier" t="tourism" st="attraction"/>
+<node id="391020868" lat="51.536948" lon="-0.139655"  n="Camden Inn" t="tourism" st="hostel"/>
+<node id="393523285" lat="51.565907" lon="-0.102124"  n="Queens Hotel" t="tourism" st="hotel"/>
+<node id="393523294" lat="51.5655921" lon="-0.1014279"  n="Gloucester Hotel" t="tourism" st="hotel"/>
+<node id="393523305" lat="51.5636052" lon="-0.0982132"  n="Brownswood Guest House" t="tourism" st="hotel"/>
+<node id="402735697" lat="51.4449229" lon="-0.2947744"  n="King Henry VIII&#39;s Mound" t="tourism" st="viewpoint"/>
+<node id="408561660" lat="51.546004" lon="-0.2189896"  n="Brondesbury Park Hotel" t="tourism" st="hotel"/>
+<node id="409911784" lat="51.4896485" lon="-0.1276931"  n="Jete" t="tourism" st="artwork"/>
+<node id="411115349" lat="51.5517211" lon="-0.2096644"  n="Seafield Lodge" t="tourism" st="hotel"/>
+<node id="411901765" lat="51.5142404" lon="-0.3192305"  n="The Drayton Court Hotel" t="tourism" st="hotel"/>
+<node id="413596123" lat="51.5174483" lon="-0.1304949"  n="St Giles Hotel" t="tourism" st="hotel"/>
+<node id="419006541" lat="51.5179303" lon="-0.1424688"  n="Saint Georges Hotel" t="tourism" st="hotel"/>
+<node id="420752288" lat="51.4063833" lon="0.011684"  n="Bromley Zoo mural" t="tourism" st="artwork"/>
+<node id="421317867" lat="51.5297301" lon="-0.1239797"  n="Megaro Hotel" t="tourism" st="hotel"/>
+<node id="425161475" lat="51.5263468" lon="-0.1134575"  n="Holiday Inn" t="tourism" st="hotel"/>
+<node id="425669383" lat="51.3594247" lon="-0.2171365"  n="Whitehall" t="tourism" st="museum"/>
+<node id="425720622" lat="51.5347478" lon="-0.1220578"  n="Pangolini" t="tourism" st="gallery"/>
+<node id="426919126" lat="51.5357203" lon="-0.1036211"  n="Sir Hugh Myddleton Memorial" t="tourism" st="artwork"/>
+<node id="427931755" lat="51.5293476" lon="-0.1219027"  n="Howard Winchester" t="tourism" st="hotel"/>
+<node id="427931756" lat="51.5292504" lon="-0.1218055"  n="European Hotel" t="tourism" st="hotel"/>
+<node id="427931757" lat="51.5290388" lon="-0.1215913"  n="Hotel Montana" t="tourism" st="hotel"/>
+<node id="427931758" lat="51.5289068" lon="-0.1214553"  n="Elmwood Hotel" t="tourism" st="hotel"/>
+<node id="428964045" lat="51.4908359" lon="-0.1449886"  n="The Grapevine" t="tourism" st="hotel"/>
+<node id="428964046" lat="51.4908589" lon="-0.1448669"  n="Olympic House Hotel" t="tourism" st="hotel"/>
+<node id="429269997" lat="51.5300868" lon="-0.1203379"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="430443306" lat="51.530409" lon="-0.1222049"  n="Carlton Hotel" t="tourism" st="hotel"/>
+<node id="430443724" lat="51.5303289" lon="-0.1221277"  n="Rough Laxe" t="tourism" st="hotel"/>
+<node id="430443834" lat="51.5300565" lon="-0.1218616"  n="Carlisle Hotel" t="tourism" st="hotel"/>
+<node id="430444169" lat="51.529907" lon="-0.1216299"  n="Clifton Hotel" t="tourism" st="hotel"/>
+<node id="430634376" lat="51.4908436" lon="-0.1441643"  n="Elizabeth House" t="tourism" st="hotel"/>
+<node id="430634380" lat="51.4906898" lon="-0.1446095"  n="Bankers Hotel" t="tourism" st="hotel"/>
+<node id="430634396" lat="51.4908062" lon="-0.1440098"  n="Airways Hotel" t="tourism" st="hotel"/>
+<node id="431358138" lat="51.5231059" lon="-0.1269058"  n="Hotel Royal National" t="tourism" st="hotel"/>
+<node id="441294238" lat="51.4863215" lon="0.0959941"  n="Borough Museum" t="tourism" st="museum"/>
+<node id="441948421" lat="51.5073583" lon="-0.115794"  n="South Bank Book Market" t="tourism" st="attraction"/>
+<node id="441958984" lat="51.5132037" lon="-0.0971893"  n="The Young Lovers" t="tourism" st="artwork"/>
+<node id="443449147" lat="51.497878" lon="-0.125909"  n="Knife Edge Two Piece" t="tourism" st="artwork"/>
+<node id="447868805" lat="51.5202064" lon="-0.1240489"  n="Lonsdale Hotel" t="tourism" st="hotel"/>
+<node id="447869129" lat="51.5199748" lon="-0.1237817"  n="The Lancaster" t="tourism" st="hotel"/>
+<node id="448511916" lat="51.4973611" lon="-0.1562075"  n="Sheraton Belgravia" t="tourism" st="hotel"/>
+<node id="452149650" lat="51.5152781" lon="-0.1593618"  n="The Montcalm Hotel Nikko" t="tourism" st="hotel"/>
+<node id="452149684" lat="51.5155213" lon="-0.1605355"  n="Berkeley Court Hotel" t="tourism" st="hotel"/>
+<node id="452149692" lat="51.5154778" lon="-0.160789"  n="The Hadleigh Hotel" t="tourism" st="hotel"/>
+<node id="452149697" lat="51.515442" lon="-0.1610345"  n="Boston Court Hotel" t="tourism" st="hotel"/>
+<node id="452168080" lat="51.51516" lon="-0.161579"  n="Marble Arch Inn" t="tourism" st="hotel"/>
+<node id="452168087" lat="51.5157145" lon="-0.1602317"  n="Glynne Court Hotel" t="tourism" st="hotel"/>
+<node id="452238500" lat="51.5113029" lon="-0.1426186"  n="The Westbury" t="tourism" st="hotel"/>
+<node id="452515785" lat="51.5102009" lon="-0.1336644"  n="Ripley&#39;s Believe it or Not!" t="tourism" st="attraction"/>
+<node id="454538468" lat="51.5059345" lon="-0.1323299"  n="The Royal Society" t="tourism" st="attraction"/>
+<node id="458752777" lat="51.57297" lon="-0.0706834"  n="Kadimah" t="tourism" st="hotel"/>
+<node id="462025238" lat="51.51258" lon="-0.1508695"  n="Marriott" t="tourism" st="hotel"/>
+<node id="467315561" lat="51.4469713" lon="-0.3580968"  n="Premier Inn" t="tourism" st="motel"/>
+<node id="469456581" lat="51.5700523" lon="-0.0963959"  n="Cloudesley House" t="tourism" st="hotel"/>
+<node id="469456582" lat="51.569996" lon="-0.0964787"  n="Redland Hotel" t="tourism" st="hotel"/>
+<node id="469456584" lat="51.5698537" lon="-0.0966468"  n="Kent Hall" t="tourism" st="hotel"/>
+<node id="469456586" lat="51.5669314" lon="-0.1005194"  n="Lanark Hotel" t="tourism" st="hotel"/>
+<node id="469876294" lat="51.4919243" lon="-0.1684868"  n="MyHotel" t="tourism" st="hotel"/>
+<node id="471557241" lat="51.4190902" lon="-0.0628065"  n="Green Chain Walk Finish" t="tourism" st="information"/>
+<node id="472152158" lat="51.5048027" lon="-0.1156513"  n="Topolski Century" t="tourism" st="museum"/>
+<node id="472670121" lat="51.4875177" lon="0.1601727"  n="Green Chain" t="tourism" st="information"/>
+<node id="479736311" lat="51.501709" lon="-0.1188586"  n="London Marriott Hotel County Hall" t="tourism" st="hotel"/>
+<node id="487085612" lat="51.5288722" lon="-0.1589"  n="The Treehouse Gallery" t="tourism" st="attraction"/>
+<node id="489826760" lat="51.5059548" lon="-0.1491165"  n="Park Lane Mews Hotel" t="tourism" st="hotel"/>
+<node id="497232364" lat="51.512657" lon="-0.1476217"  n="Claridges" t="tourism" st="hotel"/>
+<node id="498694200" lat="51.4860223" lon="-0.1719956"  n="Northcote Gallery" t="tourism" st="gallery"/>
+<node id="502278089" lat="51.4950123" lon="-0.1413006"  n="Station Hotel" t="tourism" st="hotel"/>
+<node id="502950179" lat="51.5147246" lon="-0.1325531"  n="Internet Access" t="tourism" st="information"/>
+<node id="503552317" lat="51.5064449" lon="-0.1456241"  n="Hilton London Green Park" t="tourism" st="hotel"/>
+<node id="503553591" lat="51.506367" lon="-0.145224"  n="Flemings Mayfair" t="tourism" st="hotel"/>
+<node id="503554223" lat="51.5071829" lon="-0.1460304"  n="The Washington" t="tourism" st="hotel"/>
+<node id="503561408" lat="51.5019767" lon="-0.1561265"  n="The Berkeley" t="tourism" st="hotel"/>
+<node id="506327773" lat="51.5027478" lon="-0.1159222"  n="London Duck Tours" t="tourism" st="attraction"/>
+<node id="510786764" lat="51.5235257" lon="-0.1329563"  n="Petrie Museum of Egyptian Archeology" t="tourism" st="museum"/>
+<node id="512765226" lat="51.4725645" lon="-0.1043197"  n="Park Map" t="tourism" st="information"/>
+<node id="519952302" lat="51.4974196" lon="0.182368"  n="The Diver" t="tourism" st="artwork"/>
+<node id="522920312" lat="51.5104407" lon="-0.1864167"  n="Royal Bayswater Hostel" t="tourism" st="hostel"/>
+<node id="530625281" lat="51.4551209" lon="-0.3400294"  n="London Marriott Hotel Twickenham" t="tourism" st="hotel"/>
+<node id="535958717" lat="51.5134188" lon="-0.1922516"  n="Pembridge Palace" t="tourism" st="hotel"/>
+<node id="537643396" lat="51.5346973" lon="-0.1550808"  n="Lowland anoa" t="tourism" st="attraction"/>
+<node id="537643627" lat="51.5352637" lon="-0.152026"  n="Hyacinth Macaw" t="tourism" st="attraction"/>
+<node id="537643639" lat="51.5350877" lon="-0.1519628"  n="Military macaw" t="tourism" st="attraction"/>
+<node id="537861749" lat="51.5335715" lon="-0.1518476"  n="Scarlet Ibis" t="tourism" st="attraction"/>
+<node id="537861758" lat="51.5344338" lon="-0.1519514"  n="Golden-headed lion tamarin" t="tourism" st="attraction"/>
+<node id="537861797" lat="51.536439" lon="-0.1547905"  n="Red-ruffed lemur" t="tourism" st="attraction"/>
+<node id="538090933" lat="51.4922912" lon="-0.1216814"  n="Boat skeletons" t="tourism" st="artwork"/>
+<node id="538090934" lat="51.492176" lon="-0.1217192"  n="Boat skeletons" t="tourism" st="artwork"/>
+<node id="538090935" lat="51.4934719" lon="-0.1210993"  n="Copper Boat Prow" t="tourism" st="artwork"/>
+<node id="538839538" lat="51.535011" lon="-0.1553421"  n="African birds" t="tourism" st="attraction"/>
+<node id="540155542" lat="51.5011089" lon="-0.0936329"  n="London City Hotel" t="tourism" st="hotel"/>
+<node id="540335148" lat="51.6591306" lon="-0.1996331"  n="London LOOP" t="tourism" st="information"/>
+<node id="549146398" lat="51.5201714" lon="-0.108254"  n="WW Gallery" t="tourism" st="gallery"/>
+<node id="550378005" lat="51.50387" lon="-0.0652386"  n="Voyager (2001)" t="tourism" st="artwork"/>
+<node id="552965194" lat="51.5360898" lon="-0.1464514"  n="York &#38; Albany" t="tourism" st="hotel"/>
+<node id="560042342" lat="51.4933513" lon="-0.1690087"  n="Michelin House" t="tourism" st="attraction"/>
+<node id="560082139" lat="51.4920004" lon="-0.0313979"  n="Circumsphere" t="tourism" st="artwork"/>
+<node id="564799299" lat="51.4820118" lon="-0.1735255"  n="James McNeal Whistler" t="tourism" st="artwork"/>
+<node id="564811788" lat="51.483244" lon="-0.1678773"  n="F Derwent Wood RA" t="tourism" st="artwork"/>
+<node id="564862644" lat="51.485573" lon="-0.134444"  n="The Helmsman" t="tourism" st="artwork"/>
+<node id="564862647" lat="51.4856623" lon="-0.1333946"  n="William Huskisson" t="tourism" st="artwork"/>
+<node id="564862650" lat="51.4858669" lon="-0.1323326"  n="River Cut Tide" t="tourism" st="artwork"/>
+<node id="564862653" lat="51.4861235" lon="-0.1315086"  n="Tyburn Thames" t="tourism" st="artwork"/>
+<node id="565594680" lat="51.486404" lon="-0.0006793"  n="anchor iron" t="tourism" st="artwork"/>
+<node id="571836758" lat="51.510372" lon="-0.1300878"  n="Shakespeare" t="tourism" st="artwork"/>
+<node id="573261190" lat="51.419268" lon="-0.195162"  n="Antoinette Hotel" t="tourism" st="hotel"/>
+<node id="581143041" lat="51.5819202" lon="-0.1497693"  n="Highgate Wood Information Centre" t="tourism" st="information"/>
+<node id="582750332" lat="51.5321668" lon="-0.1778891"  n="Abbey Road Studios" t="tourism" st="attraction"/>
+<node id="582759004" lat="51.5133527" lon="-0.1910678"  n="Grand Plaza" t="tourism" st="hotel"/>
+<node id="582761965" lat="51.512831" lon="-0.1922981"  n="Bayswater Inn Hotel" t="tourism" st="hotel"/>
+<node id="582761966" lat="51.5127927" lon="-0.1928096"  n="Kensington Court Hotel" t="tourism" st="hotel"/>
+<node id="582764939" lat="51.5133793" lon="-0.1927948"  n="Bayswater Hotel" t="tourism" st="hotel"/>
+<node id="582764940" lat="51.5133264" lon="-0.1931661"  n="Palace Court Hotel" t="tourism" st="hotel"/>
+<node id="582764941" lat="51.5133505" lon="-0.1929039"  n="??" t="tourism" st="hostel"/>
+<node id="582764945" lat="51.5134478" lon="-0.1919679"  n="Reem Hotel" t="tourism" st="hotel"/>
+<node id="582764946" lat="51.513478" lon="-0.1916724"  n="Palace Hotel" t="tourism" st="hotel"/>
+<node id="582764947" lat="51.5132025" lon="-0.1906088"  n="Somerset Kensington Gardens" t="tourism" st="hotel"/>
+<node id="582764952" lat="51.5135904" lon="-0.1894538"  n="Phoenix Hotel" t="tourism" st="hotel"/>
+<node id="582929615" lat="51.5341846" lon="-0.4713535"  n="Lancaster Lodge" t="tourism" st="hotel"/>
+<node id="583337398" lat="51.462726" lon="-0.1995072"  n="Fall" t="tourism" st="artwork"/>
+<node id="583337399" lat="51.4628471" lon="-0.2012846"  n="Pygmalion" t="tourism" st="artwork"/>
+<node id="587775660" lat="51.502517" lon="-0.118403"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="588979898" lat="51.4999959" lon="-0.1144837"  n="Walrus Hostel" t="tourism" st="hostel"/>
+<node id="595305901" lat="51.5075456" lon="-0.1305578"  n="The Original London Visitor Centre" t="tourism" st="information"/>
+<node id="596592105" lat="51.5344736" lon="0.0993936"  n="Eastbury Manor House" t="tourism" st="museum"/>
+<node id="597410867" lat="51.5896952" lon="-0.0119042"  n="Forest YMCA" t="tourism" st="hostel"/>
+<node id="603001046" lat="51.492934" lon="-0.143082"  n="Premier Inn London Victoria" t="tourism" st="hotel"/>
+<node id="603116285" lat="51.514283" lon="-0.127063"  n="Radisson Edwardian" t="tourism" st="hotel"/>
+<node id="603119656" lat="51.514594" lon="-0.127048"  n="Coventry Garden Hotel" t="tourism" st="hotel"/>
+<node id="603119962" lat="51.51481" lon="-0.126725"  n="Seven Dials Hotel" t="tourism" st="hotel"/>
+<node id="603137904" lat="51.510908" lon="-0.120598"  n="Strand Palace Hotel" t="tourism" st="hotel"/>
+<node id="603675753" lat="51.5027238" lon="-0.0247281"  n="Docklands Enterprise" t="tourism" st="artwork"/>
+<node id="608653336" lat="51.5669998" lon="0.0060832"  n="Hitchcock Mural" t="tourism" st="artwork"/>
+<node id="610923990" lat="51.5151181" lon="-0.1973451"  n="Flow" t="tourism" st="gallery"/>
+<node id="619415575" lat="51.5146626" lon="-0.1746174"  n="Rose Court Hotel" t="tourism" st="hotel"/>
+<node id="632550019" lat="51.4107915" lon="-0.3005894"  n="Out of Order" t="tourism" st="artwork"/>
+<node id="632558518" lat="51.4095825" lon="-0.30031"  n="Kingston Museum" t="tourism" st="museum"/>
+<node id="635975585" lat="51.5059746" lon="-0.0867003"  n="London Bridge Experience" t="tourism" st="theme_park"/>
+<node id="639178862" lat="51.509647" lon="-0.130148"  n="Leicester Square Hotel" t="tourism" st="hotel"/>
+<node id="647512850" lat="51.5147591" lon="-0.1648277"  n="Griffin House Hotel" t="tourism" st="hotel"/>
+<node id="648871867" lat="51.4902022" lon="-0.0806461"  n="Premier by Eurotraveller" t="tourism" st="hotel"/>
+<node id="652988118" lat="51.5359862" lon="-0.1395044"  n="St. Christopher&#39;s Inn" t="tourism" st="hostel"/>
+<node id="658958389" lat="51.5534912" lon="-0.0749772"  n="The Rose Hotel" t="tourism" st="hotel"/>
+<node id="659653202" lat="51.5095825" lon="-0.1440814"  n="Hong Kong Tourism Board" t="tourism" st="information"/>
+<node id="661279532" lat="51.517479" lon="-0.137138"  n="Sanderson Hotel" t="tourism" st="hotel"/>
+<node id="662187216" lat="51.5112174" lon="-0.0695488"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="662563893" lat="51.5075464" lon="-0.0271628"  n="Globe" t="tourism" st="artwork"/>
+<node id="664072443" lat="51.5203735" lon="-0.1248357"  n="The Beauchamp" t="tourism" st="hotel"/>
+<node id="665074363" lat="51.5290096" lon="-0.1200706"  n="Clink 261" t="tourism" st="hostel"/>
+<node id="665982792" lat="51.5196094" lon="-0.1239586"  n="The Buckingham" t="tourism" st="hotel"/>
+<node id="665982795" lat="51.5202734" lon="-0.1241296"  n="The Portland" t="tourism" st="hotel"/>
+<node id="665982801" lat="51.5200268" lon="-0.1238417"  n="Pickwick Hall" t="tourism" st="hostel"/>
+<node id="665982803" lat="51.5200069" lon="-0.124404"  n="The Portland" t="tourism" st="hotel"/>
+<node id="665982809" lat="51.5206073" lon="-0.1250999"  n="The Penn Club" t="tourism" st="hotel"/>
+<node id="666205790" lat="51.6447853" lon="-0.0055628"  n="Yardley Hill" t="tourism" st="viewpoint"/>
+<node id="666259096" lat="51.5111809" lon="-0.1853481"  n="Central Park Hotel" t="tourism" st="hotel"/>
+<node id="666262774" lat="51.5112255" lon="-0.1848885"  n="The Apollo" t="tourism" st="hotel"/>
+<node id="666265279" lat="51.5122302" lon="-0.1861629"  n="Smart Hyde Parl Inn Hostel" t="tourism" st="hostel"/>
+<node id="666302122" lat="51.5114692" lon="-0.1849904"  n="Kings Hotel" t="tourism" st="hotel"/>
+<node id="666302496" lat="51.5109672" lon="-0.185273"  n="Park Lodge Hotel" t="tourism" st="hotel"/>
+<node id="666302653" lat="51.5110524" lon="-0.184907"  n="Troy Hotel" t="tourism" st="hotel"/>
+<node id="666744098" lat="51.4995182" lon="-0.0791295"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="672741997" lat="51.4901511" lon="-0.1293639"  n="Chelsea Space" t="tourism" st="museum"/>
+<node id="675734360" lat="51.5120645" lon="-0.0757"  n="The Chamberlain" t="tourism" st="hotel"/>
+<node id="677298825" lat="51.4933492" lon="-0.1499873"  n="Lime Tree Hotel" t="tourism" st="hotel"/>
+<node id="677523027" lat="51.4925642" lon="-0.1450921"  n="Cherry Court Hotel" t="tourism" st="hotel"/>
+<node id="677605909" lat="51.4655591" lon="-0.1023901"  n="Redgate Gallery" t="tourism" st="museum"/>
+<node id="679119297" lat="51.4837475" lon="-0.2585917"  n="Chiswick House" t="tourism" st="museum"/>
+<node id="679119764" lat="51.4828188" lon="-0.2587419"  n="Cascade" t="tourism" st="attraction"/>
+<node id="679122696" lat="51.4843021" lon="-0.2606517"  n="Amphetheatre" t="tourism" st="attraction"/>
+<node id="679246316" lat="51.4853694" lon="-0.2576503"  n="Conservatory" t="tourism" st="attraction"/>
+<node id="687696157" lat="51.4873414" lon="-0.1015527"  n="Journeys Hostel" t="tourism" st="hostel"/>
+<node id="691033121" lat="51.534874" lon="-0.1568989"  n="Emus" t="tourism" st="attraction"/>
+<node id="691033122" lat="51.5350866" lon="-0.1564221"  n="Wallaby" t="tourism" st="attraction"/>
+<node id="692162507" lat="51.5127507" lon="-0.0846424"  n="Club Quarters" t="tourism" st="hotel"/>
+<node id="693137762" lat="51.497801" lon="-0.1835483"  n="Citadines" t="tourism" st="hotel"/>
+<node id="693728457" lat="51.407311" lon="0.0575736"  n="Chislehurst Caves" t="tourism" st="attraction"/>
+<node id="696448272" lat="51.499903" lon="-0.1246034"  n="House of Commons" t="tourism" st="attraction"/>
+<node id="696448275" lat="51.4988068" lon="-0.1248381"  n="House of Lords" t="tourism" st="attraction"/>
+<node id="696554355" lat="51.5220169" lon="-0.1382046"  n="Carr-Saunders Hall" t="tourism" st="hotel"/>
+<node id="696751534" lat="51.5228673" lon="-0.1328214"  n="Grant Museum" t="tourism" st="museum"/>
+<node id="703823062" lat="51.5142703" lon="-0.1727364"  n="Barry House" t="tourism" st="hotel"/>
+<node id="724398596" lat="51.558088" lon="0.075381"  n="Redbridge Museum" t="tourism" st="museum"/>
+<node id="725258685" lat="51.5134999" lon="-0.0889996"  n="Cosmos" t="tourism" st="artwork"/>
+<node id="725258700" lat="51.5134786" lon="-0.088904"  n="Elephant Race Against Time" t="tourism" st="artwork"/>
+<node id="729896066" lat="51.5047391" lon="-0.0791794"  n="Full Stop Courier" t="tourism" st="artwork"/>
+<node id="729896070" lat="51.5046332" lon="-0.0790404"  n="Full Stop Optical" t="tourism" st="artwork"/>
+<node id="729896074" lat="51.5050085" lon="-0.0799228"  n="Full Stop Klang" t="tourism" st="artwork"/>
+<node id="729896081" lat="51.5054483" lon="-0.0796395"  n="Full Stop Slipstream" t="tourism" st="artwork"/>
+<node id="730127796" lat="51.5074899" lon="-0.2040185"  n="Volodymyr - Ruler of Ukraine" t="tourism" st="artwork"/>
+<node id="730777035" lat="51.5090086" lon="-0.1955901"  n="Metal Frame Elephant" t="tourism" st="artwork"/>
+<node id="730777047" lat="51.5148341" lon="-0.195544"  n="Elvis" t="tourism" st="artwork"/>
+<node id="734057156" lat="51.5238169" lon="-0.0865519"  n="Museum of Methodism" t="tourism" st="museum"/>
+<node id="741685700" lat="51.6596512" lon="-0.0878588"  n="Holtwhites Hotel" t="tourism" st="hotel"/>
+<node id="748072092" lat="51.5143484" lon="-0.1004216"  n="Angel&#39;s Wings" t="tourism" st="artwork"/>
+<node id="757459267" lat="51.4546813" lon="-0.1454482"  n="Euro Lodge Clapham" t="tourism" st="hotel"/>
+<node id="765799156" lat="51.5913616" lon="-0.2282466"  n="Church Farm Museum" t="tourism" st="museum"/>
+<node id="771811198" lat="51.4806838" lon="-0.452991"  n="Fly Emirates A380" t="tourism" st="artwork"/>
+<node id="778690379" lat="51.4844417" lon="-0.2599498"  n="Exedra" t="tourism" st="attraction"/>
+<node id="794351100" lat="51.4883729" lon="-0.3878939"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="795788290" lat="51.5105583" lon="-0.0793762"  n="Apex City of London" t="tourism" st="hotel"/>
+<node id="800924567" lat="51.6362825" lon="-0.0015275"  n="Pole Hill" t="tourism" st="viewpoint"/>
+<node id="804399698" lat="51.5700881" lon="-0.1697533"  n="Two Peace Reclining Figure No. 5" t="tourism" st="artwork"/>
+<node id="804399731" lat="51.5707872" lon="-0.1708846"  n="Monolith (Empyrean)" t="tourism" st="artwork"/>
+<node id="826842379" lat="51.4986958" lon="-0.0837471"  n="Think London Bridge" t="tourism" st="hotel"/>
+<node id="842138500" lat="51.4780111" lon="-0.1509278"  n="Single Form" t="tourism" st="artwork"/>
+<node id="847744622" lat="51.5654389" lon="-0.1071761"  n="Information" t="tourism" st="information"/>
+<node id="848082345" lat="51.5685645" lon="-0.1255186"  n="Fairbridge Estate" t="tourism" st="information"/>
+<node id="848082431" lat="51.568832" lon="-0.1250711"  n="Fairbridge Estate" t="tourism" st="information"/>
+<node id="848082592" lat="51.568132" lon="-0.124988"  n="Nyton Close" t="tourism" st="information"/>
+<node id="848082626" lat="51.5708995" lon="-0.1245524"  n="Elthorne Park" t="tourism" st="information"/>
+<node id="848082648" lat="51.5681701" lon="-0.1255082"  n="Byworth Walk" t="tourism" st="information"/>
+<node id="848082763" lat="51.5707517" lon="-0.1268005"  n="Elthorne Park" t="tourism" st="information"/>
+<node id="848082771" lat="51.5712453" lon="-0.1241965"  n="Highcroft Estate" t="tourism" st="information"/>
+<node id="848083026" lat="51.5679111" lon="-0.1245858"  n="Fairbridge Estate" t="tourism" st="information"/>
+<node id="848083118" lat="51.5671649" lon="-0.1274431"  n="Elthorne Estate" t="tourism" st="information"/>
+<node id="848083195" lat="51.5683853" lon="-0.12539"  n="Byworth Walk" t="tourism" st="information"/>
+<node id="848083292" lat="51.5701382" lon="-0.1243981"  n="A brief history of Philip Noel-Baker Peace Garden" t="tourism" st="information"/>
+<node id="848083392" lat="51.5683325" lon="-0.1262139"  n="Elthorne Estate" t="tourism" st="information"/>
+<node id="848083758" lat="51.5688054" lon="-0.1250486"  n="Nyton Close" t="tourism" st="information"/>
+<node id="848250952" lat="51.4931612" lon="-0.1902713"  n="The Nadler Kensington" t="tourism" st="hotel"/>
+<node id="852122520" lat="51.5209547" lon="-0.1560079"  n="Park Plaza Sherlock Holmes" t="tourism" st="hotel"/>
+<node id="862481696" lat="51.4946331" lon="-0.186603"  n="Park International Hotel" t="tourism" st="hotel"/>
+<node id="866712432" lat="51.5515116" lon="-0.2188343"  n="Mapesbury Hotel" t="tourism" st="hotel"/>
+<node id="872531905" lat="51.681674" lon="-0.0949764"  n="Whitewebs Museum of Transport" t="tourism" st="museum"/>
+<node id="874823378" lat="51.520131" lon="-0.125669"  n="The Montague on the Gardens" t="tourism" st="hotel"/>
+<node id="874823403" lat="51.520142" lon="-0.126145"  n="Blooms Town House Hotel" t="tourism" st="hotel"/>
+<node id="874823455" lat="51.519735" lon="-0.125177"  n="Ruskin Hotel" t="tourism" st="hotel"/>
+<node id="883640123" lat="51.4818834" lon="-0.4681394"  n="Arora Hotel" t="tourism" st="hotel"/>
+<node id="885349093" lat="51.6506047" lon="-0.0804028"  n="Dugdale Centre" t="tourism" st="information"/>
+<node id="910356813" lat="51.4790917" lon="-0.0079655"  n="The Fan Museum" t="tourism" st="museum"/>
+<node id="920164970" lat="51.5300637" lon="-0.1212142"  n="Comfort Inn Kings Cross" t="tourism" st="hotel"/>
+<node id="931993053" lat="51.506096" lon="-0.102055"  n="Holiday Inn Express" t="tourism" st="hotel"/>
+<node id="941964914" lat="51.5261461" lon="-0.1268075"  n="Mentone Hotel" t="tourism" st="hotel"/>
+<node id="948642310" lat="51.5212819" lon="-0.1215235"  n="Paul O&#39;Gorman Patient Hotel" t="tourism" st="hotel"/>
+<node id="948866712" lat="51.5241248" lon="-0.1164783"  n="Greenville Hotel" t="tourism" st="hotel"/>
+<node id="948866784" lat="51.5241041" lon="-0.1165553"  n="Guildford" t="tourism" st="hotel"/>
+<node id="972535180" lat="51.5172624" lon="-0.1578274"  n="Wigmore Court Hotel" t="tourism" st="hotel"/>
+<node id="972535698" lat="51.5161" lon="-0.1576643"  n="Radisson Blu Portman" t="tourism" st="hotel"/>
+<node id="977510244" lat="51.5454636" lon="-0.2331443"  n="Artisan" t="tourism" st="museum"/>
+<node id="978732265" lat="51.56899" lon="-0.189281"  n="DJ&#39;s Jungle Adventure Soft Play" t="tourism" st="theme_park"/>
+<node id="999895307" lat="51.5480926" lon="-0.1305281"  n="Corner House Hotel" t="tourism" st="hotel"/>
+<node id="1011636514" lat="51.5143395" lon="-0.1724188"  n="Hyde Park Radnor Hotel" t="tourism" st="hotel"/>
+<node id="1014136494" lat="51.5612582" lon="-0.0438453"  n="Nature&#39;s Throne" t="tourism" st="artwork"/>
+<node id="1029663967" lat="51.5111098" lon="-0.3071394"  n="Art Gallery" t="tourism" st="artwork"/>
+<node id="1043510888" lat="51.5246649" lon="-0.13353"  n="The Octagon Gallery" t="tourism" st="museum"/>
+<node id="1068914588" lat="51.5198344" lon="-0.1242027"  n="The Clarendon" t="tourism" st="hotel"/>
+<node id="1076108687" lat="51.4217955" lon="-0.382359"  n="Hatherop Park" t="tourism" st="information"/>
+<node id="1085919507" lat="51.5094152" lon="-0.3019925"  n="Grange Lodge Hotel" t="tourism" st="guest_house"/>
+<node id="1089914637" lat="51.5228387" lon="-0.1227963"  n="Smart NHS Russell Square Hostel" t="tourism" st="hostel"/>
+<node id="1094643825" lat="51.5923773" lon="0.0311055"  n="cow" t="tourism" st="artwork"/>
+<node id="1096305305" lat="51.5029994" lon="-0.3066919"  n="Ealing Guest House" t="tourism" st="guest_house"/>
+<node id="1109339085" lat="51.5139693" lon="-0.0860502"  n="Threadneedle" t="tourism" st="hotel"/>
+<node id="1109607291" lat="51.5267324" lon="-0.1297521"  n="Ambassadors Bloomsbury" t="tourism" st="hotel"/>
+<node id="1124698444" lat="51.5389323" lon="-0.2083252"  n="Igar Hotel" t="tourism" st="hotel"/>
+<node id="1131051706" lat="51.6351333" lon="-0.1756612"  n="Travelodge London Whetstone" t="tourism" st="hotel"/>
+<node id="1148926499" lat="51.51131" lon="-0.197105"  n="Notting Hill Hotel" t="tourism" st="hotel"/>
+<node id="1148929391" lat="51.510805" lon="-0.196909"  n="Hilltop Hotel" t="tourism" st="hotel"/>
+<node id="1148932540" lat="51.509844" lon="-0.196707"  n="The Abbey Court" t="tourism" st="hotel"/>
+<node id="1149802788" lat="51.4577709" lon="-0.1442608"  n="The Windmill" t="tourism" st="hotel"/>
+<node id="1156568777" lat="51.5206559" lon="-0.1217929"  n="October Gallery" t="tourism" st="gallery"/>
+<node id="1159556760" lat="51.5292897" lon="-0.1167506"  n="Swinton Hotel" t="tourism" st="hotel"/>
+<node id="1159556764" lat="51.5287473" lon="-0.1183234"  n="Arriva Hotel" t="tourism" st="hotel"/>
+<node id="1163955043" lat="51.5146457" lon="-0.0989129"  n="Shepherd and Sheep" t="tourism" st="artwork"/>
+<node id="1163955070" lat="51.5141721" lon="-0.0977065"  n="Saint Paul" t="tourism" st="artwork"/>
+<node id="1196555368" lat="51.5188919" lon="-0.1318793"  n="MyHotel" t="tourism" st="hotel"/>
+<node id="1208927962" lat="51.5094115" lon="-0.098544"  n="Millennium Bridge" t="tourism" st="viewpoint"/>
+<node id="1212520451" lat="51.528422" lon="-0.0510934"  n="Sweet Tea House" t="tourism" st="gallery"/>
+<node id="1216160782" lat="51.523747" lon="-0.1342703"  n="Grant Museum of Zoology" t="tourism" st="museum"/>
+<node id="1231496087" lat="51.5219706" lon="-0.1395353"  n="Rebecca Hossack Art Gallery" t="tourism" st="gallery"/>
+<node id="1244723916" lat="51.536342" lon="-0.004462"  n="Holiday Inn Express - Stratford" t="tourism" st="hotel"/>
+<node id="1264596282" lat="51.5116399" lon="-0.182989"  n="Smart Hyde Park View" t="tourism" st="hostel"/>
+<node id="1267664780" lat="51.4946337" lon="-0.1749691"  n="Pelham Hotel" t="tourism" st="hotel"/>
+<node id="1270513979" lat="51.6074169" lon="0.0416652"  n="Ray Lodge mural" t="tourism" st="artwork"/>
+<node id="1271758923" lat="51.4929221" lon="-0.1597612"  n="Draycott Hotel" t="tourism" st="hotel"/>
+<node id="1277034044" lat="51.4935024" lon="-0.1993708"  n="West Cromwell Hotel" t="tourism" st="hotel"/>
+<node id="1284752989" lat="51.5383199" lon="-0.1158908"  n="Youth Hostel" t="tourism" st="hostel"/>
+<node id="1288877546" lat="51.5021025" lon="-0.0980994"  n="London Fire Brigade Museum" t="tourism" st="museum"/>
+<node id="1289196167" lat="51.505502" lon="-0.0753581"  n="Tower Bridge" t="tourism" st="attraction"/>
+<node id="1289223308" lat="51.4997933" lon="-0.1425109"  n="Queen&#39;s Gallery" t="tourism" st="museum"/>
+<node id="1289587755" lat="51.4940148" lon="-0.188439"  n="Ambassadors Hotel" t="tourism" st="hotel"/>
+<node id="1290648043" lat="51.495687" lon="-0.1419175"  n="Russell Hotel" t="tourism" st="hotel"/>
+<node id="1296248653" lat="51.4250411" lon="-0.1847948"  n="viewing platform" t="tourism" st="viewpoint"/>
+<node id="1304575674" lat="51.4950962" lon="-0.1837631"  n="Crowne Plaza Kensington" t="tourism" st="hotel"/>
+<node id="1304814192" lat="51.5536572" lon="-0.2170543"  n="Iraqi Cultural Gallery" t="tourism" st="gallery"/>
+<node id="1306187479" lat="51.4983281" lon="-0.1279305"  n="Little Dean&#39;s Yard" t="tourism" st="attraction"/>
+<node id="1311716969" lat="51.5571854" lon="-0.1692015"  n="2 Willow Road" t="tourism" st="museum"/>
+<node id="1313370925" lat="51.5290348" lon="-0.1229874"  n="Mcdonald Hotel" t="tourism" st="hotel"/>
+<node id="1314925443" lat="51.4553637" lon="-0.1446562"  n="Euro Hotel Clapham" t="tourism" st="hotel"/>
+<node id="1327234066" lat="51.4969518" lon="-0.1591526"  n="Cadogan Hotel" t="tourism" st="hotel"/>
+<node id="1333615707" lat="51.6258833" lon="0.2375653"  n="Old Macdonald Farm" t="tourism" st="zoo"/>
+<node id="1342092287" lat="51.5123676" lon="-0.1568456"  n="Gallery 32" t="tourism" st="gallery"/>
+<node id="1348369014" lat="51.4800323" lon="-0.4916423"  n="Heathrow Lodge" t="tourism" st="hotel"/>
+<node id="1351416349" lat="51.4840261" lon="-0.0847473"  n="Art in the Park (Arts Charity)" t="tourism" st="artwork"/>
+<node id="1356415942" lat="51.5137798" lon="-0.1861522"  n="Baron&#39;s Hotel" t="tourism" st="hotel"/>
+<node id="1361167157" lat="51.3803188" lon="-0.0784262"  n="Atini Guesthouse" t="tourism" st="guest_house"/>
+<node id="1361440449" lat="51.4714201" lon="-0.1372568"  n="Chelsea Guest House" t="tourism" st="guest_house"/>
+<node id="1361442558" lat="51.4682306" lon="-0.1438534"  n="Clapham Guest House" t="tourism" st="guest_house"/>
+<node id="1362797120" lat="51.513948" lon="-0.1895392"  n="London House Hotel" t="tourism" st="hotel"/>
+<node id="1366624662" lat="51.4948046" lon="-0.1952048"  n="Hotel NH-Kensington" t="tourism" st="hotel"/>
+<node id="1379942397" lat="51.4171766" lon="-0.0679913"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942400" lat="51.4171829" lon="-0.067935"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942406" lat="51.4172185" lon="-0.0678792"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942408" lat="51.4172205" lon="-0.0680466"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942411" lat="51.4172361" lon="-0.0678621"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942417" lat="51.4172856" lon="-0.0679521"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942419" lat="51.4173514" lon="-0.06792"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942422" lat="51.4173703" lon="-0.0677575"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942424" lat="51.4173883" lon="-0.0677092"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942431" lat="51.4174442" lon="-0.0677753"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942433" lat="51.4174523" lon="-0.067716"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942436" lat="51.4174774" lon="-0.0676256"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942439" lat="51.417562" lon="-0.0674588"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942443" lat="51.4175748" lon="-0.0672423"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942445" lat="51.4176228" lon="-0.0671183"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942448" lat="51.417639" lon="-0.067084"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942450" lat="51.4176864" lon="-0.0668996"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942451" lat="51.4177199" lon="-0.0673061"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942452" lat="51.4177358" lon="-0.0671866"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942453" lat="51.4177882" lon="-0.0667115"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942454" lat="51.4178022" lon="-0.0667541"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942455" lat="51.4178152" lon="-0.0659493"  n="Giant ground sloth" t="tourism" st="artwork"/>
+<node id="1379942456" lat="51.4178263" lon="-0.0667444"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942457" lat="51.417898" lon="-0.0666922"  n="Dinosaur" t="tourism" st="artwork"/>
+<node id="1379942458" lat="51.4183598" lon="-0.0657028"  n="Megaloceros - Irish Elk" t="tourism" st="artwork"/>
+<node id="1379942459" lat="51.4183974" lon="-0.0656401"  n="Megaloceros - Irish Elk" t="tourism" st="artwork"/>
+<node id="1379942460" lat="51.4183979" lon="-0.0657478"  n="Megaloceros - Irish Elk" t="tourism" st="artwork"/>
+<node id="1379942461" lat="51.418444" lon="-0.0656297"  n="Megaloceros - Irish Elk" t="tourism" st="artwork"/>
+<node id="1399251620" lat="51.5315807" lon="-0.1051171"  n="Little Ben" t="tourism" st="artwork"/>
+<node id="1409010782" lat="51.5143266" lon="-0.1555712"  n="Radisson Edwardian Sussex" t="tourism" st="hotel"/>
+<node id="1422415861" lat="51.511658" lon="-0.115674"  n="Roman Bath" t="tourism" st="attraction"/>
+<node id="1425740610" lat="51.5099381" lon="-0.2260647"  n="Helios" t="tourism" st="artwork"/>
+<node id="1426891078" lat="51.5824946" lon="-0.0997149"  n="Harringay Online" t="tourism" st="information"/>
+<node id="1426891355" lat="51.5852696" lon="-0.1071077"  n="The Wave Sculpture" t="tourism" st="artwork"/>
+<node id="1426893650" lat="51.577286" lon="-0.0954777"  n="Site of Harringay Stadium" t="tourism" st="museum"/>
+<node id="1436388260" lat="51.5086407" lon="-0.187934"  n="The Elfin Oak" t="tourism" st="artwork"/>
+<node id="1444872329" lat="51.504402" lon="-0.0462637"  n="London Thameside" t="tourism" st="hostel"/>
+<node id="1459162459" lat="51.4216045" lon="-0.3495985"  n="The Water Gardens" t="tourism" st="information"/>
+<node id="1492770152" lat="51.5287936" lon="-0.1263845"  n="YHA St Pancras" t="tourism" st="hostel"/>
+<node id="1493424622" lat="51.5128194" lon="-0.1459298"  n="Handel House Museum" t="tourism" st="museum"/>
+<node id="1495242605" lat="51.5182173" lon="-0.1254024"  n="Helen Graham House" t="tourism" st="hostel"/>
+<node id="1495315338" lat="51.3256435" lon="-0.3262509"  n="Map board" t="tourism" st="information"/>
+<node id="1500036902" lat="51.3345757" lon="-0.3075833"  n="Map board" t="tourism" st="information"/>
+<node id="1508663681" lat="51.5813112" lon="-0.333699"  n="Katie" t="tourism" st="artwork"/>
+<node id="1511430522" lat="51.5309619" lon="-0.1207935"  n="Keystone House" t="tourism" st="hostel"/>
+<node id="1527195572" lat="51.4981189" lon="-0.1653172"  n="Beaufort House Apartments" t="tourism" st="information"/>
+<node id="1549975320" lat="51.4991079" lon="-0.1125451"  n="Tune Hotel" t="tourism" st="hotel"/>
+<node id="1558137005" lat="51.5445834" lon="-0.0560328"  n="Hackney Museum" t="tourism" st="museum"/>
+<node id="1571931922" lat="51.5093238" lon="-0.1271831"  n="Edith Cavell Memorial" t="tourism" st="artwork"/>
+<node id="1579361617" lat="51.4455121" lon="-0.0857819"  n="Walking the dog" t="tourism" st="artwork"/>
+<node id="1581953203" lat="51.488999" lon="-0.1939101"  n="Wembar Hotel" t="tourism" st="hotel"/>
+<node id="1586229944" lat="51.6752531" lon="-0.0196457"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="1586293065" lat="51.5869981" lon="-0.0406358"  n="David McFall, Trata Dreschna" t="tourism" st="artwork"/>
+<node id="1588957563" lat="51.5264897" lon="-0.1045003"  n="Islington Museum" t="tourism" st="museum"/>
+<node id="1590084115" lat="51.5914361" lon="-0.0135125"  n="Motherhood Education Fellowship Work Recreation" t="tourism" st="artwork"/>
+<node id="1597709483" lat="51.4152955" lon="-0.3382238"  n="Welcome Centre" t="tourism" st="information"/>
+<node id="1621810567" lat="51.5295045" lon="-0.123438"  n="California Hotel" t="tourism" st="hotel"/>
+<node id="1629076243" lat="51.6577433" lon="-0.2015089"  n="Inspired Frames" t="tourism" st="artwork"/>
+<node id="1634342558" lat="51.652042" lon="-0.197612"  n="Barnet Gallery" t="tourism" st="artwork"/>
+<node id="1648590490" lat="51.5760322" lon="-0.0922641"  n="Limazulu Project Space" t="tourism" st="artwork"/>
+<node id="1656051617" lat="51.5259494" lon="-0.1413586"  n="Seated figure statue" t="tourism" st="artwork"/>
+<node id="1656571965" lat="51.5302658" lon="-0.1230273"  n="Tourist Info" t="tourism" st="information"/>
+<node id="1657015474" lat="51.4738622" lon="-0.0359147"  n="Water and Wine" t="tourism" st="artwork"/>
+<node id="1668154585" lat="51.4741047" lon="-0.0351106"  n="Student Centre" t="tourism" st="information"/>
+<node id="1669452706" lat="51.5225459" lon="-0.1399748"  n="View" t="tourism" st="artwork"/>
+<node id="1671147813" lat="51.5138888" lon="-0.1799695"  n="Glendale Hyde Park Hotel" t="tourism" st="hotel"/>
+<node id="1671187244" lat="51.5132285" lon="-0.1806004"  n="The Hyde Park Premier" t="tourism" st="hotel"/>
+<node id="1672235731" lat="51.5596203" lon="-0.1597717"  n="Parliament Hill" t="tourism" st="viewpoint"/>
+<node id="1680595240" lat="51.3777941" lon="-0.192105"  n="Ashling Tara Hotel" t="tourism" st="hotel"/>
+<node id="1680957128" lat="51.5116762" lon="-0.1850173"  n="The Queen&#39;s Park Hotel" t="tourism" st="hotel"/>
+<node id="1684962601" lat="51.4757675" lon="-0.036943"  n="Information point" t="tourism" st="information"/>
+<node id="1685976120" lat="51.4757468" lon="-0.0350071"  n="chesterman house goldsmiths univeristy halls" t="tourism" st="hostel"/>
+<node id="1686474834" lat="51.522006" lon="-0.1025564"  n="St John&#39;s Gate" t="tourism" st="museum"/>
+<node id="1687241819" lat="51.5592267" lon="-0.1784894"  n="Gallery K" t="tourism" st="artwork"/>
+<node id="1687246449" lat="51.5557256" lon="-0.1773762"  n="Zebra 1" t="tourism" st="artwork"/>
+<node id="1687249757" lat="51.5550218" lon="-0.1731276"  n="Rosslyn Arms monthly exibitions" t="tourism" st="artwork"/>
+<node id="1687257158" lat="51.4760888" lon="-0.0393887"  n="Art Saves Lives" t="tourism" st="artwork"/>
+<node id="1687287532" lat="51.4761122" lon="-0.0479127"  n="Winow 135 gallery" t="tourism" st="artwork"/>
+<node id="1687289024" lat="51.477432" lon="-0.0408478"  n="ASC Studios" t="tourism" st="artwork"/>
+<node id="1687801683" lat="51.5124074" lon="-0.1835595"  n="The Henry VIII Hotel" t="tourism" st="hotel"/>
+<node id="1705062531" lat="51.5297123" lon="-0.125065"  n="London Tourist Information" t="tourism" st="information"/>
+<node id="1708679342" lat="51.5012659" lon="-0.0086815"  n="View of O2 Arena" t="tourism" st="viewpoint"/>
+<node id="1717617513" lat="51.493421" lon="-0.1838467"  n="Millennium Hotel" t="tourism" st="hotel"/>
+<node id="1717617516" lat="51.4928781" lon="-0.1836034"  n="NH Hoteles" t="tourism" st="hotel"/>
+<node id="1718186365" lat="51.5012799" lon="-0.1862641"  n="Clearlake Hotel" t="tourism" st="hotel"/>
+<node id="1719875319" lat="51.5128076" lon="-0.0930861"  n="The Cordwainer" t="tourism" st="artwork"/>
+<node id="1721152115" lat="51.542749" lon="-0.473524"  n="West London YMCA" t="tourism" st="hostel"/>
+<node id="1729750835" lat="51.3805078" lon="-0.2807418"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="1731225613" lat="51.5200607" lon="-0.0791921"  n="I Eye" t="tourism" st="artwork"/>
+<node id="1731830617" lat="51.5217693" lon="-0.1286816"  n="Brunei Gallery, SOAS" t="tourism" st="museum"/>
+<node id="1744344305" lat="51.5131406" lon="-0.1908564"  n="Vancouver Studios" t="tourism" st="hotel"/>
+<node id="1748656881" lat="51.4685113" lon="-0.4238131"  n="Concorde G-BOAB" t="tourism" st="viewpoint"/>
+<node id="1748656933" lat="51.4678152" lon="-0.4243307"  n="Concorde G-BOAB" t="tourism" st="viewpoint"/>
+<node id="1748657012" lat="51.4689441" lon="-0.4249638"  n="Concorde G-BOAB" t="tourism" st="artwork"/>
+<node id="1755017976" lat="51.6062041" lon="0.0585945"  n="Menzies Prince Regent" t="tourism" st="hotel"/>
+<node id="1761770554" lat="51.514898" lon="-0.1940631"  n="Vancouver Studios Apartments" t="tourism" st="hotel"/>
+<node id="1770849144" lat="51.5008938" lon="0.0053776"  n="Needle" t="tourism" st="artwork"/>
+<node id="1773611183" lat="51.5151886" lon="-0.1600185"  n="The Rose Court Hotel" t="tourism" st="hotel"/>
+<node id="1779504042" lat="51.5182101" lon="-0.0781576"  n="City of London flats" t="tourism" st="guest_house"/>
+<node id="1782345942" lat="51.4544754" lon="-0.1113028"  n="The Apple" t="tourism" st="artwork"/>
+<node id="1784421962" lat="51.5144222" lon="-0.1729452"  n="Hotel Linden House" t="tourism" st="hotel"/>
+<node id="1796948622" lat="51.5444758" lon="-0.0188766"  n="RUN" t="tourism" st="artwork"/>
+<node id="1802652184" lat="51.5006801" lon="-0.1245825"  n="Big Ben" t="tourism" st="attraction"/>
+<node id="1809342011" lat="51.5705737" lon="-0.1934461"  n="Anchor House Hotel" t="tourism" st="hotel"/>
+<node id="1811903783" lat="51.5236844" lon="-0.1448287"  n="International Students House" t="tourism" st="hostel"/>
+<node id="1813618226" lat="51.5168384" lon="-0.0970417"  n="Postman&#39;s Park" t="tourism" st="information"/>
+<node id="1816038202" lat="51.5158677" lon="-0.1092397"  n="John Wilkes" t="tourism" st="artwork"/>
+<node id="1816959439" lat="51.5162792" lon="-0.0986094"  n="Rowland Hill" t="tourism" st="artwork"/>
+<node id="1849279071" lat="51.5402546" lon="-0.0121905"  n="Bitfall" t="tourism" st="artwork"/>
+<node id="1852213797" lat="51.5403003" lon="-0.0181968"  n="Sundial" t="tourism" st="artwork"/>
+<node id="1853112649" lat="51.5727647" lon="0.068985"  n="Jacob&#39;s Well" t="tourism" st="attraction"/>
+<node id="1871293388" lat="51.5243296" lon="-0.0946693"  n="easyHotel Old Street / Barbican" t="tourism" st="hotel"/>
+<node id="1904632366" lat="51.5472219" lon="-0.008945"  n="Agitos" t="tourism" st="historic:artwork"/>
+<node id="1922179418" lat="51.4920092" lon="0.0693281"  n="Nike" t="tourism" st="artwork"/>
+<node id="1926714581" lat="51.5179214" lon="0.1907566"  n="Rainham Hall" t="tourism" st="museum"/>
+<node id="1926802123" lat="51.5069657" lon="0.2259912"  n="Premier Inn" t="tourism" st="motel"/>
+<node id="1927860640" lat="51.4859939" lon="-0.4061538"  n="Cottage Guest House" t="tourism" st="guest_house"/>
+<node id="1929011546" lat="51.5224995" lon="-0.1565885"  n="Statue of Sherlock Holmes" t="tourism" st="artwork"/>
+<node id="1932008304" lat="51.5276204" lon="0.225658"  n="The Manor Hotel &#38; Restaurant" t="tourism" st="hotel"/>
+<node id="1934455440" lat="51.3688783" lon="-0.0548851"  n="Shirley Windmill" t="tourism" st="attraction"/>
+<node id="1937435160" lat="51.4989103" lon="-0.1333983"  n="New Scotland Yard" t="tourism" st="attraction"/>
+<node id="1938700732" lat="51.5021339" lon="0.0913709"  n="Gallions Hill" t="tourism" st="viewpoint"/>
+<node id="1943470341" lat="51.4995073" lon="-0.1326965"  n="Conrad London St. James" t="tourism" st="hotel"/>
+<node id="1944776393" lat="51.5077464" lon="-0.1279344"  n="Horatio Nelson, 1st Viscount Nelson, 1st Duke of Bronté, KB" t="tourism" st="artwork"/>
+<node id="1961045646" lat="51.5208059" lon="-0.1080299"  n="Tintype" t="tourism" st="gallery"/>
+<node id="1961419464" lat="51.5216738" lon="-0.1083853"  n="Rokeby" t="tourism" st="gallery"/>
+<node id="1961633388" lat="51.5222701" lon="-0.1144587"  n="Laura Bartlett Gallery" t="tourism" st="gallery"/>
+<node id="1961633395" lat="51.5216027" lon="-0.1152097"  n="Domobaal" t="tourism" st="gallery"/>
+<node id="1961637575" lat="51.5241251" lon="-0.109724"  n="Eagle Gallery" t="tourism" st="gallery"/>
+<node id="1961640574" lat="51.5258778" lon="-0.1149176"  n="Maria Stenfors" t="tourism" st="gallery"/>
+<node id="1961643748" lat="51.528507" lon="-0.117202"  n="Work" t="tourism" st="gallery"/>
+<node id="1961648003" lat="51.5297352" lon="-0.118795"  n="Gagosian" t="tourism" st="gallery"/>
+<node id="1961656243" lat="51.5299165" lon="-0.1037643"  n="Rod Barton" t="tourism" st="gallery"/>
+<node id="1961664504" lat="51.5271354" lon="-0.0958299"  n="Arcade" t="tourism" st="gallery"/>
+<node id="1961667573" lat="51.524325" lon="-0.0939902"  n="Ancient and Modern" t="tourism" st="gallery"/>
+<node id="1961673880" lat="51.5232414" lon="-0.0932046"  n="Madder 139" t="tourism" st="gallery"/>
+<node id="1961680339" lat="51.5240526" lon="-0.0967862"  n="Cabinet Gallery" t="tourism" st="gallery"/>
+<node id="1961705356" lat="51.5230046" lon="-0.1018735"  n="Breese Little" t="tourism" st="gallery"/>
+<node id="1961705372" lat="51.5231548" lon="-0.0998725"  n="The Arts Catalyst" t="tourism" st="gallery"/>
+<node id="1961705388" lat="51.5234951" lon="-0.1005005"  n="Marsden Woo" t="tourism" st="gallery"/>
+<node id="1963249760" lat="51.5138565" lon="-0.1830766"  n="The Cleveland Square Hotel" t="tourism" st="hotel"/>
+<node id="1973254546" lat="51.5073195" lon="0.0623225"  n="Reception Business Building" t="tourism" st="information"/>
+<node id="1973254560" lat="51.5075399" lon="0.064243"  n="Assessment Unit" t="tourism" st="information"/>
+<node id="1973254564" lat="51.507533" lon="0.0645273"  n="The Atrium - Main Reception" t="tourism" st="information"/>
+<node id="1973254567" lat="51.5076966" lon="0.0654124"  n="A.C.E Helpdesk" t="tourism" st="information"/>
+<node id="1973254571" lat="51.5073696" lon="0.0619953"  n="Library Reception" t="tourism" st="information"/>
+<node id="1973254574" lat="51.5072627" lon="0.061888"  n="Trading Floor" t="tourism" st="information"/>
+<node id="1973254576" lat="51.5073796" lon="0.0644683"  n="Combined Honours" t="tourism" st="information"/>
+<node id="1973254579" lat="51.5073863" lon="0.0647687"  n="ADI/LSS Helpdesk" t="tourism" st="information"/>
+<node id="1973254585" lat="51.5075399" lon="0.0624459"  n="Entrance/Reception Knowledge Building" t="tourism" st="information"/>
+<node id="1973787013" lat="51.508301" lon="-0.1690143"  n="Hudson Memorial" t="tourism" st="artwork"/>
+<node id="2000664872" lat="51.5353203" lon="-0.4606848"  n="Village Bed and Breakfast" t="tourism" st="guest_house"/>
+<node id="2005106057" lat="51.5110723" lon="-0.1302533"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="2013879781" lat="51.5355642" lon="-0.0140132"  n="Greenway" t="tourism" st="viewpoint"/>
+<node id="2028840405" lat="51.4891508" lon="-0.0137933"  n="Island History Trust" t="tourism" st="museum"/>
+<node id="2031059506" lat="51.5089504" lon="-0.033353"  n="Herring Gull" t="tourism" st="artwork"/>
+<node id="2033281649" lat="51.4941753" lon="-0.2053028"  n="Avonmore Hotel" t="tourism" st="hotel"/>
+<node id="2035000910" lat="51.5079393" lon="0.0226533"  n="Hotel Ibis London Excel Docklands" t="tourism" st="hotel"/>
+<node id="2036526389" lat="51.5159622" lon="-0.3049372"  n="The Caspian" t="tourism" st="guest_house"/>
+<node id="2041297324" lat="51.5056252" lon="-0.0243439"  n="Sculptural gate" t="tourism" st="artwork"/>
+<node id="2043098448" lat="51.3720528" lon="-0.0992517"  n="Museum of Croydon" t="tourism" st="museum"/>
+<node id="2043768068" lat="51.5147786" lon="-0.1368786"  n="YHA London Oxford Street" t="tourism" st="hostel"/>
+<node id="2048713442" lat="51.5550085" lon="0.0056564"  n="Bird sounds" t="tourism" st="artwork"/>
+<node id="2059538880" lat="51.5079331" lon="0.023301"  n="Novotel London ExCeL" t="tourism" st="hotel"/>
+<node id="2060166933" lat="51.5410581" lon="-0.1454212"  n="Canal Information Centre" t="tourism" st="information"/>
+<node id="2093588898" lat="51.5025107" lon="-0.0088731"  n="The Leap" t="tourism" st="artwork"/>
+<node id="2093588902" lat="51.5047812" lon="-0.0197677"  n="Twentieth Century Thames" t="tourism" st="artwork"/>
+<node id="2093588907" lat="51.5039965" lon="-0.0182174"  n="Art glass wall" t="tourism" st="artwork"/>
+<node id="2093588912" lat="51.5044172" lon="-0.0148595"  n="Coup de Foudre II" t="tourism" st="artwork"/>
+<node id="2093588918" lat="51.5049713" lon="-0.0195263"  n="Blade of Venus" t="tourism" st="artwork"/>
+<node id="2093588922" lat="51.5041198" lon="-0.0196497"  n="Six Public Clocks" t="tourism" st="artwork"/>
+<node id="2093588927" lat="51.5034421" lon="-0.0170375"  n="Centauro" t="tourism" st="artwork"/>
+<node id="2093588931" lat="51.5032619" lon="-0.016552"  n="Cross Way and Arbor" t="tourism" st="artwork"/>
+<node id="2093588935" lat="51.5041332" lon="-0.017917"  n="Art glass wall" t="tourism" st="artwork"/>
+<node id="2093588940" lat="51.5039197" lon="-0.0164259"  n="Parting of the Waves" t="tourism" st="artwork"/>
+<node id="2093588951" lat="51.5048277" lon="-0.0192476"  n="Trial with Light" t="tourism" st="artwork"/>
+<node id="2093620816" lat="51.5055324" lon="-0.0202186"  n="Moving On" t="tourism" st="artwork"/>
+<node id="2093620821" lat="51.5057673" lon="-0.0226539"  n="Returning to Embrace" t="tourism" st="artwork"/>
+<node id="2093620834" lat="51.5048444" lon="-0.0180726"  n="The Big Blue" t="tourism" st="artwork"/>
+<node id="2093620839" lat="51.506227" lon="-0.022756"  n="Sculptural railings" t="tourism" st="artwork"/>
+<node id="2093620840" lat="51.5053721" lon="-0.0207792"  n="Float" t="tourism" st="artwork"/>
+<node id="2093620843" lat="51.5046341" lon="-0.0185127"  n="It Takes Two" t="tourism" st="artwork"/>
+<node id="2093620844" lat="51.5060195" lon="-0.0199635"  n="Original Form" t="tourism" st="artwork"/>
+<node id="2093695492" lat="51.5053918" lon="-0.0225614"  n="Cast Glass Panels" t="tourism" st="artwork"/>
+<node id="2093695500" lat="51.5056323" lon="-0.0233271"  n="Relief Portrait of Michael von Clemm" t="tourism" st="artwork"/>
+<node id="2093695503" lat="51.5055273" lon="-0.0228123"  n="Couple on Seat" t="tourism" st="artwork"/>
+<node id="2093695506" lat="51.5054719" lon="-0.0244054"  n="Man with Arms Open" t="tourism" st="artwork"/>
+<node id="2093695510" lat="51.5052854" lon="-0.022367"  n="Bronze Bowls" t="tourism" st="artwork"/>
+<node id="2093695517" lat="51.5064967" lon="-0.0253981"  n="Columbus Screen" t="tourism" st="artwork"/>
+<node id="2093695521" lat="51.5062837" lon="-0.0257144"  n="Centurione I" t="tourism" st="artwork"/>
+<node id="2093695530" lat="51.5062186" lon="-0.0250573"  n="Planters" t="tourism" st="artwork"/>
+<node id="2093763721" lat="51.5067908" lon="-0.0243303"  n="The Hibbert Gate" t="tourism" st="artwork"/>
+<node id="2093792765" lat="51.5057728" lon="-0.0281526"  n="Windwand" t="tourism" st="artwork"/>
+<node id="2102604123" lat="51.519793" lon="-0.0724844"  n="The Museum of Immigration and Diversity at 19 Princelet Street" t="tourism" st="museum"/>
+<node id="2106381795" lat="51.3741148" lon="-0.0960274"  n="Tramlink Shop" t="tourism" st="information"/>
+<node id="2110989386" lat="51.4278973" lon="-0.3187165"  n="The Lensbury" t="tourism" st="hotel"/>
+<node id="2126893298" lat="51.5160759" lon="-0.1600623"  n="The Arch" t="tourism" st="hotel"/>
+<node id="2137260103" lat="51.5128761" lon="-0.1054012"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="2146312980" lat="51.4809916" lon="-0.4307337"  n="Ibis Heathrow Airport Hotel" t="tourism" st="hotel"/>
+<node id="2148895421" lat="51.5015554" lon="-0.1623833"  n="THe Knightsbridge Green Hotel" t="tourism" st="hotel"/>
+<node id="2182024287" lat="51.5539828" lon="-0.1096385"  n="Thierry Henry statue" t="tourism" st="artwork"/>
+<node id="2182024288" lat="51.5562106" lon="-0.1077446"  n="Tony Adams statue" t="tourism" st="artwork"/>
+<node id="2182024289" lat="51.5540995" lon="-0.1070633"  n="Herbert Chapman statue" t="tourism" st="artwork"/>
+<node id="2184101810" lat="51.5109221" lon="-0.0577739"  n="Battle of Cable Street memorial" t="tourism" st="artwork"/>
+<node id="2195929442" lat="51.4740725" lon="-0.0212125"  n="Travelodge Greenwich" t="tourism" st="hotel"/>
+<node id="2196532545" lat="51.4949376" lon="-0.2551069"  n="Chiswick Lodge Hotel" t="tourism" st="hotel"/>
+<node id="2217327465" lat="51.5714216" lon="-0.2002995"  n="Martel Guest House" t="tourism" st="guest_house"/>
+<node id="2217416345" lat="51.4759116" lon="-0.2867226"  n="Kew Gardens Hotel" t="tourism" st="hotel"/>
+<node id="2244751330" lat="51.5208921" lon="-0.0778038"  n="Dennis Severs&#39; House" t="tourism" st="museum"/>
+<node id="2250396691" lat="51.5026002" lon="-0.1192189"  n="The London Dungeon" t="tourism" st="attraction"/>
+<node id="2294047321" lat="51.5138157" lon="-0.1089001"  n="Apex Temple Court Hotel" t="tourism" st="hotel"/>
+<node id="2299893779" lat="51.5307327" lon="-0.3543322"  n="London Motorcycle Museum" t="tourism" st="museum"/>
+<node id="2307001563" lat="51.4657199" lon="0.0726452"  n="Spottish" t="tourism" st="viewpoint"/>
+<node id="2312979284" lat="51.5228112" lon="-0.3557305"  n="Windmill Guest House" t="tourism" st="guest_house"/>
+<node id="2316317104" lat="51.5195476" lon="-0.1250228"  n="Astor Museum Hostel" t="tourism" st="hostel"/>
+<node id="2317061081" lat="51.5207376" lon="-0.1002415"  n="Malmaison Hotel" t="tourism" st="hotel"/>
+<node id="2323137006" lat="51.5204334" lon="-0.1423717"  n="London Central YHA" t="tourism" st="hostel"/>
+<node id="2324256240" lat="51.4979382" lon="-0.1342289"  n="Henry Purcell" t="tourism" st="artwork"/>
+<node id="2324663049" lat="51.4453074" lon="-0.0475145"  n="Schinkler B&#38;B" t="tourism" st="guest_house"/>
+<node id="2325451615" lat="51.5157289" lon="-0.1801907"  n="Park Grand London Hyde Park" t="tourism" st="hotel"/>
+<node id="2328642408" lat="51.5870231" lon="-0.147118"  n="The Muswell Hill Hotel" t="tourism" st="hotel"/>
+<node id="2333711651" lat="51.4859876" lon="-0.1722311"  n="Green and Stone" t="tourism" st="artwork"/>
+<node id="2347363112" lat="51.5117349" lon="-0.177577"  n="Corus Hyde Park" t="tourism" st="hotel"/>
+<node id="2348601606" lat="51.6245825" lon="-0.0096957"  n="Chingford &#38; District Model Engineering Club" t="tourism" st="attraction"/>
+<node id="2358851761" lat="51.4251339" lon="0.1056547"  n="Travelodge - London Sidcup" t="tourism" st="hotel"/>
+<node id="2362049279" lat="51.4971533" lon="-0.0902618"  n="Accomodation London Bridge" t="tourism" st="hotel"/>
+<node id="2363468097" lat="51.502605" lon="-0.118683"  n="SEA LIFE London Aquarium" t="tourism" st="aquarium"/>
+<node id="2370431019" lat="51.3218158" lon="0.0507779"  n="Birdhouse Lane" t="tourism" st="camp_site"/>
+<node id="2389234330" lat="51.527426" lon="-0.087469"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="2396118596" lat="51.4696542" lon="-0.0692974"  n="The Sunday Painter" t="tourism" st="gallery"/>
+<node id="2417098898" lat="51.4611419" lon="-0.3143753"  n="Meridian Line Marker" t="tourism" st="viewpoint"/>
+<node id="2418006924" lat="51.5374747" lon="-0.002357"  n="The Westbridge Hotel" t="tourism" st="hotel"/>
+<node id="2431360089" lat="51.5049077" lon="-0.1047268"  n="Ibis" t="tourism" st="hotel"/>
+<node id="2431361343" lat="51.5050746" lon="-0.1047162"  n="Novotel" t="tourism" st="hotel"/>
+<node id="2441822062" lat="51.4913274" lon="-0.1434489"  n="Colliers Hôtel" t="tourism" st="hotel"/>
+<node id="2443570239" lat="51.5590059" lon="-0.0120516"  n="Maze" t="tourism" st="attraction"/>
+<node id="2446318242" lat="51.5123977" lon="-0.1861753"  n="Shaftesbury Hyde Park International" t="tourism" st="hotel"/>
+<node id="2451668802" lat="51.4157789" lon="-0.0719009"  n="Mural" t="tourism" st="artwork"/>
+<node id="2452941557" lat="51.3672792" lon="-0.0016389"  n="Meridian" t="tourism" st="information"/>
+<node id="2454280632" lat="51.5362984" lon="-0.1388997"  n="Πάντα ῥεῖ" t="tourism" st="artwork"/>
+<node id="2456547116" lat="51.546863" lon="-0.4782521"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="2456777171" lat="51.6425773" lon="-0.035781"  n="Alma Road Estate Map" t="tourism" st="information"/>
+<node id="2457052377" lat="51.6429848" lon="-0.0359716"  n="Alma Road Estate Map" t="tourism" st="information"/>
+<node id="2458271345" lat="51.4836587" lon="-0.0059164"  n="John Michael Rysbrack" t="tourism" st="artwork"/>
+<node id="2460526284" lat="51.48301" lon="-0.0058172"  n="Painted Hall" t="tourism" st="attraction"/>
+<node id="2466428742" lat="51.4925016" lon="-0.1482952"  n="Victoria Coach Station" t="tourism" st="information"/>
+<node id="2483598095" lat="51.5297886" lon="-0.0140014"  n="Bow" t="tourism" st="artwork"/>
+<node id="2483598125" lat="51.529605" lon="-0.0140886"  n="Bow" t="tourism" st="artwork"/>
+<node id="2483705448" lat="51.5068195" lon="-0.0105235"  n="Traffic Light Tree" t="tourism" st="artwork"/>
+<node id="2484891289" lat="51.4500319" lon="0.0513212"  n="Yardley Court Hotel" t="tourism" st="hotel"/>
+<node id="2489294546" lat="51.5128057" lon="-0.1926658"  n="The Shatesbury London Premier Notting Hill" t="tourism" st="hotel"/>
+<node id="2491588997" lat="51.5422672" lon="0.004509"  n="ibis" t="tourism" st="hotel"/>
+<node id="2497814874" lat="51.519714" lon="-0.0608064"  n="Jack The Ripper Murder Site: Mary Anne Nichols" t="tourism" st="attraction"/>
+<node id="2497824565" lat="51.5187068" lon="-0.0749624"  n="Jack The Ripper Murder Site: Mary Kelly (13 Miller&#39;s Court)" t="tourism" st="attraction"/>
+<node id="2497826499" lat="51.5137174" lon="-0.0780676"  n="Jack The Ripper Murder Site: Catherine Eddowes" t="tourism" st="viewpoint"/>
+<node id="2497830805" lat="51.5136329" lon="-0.0656356"  n="Jack The Ripper Murder Site: Elizabeth Stride" t="tourism" st="viewpoint"/>
+<node id="2497831899" lat="51.520371" lon="-0.0727626"  n="Jack The Ripper Murder Site: Annie Chapman" t="tourism" st="viewpoint"/>
+<node id="2497973067" lat="51.4920965" lon="-0.1422738"  n="Belgrave House Hotel" t="tourism" st="hotel"/>
+<node id="2501471490" lat="51.425823" lon="-0.2392875"  n="Caesar&#39;s Camp" t="tourism" st="information"/>
+<node id="2505651273" lat="51.4923082" lon="-0.1945744"  n="Amsterdam Hotel London" t="tourism" st="hotel"/>
+<node id="2509873821" lat="51.5295188" lon="-0.1238685"  n="Julian House Hotel" t="tourism" st="hotel"/>
+<node id="2525475636" lat="51.5373171" lon="-0.1928744"  n="sundial" t="tourism" st="artwork"/>
+<node id="2528916696" lat="51.5148128" lon="-0.1767684"  n="Ascot" t="tourism" st="hotel"/>
+<node id="2543999019" lat="51.5097451" lon="-0.2239381"  n="UndergrounD" t="tourism" st="artwork"/>
+<node id="2556790717" lat="51.5135478" lon="-0.1779223"  n="The Paddington Hotel London" t="tourism" st="hotel"/>
+<node id="2557021334" lat="51.4939494" lon="-0.1498768"  n="Astors Hotel Victoria London" t="tourism" st="hotel"/>
+<node id="2557121193" lat="51.512593" lon="-0.1802574"  n="London Guards Hotel" t="tourism" st="hotel"/>
+<node id="2558273399" lat="51.5209443" lon="-0.2629326"  n="Holiday Inn London West" t="tourism" st="hotel"/>
+<node id="2591847896" lat="51.5024239" lon="-0.1538473"  n="The Wellesley" t="tourism" st="hotel"/>
+<node id="2606221073" lat="51.5043092" lon="-0.0761761"  n="Tower Bridge engine room" t="tourism" st="museum"/>
+<node id="2613845630" lat="51.4935484" lon="0.0738714"  n="Duke of Wellington Statue" t="tourism" st="artwork"/>
+<node id="2617232245" lat="51.5295982" lon="-0.1281295"  n="British Library Exhibition Space" t="tourism" st="museum"/>
+<node id="2617821322" lat="51.5259739" lon="-0.1340195"  n="The Wellcome Collection" t="tourism" st="museum"/>
+<node id="2617831369" lat="51.5290366" lon="-0.1275758"  n="Newton After Blake" t="tourism" st="artwork"/>
+<node id="2623487695" lat="51.364764" lon="-0.1938474"  n="Gallery Gifts" t="tourism" st="artwork"/>
+<node id="2624148051" lat="51.5293177" lon="-0.1236512"  n="Alhambra Hotel" t="tourism" st="hotel"/>
+<node id="2624148062" lat="51.5292186" lon="-0.1239919"  n="Central Hotel" t="tourism" st="hotel"/>
+<node id="2624148079" lat="51.5294779" lon="-0.1238336"  n="Florence Hotel" t="tourism" st="hotel"/>
+<node id="2624148108" lat="51.5293995" lon="-0.1237425"  n="Fairway Hotel" t="tourism" st="hotel"/>
+<node id="2625341782" lat="51.5406779" lon="-0.2538187"  n="Hollingbury Hotel" t="tourism" st="hotel"/>
+<node id="2642857205" lat="51.5139087" lon="-0.086572"  n="George Peabody" t="tourism" st="artwork"/>
+<node id="2647639741" lat="51.5116244" lon="-0.1177002"  n="The Courtauld Gallery" t="tourism" st="Art Gallery"/>
+<node id="2665034991" lat="51.5263642" lon="-0.1272431"  n="Judd Hotel" t="tourism" st="hotel"/>
+<node id="2672118125" lat="51.5160327" lon="-0.0927897"  n="The Clockmakers&#39; Museum" t="tourism" st="museum"/>
+<node id="2673685170" lat="51.5109264" lon="-0.0586168"  n="Cable Street Mural" t="tourism" st="artwork"/>
+<node id="2673858876" lat="51.5232213" lon="-0.1601197"  n="Somerset Hotel" t="tourism" st="hotel"/>
+<node id="2675054125" lat="51.527137" lon="-0.0827601"  n="Juggling Figure" t="tourism" st="artwork"/>
+<node id="2687626295" lat="51.3929259" lon="0.0686178"  n="Jubilee Country Park" t="tourism" st="information"/>
+<node id="2687626296" lat="51.4413181" lon="0.1486825"  n="London LOOP" t="tourism" st="information"/>
+<node id="2687626297" lat="51.3957745" lon="0.0791112"  n="Petts Wood and Hawkwood Estate" t="tourism" st="information"/>
+<node id="2687626298" lat="51.4034217" lon="0.0817495"  n="Petts Wood and Hawkwood Estate" t="tourism" st="information"/>
+<node id="2700342054" lat="51.4939963" lon="-0.1825322"  n="Millennium Bailey&#39;s Hotel" t="tourism" st="hotel"/>
+<node id="2701274336" lat="51.5103647" lon="-0.1873077"  n="Hilton London Hyde Park" t="tourism" st="hotel"/>
+<node id="2702225920" lat="51.5288183" lon="-0.1155876"  n="Clink78" t="tourism" st="hotel"/>
+<node id="2702930014" lat="51.5441193" lon="-0.1522386"  n="Camden Lock Hotel" t="tourism" st="hotel"/>
+<node id="2709826317" lat="51.3704034" lon="0.0043071"  n="West Wickham Commons" t="tourism" st="information"/>
+<node id="2709945660" lat="51.3518108" lon="0.0748298"  n="Bromley Millennium Rock" t="tourism" st="attraction"/>
+<node id="2723896695" lat="51.5488319" lon="-0.0165393"  n="Olympic Rings" t="tourism" st="artwork"/>
+<node id="2724109232" lat="51.51258" lon="-0.1782241"  n="Elysee Hotel" t="tourism" st="hotel"/>
+<node id="2736129045" lat="51.5056673" lon="-0.1242772"  n="Royal Horseguards Hotel" t="tourism" st="hotel"/>
+<node id="2738840350" lat="51.4779959" lon="-0.0014862"  n="Meridian sculpture" t="tourism" st="artwork"/>
+<node id="2739053220" lat="51.5008242" lon="-0.1080153"  n="Hampton by Hilton London Waterloo" t="tourism" st="hotel"/>
+<node id="2756048586" lat="51.3140167" lon="-0.0886237"  n="Kenley Common" t="tourism" st="information"/>
+<node id="2756048587" lat="51.3187222" lon="-0.0644804"  n="London LOOP section 5" t="tourism" st="information"/>
+<node id="2756048589" lat="51.316323" lon="-0.0835356"  n="London LOOP" t="tourism" st="information"/>
+<node id="2756048592" lat="51.3188869" lon="-0.0701954"  n="Riddlesdown" t="tourism" st="information"/>
+<node id="2756151127" lat="51.3096523" lon="-0.0960972"  n="Kenley Common" t="tourism" st="information"/>
+<node id="2756151128" lat="51.3353202" lon="-0.1708937"  n="London LOOP" t="tourism" st="information"/>
+<node id="2756151129" lat="51.3322013" lon="-0.170821"  n="Mayfield Lavender Fields" t="tourism" st="information"/>
+<node id="2763549313" lat="51.5130169" lon="-0.1752278"  n="Andrews House Hotel" t="tourism" st="hotel"/>
+<node id="2769268442" lat="51.5142337" lon="-0.1726756"  n="Piccolino Hotel" t="tourism" st="hotel"/>
+<node id="2779057303" lat="51.5141985" lon="-0.1750747"  n="Edward Hotel" t="tourism" st="hotel"/>
+<node id="2779323063" lat="51.5148977" lon="-0.1765097"  n="Metro Hotel" t="tourism" st="hotel"/>
+<node id="2780655595" lat="51.5460862" lon="-0.017693"  n="Agitos" t="tourism" st="artwork"/>
+<node id="2791762596" lat="51.5045203" lon="-0.2192391"  n="W12 Rooms" t="tourism" st="hotel"/>
+<node id="2796450286" lat="51.5356746" lon="-0.2088174"  n="Queen&#39;s Park" t="tourism" st="information"/>
+<node id="2807221494" lat="51.4548237" lon="-0.3779527"  n="Hounslow Heath" t="tourism" st="information"/>
+<node id="2807473251" lat="51.4131575" lon="-0.3456533"  n="The Pheasantry Plantation" t="tourism" st="information"/>
+<node id="2807473252" lat="51.4148307" lon="-0.3507878"  n="The Waterhouse Plantation" t="tourism" st="information"/>
+<node id="2808877302" lat="51.493346" lon="-0.1909341"  n="Earl&#39;s Court Garden Hotel" t="tourism" st="hotel"/>
+<node id="2822798373" lat="51.499921" lon="-0.4069014"  n="Bulls Bridge" t="tourism" st="information"/>
+<node id="2824354982" lat="51.4919173" lon="-0.1918457"  n="Hotel Indigo Kensington Earl&#39;s Court" t="tourism" st="hotel"/>
+<node id="2843902493" lat="51.5042952" lon="-0.086648"  n="Shangri-La Hotel" t="tourism" st="hotel"/>
+<node id="2850211433" lat="51.5302669" lon="-0.1250544"  n="Paul Day" t="tourism" st="artwork"/>
+<node id="2850222762" lat="51.530596" lon="-0.1259413"  n="Martin Jennings" t="tourism" st="artwork"/>
+<node id="2878874950" lat="51.5231116" lon="-0.1241258"  n="Russell House Hotel" t="tourism" st="guest_house"/>
+<node id="2882742972" lat="51.4740712" lon="-0.0697215"  n="The Elements" t="tourism" st="artwork"/>
+<node id="2882742973" lat="51.4740856" lon="-0.0695753"  n="The Elements" t="tourism" st="artwork"/>
+<node id="2882742974" lat="51.4741236" lon="-0.0699079"  n="The Elements" t="tourism" st="artwork"/>
+<node id="2882742975" lat="51.4741528" lon="-0.0694387"  n="The Elements" t="tourism" st="artwork"/>
+<node id="2891373623" lat="51.4467121" lon="-0.3240842"  n="York House Gardens Statues" t="tourism" st="artwork"/>
+<node id="2902036121" lat="51.5545067" lon="-0.1099742"  n="Dennis Bergkamp statue" t="tourism" st="artwork"/>
+<node id="2902049164" lat="51.55749" lon="-0.2795952"  n="Bobby Moore statue" t="tourism" st="artwork"/>
+<node id="2904067965" lat="51.4847805" lon="-0.1255013"  n="VAUXHALL" t="tourism" st="artwork"/>
+<node id="2904519919" lat="51.517608" lon="-0.126084"  n="The Cartoon Museum" t="tourism" st="museum"/>
+<node id="2904831501" lat="51.492265" lon="-0.141182"  n="Romany House Hotel" t="tourism" st="hotel"/>
+<node id="2904831701" lat="51.492389" lon="-0.140855"  n="The Chester Hotel" t="tourism" st="hotel"/>
+<node id="2904831702" lat="51.492453" lon="-0.140664"  n="St Leonards Hotel" t="tourism" st="hotel"/>
+<node id="2905297401" lat="51.490488" lon="-0.138854"  n="The Park Hotel" t="tourism" st="hotel"/>
+<node id="2905876401" lat="51.511163" lon="-0.134909"  n="Ham Yard Hotel" t="tourism" st="hotel"/>
+<node id="2906464717" lat="51.6256908" lon="-0.3414364"  n="Bentley Priory Nature Reserve Nature Trail" t="tourism" st="information"/>
+<node id="2906464718" lat="51.6244314" lon="-0.3382626"  n="Bentley Priory" t="tourism" st="information"/>
+<node id="2906464719" lat="51.621775" lon="-0.3583084"  n="Grim&#39;s Dyke" t="tourism" st="information"/>
+<node id="2906464721" lat="51.625103" lon="-0.3287341"  n="London LOOP" t="tourism" st="information"/>
+<node id="2907852701" lat="51.5322769" lon="-0.1200351"  n="Journey&#39;s End" t="tourism" st="hostel"/>
+<node id="2911480634" lat="51.5468908" lon="-0.0094264"  n="Jeppe Hein" t="tourism" st="artwork"/>
+<node id="2918337597" lat="51.4741227" lon="-0.1840077"  n="DoubleTree by Hilton Hotel London - Chelsea" t="tourism" st="hotel"/>
+<node id="2918704737" lat="51.4732369" lon="0.0027237"  n="Park Office" t="tourism" st="information"/>
+<node id="2933518138" lat="51.5289201" lon="-0.1228238"  n="Excelsior Hotel" t="tourism" st="hotel"/>
+<node id="2938722948" lat="51.4204144" lon="-0.0758251"  n="Sphinx" t="tourism" st="artwork"/>
+<node id="2938722949" lat="51.4205528" lon="-0.075731"  n="Sphinx" t="tourism" st="artwork"/>
+<node id="2938722950" lat="51.4235575" lon="-0.0737911"  n="Sphinx" t="tourism" st="artwork"/>
+<node id="2938722951" lat="51.4237186" lon="-0.0736905"  n="Sphinx" t="tourism" st="artwork"/>
+<node id="2950107869" lat="51.5267352" lon="-0.0557734"  n="City View" t="tourism" st="guest_house"/>
+<node id="2952883084" lat="51.5095129" lon="-0.0836298"  n="Premier Inn London Bank (Tower)" t="tourism" st="hotel"/>
+<node id="2959234563" lat="51.4927255" lon="0.0617961"  n="Travelodge Hotel" t="tourism" st="hotel"/>
+<node id="2971460832" lat="51.4184661" lon="-0.0727819"  n="Children&#39;s mural" t="tourism" st="artwork"/>
+<node id="2973976513" lat="51.3123122" lon="-0.0986479"  n="Kenley Common" t="tourism" st="information"/>
+<node id="2978897656" lat="51.4220538" lon="-0.0772253"  n="Crystal Palace Subway" t="tourism" st="attraction"/>
+<node id="2982440808" lat="51.4944484" lon="-0.2220293"  n="Abercorne House Hostel" t="tourism" st="hostel"/>
+<node id="2986861906" lat="51.4974125" lon="-0.26977"  n="Ivy Gate House" t="tourism" st="guest_house"/>
+<node id="2990716997" lat="51.5173001" lon="-0.0925832"  n="The Gardener" t="tourism" st="artwork"/>
+<node id="2998556967" lat="51.6324293" lon="-0.2530066"  n="Dollis Valley Greenwalk" t="tourism" st="information"/>
+<node id="2998618603" lat="51.6330964" lon="-0.2508674"  n="Dollis Valley Greenwalk" t="tourism" st="information"/>
+<node id="2998618604" lat="51.6349705" lon="-0.2489929"  n="Dollis Valley Greenwalk" t="tourism" st="information"/>
+<node id="2998618605" lat="51.6610286" lon="-0.1930024"  n="Monken Hadley Common" t="tourism" st="information"/>
+<node id="3021027424" lat="51.6735656" lon="-0.0974192"  n="Hilly Fields Park" t="tourism" st="information"/>
+<node id="3021027425" lat="51.6571031" lon="-0.1495363"  n="London LOOP" t="tourism" st="information"/>
+<node id="3021027426" lat="51.6707469" lon="-0.0839207"  n="London LOOP" t="tourism" st="information"/>
+<node id="3027864688" lat="51.427043" lon="-0.333837"  n="Elmfield Gardens Planting Information" t="tourism" st="information"/>
+<node id="3027864693" lat="51.427153" lon="-0.3334317"  n="Teddington Village" t="tourism" st="information"/>
+<node id="3049612577" lat="51.519583" lon="-0.1585277"  n="Hotel 82 London" t="tourism" st="hotel"/>
+<node id="3049612579" lat="51.5197457" lon="-0.1586212"  n="London Continental Hotel" t="tourism" st="hotel"/>
+<node id="3050942006" lat="51.4615782" lon="-0.1130331"  n="London Hotel" t="tourism" st="hotel"/>
+<node id="3057440947" lat="51.4924333" lon="-0.1903358"  n="The Londonears Hostel" t="tourism" st="hostel"/>
+<node id="3059089468" lat="51.5355751" lon="-0.1239722"  n="House of Illustration" t="tourism" st="museum"/>
+<node id="3060887211" lat="51.5044739" lon="-0.0863928"  n="The Shard" t="tourism" st="attraction"/>
+<node id="3060893053" lat="51.5098653" lon="-0.1402851"  n="The Royal Academy of Arts" t="tourism" st="artwork"/>
+<node id="3060921140" lat="51.4829861" lon="-0.0022215"  n="National Maritime Museum" t="tourism" st="museum"/>
+<node id="3065516761" lat="51.5303727" lon="-0.0559783"  n="Town Hall Hotel" t="tourism" st="hotel"/>
+<node id="3068039520" lat="51.5611124" lon="-0.2790191"  n="Novotel London Wembley" t="tourism" st="hotel"/>
+<node id="3079329674" lat="51.5309528" lon="-0.1017308"  n="Baggies Backpackers Angel" t="tourism" st="hostel"/>
+<node id="3080954038" lat="51.5203741" lon="-0.0713723"  n="Brick Lane" t="tourism" st="artwork"/>
+<node id="3086845412" lat="51.6569313" lon="-0.2012363"  n="Savoro Restaurant with Rooms" t="tourism" st="hotel"/>
+<node id="3087647841" lat="51.4992021" lon="-0.1523263"  n="Simón Bolívar" t="tourism" st="artwork"/>
+<node id="3089011667" lat="51.5368607" lon="-0.3906643"  n="The Whitehart Bed &#38; Breakfast" t="tourism" st="guest_house"/>
+<node id="3089362916" lat="51.5415897" lon="-0.2591779"  n="Sundisc" t="tourism" st="artwork"/>
+<node id="3089703401" lat="51.6179298" lon="0.1827746"  n="London LOOP Section 21" t="tourism" st="information"/>
+<node id="3089750365" lat="51.5153719" lon="-0.1322643"  n="Charles II" t="tourism" st="artwork"/>
+<node id="3092064665" lat="51.511565" lon="-0.138332"  n="Sanctum Soho Hotel" t="tourism" st="hotel"/>
+<node id="3092186786" lat="51.616446" lon="0.1801421"  n="Having Country Park" t="tourism" st="information"/>
+<node id="3094555298" lat="51.5196059" lon="-0.0929896"  n="The Barbican Muse" t="tourism" st="artwork"/>
+<node id="3096018080" lat="51.5087961" lon="-0.1392694"  n="Joshua Reynolds" t="tourism" st="artwork"/>
+<node id="3096518929" lat="51.511385" lon="-0.1173725"  n="George III and the River Thames" t="tourism" st="artwork"/>
+<node id="3098686477" lat="51.526072" lon="-0.126369"  n="The George" t="tourism" st="hotel"/>
+<node id="3104461618" lat="51.5811243" lon="0.2523622"  n="Pages Wood" t="tourism" st="information"/>
+<node id="3105881783" lat="51.5245354" lon="-0.0368949"  n="New Globe Hotel" t="tourism" st="hotel"/>
+<node id="3109791789" lat="51.5004936" lon="-0.1329417"  n="Anon" t="tourism" st="artwork"/>
+<node id="3109822562" lat="51.5084995" lon="-0.121671"  n="Imperial Camel Corps Memorial" t="tourism" st="artwork"/>
+<node id="3127481002" lat="51.5166221" lon="0.1912312"  n="London LOOP" t="tourism" st="information"/>
+<node id="3134266393" lat="51.5095026" lon="-0.1381435"  n="Terza Rima" t="tourism" st="artwork"/>
+<node id="3134795950" lat="51.5105767" lon="-0.1751211"  n="Statue of Edward Jenner" t="tourism" st="artwork"/>
+<node id="3139989057" lat="51.5204151" lon="-0.0874966"  n="name?" t="tourism" st="artwork"/>
+<node id="3157563924" lat="51.5056792" lon="-0.1331433"  n="Royal Academy of Engineering" t="tourism" st="attraction"/>
+<node id="3163016900" lat="51.5190947" lon="-0.0764956"  n="A Pear and a Fig" t="tourism" st="artwork"/>
+<node id="3182664009" lat="51.4976379" lon="-0.1353011"  n="Buckingham Palace Bus" t="tourism" st="artwork"/>
+<node id="3182664011" lat="51.5012102" lon="-0.1276931"  n="Good News Bear" t="tourism" st="artwork"/>
+<node id="3182664012" lat="51.4977199" lon="-0.1348766"  n="Gull Graeni Straeto" t="tourism" st="artwork"/>
+<node id="3182664013" lat="51.5049726" lon="-0.1258656"  n="Lest We Forget" t="tourism" st="artwork"/>
+<node id="3182664015" lat="51.4982978" lon="-0.1325861"  n="London Takes the Bus" t="tourism" st="artwork"/>
+<node id="3182664016" lat="51.5011611" lon="-0.1266847"  n="London Telephone Bus" t="tourism" st="artwork"/>
+<node id="3182664018" lat="51.501153" lon="-0.1272467"  n="Parliament Square" t="tourism" st="information"/>
+<node id="3182664019" lat="51.512587" lon="-0.122234"  n="Rainbow" t="tourism" st="artwork"/>
+<node id="3182664020" lat="51.5072864" lon="-0.1276469"  n="Trafalgar Panoramic" t="tourism" st="artwork"/>
+<node id="3182664021" lat="51.4969375" lon="-0.1404405"  n="Tunnel Vision" t="tourism" st="artwork"/>
+<node id="3186379481" lat="51.4053186" lon="-0.3400454"  n="The Restoration of the Royal Kitchen Garden" t="tourism" st="information"/>
+<node id="3196157132" lat="51.6505036" lon="-0.0803865"  n="Dugdale Centre Museum" t="tourism" st="museum"/>
+<node id="3204553565" lat="51.526208" lon="-0.126995"  n="Euro Hotel" t="tourism" st="hotel"/>
+<node id="3204554164" lat="51.526096" lon="-0.1265675"  n="Avonmore Hotel" t="tourism" st="hotel"/>
+<node id="3204559661" lat="51.526277" lon="-0.127135"  n="Crescent Hotel" t="tourism" st="hotel"/>
+<node id="3204563461" lat="51.5266481" lon="-0.1275035"  n="Jenkins Hotel" t="tourism" st="hotel"/>
+<node id="3211564198" lat="51.5084829" lon="-0.1289458"  n="Statue of James II" t="tourism" st="artwork"/>
+<node id="3212673929" lat="51.5238903" lon="-0.1446216"  n="John F. Kennedy Memorial" t="tourism" st="artwork"/>
+<node id="3213977869" lat="51.533041" lon="-0.0761964"  n="Hundred Years Gallery" t="tourism" st="gallery"/>
+<node id="3214649346" lat="51.5189313" lon="-0.1444295"  n="Quintin and Alice Hogg Memorial" t="tourism" st="artwork"/>
+<node id="3217430961" lat="51.4976165" lon="-0.1023386"  n="ASC Gallery" t="tourism" st="gallery"/>
+<node id="3223489422" lat="51.490553" lon="-0.1448993"  n="Artist Residence" t="tourism" st="hotel"/>
+<node id="3223489423" lat="51.4916453" lon="-0.1415018"  n="Best Western Victoria Palace" t="tourism" st="hotel"/>
+<node id="3223489425" lat="51.491172" lon="-0.1449454"  n="Eccleston Square Hotel" t="tourism" st="hotel"/>
+<node id="3223489427" lat="51.4913889" lon="-0.1454526"  n="Jubilee Bed and Breakfast" t="tourism" st="guest_house"/>
+<node id="3223489428" lat="51.4908631" lon="-0.1447903"  n="Sheriff Hotel" t="tourism" st="hotel"/>
+<node id="3223489429" lat="51.4914874" lon="-0.1420448"  n="The Blair Victoria &#38; Tudor Inn Hotel" t="tourism" st="hotel"/>
+<node id="3230002074" lat="51.5288076" lon="-0.1227249"  n="The Melville Hotel" t="tourism" st="hotel"/>
+<node id="3230539781" lat="51.4264038" lon="-0.3332728"  n="Travelodge" t="tourism" st="hotel"/>
+<node id="3230679305" lat="51.500324" lon="-0.1797409"  n="Astor Hyde Park" t="tourism" st="hostel"/>
+<node id="3242621431" lat="51.5166367" lon="-0.1780553"  n="Paddington Bear" t="tourism" st="artwork"/>
+<node id="3242621433" lat="51.5166465" lon="-0.1772477"  n="Isambard Kingdom Brunel" t="tourism" st="artwork"/>
+<node id="3244650218" lat="51.5309713" lon="-0.1208364"  n="Keystone Hostel" t="tourism" st="hotel"/>
+<node id="3249109138" lat="51.4233004" lon="-0.2236798"  n="Lauriston Cottage" t="tourism" st="attraction"/>
+<node id="3254734993" lat="51.4757123" lon="-0.0195764"  n="Premier Inn London Greenwich" t="tourism" st="hotel"/>
+<node id="3255540461" lat="51.5120259" lon="-0.1866141"  n="Berjaya eden Park Hotel" t="tourism" st="hotel"/>
+<node id="3296315868" lat="51.5811585" lon="-0.3428417"  n="Harrow Hotel" t="tourism" st="hotel"/>
+<node id="3337830245" lat="51.5743015" lon="-0.0977912"  n="united lodge hotel" t="tourism" st="hotel"/>
+<node id="3349882188" lat="51.5152798" lon="-0.1158728"  n="Hunterian Museum" t="tourism" st="museum"/>
+<node id="3384668690" lat="51.4952842" lon="-0.1816667"  n="Radisson Blu Edwardian Vanderbilt Hotel" t="tourism" st="hotel"/>
+<node id="3387399522" lat="51.4715772" lon="-0.2190986"  n="Sprinting" t="tourism" st="artwork"/>
+<node id="3388823305" lat="51.5872933" lon="-0.0028731"  n="Pied Wagtails - Wood Street Walls" t="tourism" st="artwork"/>
+<node id="3397886782" lat="51.5197601" lon="-0.1165252"  n="Novelty Automation" t="tourism" st="attraction"/>
+<node id="3398281191" lat="51.5145048" lon="-0.1161629"  n="The Penguin" t="tourism" st="artwork"/>
+<node id="3398910288" lat="51.5178529" lon="-0.1185245"  n="Citadines" t="tourism" st="hotel"/>
+<node id="3408457578" lat="51.4652756" lon="-0.1840243"  n="The Tidal Thames" t="tourism" st="information"/>
+<node id="3421853547" lat="51.5722859" lon="-0.1487534"  n="Highgate School Museum" t="tourism" st="museum"/>
+<node id="3425282193" lat="51.5180782" lon="-0.1497459"  n="Marylebone Hotel" t="tourism" st="hotel"/>
+<node id="3425832854" lat="51.5135487" lon="-0.1933951"  n="New Linden Hotel" t="tourism" st="hotel"/>
+<node id="3432300477" lat="51.5683115" lon="0.0464765"  n="The Grotto" t="tourism" st="attraction"/>
+<node id="3440723793" lat="51.493543" lon="-0.215281"  n="St James&#39;s Hotel" t="tourism" st="hotel"/>
+<node id="3450607891" lat="51.528606" lon="-0.1268228"  n="Premier Inn St Pancras" t="tourism" st="hotel"/>
+<node id="3453930443" lat="51.5085772" lon="-0.0758096"  n="Crown Jewels" t="tourism" st="attraction"/>
+<node id="3475653847" lat="51.5066986" lon="-0.1047166"  n="Miner on the Moon" t="tourism" st="artwork"/>
+<node id="3492289893" lat="51.52365" lon="-0.1448704"  n="International Students House" t="tourism" st="hostel"/>
+<node id="3498748654" lat="51.5124599" lon="-0.1210881"  n="London Film Museum" t="tourism" st="museum"/>
+<node id="3504977038" lat="51.4643533" lon="-0.2136615"  n="mk london" t="tourism" st="hotel"/>
+<node id="3528824503" lat="51.525359" lon="-0.117697"  n="Goodenough Club" t="tourism" st="hotel"/>
+<node id="3531929147" lat="51.5187741" lon="-0.151172"  n="Railings Gallery" t="tourism" st="gallery"/>
+<node id="3531929148" lat="51.5188788" lon="-0.1505187"  n="Thompson’s" t="tourism" st="gallery"/>
+<node id="3547713795" lat="51.540725" lon="-0.255968"  n="Helen&#39;s Hotel" t="tourism" st="hotel"/>
+<node id="3577483748" lat="51.5329002" lon="-0.0441162"  n="Ernö Bartha" t="tourism" st="artwork"/>
+<node id="3577483749" lat="51.5328718" lon="-0.0442637"  n="Ernö Bartha" t="tourism" st="artwork"/>
+<node id="3608653828" lat="51.5423539" lon="-0.1471238"  n="Camden Market" t="tourism" st="attraction"/>
+<node id="3608711493" lat="51.4938615" lon="-0.0905971"  n="RestUp London" t="tourism" st="hostel"/>
+<node id="3616253823" lat="51.51177" lon="-0.1854729"  n="Astor Queesway Hostel" t="tourism" st="hostel"/>
+<node id="3617560910" lat="51.5210285" lon="-0.0776359"  n="Tune Hotel Liverpool Street" t="tourism" st="hotel"/>
+<node id="3627673308" lat="51.5227738" lon="-0.0361562"  n="History of Mile End Park" t="tourism" st="information"/>
+<node id="3627673311" lat="51.521805" lon="-0.034673"  n="Spiders of Mile End Park" t="tourism" st="information"/>
+<node id="3628947766" lat="51.4445938" lon="-0.340489"  n="Friends of Twickenham Green" t="tourism" st="information"/>
+<node id="3631355120" lat="51.5183175" lon="-0.0764165"  n="Historic Spitalfields" t="tourism" st="information"/>
+<node id="3640661928" lat="51.537068" lon="-0.4763243"  n="Brunel Lodge Guest House" t="tourism" st="guest_house"/>
+<node id="3652855355" lat="51.5879582" lon="-0.142627"  n="Birds of Parkland Walk" t="tourism" st="information"/>
+<node id="3652856057" lat="51.5866595" lon="-0.1465211"  n="History of Parkland Walk" t="tourism" st="information"/>
+<node id="3654891860" lat="51.5931822" lon="-0.0207362"  n="Pagoda Monoform" t="tourism" st="artwork"/>
+<node id="3658088025" lat="51.5182829" lon="-0.0028775"  n="Sensation" t="tourism" st="artwork"/>
+<node id="3658098800" lat="51.5203969" lon="-0.0086024"  n="DNA DL90" t="tourism" st="artwork"/>
+<node id="3658309546" lat="51.5419671" lon="-0.013726"  n="Stratford Waterfront / Olympicopolis / Beach East" t="tourism" st="attraction"/>
+<node id="3680632656" lat="51.5172644" lon="-0.0601495"  n="The Royal London Hospital Museum" t="tourism" st="museum"/>
+<node id="3682120256" lat="51.5428639" lon="-0.0028995"  n="1797" t="tourism" st="artwork"/>
+<node id="3682258335" lat="51.5404399" lon="-0.0182122"  n="Swing Chair" t="tourism" st="artwork"/>
+<node id="3686050125" lat="51.5226998" lon="-0.133743"  n="Chenies Mews" t="tourism" st="museum"/>
+<node id="3688619645" lat="51.4957275" lon="-0.1441864"  n="Tourist Services" t="tourism" st="yes"/>
+<node id="3701919583" lat="51.4920675" lon="-0.1929461"  n="Police Box" t="tourism" st="attraction"/>
+<node id="3703615258" lat="51.5107439" lon="-0.0772787"  n="Novotel London Tower Bridge" t="tourism" st="hotel"/>
+<node id="3719938117" lat="51.5225674" lon="-0.1443667"  n="2 Devonshire Rooms" t="tourism" st="apartment"/>
+<node id="3761601091" lat="51.5616517" lon="-0.08268"  n="The Gallery" t="tourism" st="museum"/>
+<node id="3790298260" lat="51.498558" lon="-0.2219918"  n="Sergul" t="tourism" st="hotel"/>
+<node id="3790298261" lat="51.4986241" lon="-0.2219633"  n="Golden Strand" t="tourism" st="hotel"/>
+<node id="3790298262" lat="51.498691" lon="-0.2219388"  n="Orlando" t="tourism" st="hotel"/>
+<node id="3790320958" lat="51.4981782" lon="-0.2220823"  n="Star" t="tourism" st="hotel"/>
+<node id="3790325657" lat="51.4980165" lon="-0.222128"  n="Saba" t="tourism" st="hotel"/>
+<node id="3790329158" lat="51.4991614" lon="-0.2218326"  n="Hotel Seventy Three" t="tourism" st="hotel"/>
+<node id="3790332059" lat="51.4988374" lon="-0.2218962"  n="Hellenic Hotel" t="tourism" st="hotel"/>
+<node id="3790332060" lat="51.4993426" lon="-0.2217978"  n="Hotel 65" t="tourism" st="hotel"/>
+<node id="3790332157" lat="51.4989614" lon="-0.2224678"  n="Comfotel" t="tourism" st="hotel"/>
+<node id="3790332158" lat="51.4990752" lon="-0.2218612"  n="Melandre Hotel" t="tourism" st="hotel"/>
+<node id="3790332257" lat="51.4991379" lon="-0.2224274"  n="New Century Inn" t="tourism" st="hotel"/>
+<node id="3790352959" lat="51.5007472" lon="-0.221693"  n="Hotel 45" t="tourism" st="hotel"/>
+<node id="3790353062" lat="51.5006875" lon="-0.2216969"  n="Royal London Hotel" t="tourism" st="hotel"/>
+<node id="3790353063" lat="51.5012156" lon="-0.2216875"  n="Euro Hotel" t="tourism" st="hotel"/>
+<node id="3790359657" lat="51.500525" lon="-0.2217129"  n="Plaza Hotel" t="tourism" st="hotel"/>
+<node id="3790359757" lat="51.5005798" lon="-0.2217086"  n="Emerald Hotel" t="tourism" st="hotel"/>
+<node id="3790359758" lat="51.5006361" lon="-0.2217063"  n="Pearl Hotel" t="tourism" st="hotel"/>
+<node id="3790359759" lat="51.5007917" lon="-0.2216888"  n="Royal London Hotel &#38; Apartments" t="tourism" st="hotel"/>
+<node id="3790359760" lat="51.5008983" lon="-0.2216652"  n="Sapphire Hotel" t="tourism" st="hotel"/>
+<node id="3790359857" lat="51.5009891" lon="-0.221647"  n="Balkan Hotel" t="tourism" st="hotel"/>
+<node id="3800998363" lat="51.5828187" lon="-0.0190406"  n="Travelodge Walthamstow" t="tourism" st="hostel"/>
+<node id="3804685596" lat="51.5176602" lon="-0.0782169"  n="Street Art" t="tourism" st="artwork"/>
+<node id="3804685597" lat="51.5245773" lon="-0.074069"  n="Citzenkane" t="tourism" st="artwork"/>
+<node id="3804685599" lat="51.5225193" lon="-0.0711531"  n="Street Art" t="tourism" st="artwork"/>
+<node id="3804685601" lat="51.5221468" lon="-0.0716154"  n="fotozino" t="tourism" st="artwork"/>
+<node id="3804685603" lat="51.5207402" lon="-0.0736888"  n="Banksy" t="tourism" st="artwork"/>
+<node id="3804685607" lat="51.5202384" lon="-0.0736045"  n="Street Art" t="tourism" st="artwork"/>
+<node id="3804685610" lat="51.5184073" lon="-0.0740014"  n="Street Art" t="tourism" st="artwork"/>
+<node id="3804685613" lat="51.5232756" lon="-0.0715242"  n="Zaboum" t="tourism" st="artwork"/>
+<node id="3804685615" lat="51.5225856" lon="-0.0714342"  n="Street Art" t="tourism" st="artwork"/>
+<node id="3804685619" lat="51.5202587" lon="-0.0716877"  n="Street Art" t="tourism" st="artwork"/>
+<node id="3804685623" lat="51.5208829" lon="-0.073757"  n="Invador" t="tourism" st="artwork"/>
+<node id="3804685627" lat="51.5195036" lon="-0.0734042"  n="Paul don Smith" t="tourism" st="artwork"/>
+<node id="3804685630" lat="51.5240636" lon="-0.0741915"  n="Jimmy C." t="tourism" st="artwork"/>
+<node id="3804685633" lat="51.5225933" lon="-0.0708993"  n="Street Art" t="tourism" st="artwork"/>
+<node id="3804685635" lat="51.5203151" lon="-0.0715278"  n="Street Art" t="tourism" st="artwork"/>
+<node id="3804685639" lat="51.5209374" lon="-0.0737328"  n="Ronso" t="tourism" st="artwork"/>
+<node id="3804685642" lat="51.5203808" lon="-0.0733891"  n="Street Art" t="tourism" st="artwork"/>
+<node id="3811558992" lat="51.5146564" lon="-0.0572157"  n="Holiday Inn London - Commercial Road" t="tourism" st="hotel"/>
+<node id="3815824496" lat="51.5095253" lon="-0.1966576"  n="The Laslett" t="tourism" st="hotel"/>
+<node id="3825210172" lat="51.5939032" lon="-0.0212648"  n="The Winns Gallery" t="tourism" st="gallery"/>
+<node id="3826571379" lat="51.563321" lon="-0.0476632"  n="Friendship Tree Sculpture" t="tourism" st="artwork"/>
+<node id="3827778663" lat="51.5204675" lon="0.1083044"  n="Dave Taylor" t="tourism" st="artwork"/>
+<node id="3836337274" lat="51.5162872" lon="-0.1771849"  n="TfL Visitor Centre" t="tourism" st="information"/>
+<node id="3857665457" lat="51.520133" lon="-0.1173737"  n="Primier In London Holborn" t="tourism" st="bed_and_breakfast"/>
+<node id="3868276529" lat="51.532163" lon="-0.1251082"  n="Jaques Rival" t="tourism" st="artwork"/>
+<node id="3881615607" lat="51.5213508" lon="-0.030031"  n="FCT Bed and Breakfast" t="tourism" st="guest_house"/>
+<node id="3884818457" lat="51.4814531" lon="-0.1481894"  n="Pestana Chelsea Bridge Hotel &#38; Spa" t="tourism" st="hotel"/>
+<node id="3904764963" lat="51.4345823" lon="-0.395966"  n="Fortescue House" t="tourism" st="hotel"/>
+<node id="3911003155" lat="51.4674911" lon="-0.1874546"  n="Kops Brewery" t="tourism" st="memorial"/>
+<node id="3916613190" lat="51.5237604" lon="-0.1584945"  n="The Sherlock Holmes Museum" t="tourism" st="museum"/>
+<node id="3922688288" lat="51.5105061" lon="-0.1718132"  n="Kensington Gardens" t="tourism" st="information"/>
+<node id="3924098190" lat="51.5358951" lon="-0.0885794"  n="Hitchcock sculpture" t="tourism" st="artwork"/>
+<node id="3932310842" lat="51.5174584" lon="-0.0706571"  n="Brick Lane" t="tourism" st="attraction"/>
+<node id="3959106671" lat="51.4955593" lon="-0.1797214"  n="Baden-Powell House" t="tourism" st="hostel"/>
+<node id="3965667847" lat="51.5098919" lon="-0.3248467"  n="Holiday Inn Express London-Ealing" t="tourism" st="hotel"/>
+<node id="3983687177" lat="51.5423293" lon="-0.0073084"  n="Staybridge Suites London - Stratford City" t="tourism" st="hotel"/>
+<node id="4001421443" lat="51.5171544" lon="-0.1220969"  n="The Hoxton" t="tourism" st="hotel"/>
+<node id="4002880204" lat="51.4097328" lon="-0.3011433"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="4008243799" lat="51.5669299" lon="-0.1462347"  n="Highgate Cemetery" t="tourism" st="attraction"/>
+<node id="4026677009" lat="51.4747385" lon="-0.188726"  n="Queen Elisabeth Chelsea" t="tourism" st="hostel"/>
+<node id="4062923527" lat="51.5138704" lon="-0.1011565"  n="Club Quarters" t="tourism" st="hotel"/>
+<node id="4079127843" lat="51.5441162" lon="-0.0079399"  n="Primark" t="tourism" st="bed_and_breakfast"/>
+<node id="4080508590" lat="51.4620672" lon="-0.187006"  n="test" t="tourism" st="bed_and_breakfast"/>
+<node id="4095616696" lat="51.573111" lon="-0.4312842"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="4102445992" lat="51.4917535" lon="-0.1921755"  n="Riz Guest House" t="tourism" st="hostel"/>
+<node id="4117016448" lat="51.4211649" lon="-0.2071215"  n="Deer" t="tourism" st="artwork"/>
+<node id="4117997533" lat="51.5209716" lon="-0.1233317"  n="Mercure London Bloomsbury" t="tourism" st="hotel"/>
+<node id="4120299744" lat="51.5413374" lon="-0.0105858"  n="Information Point" t="tourism" st="information"/>
+<node id="4121355047" lat="51.4308389" lon="-0.1403086"  n="Tooting Bec Common" t="tourism" st="information"/>
+<node id="4126698662" lat="51.5177738" lon="-0.1241566"  n="Thistle Holborn -The Kingsley" t="tourism" st="hotel"/>
+<node id="4127709389" lat="51.453765" lon="-0.3075561"  n="Maison" t="tourism" st="hotel"/>
+<node id="4135488379" lat="51.526279" lon="-0.0375981"  n="Beetles of Mile End Park" t="tourism" st="information"/>
+<node id="4151804440" lat="51.542235" lon="-0.3251786"  n="Ballot Box Bridge" t="tourism" st="information"/>
+<node id="4157002097" lat="51.4903446" lon="-0.1402519"  n="Caswell Hotel" t="tourism" st="hotel"/>
+<node id="4158413195" lat="51.536209" lon="0.0792645"  n="Town Square" t="tourism" st="attraction"/>
+<node id="4161767292" lat="51.4126449" lon="-0.3614989"  n="Bell Hill" t="tourism" st="information"/>
+<node id="4161768921" lat="51.4126449" lon="-0.3614989"  n="Bell Hill" t="tourism" st="information"/>
+<node id="4162572325" lat="51.5377364" lon="0.0723677"  n="Lighted Lady of Barking" t="tourism" st="artwork"/>
+<node id="4165663492" lat="51.4786821" lon="-0.3636331"  n="Best Western Plus Park Grand Hotel Heathrow" t="tourism" st="hotel"/>
+<node id="4170304793" lat="51.533804" lon="0.0719676"  n="Ibis" t="tourism" st="hotel"/>
+<node id="4170333063" lat="51.5343093" lon="0.0716751"  n="Premier Inn" t="tourism" st="hotel"/>
+<node id="4170333071" lat="51.5350339" lon="0.0708921"  n="Ibis Budget" t="tourism" st="hotel"/>
+<node id="4173346689" lat="51.503825" lon="-0.0948028"  n="The Rose &#38; Crown" t="tourism" st="hostel"/>
+<node id="4173548736" lat="51.5365684" lon="0.0788291"  n="Folly Wall" t="tourism" st="attraction"/>
+<node id="4180261391" lat="51.4617773" lon="-0.2979779"  n="Richmond Inn Hotel" t="tourism" st="hotel"/>
+<node id="4190439901" lat="51.5203301" lon="-0.1570347"  n="The Koppel Project" t="tourism" st="gallery"/>
+<node id="4195883572" lat="51.562772" lon="-0.0374651"  n="The Jump" t="tourism" st="artwork"/>
+<node id="4197641693" lat="51.5122568" lon="-0.0342212"  n="via Limehouse Hostel" t="tourism" st="hotel"/>
+<node id="4213211689" lat="51.5136756" lon="-0.1897165"  n="Lancaster gate hotel" t="tourism" st="hotel"/>
+<node id="4213420877" lat="51.3497614" lon="-0.3190434"  n="Zufari: Ride Into Africa" t="tourism" st="attraction"/>
+<node id="4213490018" lat="51.3481026" lon="-0.3219299"  n="Explorer Glamping" t="tourism" st="attraction"/>
+<node id="4213593183" lat="51.3485848" lon="-0.316837"  n="Market Square" t="tourism" st="attraction"/>
+<node id="4213593184" lat="51.3471156" lon="-0.3164186"  n="Vampire" t="tourism" st="attraction"/>
+<node id="4213593185" lat="51.3495078" lon="-0.3166278"  n="Amazu" t="tourism" st="attraction"/>
+<node id="4225839194" lat="51.5828274" lon="-0.3375832"  n="Hotel Crescent" t="tourism" st="hostel"/>
+<node id="4226030289" lat="51.5135066" lon="-0.1457585"  n="Galeries Bartoux" t="tourism" st="artwork"/>
+<node id="4227749789" lat="51.5103501" lon="-0.3410213"  n="David&#39;s" t="tourism" st="attraction"/>
+<node id="4228964084" lat="51.4489668" lon="-0.3121524"  n="Marble Hill Park Grotto" t="tourism" st="artwork"/>
+<node id="4231455392" lat="51.4897649" lon="-0.0881796"  n="generator hostel London " t="tourism" st="hostel"/>
+<node id="4233896694" lat="51.511948" lon="-0.1237274"  n="Free Walking Tour" t="tourism" st="attraction"/>
+<node id="4234003095" lat="51.5230303" lon="-0.1257912"  n="Morton Hotel" t="tourism" st="hotel"/>
+<node id="4234003692" lat="51.5142463" lon="-0.1318353"  n="Hazlitt&#39;s Hotel" t="tourism" st="hotel"/>
+<node id="4242360590" lat="51.5145269" lon="-0.155832"  n="sussex hotel" t="tourism" st="hotel"/>
+<node id="4242571089" lat="51.4997189" lon="-0.1421503"  n="バッキンガム宮殿" t="tourism" st="viewpoint"/>
+<node id="4249500538" lat="51.5352039" lon="-0.1561087"  n="Aquarium" t="tourism" st="attraction"/>
+<node id="4249500590" lat="51.534922" lon="-0.1564147"  n="Kangaroos" t="tourism" st="attraction"/>
+<node id="4258650631" lat="51.5202234" lon="-0.1024015"  n="The Rookery" t="tourism" st="hotel"/>
+<node id="4265660980" lat="51.5458757" lon="-0.4789783"  n="Anita Lafford" t="tourism" st="artwork"/>
+<node id="4268111689" lat="51.516751" lon="-0.1362472"  n="London EDITION" t="tourism" st="hotel"/>
+<node id="4270414018" lat="51.5057681" lon="-0.0624263"  n="John Rennie" t="tourism" st="artwork"/>
+<node id="4270562972" lat="51.514192" lon="-0.1320699"  n="Frith Street Gallery" t="tourism" st="gallery"/>
+<node id="4270711789" lat="51.5175029" lon="-0.186984"  n="I stayed here in 1964 with Mum - Now Apartments" t="tourism" st="guest_house"/>
+<node id="4273014391" lat="51.4680176" lon="-0.1505388"  n="Airbnb" t="tourism" st="hotel"/>
+<node id="4274476002" lat="51.4906402" lon="-0.3408392"  n="Osterley Park and House" t="tourism" st="information"/>
+<node id="4278060433" lat="51.5070637" lon="-0.0674677"  n="Michael Beck" t="tourism" st="artwork"/>

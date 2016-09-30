@@ -1,0 +1,803 @@
+<node id="29341042" lat="52.5637175" lon="-1.9042325"  n="Doe bank Park" t="bank" st=""/>
+<node id="60852053" lat="52.5538113" lon="-1.8848746"  n="HSBC" t="bank" st=""/>
+<node id="142155156" lat="52.486888" lon="-1.9584403"  n="Barclays" t="bank" st=""/>
+<node id="142155162" lat="52.4868932" lon="-1.9585348"  n="Lloyds TSB" t="bank" st=""/>
+<node id="257235809" lat="52.4072585" lon="-1.8876534"  n="Lloyds TSB" t="bank" st=""/>
+<node id="275463480" lat="52.4075743" lon="-1.5106976"  n="Nationwide" t="bank" st=""/>
+<node id="284463108" lat="52.3917255" lon="-1.6498596"  n="Barclays Bank" t="bank" st=""/>
+<node id="284463117" lat="52.392224" lon="-1.6491058"  n="HSBC" t="bank" st=""/>
+<node id="305801424" lat="52.4571788" lon="-2.1468535"  n="NatWest" t="bank" st=""/>
+<node id="312747314" lat="52.4803041" lon="-1.8951985"  n="My Home" t="bank" st=""/>
+<node id="312875276" lat="52.3787168" lon="-1.5603332"  n="Santander" t="bank" st=""/>
+<node id="325958897" lat="52.4730533" lon="-1.917204"  n="Santander" t="bank" st=""/>
+<node id="369884584" lat="52.5242402" lon="-2.0039326"  n="Swinton" t="bank" st=""/>
+<node id="369884648" lat="52.5200215" lon="-1.9969128"  n="Lloyds TSB" t="bank" st=""/>
+<node id="410996458" lat="52.4793809" lon="-2.1095639"  n="West Bromwich Building Society" t="bank" st=""/>
+<node id="452905072" lat="52.3785611" lon="-1.560595"  n="Barclays" t="bank" st=""/>
+<node id="488205546" lat="52.4093355" lon="-1.5143968"  n="HSBC" t="bank" st=""/>
+<node id="498316525" lat="52.4109513" lon="-1.481816"  n="NatWest" t="bank" st=""/>
+<node id="503394668" lat="52.4601527" lon="-1.944937"  n="Barclays" t="bank" st=""/>
+<node id="559619431" lat="52.5410992" lon="-2.1226208"  n="Barclays" t="bank" st=""/>
+<node id="569732046" lat="52.4300774" lon="-1.9344307"  n="Lloyds TSB Bournville" t="bank" st=""/>
+<node id="630738415" lat="52.4795721" lon="-1.9017999"  n="Halifax" t="bank" st=""/>
+<node id="705448228" lat="52.4069682" lon="-1.5108137"  n="Yorkshire Building Society" t="bank" st=""/>
+<node id="858057323" lat="52.4169971" lon="-1.5268739"  n="Lloyds Bank" t="bank" st=""/>
+<node id="900302269" lat="52.4065159" lon="-1.8874003"  n="Barclays" t="bank" st=""/>
+<node id="955999940" lat="52.4790876" lon="-1.8950989"  n="Barclays" t="bank" st=""/>
+<node id="956009160" lat="52.4811224" lon="-1.8958744"  n="Oakam" t="bank" st=""/>
+<node id="956010117" lat="52.4814822" lon="-1.8974193"  n="RBS" t="bank" st=""/>
+<node id="956010122" lat="52.4813701" lon="-1.8972659"  n="Natwest" t="bank" st=""/>
+<node id="956033701" lat="52.478553" lon="-1.8959856"  n="RBS" t="bank" st=""/>
+<node id="958700186" lat="52.5171635" lon="-1.9021852"  n="NatWest" t="bank" st=""/>
+<node id="959464470" lat="52.5452259" lon="-1.9319567"  n="HSBC" t="bank" st=""/>
+<node id="959516507" lat="52.5450138" lon="-1.9316369"  n="NatWest" t="bank" st=""/>
+<node id="959520733" lat="52.5449036" lon="-1.9314664"  n="Barclays Bank PLC" t="bank" st=""/>
+<node id="959538656" lat="52.5445473" lon="-1.9308762"  n="Halifax" t="bank" st=""/>
+<node id="959541334" lat="52.5169443" lon="-1.902579"  n="The West Brum" t="bank" st=""/>
+<node id="963084934" lat="52.5417414" lon="-1.8850188"  n="Barclays" t="bank" st=""/>
+<node id="963084966" lat="52.5416751" lon="-1.8846508"  n="Halifax" t="bank" st=""/>
+<node id="963084978" lat="52.5412595" lon="-1.8845613"  n="Lloyds TSB" t="bank" st=""/>
+<node id="975839233" lat="52.4806059" lon="-1.8938031"  n="TSB" t="bank" st=""/>
+<node id="975847490" lat="52.47952" lon="-1.9000964"  n="Nationwide" t="bank" st=""/>
+<node id="1083797746" lat="52.4802217" lon="-1.9010028"  n="Coutts" t="bank" st=""/>
+<node id="1102143909" lat="52.4828644" lon="-1.8955686"  n="TSB" t="bank" st=""/>
+<node id="1163242662" lat="52.4464638" lon="-1.8189313"  n="Natwest" t="bank" st=""/>
+<node id="1216272695" lat="52.5523059" lon="-1.8840954"  n="Halifax" t="bank" st=""/>
+<node id="1272977533" lat="52.4794586" lon="-1.9009301"  n="Chelsea Building Society" t="bank" st=""/>
+<node id="1272977539" lat="52.4794973" lon="-1.9013058"  n="Yorkshire Building Society" t="bank" st=""/>
+<node id="1332602054" lat="52.5850838" lon="-2.1292437"  n="Santander" t="bank" st=""/>
+<node id="1332602143" lat="52.5854203" lon="-2.129116"  n="The West Brom" t="bank" st=""/>
+<node id="1332657362" lat="52.5841986" lon="-2.1295534"  n="Santander" t="bank" st=""/>
+<node id="1448335480" lat="52.4762709" lon="-2.039195"  n="Barclays Blackheath" t="bank" st=""/>
+<node id="1471990287" lat="52.4331718" lon="-1.8928233"  n="Barclays" t="bank" st=""/>
+<node id="1471990302" lat="52.4331221" lon="-1.8928233"  n="Santander" t="bank" st=""/>
+<node id="1524292466" lat="52.544566" lon="-1.9833648"  n="West Bromwich Building Society" t="bank" st=""/>
+<node id="1533253488" lat="52.4756102" lon="-2.039342"  n="HSBC" t="bank" st=""/>
+<node id="1533254665" lat="52.4753847" lon="-2.0407394"  n="Britannia Building Society" t="bank" st=""/>
+<node id="1533256257" lat="52.475669" lon="-2.0410935"  n="Natwest" t="bank" st=""/>
+<node id="1580668153" lat="52.4795143" lon="-1.9016059"  n="Santander" t="bank" st=""/>
+<node id="1666711633" lat="52.4976653" lon="-2.1690926"  n="Santander" t="bank" st=""/>
+<node id="1667998115" lat="52.406395" lon="-1.5086746"  n="Royal Bank of Scotland" t="bank" st=""/>
+<node id="1687103202" lat="52.41481" lon="-1.7783529"  n="Lloyds" t="bank" st=""/>
+<node id="1687103223" lat="52.413603" lon="-1.7786172"  n="Yorkshire Building Society" t="bank" st=""/>
+<node id="1797131640" lat="52.4142779" lon="-1.780259"  n="Britannia Building Society" t="bank" st=""/>
+<node id="1837286264" lat="52.4382917" lon="-1.9400493"  n="Lloyds" t="bank" st=""/>
+<node id="2142639972" lat="52.5457226" lon="-1.932452"  n="Loans 2go" t="bank" st=""/>
+<node id="2143716712" lat="52.5404956" lon="-2.1211362"  n="Lloyds TSB" t="bank" st=""/>
+<node id="2143717192" lat="52.5405503" lon="-2.1212073"  n="Nationwide" t="bank" st=""/>
+<node id="2143805436" lat="52.5416645" lon="-2.122358"  n="The West Brom" t="bank" st=""/>
+<node id="2143853902" lat="52.5410152" lon="-2.1221045"  n="The Tipton and Coseley Building Society" t="bank" st=""/>
+<node id="2143877890" lat="52.540547" lon="-2.1216217"  n="Dudley Building Society" t="bank" st=""/>
+<node id="2144071619" lat="52.4622065" lon="-2.0102625"  n="Lloyds TSB" t="bank" st=""/>
+<node id="2144170202" lat="52.4635629" lon="-1.9964719"  n="The Coventry" t="bank" st=""/>
+<node id="2301078258" lat="52.6052224" lon="-1.9162598"  n="Lloyds TSB" t="bank" st=""/>
+<node id="2301078259" lat="52.6051701" lon="-1.91584"  n="Barclays" t="bank" st=""/>
+<node id="2301078290" lat="52.6051846" lon="-1.9182893"  n="HSBC - Aldridge" t="bank" st=""/>
+<node id="2302695908" lat="52.6032543" lon="-1.9189218"  n="NatWest UK - Aldridge" t="bank" st=""/>
+<node id="2302695921" lat="52.6042922" lon="-1.9187793"  n="Santander - Aldridge" t="bank" st=""/>
+<node id="2302695930" lat="52.6048295" lon="-1.9184263"  n="Cheltenham &#38; Gloucester" t="bank" st=""/>
+<node id="2500570678" lat="52.4143025" lon="-1.7793715"  n="TSB" t="bank" st=""/>
+<node id="2500570687" lat="52.4142267" lon="-1.779433"  n="The Coventry" t="bank" st=""/>
+<node id="2509426089" lat="52.4766213" lon="-1.9127429"  n="NatWest" t="bank" st=""/>
+<node id="2519250911" lat="52.478769" lon="-1.8970408"  n="NatWest" t="bank" st=""/>
+<node id="2519321004" lat="52.480539" lon="-1.8943772"  n="Streek UK" t="bank" st=""/>
+<node id="2525941006" lat="52.4382402" lon="-1.9702022"  n="Lloyds" t="bank" st=""/>
+<node id="2526028771" lat="52.4817467" lon="-1.9022862"  n="Handelsbanken" t="bank" st=""/>
+<node id="2526028779" lat="52.481201" lon="-1.9018229"  n="Lloyds" t="bank" st=""/>
+<node id="2535904199" lat="52.4774576" lon="-1.895074"  n="Halifax" t="bank" st=""/>
+<node id="2535904281" lat="52.4778502" lon="-1.8949906"  n="Santander" t="bank" st=""/>
+<node id="2542462517" lat="52.4511554" lon="-1.9319171"  n="Barclays" t="bank" st=""/>
+<node id="2542462523" lat="52.4507857" lon="-1.9324646"  n="Lloyds" t="bank" st=""/>
+<node id="2556578490" lat="52.4740062" lon="-1.899291"  n="Bank of China" t="bank" st=""/>
+<node id="2600505895" lat="52.5173857" lon="-1.9032993"  n="Halifax" t="bank" st=""/>
+<node id="2689862295" lat="52.4269332" lon="-1.5005112"  n="BJ Finance" t="bank" st=""/>
+<node id="2689870494" lat="52.427404" lon="-1.5001411"  n="Agn Money" t="bank" st=""/>
+<node id="2692882526" lat="52.428657" lon="-1.4993686"  n="Nat West" t="bank" st=""/>
+<node id="2692893092" lat="52.4289937" lon="-1.4990682"  n="Lloyds Bank" t="bank" st=""/>
+<node id="2692894266" lat="52.4290593" lon="-1.4990146"  n="Barclays" t="bank" st=""/>
+<node id="2692898974" lat="52.4291869" lon="-1.498918"  n="Riaz Money Service And Travel" t="bank" st=""/>
+<node id="2692932611" lat="52.4293112" lon="-1.4986659"  n="HSBC" t="bank" st=""/>
+<node id="2692938894" lat="52.4292457" lon="-1.4979524"  n="The Coventry" t="bank" st=""/>
+<node id="2694492416" lat="52.4749086" lon="-2.0377426"  n="Cash Converters" t="bank" st=""/>
+<node id="2694607504" lat="52.4752221" lon="-2.067201"  n="TSB Bank" t="bank" st=""/>
+<node id="2694614377" lat="52.4754133" lon="-2.0678931"  n="Barclays" t="bank" st=""/>
+<node id="2696492423" lat="52.4730554" lon="-2.079962"  n="Gold Direct" t="bank" st=""/>
+<node id="2696495803" lat="52.4726142" lon="-2.081"  n="Lloyds Bank" t="bank" st=""/>
+<node id="2696518235" lat="52.4721421" lon="-2.0819576"  n="HSBC" t="bank" st=""/>
+<node id="2696571425" lat="52.4716421" lon="-2.0836231"  n="The West Brom" t="bank" st=""/>
+<node id="2696703431" lat="52.4724346" lon="-2.1045083"  n="Nisa Local Bank" t="bank" st=""/>
+<node id="2698297551" lat="52.4364895" lon="-1.4743651"  n="The Coventry" t="bank" st=""/>
+<node id="2728356547" lat="52.4484442" lon="-2.0504502"  n="HSBC" t="bank" st=""/>
+<node id="2728356584" lat="52.4485998" lon="-2.0504031"  n="Santander" t="bank" st=""/>
+<node id="2790573193" lat="52.4493025" lon="-1.9276087"  n="Santander" t="bank" st=""/>
+<node id="2904721172" lat="52.4147898" lon="-1.9709498"  n="Lloyds Bank" t="bank" st=""/>
+<node id="2904721175" lat="52.4149508" lon="-1.9707886"  n="Halifax" t="bank" st=""/>
+<node id="2904721178" lat="52.4152855" lon="-1.9705038"  n="HSBC" t="bank" st=""/>
+<node id="2904721179" lat="52.4154824" lon="-1.9703049"  n="Barclays" t="bank" st=""/>
+<node id="2904764190" lat="52.4145086" lon="-1.9720976"  n="NatWest" t="bank" st=""/>
+<node id="2946730841" lat="52.5846617" lon="-1.9827918"  n="Barclays" t="bank" st=""/>
+<node id="2946730920" lat="52.5839982" lon="-1.9815852"  n="Halifax" t="bank" st=""/>
+<node id="2946730921" lat="52.5849978" lon="-1.9833113"  n="Halifax" t="bank" st=""/>
+<node id="2946730985" lat="52.585659" lon="-1.9789554"  n="RBS" t="bank" st=""/>
+<node id="2946730989" lat="52.5841023" lon="-1.9825513"  n="Santander" t="bank" st=""/>
+<node id="2946730990" lat="52.5842878" lon="-1.9828643"  n="Santander" t="bank" st=""/>
+<node id="3048296918" lat="52.4088692" lon="-1.5131477"  n="Santander" t="bank" st=""/>
+<node id="3049178166" lat="52.4070073" lon="-1.5107468"  n="Lloyds Bank" t="bank" st=""/>
+<node id="3049178178" lat="52.4072748" lon="-1.5103993"  n="Natwest" t="bank" st=""/>
+<node id="3049178213" lat="52.4068579" lon="-1.5109707"  n="State Bank of India" t="bank" st=""/>
+<node id="3108527345" lat="52.4164948" lon="-1.9695369"  n="Nationwide+atm" t="bank" st=""/>
+<node id="3108527390" lat="52.415337" lon="-1.9704465"  n="The West Brom" t="bank" st=""/>
+<node id="3200680809" lat="52.4520307" lon="-1.721441"  n="Nat West" t="bank" st=""/>
+<node id="3239887291" lat="52.4588264" lon="-1.9484723"  n="Natwest" t="bank" st=""/>
+<node id="3239887297" lat="52.4588801" lon="-1.9482464"  n="The West Brom" t="bank" st=""/>
+<node id="3413999974" lat="52.5097571" lon="-2.0835222"  n="Barclays" t="bank" st=""/>
+<node id="3438706016" lat="52.5025463" lon="-1.9318721"  n="Bank of India" t="bank" st=""/>
+<node id="3470524758" lat="52.4714897" lon="-1.8626299"  n="Sonali Bank" t="bank" st=""/>
+<node id="3470524768" lat="52.470664" lon="-1.8613831"  n="TSB" t="bank" st=""/>
+<node id="3470525074" lat="52.4712641" lon="-1.8620645"  n="Islamic Bank of Britain" t="bank" st=""/>
+<node id="3470525504" lat="52.4689716" lon="-1.8562261"  n="Barclays" t="bank" st=""/>
+<node id="3470525622" lat="52.4719522" lon="-1.8646665"  n="Nationwide" t="bank" st=""/>
+<node id="3556691520" lat="52.4770063" lon="-1.8558586"  n="Lloyds Bank" t="bank" st=""/>
+<node id="3562369492" lat="52.4894631" lon="-1.8525503"  n="TSB" t="bank" st=""/>
+<node id="3587715734" lat="52.4901831" lon="-2.0005438"  n="Barcalys" t="bank" st=""/>
+<node id="3594222435" lat="52.4212528" lon="-1.8787026"  n="Hollybank Post Office" t="bank" st=""/>
+<node id="3762945708" lat="52.4783949" lon="-1.8982443"  n="NatWest" t="bank" st=""/>
+<node id="3999455725" lat="52.5304772" lon="-2.0334711"  n="The West Brom" t="bank" st=""/>
+<node id="3999455726" lat="52.530549" lon="-2.0338674"  n="Barclays" t="bank" st=""/>
+<node id="4000889718" lat="52.5300735" lon="-2.0359377"  n="Lloyds Bank" t="bank" st=""/>
+<node id="4075247032" lat="52.4786192" lon="-1.907803"  n="First Municipal Savings bank in Britain 1933" t="bank" st=""/>
+<node id="4088209579" lat="52.4517899" lon="-1.7794599"  n="HSBC" t="bank" st=""/>
+<node id="4111733188" lat="52.386496" lon="-1.7339824"  n="Barclays" t="bank" st=""/>
+<node id="4111735295" lat="52.3866372" lon="-1.7343365"  n="The West Brom" t="bank" st=""/>
+<node id="4111792658" lat="52.3891954" lon="-1.7349212"  n="Lloyds" t="bank" st=""/>
+<node id="4151530100" lat="52.4317368" lon="-1.8932887"  n="Lloyds" t="bank" st=""/>
+<node id="26610812" lat="51.538854" lon="-0.142181"  n="NatWest" t="bank" st=""/>
+<node id="26819334" lat="51.515681" lon="-0.189746"  n="TSB" t="bank" st=""/>
+<node id="27431921" lat="51.4973753" lon="-0.1254002"  n="Millbank" t="bank" st=""/>
+<node id="30585307" lat="51.5124681" lon="-0.1877608"  n="Barclays" t="bank" st=""/>
+<node id="30794429" lat="51.4721368" lon="-0.0694844"  n="HSBC" t="bank" st=""/>
+<node id="37552361" lat="51.3580227" lon="-0.2162534"  n="Santander" t="bank" st=""/>
+<node id="37552364" lat="51.3578485" lon="-0.2166584"  n="Lloyds TSB" t="bank" st=""/>
+<node id="45265824" lat="51.6073487" lon="0.2196407"  n="NatWest" t="bank" st=""/>
+<node id="60268056" lat="51.536095" lon="-0.3192007"  n="NatWest" t="bank" st=""/>
+<node id="60660465" lat="51.5229924" lon="-0.1257455"  n="HSBC" t="bank" st=""/>
+<node id="77920686" lat="51.522102" lon="-0.124665"  n="Barclays" t="bank" st=""/>
+<node id="93189076" lat="51.5198459" lon="-0.0574613"  n="NatWest" t="bank" st=""/>
+<node id="98160783" lat="51.5707847" lon="-0.1476596"  n="Barclays" t="bank" st=""/>
+<node id="130116003" lat="51.4991619" lon="-0.1307097"  n="HSBC" t="bank" st=""/>
+<node id="130116214" lat="51.4980406" lon="-0.1349521"  n="Lloyds Bank" t="bank" st=""/>
+<node id="140615953" lat="51.5050791" lon="-0.2250061"  n="Barclays" t="bank" st=""/>
+<node id="246112128" lat="51.4622277" lon="-0.1375773"  n="Barclays" t="bank" st=""/>
+<node id="249249799" lat="51.6175441" lon="-0.311961"  n="Lloyds TSB" t="bank" st=""/>
+<node id="249793701" lat="51.5110086" lon="-0.3193773"  n="NatWest" t="bank" st=""/>
+<node id="254924507" lat="51.5189997" lon="-0.1331053"  n="NatWest" t="bank" st=""/>
+<node id="255006106" lat="51.5786115" lon="-0.1240755"  n="Santander" t="bank" st=""/>
+<node id="255012047" lat="51.5780625" lon="-0.123869"  n="NatWest" t="bank" st=""/>
+<node id="255396262" lat="51.5178198" lon="-0.1090776"  n="HSBC" t="bank" st=""/>
+<node id="255396266" lat="51.5146474" lon="-0.0981098"  n="Citi" t="bank" st=""/>
+<node id="255396267" lat="51.514642" lon="-0.0982288"  n="RBS" t="bank" st=""/>
+<node id="261287273" lat="51.4726798" lon="-0.1225008"  n="NatWest" t="bank" st=""/>
+<node id="263018281" lat="51.5618979" lon="-0.0738115"  n="Halifax" t="bank" st=""/>
+<node id="263018282" lat="51.5611235" lon="-0.0737294"  n="HSBC" t="bank" st=""/>
+<node id="263905048" lat="51.5731245" lon="-0.0713068"  n="HSBC" t="bank" st=""/>
+<node id="263905051" lat="51.573103" lon="-0.0721081"  n="Barclays" t="bank" st=""/>
+<node id="264515393" lat="51.5176647" lon="-0.1210661"  n="Royal Bank of Scotland" t="bank" st=""/>
+<node id="264625689" lat="51.5270763" lon="-0.0885744"  n="Barclays" t="bank" st=""/>
+<node id="266890504" lat="51.378934" lon="-0.2424848"  n="Nationwide Building Society" t="bank" st=""/>
+<node id="266902540" lat="51.3858286" lon="-0.2117021"  n="Barclays" t="bank" st=""/>
+<node id="266941779" lat="51.3586416" lon="-0.21673"  n="HSBC" t="bank" st=""/>
+<node id="266974691" lat="51.4917764" lon="-0.1246946"  n="Millbank Millennium Pier" t="bank" st=""/>
+<node id="269198290" lat="51.3571366" lon="-0.1706376"  n="Oldbank House" t="bank" st=""/>
+<node id="271388951" lat="51.4961248" lon="-0.1427495"  n="HSBC" t="bank" st=""/>
+<node id="275726796" lat="51.49249" lon="-0.137906"  n="Barclays" t="bank" st=""/>
+<node id="277834912" lat="51.3611329" lon="-0.1922703"  n="Barclays" t="bank" st=""/>
+<node id="277834922" lat="51.3614029" lon="-0.1924325"  n="Lloyds Bank" t="bank" st=""/>
+<node id="279104433" lat="51.5270732" lon="-0.0597073"  n="NatWest" t="bank" st=""/>
+<node id="279248673" lat="51.513368" lon="-0.057052"  n="Santander" t="bank" st=""/>
+<node id="280380043" lat="51.4621922" lon="-0.3029478"  n="Halifax" t="bank" st=""/>
+<node id="280380045" lat="51.4623824" lon="-0.302849"  n="Lloyds" t="bank" st=""/>
+<node id="280380052" lat="51.4629776" lon="-0.3026283"  n="The Royal Bank of Scotland" t="bank" st=""/>
+<node id="280546902" lat="51.5116974" lon="-0.0819854"  n="Nationwide" t="bank" st=""/>
+<node id="280547868" lat="51.5121568" lon="-0.0803595"  n="NatWest" t="bank" st=""/>
+<node id="280547869" lat="51.512255" lon="-0.0800589"  n="Barclays" t="bank" st=""/>
+<node id="280547870" lat="51.5120445" lon="-0.0794831"  n="HSBC" t="bank" st=""/>
+<node id="280547906" lat="51.459998" lon="-0.3057384"  n="Barclays" t="bank" st=""/>
+<node id="280547915" lat="51.4612398" lon="-0.303301"  n="Nationwide" t="bank" st=""/>
+<node id="280547917" lat="51.4609798" lon="-0.3034685"  n="Santander" t="bank" st=""/>
+<node id="281578819" lat="51.5293561" lon="-0.0454821"  n="NatWest" t="bank" st=""/>
+<node id="282686477" lat="51.5060021" lon="-0.1158875"  n="Southbank Centre" t="bank" st=""/>
+<node id="283207082" lat="51.49664" lon="-0.081097"  n="Barclays" t="bank" st=""/>
+<node id="286488343" lat="51.4435805" lon="-0.1529095"  n="Santander" t="bank" st=""/>
+<node id="286509335" lat="51.4921251" lon="-0.061971"  n="Barclays" t="bank" st=""/>
+<node id="286509348" lat="51.4923839" lon="-0.0623094"  n="TSB" t="bank" st=""/>
+<node id="287112039" lat="51.5338733" lon="-0.0276703"  n="Barclays" t="bank" st=""/>
+<node id="288037175" lat="51.4065908" lon="-0.0290766"  n="Nationwide" t="bank" st=""/>
+<node id="290939743" lat="51.4279652" lon="-0.1683319"  n="HSBC" t="bank" st=""/>
+<node id="291671987" lat="51.4449588" lon="-0.1514296"  n="Lloyds TSB" t="bank" st=""/>
+<node id="291671988" lat="51.4447371" lon="-0.1516601"  n="Nationwide" t="bank" st=""/>
+<node id="291671991" lat="51.4434757" lon="-0.1525694"  n="Barclays" t="bank" st=""/>
+<node id="293503095" lat="51.472395" lon="-0.0932681"  n="NatWest" t="bank" st=""/>
+<node id="293509933" lat="51.4880175" lon="-0.0958078"  n="Barclays" t="bank" st=""/>
+<node id="293525841" lat="51.4995039" lon="-0.1300188"  n="Barclays" t="bank" st=""/>
+<node id="293741400" lat="51.5332984" lon="-0.172485"  n="Barclays - St John&#39;s Wood Branch" t="bank" st=""/>
+<node id="293741409" lat="51.5333761" lon="-0.1702683"  n="NatWest" t="bank" st=""/>
+<node id="293990348" lat="51.539171" lon="-0.14263"  n="HSBC" t="bank" st=""/>
+<node id="293990489" lat="51.5389667" lon="-0.1428772"  n="RBS" t="bank" st=""/>
+<node id="293992178" lat="51.5382041" lon="-0.1418499"  n="Lloyds TSB" t="bank" st=""/>
+<node id="296535283" lat="51.5378392" lon="0.0337552"  n="Barclays" t="bank" st=""/>
+<node id="298031181" lat="51.4277403" lon="-0.3552369"  n="Barclays Bank" t="bank" st=""/>
+<node id="298036347" lat="51.5117698" lon="-0.0839268"  n="RBS" t="bank" st=""/>
+<node id="298205617" lat="51.5195675" lon="-0.1564438"  n="Nat West" t="bank" st=""/>
+<node id="298207995" lat="51.5212351" lon="-0.1611482"  n="Royal Bank of Scotland" t="bank" st=""/>
+<node id="298347044" lat="51.526042" lon="-0.129082"  n="NatWest" t="bank" st=""/>
+<node id="299520334" lat="51.514903" lon="-0.0732412"  n="NatWest" t="bank" st=""/>
+<node id="299521884" lat="51.5183131" lon="-0.0793378"  n="NatWest" t="bank" st=""/>
+<node id="299523379" lat="51.5222502" lon="-0.1577879"  n="Lloyds Bank" t="bank" st=""/>
+<node id="299614774" lat="51.5335007" lon="-0.1060762"  n="NatWest" t="bank" st=""/>
+<node id="299614800" lat="51.5339257" lon="-0.1057286"  n="Barclays" t="bank" st=""/>
+<node id="300413459" lat="51.4928511" lon="-0.1764343"  n="Lloyds TSB" t="bank" st=""/>
+<node id="300413501" lat="51.493457" lon="-0.1749986"  n="Royal Bank of Scotland" t="bank" st=""/>
+<node id="301017042" lat="51.5344491" lon="-0.1745421"  n="HSBC" t="bank" st=""/>
+<node id="302172057" lat="51.5074873" lon="-0.2726615"  n="HSBC" t="bank" st=""/>
+<node id="302173382" lat="51.5067002" lon="-0.2695006"  n="NatWest" t="bank" st=""/>
+<node id="302397659" lat="51.4923437" lon="-0.1780663"  n="Barclays" t="bank" st=""/>
+<node id="302397666" lat="51.4925566" lon="-0.1776163"  n="Abbey" t="bank" st=""/>
+<node id="302963478" lat="51.5163134" lon="-0.1333625"  n="Evelyn House" t="bank" st=""/>
+<node id="304422000" lat="51.5359421" lon="-0.2465241"  n="Nationwide" t="bank" st=""/>
+<node id="304422005" lat="51.5355798" lon="-0.2470805"  n="HSBC" t="bank" st=""/>
+<node id="304464854" lat="51.5394358" lon="-0.2517807"  n="RBS" t="bank" st=""/>
+<node id="305394868" lat="51.5441124" lon="-0.2969911"  n="Barclays" t="bank" st=""/>
+<node id="305579005" lat="51.5187702" lon="-0.1328831"  n="HSBC" t="bank" st=""/>
+<node id="305743941" lat="51.4058203" lon="0.0148809"  n="Lloyds TSB" t="bank" st=""/>
+<node id="306047358" lat="51.533362" lon="-0.1066113"  n="Marks &#38; Spencer" t="bank" st=""/>
+<node id="306135269" lat="51.5163973" lon="-0.0828757"  n="Barclays" t="bank" st=""/>
+<node id="307536212" lat="51.5463081" lon="0.0256436"  n="Barclays" t="bank" st=""/>
+<node id="307828476" lat="51.529818" lon="-0.1237852"  n="Barclays" t="bank" st=""/>
+<node id="308839175" lat="51.532496" lon="-0.1064477"  n="Santander" t="bank" st=""/>
+<node id="309376857" lat="51.5623436" lon="-0.0733706"  n="NatWest" t="bank" st=""/>
+<node id="311416051" lat="51.513411" lon="-0.1168113"  n="NatWest" t="bank" st=""/>
+<node id="311877347" lat="51.5193825" lon="-0.1212315"  n="Barclays" t="bank" st=""/>
+<node id="312671342" lat="51.4032011" lon="-0.1923829"  n="Nationwide" t="bank" st=""/>
+<node id="316079995" lat="51.494683" lon="-0.129793"  n="NatWest" t="bank" st=""/>
+<node id="316138379" lat="51.5155309" lon="-0.204565"  n="Santander" t="bank" st=""/>
+<node id="331362126" lat="51.5922207" lon="-0.1056579"  n="Alliance &#38; Leicester" t="bank" st=""/>
+<node id="331362129" lat="51.5925466" lon="-0.1056781"  n="Barclays" t="bank" st=""/>
+<node id="331362134" lat="51.5928489" lon="-0.1061647"  n="HSBC" t="bank" st=""/>
+<node id="331880925" lat="51.5466453" lon="-0.1043321"  n="Lloyds Bank" t="bank" st=""/>
+<node id="331936071" lat="51.5400698" lon="0.0509701"  n="Nationwide" t="bank" st=""/>
+<node id="332043741" lat="51.5464696" lon="-0.1033499"  n="Barclays" t="bank" st=""/>
+<node id="333731865" lat="51.52294" lon="-0.1362869"  n="Santander" t="bank" st=""/>
+<node id="333782625" lat="51.5347836" lon="0.05334"  n="Barclays" t="bank" st=""/>
+<node id="336108135" lat="51.5329707" lon="-0.1055966"  n="Royal Bank of Scotland" t="bank" st=""/>
+<node id="338463501" lat="51.5183418" lon="-0.1107248"  n="Barclays" t="bank" st=""/>
+<node id="338472537" lat="51.518761" lon="-0.1087929"  n="Santander" t="bank" st=""/>
+<node id="338505253" lat="51.5179689" lon="-0.1151802"  n="Nationwide" t="bank" st=""/>
+<node id="338506120" lat="51.5180282" lon="-0.1145766"  n="TSB" t="bank" st=""/>
+<node id="343588118" lat="51.5651161" lon="-0.1033539"  n="NatWest" t="bank" st=""/>
+<node id="344229693" lat="51.581647" lon="-0.099638"  n="Santander" t="bank" st=""/>
+<node id="345858523" lat="51.4914597" lon="-0.1219539"  n="HSBC" t="bank" st=""/>
+<node id="347463599" lat="51.4751606" lon="-0.2061535"  n="NatWest" t="bank" st=""/>
+<node id="348713724" lat="51.5341774" lon="-0.1055945"  n="Lloyds" t="bank" st=""/>
+<node id="348819221" lat="51.510479" lon="-0.128528"  n="Barclays" t="bank" st=""/>
+<node id="350404884" lat="51.5129044" lon="-0.1039479"  n="RBS" t="bank" st=""/>
+<node id="355416945" lat="51.524242" lon="-0.0961409"  n="TSB" t="bank" st=""/>
+<node id="362243797" lat="51.4447655" lon="-0.1518292"  n="Halifax" t="bank" st=""/>
+<node id="381706825" lat="51.4087224" lon="-0.0249801"  n="NatWest" t="bank" st=""/>
+<node id="381706827" lat="51.4087453" lon="-0.0252129"  n="Lloyds" t="bank" st=""/>
+<node id="383979071" lat="51.5156088" lon="-0.1378738"  n="Santander" t="bank" st=""/>
+<node id="384761523" lat="51.5159027" lon="-0.1352332"  n="Lloyds Bank" t="bank" st=""/>
+<node id="385560839" lat="51.496148" lon="-0.126349"  n="Lloyds Bank" t="bank" st=""/>
+<node id="387121716" lat="51.5092631" lon="-0.1947412"  n="HSBC" t="bank" st=""/>
+<node id="390923942" lat="51.5372937" lon="-0.1415667"  n="Abbey" t="bank" st=""/>
+<node id="390923953" lat="51.5373659" lon="-0.1416151"  n="Nationwide" t="bank" st=""/>
+<node id="390925370" lat="51.5390224" lon="-0.1429226"  n="Barclays" t="bank" st=""/>
+<node id="391009867" lat="51.5370109" lon="-0.140691"  n="Halifax" t="bank" st=""/>
+<node id="393523281" lat="51.5653701" lon="-0.1029816"  n="HSBC" t="bank" st=""/>
+<node id="401290404" lat="51.5780793" lon="-0.0985948"  n="Barclays" t="bank" st=""/>
+<node id="408561639" lat="51.5476716" lon="-0.2246311"  n="Lloyds TSB" t="bank" st=""/>
+<node id="410936575" lat="51.5564842" lon="-0.215377"  n="Barclays" t="bank" st=""/>
+<node id="410949881" lat="51.5567026" lon="-0.2149508"  n="NatWest" t="bank" st=""/>
+<node id="410949890" lat="51.5562643" lon="-0.2149538"  n="Abbey" t="bank" st=""/>
+<node id="410949900" lat="51.5560882" lon="-0.2147564"  n="Nationwide" t="bank" st=""/>
+<node id="411824175" lat="51.6077694" lon="-0.3745559"  n="Abbey" t="bank" st=""/>
+<node id="412490730" lat="51.6079133" lon="-0.3729337"  n="NatWest" t="bank" st=""/>
+<node id="415949156" lat="51.4483709" lon="-0.1890625"  n="Brocklebank Health Centre" t="bank" st=""/>
+<node id="418209974" lat="51.4608761" lon="-0.2169076"  n="Halifax" t="bank" st=""/>
+<node id="418213470" lat="51.4615598" lon="-0.21693"  n="Britannia Building Society" t="bank" st=""/>
+<node id="420729603" lat="51.4014735" lon="0.0159567"  n="Cheltenham &#38; Gloucester" t="bank" st=""/>
+<node id="420729622" lat="51.4024694" lon="0.0152083"  n="Metro Bank" t="bank" st=""/>
+<node id="420729627" lat="51.402929" lon="0.0150588"  n="Santander" t="bank" st=""/>
+<node id="420729634" lat="51.4034344" lon="0.0149268"  n="Halifax" t="bank" st=""/>
+<node id="420777399" lat="51.4057259" lon="0.0154924"  n="Abbey" t="bank" st=""/>
+<node id="420777401" lat="51.4055955" lon="0.0149308"  n="Northern Rock" t="bank" st=""/>
+<node id="420777403" lat="51.4055541" lon="0.014765"  n="Barclays" t="bank" st=""/>
+<node id="420783157" lat="51.4043917" lon="0.0154133"  n="NatWest" t="bank" st=""/>
+<node id="420783171" lat="51.4035205" lon="0.0155225"  n="Barclays" t="bank" st=""/>
+<node id="420783182" lat="51.4023561" lon="0.0158184"  n="Nationwide" t="bank" st=""/>
+<node id="420787955" lat="51.4025476" lon="0.0166463"  n="RBS" t="bank" st=""/>
+<node id="423749776" lat="51.4446386" lon="-0.2054251"  n="Barclays" t="bank" st=""/>
+<node id="423749780" lat="51.4446831" lon="-0.2068729"  n="NatWest" t="bank" st=""/>
+<node id="429269953" lat="51.5298227" lon="-0.1201571"  n="Lloyds Bank" t="bank" st=""/>
+<node id="430492514" lat="51.4653584" lon="0.0092612"  n="Lloyds" t="bank" st=""/>
+<node id="431032790" lat="51.4314211" lon="-0.3071882"  n="Barclays" t="bank" st=""/>
+<node id="432693154" lat="51.4260603" lon="-0.3357508"  n="Barclays" t="bank" st=""/>
+<node id="434527471" lat="51.5330764" lon="-0.0299294"  n="Nationwide" t="bank" st=""/>
+<node id="439421478" lat="51.4617868" lon="-0.1676949"  n="NatWest" t="bank" st=""/>
+<node id="442373387" lat="51.514496" lon="-0.0956528"  n="Halifax" t="bank" st=""/>
+<node id="442374128" lat="51.51486" lon="-0.0613955"  n="HBL" t="bank" st=""/>
+<node id="442518405" lat="51.4871036" lon="-0.0953529"  n="NatWest" t="bank" st=""/>
+<node id="444635319" lat="51.4968567" lon="-0.1411202"  n="Lloyds Bank" t="bank" st=""/>
+<node id="445685443" lat="51.4921142" lon="-0.157967"  n="Barclays" t="bank" st=""/>
+<node id="448750306" lat="51.5625804" lon="0.2185535"  n="Santander" t="bank" st=""/>
+<node id="448750314" lat="51.5625062" lon="0.2189625"  n="NatWest" t="bank" st=""/>
+<node id="448750323" lat="51.562392" lon="0.2196652"  n="Barclays" t="bank" st=""/>
+<node id="448780971" lat="51.5943332" lon="-0.1085582"  n="Lloyds TSB" t="bank" st=""/>
+<node id="449109106" lat="51.5963299" lon="-0.1094703"  n="NatWest" t="bank" st=""/>
+<node id="451705576" lat="51.4918133" lon="-0.1719349"  n="HSBC" t="bank" st=""/>
+<node id="452218662" lat="51.5142408" lon="-0.1431593"  n="Lloyds TSB" t="bank" st=""/>
+<node id="452218997" lat="51.5140271" lon="-0.1430906"  n="Barclays" t="bank" st=""/>
+<node id="452225490" lat="51.5125636" lon="-0.1411222"  n="Royal Bank of Scotland" t="bank" st=""/>
+<node id="452227856" lat="51.5139149" lon="-0.1422409"  n="Halifax" t="bank" st=""/>
+<node id="452228727" lat="51.5139149" lon="-0.1462749"  n="Royal Bank of Scotland" t="bank" st=""/>
+<node id="452234664" lat="51.5135731" lon="-0.1443008"  n="Bradford &#38; Bingley" t="bank" st=""/>
+<node id="452235732" lat="51.5122989" lon="-0.1446942"  n="HSBC" t="bank" st=""/>
+<node id="452239846" lat="51.5135784" lon="-0.142876"  n="Citi" t="bank" st=""/>
+<node id="452410130" lat="51.4999065" lon="-0.1491324"  n="RBS" t="bank" st=""/>
+<node id="452433523" lat="51.5188006" lon="-0.1082146"  n="Barclays" t="bank" st=""/>
+<node id="455011107" lat="51.6312645" lon="0.0033582"  n="Abbey" t="bank" st=""/>
+<node id="455011109" lat="51.6317473" lon="0.004557"  n="Barclays" t="bank" st=""/>
+<node id="455011112" lat="51.6328308" lon="0.0077098"  n="NatWest" t="bank" st=""/>
+<node id="456384028" lat="51.4065413" lon="-0.0282283"  n="HSBC" t="bank" st=""/>
+<node id="457102339" lat="51.589752" lon="-0.2213857"  n="Lloyds TSB" t="bank" st=""/>
+<node id="457132147" lat="51.589636" lon="-0.2219096"  n="NatWest" t="bank" st=""/>
+<node id="469341861" lat="51.5863833" lon="0.1995993"  n="Lloyds TSB" t="bank" st=""/>
+<node id="469342134" lat="51.58607" lon="0.2001309"  n="Barclays Bank" t="bank" st=""/>
+<node id="470628776" lat="51.514321" lon="-0.0838784"  n="Lloyds" t="bank" st=""/>
+<node id="475271920" lat="51.5493976" lon="-0.1406939"  n="HSBC" t="bank" st=""/>
+<node id="475271985" lat="51.548948" lon="-0.140798"  n="Barclays" t="bank" st=""/>
+<node id="475271989" lat="51.5488204" lon="-0.1412959"  n="Lloyds Bank" t="bank" st=""/>
+<node id="475396917" lat="51.5161737" lon="-0.0839837"  n="HSBC" t="bank" st=""/>
+<node id="475531767" lat="51.5478342" lon="-0.1411613"  n="Nationwide" t="bank" st=""/>
+<node id="482835023" lat="51.4881096" lon="-0.095477"  n="Nationwide" t="bank" st=""/>
+<node id="482835049" lat="51.4858868" lon="-0.093984"  n="Santander" t="bank" st=""/>
+<node id="488443243" lat="51.5141779" lon="-0.1000039"  n="NatWest" t="bank" st=""/>
+<node id="489826648" lat="51.5062861" lon="-0.1512263"  n="HSBC Premier" t="bank" st=""/>
+<node id="498694165" lat="51.4851483" lon="-0.1747471"  n="Barclays" t="bank" st=""/>
+<node id="498847728" lat="51.512771" lon="-0.1302468"  n="Bank of China" t="bank" st=""/>
+<node id="506453824" lat="51.4833683" lon="-0.3080463"  n="Barclays" t="bank" st=""/>
+<node id="506453825" lat="51.4832048" lon="-0.3072676"  n="NatWest" t="bank" st=""/>
+<node id="514780709" lat="51.5153969" lon="-0.1629943"  n="Habib" t="bank" st=""/>
+<node id="529096609" lat="51.5948213" lon="-0.0693394"  n="Lloyds" t="bank" st=""/>
+<node id="529096629" lat="51.5953167" lon="-0.0691263"  n="Barclays" t="bank" st=""/>
+<node id="529116471" lat="51.5924127" lon="-0.0695431"  n="HSBC" t="bank" st=""/>
+<node id="529116473" lat="51.5922923" lon="-0.0695451"  n="Halifax" t="bank" st=""/>
+<node id="529116477" lat="51.5930945" lon="-0.0698228"  n="Nationwide" t="bank" st=""/>
+<node id="529116478" lat="51.592838" lon="-0.069471"  n="Santander" t="bank" st=""/>
+<node id="534672074" lat="51.5114597" lon="-0.1874846"  n="HSBC" t="bank" st=""/>
+<node id="547322939" lat="51.5769114" lon="-0.370958"  n="Abbey" t="bank" st=""/>
+<node id="548866039" lat="51.571032" lon="-0.2949578"  n="Santander" t="bank" st=""/>
+<node id="554976927" lat="51.5296813" lon="-0.1241257"  n="HSBC" t="bank" st=""/>
+<node id="565439685" lat="51.5128377" lon="-0.1134395"  n="Yorkshire Building Society" t="bank" st=""/>
+<node id="566481304" lat="51.6174112" lon="-0.1769255"  n="Lloyds" t="bank" st=""/>
+<node id="567931797" lat="51.5113682" lon="-0.1233226"  n="NatWest" t="bank" st=""/>
+<node id="571285794" lat="51.5418662" lon="0.0003098"  n="Barclays" t="bank" st=""/>
+<node id="577248613" lat="51.507562" lon="-0.130895"  n="Bank of Scotland" t="bank" st=""/>
+<node id="577559480" lat="51.5185302" lon="-0.0793065"  n="Santander" t="bank" st=""/>
+<node id="582929612" lat="51.5332369" lon="-0.4740561"  n="HSBC" t="bank" st=""/>
+<node id="583329994" lat="51.4628432" lon="-0.2162419"  n="Lloyds" t="bank" st=""/>
+<node id="583330011" lat="51.4634982" lon="-0.2158825"  n="Santander" t="bank" st=""/>
+<node id="583330026" lat="51.4645241" lon="-0.2153084"  n="Barclays" t="bank" st=""/>
+<node id="583330032" lat="51.464878" lon="-0.2149256"  n="Nationwide" t="bank" st=""/>
+<node id="587759630" lat="51.4988319" lon="-0.1127854"  n="NatWest" t="bank" st=""/>
+<node id="588175347" lat="51.5075104" lon="-0.1218098"  n="Embankment Toilets" t="bank" st=""/>
+<node id="588513717" lat="51.5039852" lon="-0.1152904"  n="Lloyds" t="bank" st=""/>
+<node id="588792448" lat="51.500225" lon="-0.149435"  n="HSBC" t="bank" st=""/>
+<node id="595301429" lat="51.509497" lon="-0.133129"  n="RBS" t="bank" st=""/>
+<node id="600924677" lat="51.5109963" lon="-0.1203719"  n="Barclays" t="bank" st=""/>
+<node id="603130942" lat="51.5112721" lon="-0.1249052"  n="HSBC" t="bank" st=""/>
+<node id="608527456" lat="51.5072867" lon="-0.1062799"  n="HSBC - King&#39;s Reach" t="bank" st=""/>
+<node id="608608183" lat="51.5682917" lon="0.0097919"  n="Halifax" t="bank" st=""/>
+<node id="609782327" lat="51.5124652" lon="-0.1039466"  n="NatWest" t="bank" st=""/>
+<node id="610452793" lat="51.504097" lon="-0.218378"  n="HSBC" t="bank" st=""/>
+<node id="610477348" lat="51.516633" lon="-0.209672"  n="Barclays" t="bank" st=""/>
+<node id="615937288" lat="51.5502288" lon="-0.1912266"  n="Barclays" t="bank" st=""/>
+<node id="618653418" lat="51.534577" lon="-0.105251"  n="Nationwide" t="bank" st=""/>
+<node id="622543703" lat="51.506691" lon="-0.143035"  n="HSBC" t="bank" st=""/>
+<node id="623428328" lat="51.515927" lon="-0.144464"  n="RBS" t="bank" st=""/>
+<node id="624046571" lat="51.5116012" lon="-0.1317667"  n="HSBC" t="bank" st=""/>
+<node id="628621286" lat="51.5170044" lon="-0.1458434"  n="Coutts" t="bank" st=""/>
+<node id="659653194" lat="51.5093259" lon="-0.1444289"  n="NatWest" t="bank" st=""/>
+<node id="660899255" lat="51.5606181" lon="-0.0740497"  n="Lloyds TSB" t="bank" st=""/>
+<node id="660899261" lat="51.5608953" lon="-0.0740378"  n="Santander" t="bank" st=""/>
+<node id="666475917" lat="51.5142771" lon="-0.0942797"  n="Unit 3" t="bank" st=""/>
+<node id="669946809" lat="51.5644976" lon="-0.3532709"  n="HSBC South Harrow" t="bank" st=""/>
+<node id="675849633" lat="51.5070458" lon="-0.1395327"  n="Barclays" t="bank" st=""/>
+<node id="676020130" lat="51.5739049" lon="-0.0733665"  n="NatWest" t="bank" st=""/>
+<node id="677228897" lat="51.5632625" lon="-0.3550346"  n="Santander" t="bank" st=""/>
+<node id="678240182" lat="51.4773102" lon="-0.286063"  n="Barclays Kew Gardens" t="bank" st=""/>
+<node id="679967789" lat="51.6325072" lon="-0.1269065"  n="Natwest" t="bank" st=""/>
+<node id="685996805" lat="51.5189803" lon="-0.0875005"  n="Barclays" t="bank" st=""/>
+<node id="688131959" lat="51.4675223" lon="-0.4242469"  n="Barclays" t="bank" st=""/>
+<node id="695217642" lat="51.5234237" lon="-0.1367804"  n="HSBC" t="bank" st=""/>
+<node id="699684533" lat="51.494208" lon="-0.174735"  n="Natwest" t="bank" st=""/>
+<node id="699694835" lat="51.4951745" lon="-0.1826726"  n="Natwest" t="bank" st=""/>
+<node id="702735037" lat="51.511096" lon="-0.087252"  n="Santander Totta" t="bank" st=""/>
+<node id="703361622" lat="51.5179409" lon="-0.1175918"  n="Skipton" t="bank" st=""/>
+<node id="703382395" lat="51.518119" lon="-0.11602"  n="Halifax" t="bank" st=""/>
+<node id="719511020" lat="51.6168965" lon="-0.1765572"  n="Barclays" t="bank" st=""/>
+<node id="719511093" lat="51.6166421" lon="-0.1765826"  n="Halifax" t="bank" st=""/>
+<node id="748074039" lat="51.5137364" lon="-0.1018968"  n="TSB" t="bank" st=""/>
+<node id="762639712" lat="51.5189794" lon="-0.1215066"  n="Lloyds Bank" t="bank" st=""/>
+<node id="819864697" lat="51.5473137" lon="-0.4802155"  n="Barclays" t="bank" st=""/>
+<node id="821925870" lat="51.5145478" lon="-0.1187077"  n="Leeds Building Society" t="bank" st=""/>
+<node id="846207560" lat="51.4454211" lon="-0.331128"  n="Nationwide" t="bank" st=""/>
+<node id="852122458" lat="51.5138533" lon="-0.1526722"  n="HSBC" t="bank" st=""/>
+<node id="852142203" lat="51.5102122" lon="-0.145634"  n="Zenith Bank" t="bank" st=""/>
+<node id="870407273" lat="51.46039" lon="-0.3054452"  n="HSBC" t="bank" st=""/>
+<node id="870407302" lat="51.4605075" lon="-0.3046636"  n="NatWest" t="bank" st=""/>
+<node id="873549219" lat="51.5094703" lon="-0.1190445"  n="Strand, Embankment (Savoy)" t="bank" st=""/>
+<node id="885342144" lat="51.6521424" lon="-0.0834681"  n="TSB" t="bank" st=""/>
+<node id="885354268" lat="51.6520026" lon="-0.0809308"  n="HSBC" t="bank" st=""/>
+<node id="885355373" lat="51.6519212" lon="-0.0819277"  n="Nat West" t="bank" st=""/>
+<node id="886052943" lat="51.480301" lon="-0.009061"  n="Natwest" t="bank" st=""/>
+<node id="892515986" lat="51.5032813" lon="-0.1008491"  n="Southbank Service Station" t="bank" st=""/>
+<node id="895038452" lat="51.5214503" lon="-0.1128613"  n="Allied Irish Bank" t="bank" st=""/>
+<node id="908783056" lat="51.4918394" lon="-0.1922345"  n="Natwest" t="bank" st=""/>
+<node id="914971693" lat="51.5596274" lon="-0.250672"  n="Santander" t="bank" st=""/>
+<node id="915100793" lat="51.5815164" lon="-0.3348785"  n="HSBC" t="bank" st=""/>
+<node id="915100795" lat="51.57987" lon="-0.334237"  n="Barclays" t="bank" st=""/>
+<node id="918220750" lat="51.5046894" lon="-0.1232506"  n="Embankment (Horse Guards)" t="bank" st=""/>
+<node id="926239911" lat="51.4904356" lon="-0.1227603"  n="Vauxhall, Albert Embankment" t="bank" st=""/>
+<node id="929323234" lat="51.4502191" lon="-0.3580146"  n="Barclays" t="bank" st=""/>
+<node id="929323278" lat="51.4497152" lon="-0.3577541"  n="HSBC" t="bank" st=""/>
+<node id="929323329" lat="51.4490154" lon="-0.3579697"  n="Halifax" t="bank" st=""/>
+<node id="930043378" lat="51.5136731" lon="-0.3021798"  n="HSBC" t="bank" st=""/>
+<node id="930043380" lat="51.5121208" lon="-0.3046774"  n="Royal Bank of Scotland" t="bank" st=""/>
+<node id="930043390" lat="51.5142628" lon="-0.3014575"  n="National Westminster" t="bank" st=""/>
+<node id="930043392" lat="51.5136982" lon="-0.3027719"  n="Barclays Bank" t="bank" st=""/>
+<node id="948735585" lat="51.5172969" lon="-0.135109"  n="Banksy" t="bank" st=""/>
+<node id="970356675" lat="51.5708436" lon="-0.1487577"  n="Lloyds" t="bank" st=""/>
+<node id="973867106" lat="51.450864" lon="0.0532866"  n="Nationwide" t="bank" st=""/>
+<node id="973869370" lat="51.4508478" lon="0.0570884"  n="Halifax" t="bank" st=""/>
+<node id="973869916" lat="51.4508356" lon="0.0555906"  n="Barclays" t="bank" st=""/>
+<node id="1007926098" lat="51.529676" lon="-0.2683531"  n="HSBC" t="bank" st=""/>
+<node id="1010802646" lat="51.536253" lon="-0.24566"  n="Santander" t="bank" st=""/>
+<node id="1011616834" lat="51.5586951" lon="-0.1203053"  n="natwest" t="bank" st=""/>
+<node id="1031517653" lat="51.5930682" lon="0.0256845"  n="Barclays" t="bank" st=""/>
+<node id="1031517682" lat="51.5925383" lon="0.0263529"  n="NatWest" t="bank" st=""/>
+<node id="1041888701" lat="51.6636863" lon="-0.0802249"  n="Barclays" t="bank" st=""/>
+<node id="1075888031" lat="51.4004055" lon="-0.255542"  n="Nationwide" t="bank" st=""/>
+<node id="1075888036" lat="51.4014179" lon="-0.2558639"  n="HSBC" t="bank" st=""/>
+<node id="1075894400" lat="51.4015953" lon="-0.2559444"  n="NatWest" t="bank" st=""/>
+<node id="1082110109" lat="51.5927704" lon="0.0262719"  n="Nationwide" t="bank" st=""/>
+<node id="1096305302" lat="51.500717" lon="-0.3068419"  n="Barclays" t="bank" st=""/>
+<node id="1098744209" lat="51.4028898" lon="-0.2564074"  n="Barclays" t="bank" st=""/>
+<node id="1100604247" lat="51.3623542" lon="-0.1929367"  n="HSBC" t="bank" st=""/>
+<node id="1116295871" lat="51.3997994" lon="-0.2554202"  n="Santander" t="bank" st=""/>
+<node id="1117171639" lat="51.5138549" lon="-0.302069"  n="Lloyds TSB" t="bank" st=""/>
+<node id="1117274855" lat="51.5139307" lon="-0.3012353"  n="Halifax" t="bank" st=""/>
+<node id="1120260129" lat="51.5444072" lon="-0.0555257"  n="HSBC" t="bank" st=""/>
+<node id="1132744103" lat="51.3592576" lon="-0.1499518"  n="HSBC" t="bank" st=""/>
+<node id="1132744126" lat="51.3583096" lon="-0.1497533"  n="Barclays" t="bank" st=""/>
+<node id="1132744202" lat="51.3595348" lon="-0.1500744"  n="TSB" t="bank" st=""/>
+<node id="1132744387" lat="51.3593916" lon="-0.1495333"  n="NatWest" t="bank" st=""/>
+<node id="1137272308" lat="51.515689" lon="-0.188094"  n="The co-operative bank" t="bank" st=""/>
+<node id="1137884595" lat="51.512637" lon="-0.3047714"  n="Chelsea Building Society" t="bank" st=""/>
+<node id="1141415213" lat="51.5197856" lon="-0.0877131"  n="Lloyds Bank" t="bank" st=""/>
+<node id="1142046529" lat="51.5194821" lon="-0.0878739"  n="Nationwide" t="bank" st=""/>
+<node id="1142046539" lat="51.5201435" lon="-0.0871502"  n="Natwest" t="bank" st=""/>
+<node id="1142052857" lat="51.5191432" lon="-0.0880307"  n="Halifax" t="bank" st=""/>
+<node id="1144621346" lat="51.5135426" lon="-0.0893776"  n="NatWest" t="bank" st=""/>
+<node id="1155466802" lat="51.4637158" lon="-0.1683922"  n="Halifax" t="bank" st=""/>
+<node id="1158189104" lat="51.5400988" lon="0.0006504"  n="Natwest" t="bank" st=""/>
+<node id="1158189109" lat="51.5431006" lon="0.0035218"  n="Naionwide Building Society" t="bank" st=""/>
+<node id="1196226171" lat="51.6323307" lon="-0.1267455"  n="HSBC" t="bank" st=""/>
+<node id="1212098471" lat="51.4467231" lon="-0.328299"  n="Halifax" t="bank" st=""/>
+<node id="1230753780" lat="51.5225046" lon="-0.1359643"  n="RBS" t="bank" st=""/>
+<node id="1240136045" lat="51.4943772" lon="-0.1949446"  n="Metro Bank" t="bank" st=""/>
+<node id="1258483211" lat="51.4987514" lon="-0.176983"  n="Santander" t="bank" st=""/>
+<node id="1266124407" lat="51.5155511" lon="-0.1543454"  n="Natwest" t="bank" st=""/>
+<node id="1266124410" lat="51.5155687" lon="-0.1542428"  n="Habib Bank AG Zurich" t="bank" st=""/>
+<node id="1266124411" lat="51.51609" lon="-0.1545776"  n="National Bank of Kuwait" t="bank" st=""/>
+<node id="1266124446" lat="51.516211" lon="-0.1546338"  n="Barclays" t="bank" st=""/>
+<node id="1282224671" lat="51.4927421" lon="-0.1258158"  n="ETSU cafe" t="bank" st=""/>
+<node id="1282224691" lat="51.4917508" lon="-0.1256999"  n="Millbank Tower, Pimlico" t="bank" st=""/>
+<node id="1290648022" lat="51.495994" lon="-0.1430328"  n="Halifax" t="bank" st=""/>
+<node id="1290667522" lat="51.5951302" lon="-0.3838216"  n="Natwest" t="bank" st=""/>
+<node id="1304651254" lat="51.4604778" lon="-0.2150579"  n="HSBC" t="bank" st=""/>
+<node id="1312678775" lat="51.5952466" lon="-0.3840702"  n="TSB" t="bank" st=""/>
+<node id="1314268679" lat="51.4613935" lon="-0.1380777"  n="TSB" t="bank" st=""/>
+<node id="1315559710" lat="51.5949731" lon="0.0234137"  n="HSBC" t="bank" st=""/>
+<node id="1321939413" lat="51.5420322" lon="0.000468"  n="HSBC" t="bank" st=""/>
+<node id="1321939419" lat="51.5416185" lon="-0.0013975"  n="Halifax" t="bank" st=""/>
+<node id="1322060900" lat="51.5407802" lon="0.0008677"  n="Santander" t="bank" st=""/>
+<node id="1364157095" lat="51.549594" lon="-0.1637878"  n="HSBC" t="bank" st=""/>
+<node id="1419164429" lat="51.5131979" lon="-0.305965"  n="Co-operative Bank" t="bank" st=""/>
+<node id="1419213114" lat="51.5128368" lon="-0.3060294"  n="Cheltenham &#38; Gloucester" t="bank" st=""/>
+<node id="1445641663" lat="51.54562" lon="-0.054855"  n="Barclays" t="bank" st=""/>
+<node id="1489589641" lat="51.5799665" lon="-0.3338764"  n="RBS" t="bank" st=""/>
+<node id="1490039255" lat="51.5807491" lon="-0.3341532"  n="Nationwide" t="bank" st=""/>
+<node id="1490039263" lat="51.5800442" lon="-0.333884"  n="Skipton Building Society" t="bank" st=""/>
+<node id="1494854475" lat="51.5818228" lon="-0.3326938"  n="Lloyds Bank" t="bank" st=""/>
+<node id="1508663641" lat="51.5815929" lon="-0.3333671"  n="Virgin Money" t="bank" st=""/>
+<node id="1539584761" lat="51.4939457" lon="-0.1256416"  n="The Security Service" t="bank" st=""/>
+<node id="1539584777" lat="51.4945703" lon="-0.125647"  n="Northern Ireland Office" t="bank" st=""/>
+<node id="1547180572" lat="51.5116795" lon="-0.0811097"  n="Halifax" t="bank" st=""/>
+<node id="1558137016" lat="51.541924" lon="-0.0555534"  n="London Community Credit Union" t="bank" st=""/>
+<node id="1558137028" lat="51.5484689" lon="-0.0548793"  n="Nationwide" t="bank" st=""/>
+<node id="1567062388" lat="51.5828862" lon="-0.1991833"  n="Barclays" t="bank" st=""/>
+<node id="1576777647" lat="51.546261" lon="0.0250701"  n="Nat West" t="bank" st=""/>
+<node id="1591079224" lat="51.5235046" lon="-0.0984341"  n="HSBC" t="bank" st=""/>
+<node id="1593936224" lat="51.509507" lon="-0.1348759"  n="Clydesdale Bank" t="bank" st=""/>
+<node id="1598383502" lat="51.4801816" lon="-0.194571"  n="Metro Bank" t="bank" st=""/>
+<node id="1605743657" lat="51.4984948" lon="-0.1568568"  n="Barclays" t="bank" st=""/>
+<node id="1614846587" lat="51.5078179" lon="-0.123686"  n="PWC" t="bank" st=""/>
+<node id="1619138182" lat="51.4640743" lon="-0.165811"  n="HSBC" t="bank" st=""/>
+<node id="1629051321" lat="51.6580477" lon="-0.2013346"  n="O&#39;Neil Investments" t="bank" st=""/>
+<node id="1634398564" lat="51.6544733" lon="-0.2014477"  n="Lloyds TSB" t="bank" st=""/>
+<node id="1634404174" lat="51.6551614" lon="-0.2015871"  n="HSBC" t="bank" st=""/>
+<node id="1634404186" lat="51.6546272" lon="-0.2014812"  n="NatWest" t="bank" st=""/>
+<node id="1634404191" lat="51.655084" lon="-0.201563"  n="Santander" t="bank" st=""/>
+<node id="1647016762" lat="51.5640793" lon="-0.1055181"  n="Barclays" t="bank" st=""/>
+<node id="1656059458" lat="51.4556687" lon="-0.03635"  n="Barclays" t="bank" st=""/>
+<node id="1658785101" lat="51.4342881" lon="-0.128525"  n="Chelsea Building Society" t="bank" st=""/>
+<node id="1668620767" lat="51.4897492" lon="0.121111"  n="autobank (side of post office)" t="bank" st=""/>
+<node id="1681567927" lat="51.4969568" lon="-0.1452243"  n="Opal Transfer Ltd." t="bank" st=""/>
+<node id="1681995515" lat="51.3838022" lon="-0.1897947"  n="Barclays" t="bank" st=""/>
+<node id="1687265467" lat="51.4751533" lon="-0.039799"  n="Wonda Money Transfer" t="bank" st=""/>
+<node id="1708718109" lat="51.5040371" lon="-0.0160733"  n="NatWest" t="bank" st=""/>
+<node id="1708940309" lat="51.4509074" lon="0.0527555"  n="NatWest" t="bank" st=""/>
+<node id="1713315329" lat="51.5037746" lon="-0.2198256"  n="NatWest" t="bank" st=""/>
+<node id="1722302362" lat="51.5191742" lon="-0.0870215"  n="HSBC" t="bank" st=""/>
+<node id="1733914342" lat="51.5133489" lon="-0.1124942"  n="Lloyds" t="bank" st=""/>
+<node id="1747519086" lat="51.4311024" lon="-0.321479"  n="Teddington footbridge end" t="bank" st=""/>
+<node id="1759071591" lat="51.5023462" lon="-0.154475"  n="ICICI Bank" t="bank" st=""/>
+<node id="1763603998" lat="51.5414632" lon="0.0018955"  n="Lloyds TSB" t="bank" st=""/>
+<node id="1767457195" lat="51.3745953" lon="-0.0947132"  n="Co-operative" t="bank" st=""/>
+<node id="1768843678" lat="51.5627338" lon="0.217608"  n="Halifax" t="bank" st=""/>
+<node id="1787108617" lat="51.5158403" lon="-0.0837813"  n="Halifax" t="bank" st=""/>
+<node id="1794934697" lat="51.4937839" lon="-0.1460809"  n="Banif Bank" t="bank" st=""/>
+<node id="1798783062" lat="51.5712714" lon="-0.1955733"  n="Barclays Bank" t="bank" st=""/>
+<node id="1798783065" lat="51.5720757" lon="-0.196146"  n="Lloyds Bank" t="bank" st=""/>
+<node id="1798785409" lat="51.5718238" lon="-0.1964583"  n="NATWEST" t="bank" st=""/>
+<node id="1798785413" lat="51.5720318" lon="-0.1959359"  n="Northern Rock" t="bank" st=""/>
+<node id="1804468500" lat="51.3742851" lon="-0.0972591"  n="Halifax" t="bank" st=""/>
+<node id="1812648837" lat="51.505102" lon="-0.0983091"  n="citizenM hotel London Bankside" t="bank" st=""/>
+<node id="1843846145" lat="51.473279" lon="-0.09317"  n="Santander" t="bank" st=""/>
+<node id="1844562385" lat="51.5715014" lon="-0.1949421"  n="Santander Golders Green" t="bank" st=""/>
+<node id="1852968861" lat="51.4008958" lon="-0.2556975"  n="LLoyds TSB" t="bank" st=""/>
+<node id="1852968862" lat="51.4006161" lon="-0.2560024"  n="Halifax" t="bank" st=""/>
+<node id="1888837596" lat="51.3743784" lon="-0.0964349"  n="Norfolk House" t="bank" st=""/>
+<node id="1888837642" lat="51.3746781" lon="-0.0943964"  n="Lloyd&#39;s" t="bank" st=""/>
+<node id="1888837674" lat="51.3744881" lon="-0.0966208"  n="Virgin Money" t="bank" st=""/>
+<node id="1905762545" lat="51.5111534" lon="-0.1074473"  n="Temple, Victoria Embankment" t="bank" st=""/>
+<node id="1936163405" lat="51.5043566" lon="-0.0146732"  n="Barclays" t="bank" st=""/>
+<node id="1937398220" lat="51.49662" lon="-0.126169"  n="Crussh Bar" t="bank" st=""/>
+<node id="1938293357" lat="51.4898263" lon="0.0686193"  n="Barclays" t="bank" st=""/>
+<node id="1944440362" lat="51.401817" lon="-0.1953257"  n="Natwest" t="bank" st=""/>
+<node id="1944454501" lat="51.4048094" lon="-0.1648306"  n="Natwest" t="bank" st=""/>
+<node id="1944457683" lat="51.4053599" lon="-0.1631301"  n="Barclays" t="bank" st=""/>
+<node id="1944468211" lat="51.4048999" lon="-0.1643226"  n="HSBC" t="bank" st=""/>
+<node id="1944478521" lat="51.406391" lon="-0.1631149"  n="Lloyds TSB" t="bank" st=""/>
+<node id="1945656711" lat="51.4214212" lon="-0.2073579"  n="HSBC" t="bank" st=""/>
+<node id="1945661891" lat="51.4210231" lon="-0.2079454"  n="Lloyds" t="bank" st=""/>
+<node id="1945664995" lat="51.4220341" lon="-0.2072481"  n="Barclays House" t="bank" st=""/>
+<node id="1956302687" lat="51.4625519" lon="-0.1363195"  n="HSBC" t="bank" st=""/>
+<node id="1956319595" lat="51.4624477" lon="-0.1366543"  n="Santander" t="bank" st=""/>
+<node id="1962301245" lat="51.499645" lon="-0.119207"  n="Nat West" t="bank" st=""/>
+<node id="1968174586" lat="51.4320327" lon="-0.1294023"  n="Lloyds TSB" t="bank" st=""/>
+<node id="1968206894" lat="51.4319695" lon="-0.1290627"  n="Santander" t="bank" st=""/>
+<node id="1968208217" lat="51.4319093" lon="-0.1290735"  n="RBS" t="bank" st=""/>
+<node id="1969408907" lat="51.4214523" lon="-0.2079411"  n="Natwest" t="bank" st=""/>
+<node id="1973956642" lat="51.4413088" lon="-0.1874647"  n="Barclays Bank " t="bank" st=""/>
+<node id="1974009472" lat="51.4566564" lon="-0.1931194"  n="Barclays" t="bank" st=""/>
+<node id="1974010977" lat="51.4565478" lon="-0.1930335"  n="Santander" t="bank" st=""/>
+<node id="1975218573" lat="51.5933553" lon="0.0260691"  n="The Co-operative Bank" t="bank" st=""/>
+<node id="1993188855" lat="51.5845969" lon="-0.280597"  n="Natwest" t="bank" st=""/>
+<node id="1998914764" lat="51.3548268" lon="-0.2139381"  n="Barclays" t="bank" st=""/>
+<node id="2010350559" lat="51.4749676" lon="-0.3384717"  n="Barclays" t="bank" st=""/>
+<node id="2027179999" lat="51.5916127" lon="-0.1044067"  n="Santander" t="bank" st=""/>
+<node id="2027197226" lat="51.5929986" lon="-0.1063801"  n="Halifax" t="bank" st=""/>
+<node id="2028848132" lat="51.3747065" lon="-0.1010663"  n="Metro Bank" t="bank" st=""/>
+<node id="2035021868" lat="51.6156249" lon="-0.1768918"  n="HSBC" t="bank" st=""/>
+<node id="2066862842" lat="51.5090238" lon="-0.1250588"  n="Coutts &#38; Co" t="bank" st=""/>
+<node id="2078747252" lat="51.5129591" lon="-0.3053195"  n="Nationwide" t="bank" st=""/>
+<node id="2091169863" lat="51.5117166" lon="-0.105857"  n="J P Morgan" t="bank" st=""/>
+<node id="2112979626" lat="51.3694698" lon="-0.09905"  n="Staffbank" t="bank" st=""/>
+<node id="2117212858" lat="51.4055578" lon="0.0143521"  n="HSBC" t="bank" st=""/>
+<node id="2117212870" lat="51.4012191" lon="0.0167206"  n="Santander" t="bank" st=""/>
+<node id="2142548851" lat="51.4740529" lon="-0.0359178"  n="Santander" t="bank" st=""/>
+<node id="2153810531" lat="51.5069711" lon="-0.121336"  n="Embankment" t="bank" st=""/>
+<node id="2171727128" lat="51.5277029" lon="-0.0213589"  n="Barclays" t="bank" st=""/>
+<node id="2173397093" lat="51.3627612" lon="-0.1929958"  n="Metro Bank" t="bank" st=""/>
+<node id="2173397104" lat="51.3628567" lon="-0.1930187"  n="Santander" t="bank" st=""/>
+<node id="2189470855" lat="51.6182576" lon="-0.2279507"  n="Blue Plaque Rosebank Quaker Meeting House" t="bank" st=""/>
+<node id="2191588083" lat="51.5145945" lon="-0.1494583"  n="Bank Leumi (UK) plc" t="bank" st=""/>
+<node id="2195968620" lat="51.5711828" lon="-0.1955238"  n="Santander" t="bank" st=""/>
+<node id="2196532560" lat="51.4925872" lon="-0.2541865"  n="Metro Bank" t="bank" st=""/>
+<node id="2216165771" lat="51.587798" lon="-0.2212419"  n="Barclays" t="bank" st=""/>
+<node id="2216172824" lat="51.5870547" lon="-0.2204426"  n="HSBC" t="bank" st=""/>
+<node id="2288030397" lat="51.4926121" lon="-0.1290435"  n="Millbank" t="bank" st=""/>
+<node id="2288431435" lat="51.5555985" lon="-0.3368802"  n="Barclays" t="bank" st=""/>
+<node id="2290249788" lat="51.5777177" lon="0.0265274"  n="Nationwide Building Society" t="bank" st=""/>
+<node id="2291370760" lat="51.578745" lon="0.0258033"  n="Barclays Bank" t="bank" st=""/>
+<node id="2294470235" lat="51.5788678" lon="0.0256471"  n="Nat West Bank" t="bank" st=""/>
+<node id="2301521969" lat="51.528599" lon="-0.3515556"  n="HSBC" t="bank" st=""/>
+<node id="2305469302" lat="51.514807" lon="-0.156303"  n="Ahli United Bank" t="bank" st=""/>
+<node id="2313571325" lat="51.5279911" lon="-0.3524366"  n="Barclays" t="bank" st=""/>
+<node id="2322099852" lat="51.6164432" lon="-0.1765688"  n="Nationwide" t="bank" st=""/>
+<node id="2322213890" lat="51.5266421" lon="-0.0617779"  n="Halifax" t="bank" st=""/>
+<node id="2333408451" lat="51.5817208" lon="-0.0997508"  n="Santander" t="bank" st=""/>
+<node id="2350643635" lat="51.4937208" lon="-0.1209007"  n="Al Jazeera" t="bank" st=""/>
+<node id="2356266553" lat="51.5585501" lon="0.0703895"  n="Barclays" t="bank" st=""/>
+<node id="2356284257" lat="51.5766033" lon="0.0672917"  n="Lloyd&#39;s" t="bank" st=""/>
+<node id="2362524097" lat="51.5220305" lon="-0.0872329"  n="Bank Indonesia" t="bank" st=""/>
+<node id="2389237163" lat="51.5187382" lon="-0.0882393"  n="Kexim Bank" t="bank" st=""/>
+<node id="2395017742" lat="51.4263621" lon="-0.0542607"  n="Lloyds TSB" t="bank" st=""/>
+<node id="2395017744" lat="51.4263561" lon="-0.0519165"  n="Santander" t="bank" st=""/>
+<node id="2406479353" lat="51.5431514" lon="-0.0058467"  n="Lloyds" t="bank" st=""/>
+<node id="2410295242" lat="51.4926354" lon="-0.1258324"  n="Conservative Party (UK)" t="bank" st=""/>
+<node id="2414012809" lat="51.4990712" lon="-0.1332651"  n="TSB" t="bank" st=""/>
+<node id="2428571951" lat="51.6698413" lon="-0.0410019"  n="Barclays" t="bank" st=""/>
+<node id="2429826567" lat="51.4274459" lon="-0.1673473"  n="Lloyds TSB" t="bank" st=""/>
+<node id="2429826568" lat="51.4273528" lon="-0.1672468"  n="Barclays" t="bank" st=""/>
+<node id="2429830338" lat="51.428698" lon="-0.1675648"  n="Natwest" t="bank" st=""/>
+<node id="2429830339" lat="51.4288852" lon="-0.167319"  n="Nationwide" t="bank" st=""/>
+<node id="2429959429" lat="51.6699983" lon="-0.0413364"  n="HSBC" t="bank" st=""/>
+<node id="2430890211" lat="51.5261622" lon="-0.039727"  n="Santander" t="bank" st=""/>
+<node id="2437583456" lat="51.4969311" lon="-0.1378652"  n="RBS" t="bank" st=""/>
+<node id="2437583476" lat="51.4969493" lon="-0.1377257"  n="Santander" t="bank" st=""/>
+<node id="2447053257" lat="51.4145818" lon="-0.1929089"  n="Barclays Bank" t="bank" st=""/>
+<node id="2451932109" lat="51.524165" lon="-0.1332171"  n="Santander" t="bank" st=""/>
+<node id="2459133120" lat="51.5808634" lon="-0.0298478"  n="Alpha Business Centre" t="bank" st=""/>
+<node id="2463974595" lat="51.4506437" lon="0.0518088"  n="TSB" t="bank" st=""/>
+<node id="2482653911" lat="51.580969" lon="-0.3336514"  n="TSB" t="bank" st=""/>
+<node id="2482653912" lat="51.5814035" lon="-0.3374873"  n="TSB" t="bank" st=""/>
+<node id="2489296443" lat="51.4265682" lon="0.1011983"  n="Barclays" t="bank" st=""/>
+<node id="2493885130" lat="51.5801997" lon="-0.3358125"  n="Britannia" t="bank" st=""/>
+<node id="2493885139" lat="51.5799185" lon="-0.3354071"  n="ICICI Bank" t="bank" st=""/>
+<node id="2495127645" lat="51.4106713" lon="-0.3014629"  n="Metro Bank" t="bank" st=""/>
+<node id="2503037655" lat="51.4979316" lon="-0.1672701"  n="Natwest" t="bank" st=""/>
+<node id="2519784688" lat="51.4625174" lon="-0.0092363"  n="Turkish Bank" t="bank" st=""/>
+<node id="2521560401" lat="51.4623003" lon="-0.0095625"  n="HSBC" t="bank" st=""/>
+<node id="2521560407" lat="51.4623321" lon="-0.0097453"  n="Barclays" t="bank" st=""/>
+<node id="2521692055" lat="51.5904497" lon="-0.1431509"  n="Lloyds" t="bank" st=""/>
+<node id="2524855580" lat="51.4629281" lon="-0.0106398"  n="NatWest" t="bank" st=""/>
+<node id="2526562776" lat="51.545555" lon="-0.4787495"  n="Lloyds Bank - Uxbridge" t="bank" st=""/>
+<node id="2528652087" lat="51.3739076" lon="-0.09811"  n="Santander" t="bank" st=""/>
+<node id="2531007759" lat="51.5452386" lon="-0.1033624"  n="Nationwide" t="bank" st=""/>
+<node id="2534408573" lat="51.5812633" lon="-0.3343279"  n="State Bank of India" t="bank" st=""/>
+<node id="2541738425" lat="51.6334465" lon="-0.1004004"  n="Barclays Bank" t="bank" st=""/>
+<node id="2584253984" lat="51.5654766" lon="-0.352184"  n="Barclays" t="bank" st=""/>
+<node id="2609621299" lat="51.5815366" lon="-0.3363265"  n="Halifax" t="bank" st=""/>
+<node id="2609621309" lat="51.5813515" lon="-0.3363356"  n="Metro Bank" t="bank" st=""/>
+<node id="2610004495" lat="51.5640575" lon="-0.3545483"  n="Lloyds Bank" t="bank" st=""/>
+<node id="2610004506" lat="51.5638964" lon="-0.3547694"  n="Nationwide" t="bank" st=""/>
+<node id="2613610204" lat="51.3644405" lon="-0.1937112"  n="Santander" t="bank" st=""/>
+<node id="2623487666" lat="51.3655143" lon="-0.194267"  n="NatWest" t="bank" st=""/>
+<node id="2623487692" lat="51.3635328" lon="-0.193148"  n="Barclays" t="bank" st=""/>
+<node id="2627107093" lat="51.3617552" lon="-0.1924653"  n="Nationwide" t="bank" st=""/>
+<node id="2627107110" lat="51.3626997" lon="-0.1926128"  n="TSB" t="bank" st=""/>
+<node id="2627107115" lat="51.3630733" lon="-0.1928418"  n="Halifax" t="bank" st=""/>
+<node id="2627107121" lat="51.3634714" lon="-0.1931185"  n="Chelsea Building Society" t="bank" st=""/>
+<node id="2627120349" lat="51.3646597" lon="-0.1935637"  n="Britannia Building Society" t="bank" st=""/>
+<node id="2629340924" lat="51.5899339" lon="0.0819898"  n="Halifax" t="bank" st=""/>
+<node id="2642857066" lat="51.5139817" lon="-0.0860246"  n="Nationwide" t="bank" st=""/>
+<node id="2642857076" lat="51.5141001" lon="-0.0869235"  n="RBS" t="bank" st=""/>
+<node id="2642895041" lat="51.5162053" lon="-0.0876388"  n="Union Bank" t="bank" st=""/>
+<node id="2674734219" lat="51.4569741" lon="-0.0136794"  n="clothing bank" t="bank" st=""/>
+<node id="2681310259" lat="51.517682" lon="-0.1092106"  n="HSBC" t="bank" st=""/>
+<node id="2681388930" lat="51.5227171" lon="-0.087425"  n="Bank of Baroda" t="bank" st=""/>
+<node id="2686829285" lat="51.4886245" lon="-0.1226368"  n="Casa Madeira" t="bank" st=""/>
+<node id="2686843329" lat="51.487298" lon="-0.122843"  n="Embankment Bar" t="bank" st=""/>
+<node id="2712539263" lat="51.4092645" lon="-0.1223983"  n="Lloyds Bank" t="bank" st=""/>
+<node id="2712539265" lat="51.4085161" lon="-0.1221754"  n="NatWest" t="bank" st=""/>
+<node id="2739460435" lat="51.5858359" lon="-0.1805544"  n="Barclays" t="bank" st=""/>
+<node id="2779057301" lat="51.5149415" lon="-0.1758013"  n="NatWest" t="bank" st=""/>
+<node id="2780614564" lat="51.5491261" lon="-0.0548766"  n="Halifax" t="bank" st=""/>
+<node id="2801862737" lat="51.3796077" lon="-0.2438588"  n="Barclays Bank" t="bank" st=""/>
+<node id="2808877099" lat="51.4954425" lon="-0.1832186"  n="Barclays" t="bank" st=""/>
+<node id="2822798374" lat="51.4707186" lon="-0.4112451"  n="Crane Valley Park - Cranebank" t="bank" st=""/>
+<node id="2841921180" lat="51.5069283" lon="-0.1214769"  n="Thames Rib Experience" t="bank" st=""/>
+<node id="2925135840" lat="51.4605944" lon="-0.0106756"  n="The Co-operative Bank" t="bank" st=""/>
+<node id="2928023985" lat="51.48581" lon="-0.1252587"  n="BBVA" t="bank" st=""/>
+<node id="2934288544" lat="51.5149462" lon="-0.0807769"  n="Bangkok Bank" t="bank" st=""/>
+<node id="2943866435" lat="51.4992401" lon="-0.1646757"  n="Halifax" t="bank" st=""/>
+<node id="2964129090" lat="51.4696761" lon="-0.2199831"  n="Putney Embankment" t="bank" st=""/>
+<node id="2994546850" lat="51.6019686" lon="-0.192549"  n="HSBC" t="bank" st=""/>
+<node id="2994546893" lat="51.6007368" lon="-0.1947365"  n="Lloyd&#39;s" t="bank" st=""/>
+<node id="3012445335" lat="51.6545714" lon="-0.2018322"  n="Nationwide" t="bank" st=""/>
+<node id="3012445336" lat="51.6547656" lon="-0.2018647"  n="Barclays" t="bank" st=""/>
+<node id="3012445337" lat="51.6548867" lon="-0.2019013"  n="Halifax" t="bank" st=""/>
+<node id="3018116499" lat="51.5151085" lon="-0.0829092"  n="NatWest" t="bank" st=""/>
+<node id="3032953047" lat="51.6075345" lon="0.0332598"  n="Natwest" t="bank" st=""/>
+<node id="3065500296" lat="51.4630185" lon="-0.1678257"  n="Santander" t="bank" st=""/>
+<node id="3087030437" lat="51.3795877" lon="-0.2434776"  n="HSBC" t="bank" st=""/>
+<node id="3102743666" lat="51.4612624" lon="-0.1671087"  n="Nationwide" t="bank" st=""/>
+<node id="3143555530" lat="51.5166221" lon="-0.0797444"  n="Bank of Ceylon" t="bank" st=""/>
+<node id="3160140344" lat="51.6523438" lon="-0.0848329"  n="Nationwide" t="bank" st=""/>
+<node id="3160157115" lat="51.6523688" lon="-0.0808579"  n="Virgin Money" t="bank" st=""/>
+<node id="3162740190" lat="51.5686966" lon="0.0115827"  n="Abbey" t="bank" st=""/>
+<node id="3167415990" lat="51.6471182" lon="-0.0466731"  n="Barclays" t="bank" st=""/>
+<node id="3202321374" lat="51.5471546" lon="-0.1795276"  n="HSBC" t="bank" st=""/>
+<node id="3239557638" lat="51.5135563" lon="-0.106644"  n="Fleetbank House" t="bank" st=""/>
+<node id="3248942232" lat="51.5060597" lon="-0.0977823"  n="Bankside Community Space" t="bank" st=""/>
+<node id="3259141290" lat="51.5461994" lon="-0.4799495"  n="Metrobank" t="bank" st=""/>
+<node id="3260045863" lat="51.5137835" lon="-0.3022558"  n="HSBC" t="bank" st=""/>
+<node id="3276817701" lat="51.3664377" lon="-0.1942865"  n="RBS" t="bank" st=""/>
+<node id="3286891465" lat="51.497443" lon="-0.133842"  n="Chelsea Building Society" t="bank" st=""/>
+<node id="3320744024" lat="51.5182262" lon="-0.0879885"  n="NatWest" t="bank" st=""/>
+<node id="3322101488" lat="51.5109736" lon="-0.0927851"  n="Postbank" t="bank" st=""/>
+<node id="3325576253" lat="51.4108335" lon="-0.302222"  n="Lloyds Bank" t="bank" st=""/>
+<node id="3338472783" lat="51.4105754" lon="-0.3023753"  n="HSBC" t="bank" st=""/>
+<node id="3339599843" lat="51.5112108" lon="-0.374012"  n="State Bank of India" t="bank" st=""/>
+<node id="3340681068" lat="51.5083279" lon="-0.1262687"  n="HSBC" t="bank" st=""/>
+<node id="3356941493" lat="51.438616" lon="-0.126176"  n="HSBC" t="bank" st=""/>
+<node id="3357919387" lat="51.5015025" lon="-0.1606488"  n="Lloyds Bank" t="bank" st=""/>
+<node id="3357922867" lat="51.5145886" lon="-0.1442625"  n="Santander" t="bank" st=""/>
+<node id="3357923666" lat="51.4985652" lon="-0.1659935"  n="BBVA" t="bank" st=""/>
+<node id="3357923671" lat="51.4989797" lon="-0.1643837"  n="Barclays" t="bank" st=""/>
+<node id="3357923680" lat="51.4978298" lon="-0.1665235"  n="Blom Bank France" t="bank" st=""/>
+<node id="3357928382" lat="51.4966338" lon="-0.1686942"  n="HSBC" t="bank" st=""/>
+<node id="3357928383" lat="51.4993549" lon="-0.1644732"  n="HSBC" t="bank" st=""/>
+<node id="3357928384" lat="51.5156618" lon="-0.1400393"  n="HSBC" t="bank" st=""/>
+<node id="3369022532" lat="51.5482576" lon="0.02489"  n="Santander" t="bank" st=""/>
+<node id="3378339643" lat="51.514623" lon="-0.1168698"  n="Santander" t="bank" st=""/>
+<node id="3378721101" lat="51.6451601" lon="-0.0579481"  n="North Enfield Food Bank" t="bank" st=""/>
+<node id="3431413412" lat="51.4800359" lon="0.1799831"  n="Barclays" t="bank" st=""/>
+<node id="3431514909" lat="51.5139132" lon="-0.4731206"  n="Western Union" t="bank" st=""/>
+<node id="3440711793" lat="51.500628" lon="-0.194572"  n="Santander" t="bank" st=""/>
+<node id="3457911868" lat="51.6523987" lon="-0.0804709"  n="Lloyds Bank" t="bank" st=""/>
+<node id="3497324075" lat="51.5355265" lon="-0.1034244"  n="Barclays" t="bank" st=""/>
+<node id="3505158409" lat="51.5952908" lon="-0.1087434"  n="Metro Bank" t="bank" st=""/>
+<node id="3517195361" lat="51.5056477" lon="-0.0987808"  n="NatWest" t="bank" st=""/>
+<node id="3551232250" lat="51.4465101" lon="-0.4106873"  n="Lloyds Bank" t="bank" st=""/>
+<node id="3551232253" lat="51.4461946" lon="-0.4107419"  n="NatWest" t="bank" st=""/>
+<node id="3551232254" lat="51.4456634" lon="-0.4106212"  n="Nationwide" t="bank" st=""/>
+<node id="3551232257" lat="51.446428" lon="-0.4103342"  n="Santander" t="bank" st=""/>
+<node id="3568654024" lat="51.3388671" lon="-0.1155037"  n="HSBC" t="bank" st=""/>
+<node id="3568827793" lat="51.3385368" lon="-0.1166322"  n="Barclays" t="bank" st=""/>
+<node id="3569207596" lat="51.3393953" lon="-0.1148343"  n="Halifax" t="bank" st=""/>
+<node id="3569220795" lat="51.3395882" lon="-0.1154941"  n="Nationwide" t="bank" st=""/>
+<node id="3569250099" lat="51.3392333" lon="-0.1161275"  n="Santander" t="bank" st=""/>
+<node id="3569250102" lat="51.3391394" lon="-0.1162777"  n="Lloyds Bank" t="bank" st=""/>
+<node id="3616054174" lat="51.4574511" lon="-0.1958331"  n="Natwest" t="bank" st=""/>
+<node id="3624951695" lat="51.5149113" lon="-0.1761808"  n="Barclays" t="bank" st=""/>
+<node id="3636960124" lat="51.5199317" lon="-0.0787635"  n="NatWest" t="bank" st=""/>
+<node id="3637918315" lat="51.4341103" lon="-0.1035139"  n="Barclays Bank" t="bank" st=""/>
+<node id="3652482627" lat="51.530433" lon="-0.1844875"  n="Barclays" t="bank" st=""/>
+<node id="3652576219" lat="51.4265348" lon="0.1017116"  n="HSBC" t="bank" st=""/>
+<node id="3652576220" lat="51.4265582" lon="0.1015158"  n="NatWest" t="bank" st=""/>
+<node id="3652580094" lat="51.4265164" lon="0.1019664"  n="Nationwide" t="bank" st=""/>
+<node id="3652586969" lat="51.4261418" lon="0.1032941"  n="Lloyds" t="bank" st=""/>
+<node id="3663126131" lat="51.5042291" lon="-0.0612564"  n="Happiness at Work" t="bank" st=""/>
+<node id="3683521425" lat="51.4114572" lon="-0.3114611"  n="HSBC Commercial Banking" t="bank" st=""/>
+<node id="3736589722" lat="51.4647478" lon="-0.2651979"  n="Natwest" t="bank" st=""/>
+<node id="3780741649" lat="51.5570453" lon="-0.1178218"  n="Santander" t="bank" st=""/>
+<node id="3835356847" lat="51.5050311" lon="-0.0199987"  n="Citibank" t="bank" st=""/>
+<node id="3835357165" lat="51.5048738" lon="-0.0194684"  n="HSBC" t="bank" st=""/>
+<node id="3835357205" lat="51.5051427" lon="-0.0197757"  n="Santander" t="bank" st=""/>
+<node id="3881228479" lat="51.479345" lon="-0.0102722"  n="HSBC" t="bank" st=""/>
+<node id="3887879508" lat="51.505607" lon="-0.1011236"  n="Hilton London Bankside" t="bank" st=""/>
+<node id="3903258040" lat="51.4027345" lon="-0.1936879"  n="Santander" t="bank" st=""/>
+<node id="3925026587" lat="51.4464775" lon="-0.4100627"  n="Halifax" t="bank" st=""/>
+<node id="4004218262" lat="51.54691" lon="-0.074496"  n="Fair Finance" t="bank" st=""/>
+<node id="4057825011" lat="51.4624971" lon="-0.2161656"  n="TSB" t="bank" st=""/>
+<node id="4086356246" lat="51.4455522" lon="-0.0199631"  n="Barclays" t="bank" st=""/>
+<node id="4086356890" lat="51.4455647" lon="-0.0194039"  n="HSBC" t="bank" st=""/>
+<node id="4118665290" lat="51.5736554" lon="-0.2940347"  n="Securus Safe Deposit Centres" t="bank" st=""/>
+<node id="4147969104" lat="51.527425" lon="-0.0571734"  n="HSBC" t="bank" st=""/>
+<node id="4150171320" lat="51.4207488" lon="-0.2043126"  n="Santander" t="bank" st=""/>
+<node id="4159001511" lat="51.4208144" lon="-0.2069915"  n="Metro Bank" t="bank" st=""/>
+<node id="4187508638" lat="51.5077027" lon="-0.1336258"  n="BNP Paribas" t="bank" st=""/>
+<node id="4187508639" lat="51.5073885" lon="-0.1330385"  n="Ceca Bank" t="bank" st=""/>
+<node id="4187508650" lat="51.507802" lon="-0.1333366"  n="National Bank of Egypt" t="bank" st=""/>
+<node id="4213709889" lat="51.5216156" lon="-0.1460189"  n="Southbank International School" t="bank" st=""/>
+<node id="4216988801" lat="51.5215856" lon="-0.1460197"  n="Southbank International School" t="bank" st=""/>
+<node id="4221837280" lat="51.4127982" lon="-0.0504846"  n="HSBC" t="bank" st=""/>
+<node id="4223525798" lat="51.5717148" lon="-0.1958478"  n="Nationwide" t="bank" st=""/>
+<node id="4223582173" lat="51.4142456" lon="-0.051711"  n="NatWest" t="bank" st=""/>
+<node id="4223582177" lat="51.414558" lon="-0.0519782"  n="Santander" t="bank" st=""/>
+<node id="4223589009" lat="51.4150274" lon="-0.0524994"  n="Halifax" t="bank" st=""/>
+<node id="4232480700" lat="51.4928047" lon="-0.225312"  n="TSB" t="bank" st=""/>
+<node id="4239710227" lat="51.5841817" lon="-0.0214095"  n="Natwest" t="bank" st=""/>

@@ -1,0 +1,85 @@
+<node id="14462547" lat="52.5634267" lon="-1.8249827"  n="Gracechurch" t="parking" st="pay_and_display"/>
+<node id="245807947" lat="52.5873424" lon="-2.1287281"  n="Civic Centre" t="parking" st="underground"/>
+<node id="247757342" lat="52.5836516" lon="-2.1254951"  n="Wulfrun Centre" t="parking" st="multi-storey"/>
+<node id="247757343" lat="52.5841141" lon="-2.1279763"  n="Mander Centre" t="parking" st="multi-storey"/>
+<node id="262197013" lat="52.4117427" lon="-1.779094"  n="Touchwood" t="parking" st="underground"/>
+<node id="273109540" lat="52.4775485" lon="-1.9066293"  n="Crown Plaza and Hyatt Regency Parking" t="parking" st="multi-storey"/>
+<node id="344465103" lat="52.4142367" lon="-1.7782176"  n="Marks &#38; Spencer" t="parking" st="multi-storey"/>
+<node id="351948812" lat="52.5844131" lon="-2.1313209"  n="Beatties" t="parking" st="multi-storey"/>
+<node id="390480558" lat="52.4740016" lon="-1.921301"  n="Broadway Plaza" t="parking" st="underground"/>
+<node id="462678553" lat="52.4545742" lon="-1.7921824"  n="Aldi" t="parking" st="surface"/>
+<node id="893914104" lat="52.4808603" lon="-1.9033121"  n="Margaret Street Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="912152845" lat="52.4806398" lon="-1.8986425"  n="Temple Row Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="912152849" lat="52.4779223" lon="-1.8914987"  n="Moor Street Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="965992678" lat="52.4839441" lon="-1.8945759"  n="Police parking" t="parking" st="surface"/>
+<node id="1109122055" lat="52.4809199" lon="-1.9033982"  n="Margaret Street Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="1207121171" lat="52.4808683" lon="-1.9077599"  n="Brindley Drive Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="1207121172" lat="52.4808805" lon="-1.9077209"  n="Brindley Drive Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="1207121173" lat="52.4809193" lon="-1.9078206"  n="Brindley Drive Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="1207121174" lat="52.4809329" lon="-1.9077892"  n="Brindley Drive Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="1686206401" lat="52.5864384" lon="-2.1298994"  n="Civic Centre" t="parking" st="underground"/>
+<node id="1975350446" lat="52.4806408" lon="-1.8987744"  n="Temple Row Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="2171713914" lat="52.4442512" lon="-2.0391683"  n="Halesown Athletic and Cycling Club" t="parking" st="surface"/>
+<node id="2556578507" lat="52.4762601" lon="-1.8966294"  n="Dudley Street Car Park" t="parking" st="underground"/>
+<node id="2663641452" lat="52.4457674" lon="-1.8883074"  n="Alcester Road Moseley Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="2663641458" lat="52.4861094" lon="-1.887717"  n="Aston Street Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="2663641464" lat="52.4780178" lon="-1.9035461"  n="Brunel Street Car Park  Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="2663641470" lat="52.436767" lon="-1.892486"  n="Kings Heath High Street Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="2663641476" lat="52.4832477" lon="-1.8992877"  n="Livery Street Car Park  Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="2663641482" lat="52.4836455" lon="-1.8855177"  n="Millennium Point Car Park Electric Charging Point" t="parking" st="electric vehicles only"/>
+<node id="2663641493" lat="52.4755628" lon="-1.8915933"  n="Moat Lane Car Park  Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="2667174428" lat="52.4778241" lon="-1.8913076"  n="Bullring Moor Street Car Park 1" t="parking" st="electric vehicles only"/>
+<node id="2667174429" lat="52.4778519" lon="-1.8912856"  n="Bullring Moor Street Car Park 2" t="parking" st="electric vehicles only"/>
+<node id="2667174431" lat="52.4749694" lon="-1.8948748"  n="Pershore Street Car Park  Electric Charge Point" t="parking" st="electric vehicles only"/>
+<node id="2675652962" lat="52.4075215" lon="-1.504333"  n="Disable badge parking" t="parking" st="surface"/>
+<node id="27016970" lat="51.5257255" lon="-0.1619029"  n="Park Road Car Park" t="parking" st="surface"/>
+<node id="59865211" lat="51.5491337" lon="0.1999122"  n="Council" t="parking" st="surface"/>
+<node id="100293190" lat="51.5066722" lon="-0.0363257"  n="Old Fire Station" t="parking" st="underground"/>
+<node id="298917254" lat="51.5223438" lon="-0.1701943"  n="Church Street Car Park" t="parking" st="underground"/>
+<node id="298917264" lat="51.520441" lon="-0.1699013"  n="Bell Street Car Park" t="parking" st="underground"/>
+<node id="435104781" lat="51.5211284" lon="-0.0868931"  n="Finsbury Square Car Park" t="parking" st="underground"/>
+<node id="581391379" lat="51.525274" lon="-0.1099403"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="584448094" lat="51.5278217" lon="-0.1079567"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="609863262" lat="51.5211729" lon="-0.108813"  n="Hatton Garden Car Park" t="parking" st="underground"/>
+<node id="774014701" lat="51.5390289" lon="-0.1955787"  n="Kilburn Square" t="parking" st="underground"/>
+<node id="949045854" lat="51.5163873" lon="-0.1247182"  n="Holborn Car Park" t="parking" st="multi-storey"/>
+<node id="1203623751" lat="51.508725" lon="-0.0802018"  n="Tower Hill Car &#38; Coach Park" t="parking" st="multi-storey"/>
+<node id="1312190793" lat="51.526673" lon="-0.1238865"  n="Judd Street Car Park" t="parking" st="underground"/>
+<node id="1360237597" lat="51.4998222" lon="-0.1572834"  n="Knightsbridge Car Park" t="parking" st="underground"/>
+<node id="1445334391" lat="51.608517" lon="-0.0458032"  n="IKEA Car Park" t="parking" st="surface"/>
+<node id="1590148307" lat="51.5103066" lon="-0.0731599"  n="Minories Car Park" t="parking" st="multi-storey"/>
+<node id="1602019300" lat="51.5207685" lon="-0.1016144"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="1684616463" lat="51.4746312" lon="-0.0351086"  n="Goldsmiths College Parking Space" t="parking" st="surface"/>
+<node id="1695350243" lat="51.5067398" lon="-0.0359574"  n="Edward Square &#38; Prince Regent Court Parking" t="parking" st="surface"/>
+<node id="1695350250" lat="51.5067715" lon="-0.0367964"  n="Edward Square Parking" t="parking" st="underground"/>
+<node id="1747582920" lat="51.5082044" lon="-0.2220401"  n="Westfield parking" t="parking" st="underground"/>
+<node id="1747627718" lat="51.5461754" lon="-0.1799822"  n="Waitrose" t="parking" st="underground"/>
+<node id="1763198844" lat="51.5243331" lon="-0.0841555"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="1767293905" lat="51.5248742" lon="-0.0794175"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="1774147381" lat="51.5261057" lon="-0.0812265"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="1933870074" lat="51.5191159" lon="-0.1425068"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="1949224391" lat="51.3994639" lon="-0.1001182"  n="Tesco" t="parking" st="underground"/>
+<node id="1958800786" lat="51.5163543" lon="-0.1148505"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="1990169360" lat="51.6075834" lon="-0.0458875"  n="IKEA Car Park" t="parking" st="surface"/>
+<node id="1990694632" lat="51.5101991" lon="-0.0926904"  n="Vintry (Thames Exchange)" t="parking" st="underground"/>
+<node id="2186453679" lat="51.5184512" lon="-0.1628995"  n="NCP Sherwood Court Car Park" t="parking" st="underground"/>
+<node id="2186453680" lat="51.5181763" lon="-0.1634283"  n="NCP Sherwood Court Car Park" t="parking" st="underground"/>
+<node id="2191480791" lat="51.5150437" lon="-0.1534346"  n="Selfridges Car Park" t="parking" st="multi-storey"/>
+<node id="2218438027" lat="51.4922075" lon="-0.1498272"  n="NCP Victoria Car Park" t="parking" st="multi-storey"/>
+<node id="2272756863" lat="51.5148858" lon="-0.1514702"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="2344466087" lat="51.579081" lon="-0.4293493"  n="Winston Churchill Theatre Car Park" t="parking" st="surface"/>
+<node id="2377024735" lat="51.5823605" lon="-0.0264123"  n="Sainsbury&#39;s Car Park" t="parking" st="multi-storey"/>
+<node id="2613591923" lat="51.3648314" lon="-0.1932916"  n="Farm Foods Parking" t="parking" st="surface"/>
+<node id="2923135224" lat="51.4532545" lon="-0.1933097"  n="Garratt Lane" t="parking" st="multi-storey"/>
+<node id="2970768001" lat="51.559102" lon="-0.2821091"  n="Brent Civic Centre" t="parking" st="underground"/>
+<node id="3059855778" lat="51.5017772" lon="-0.1588487"  n="London Park Towers Hotel" t="parking" st="underground"/>
+<node id="3369978792" lat="51.5625936" lon="0.2212609"  n="Car Park " t="parking" st="surface"/>
+<node id="3479105774" lat="51.5071715" lon="-0.1498973"  n="Chesterfield House Car Park" t="parking" st="underground"/>
+<node id="3479105775" lat="51.507228" lon="-0.1498504"  n="Chesterfield House Car Park" t="parking" st="underground"/>
+<node id="3516406605" lat="51.518765" lon="-0.1442848"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="3521406623" lat="51.5189773" lon="-0.1419937"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="3615938882" lat="51.5166955" lon="-0.1756128"  n="Motorcycle parking" t="parking" st="surface"/>
+<node id="3778488553" lat="51.45858" lon="-0.0111382"  n="Slaithwaite Road" t="parking" st="surface"/>
+<node id="3906991299" lat="51.5518571" lon="-0.2953717"  n="Central Square" t="parking" st="underground"/>
+<node id="4221746604" lat="51.4143483" lon="-0.0532352"  n="Multistorey Car PArking" t="parking" st="multi-storey"/>
+<node id="4239701213" lat="51.5174345" lon="-0.1298691"  n="Tottenham Court Road Car Park" t="parking" st="underground"/>

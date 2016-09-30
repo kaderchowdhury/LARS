@@ -1,0 +1,338 @@
+<user_data>
+	<user>
+		<user_id>1</user_id>
+		<place_id>2699776232</place_id>
+		<name>Burger King</name>
+		<lat>52.4443114</lat>
+		<lon>-1.495705</lon>
+		<class>813</class>
+		<time>MORNING</time>
+		<day>MON</day>
+		<activity>PREPARING MEALS/EATING</activity>
+		<emotion>SURPRISE</emotion>
+		<feeling>LOVE</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-06-26 09:39:49.205</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>469774134</place_id>
+		<name>Marlborough RdPorters Avenue</name>
+		<lat>51.5484413</lat>
+		<lon>0.126886</lon>
+		<class>195</class>
+		<time>NOON</time>
+		<day>MON</day>
+		<activity>USE OF TELEPHONE</activity>
+		<emotion>FEAR</emotion>
+		<feeling>REMORSE</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-01-05 09:42:23.475</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>836845702</place_id>
+		<name>Kudos</name>
+		<lat>51.3578972</lat>
+		<lon>-0.215054</lon>
+		<class>267</class>
+		<time>EVENING</time>
+		<day>MON</day>
+		<activity>SHOPPING</activity>
+		<emotion>SURPRISE</emotion>
+		<feeling>AGGRESSIVENESS</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-02-24 07:37:54.185</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>1825191034</place_id>
+		<name>Hounslow Central</name>
+		<lat>51.4713198</lat>
+		<lon>-0.366725</lon>
+		<class>205</class>
+		<time>MORNING</time>
+		<day>TUE</day>
+		<activity>COMMUNITY MOBILITY</activity>
+		<emotion>SURPRISE</emotion>
+		<feeling>REMORSE</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-05-20 03:39:28.761</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>2976042582</place_id>
+		<name>Kitchen & Bedroom Centre</name>
+		<lat>52.4902688</lat>
+		<lon>-1.887529</lon>
+		<class>920</class>
+		<time>NOON</time>
+		<day>TUE</day>
+		<activity>COMMUNITY MOBILITY</activity>
+		<emotion>SADNESS</emotion>
+		<feeling>OPTIMISM</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-04-06 00:53:25.68</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>469763789</place_id>
+		<name>Barnet Church Fitzjohn Avenue</name>
+		<lat>51.652683</lat>
+		<lon>-0.199355</lon>
+		<class>195</class>
+		<time>EVENING</time>
+		<day>TUE</day>
+		<activity>COMMUNITY MOBILITY</activity>
+		<emotion>JOY</emotion>
+		<feeling>LOVE</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-04-07 20:27:30.553</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>3090725422</place_id>
+		<name>Image 2 Image</name>
+		<lat>51.4583678</lat>
+		<lon>-0.165865</lon>
+		<class>401</class>
+		<time>MORNING</time>
+		<day>WED</day>
+		<activity>RELIGIOUS OBSERVANCES</activity>
+		<emotion>LIKING</emotion>
+		<feeling>SUBMISSION</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-01-21 21:45:57.208</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>469766121</place_id>
+		<name>Burges Road</name>
+		<lat>51.5350579</lat>
+		<lon>0.066622</lon>
+		<class>195</class>
+		<time>NOON</time>
+		<day>WED</day>
+		<activity>COMMUNITY MOBILITY</activity>
+		<emotion>FEAR</emotion>
+		<feeling>DISAPPROVAL</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-01-02 04:27:35.65</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>469782418</place_id>
+		<name>The New Chandos</name>
+		<lat>51.5933751</lat>
+		<lon>-0.255413</lon>
+		<class>195</class>
+		<time>EVENING</time>
+		<day>WED</day>
+		<activity>WORK/HOUSEWORK</activity>
+		<emotion>JOY</emotion>
+		<feeling>CONTEMPT</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-06-10 11:08:55.507</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>2696704821</place_id>
+		<name>The Printworx</name>
+		<lat>52.4723851</lat>
+		<lon>-2.104256</lon>
+		<class>260</class>
+		<time>MORNING</time>
+		<day>THU</day>
+		<activity>PREPARING MEALS/EATING</activity>
+		<emotion>LIKING</emotion>
+		<feeling>OPTIMISM</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-06-28 09:30:24.728</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>469773215</place_id>
+		<name>Leinster Terrace</name>
+		<lat>51.5109629</lat>
+		<lon>-0.181286</lon>
+		<class>195</class>
+		<time>NOON</time>
+		<day>THU</day>
+		<activity>COMMUNITY MOBILITY</activity>
+		<emotion>ANGER</emotion>
+		<feeling>OPTIMISM</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-05-04 13:49:30.966</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>282475853</place_id>
+		<name>A&S Cycles</name>
+		<lat>51.5516538</lat>
+		<lon>-0.044014</lon>
+		<class>264</class>
+		<time>EVENING</time>
+		<day>THU</day>
+		<activity>USE OF TELEPHONE</activity>
+		<emotion>SURPRISE</emotion>
+		<feeling>LOVE</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-03-25 08:40:36.373</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>469788510</place_id>
+		<name>Jersey Road</name>
+		<lat>51.4873094</lat>
+		<lon>-0.341205</lon>
+		<class>195</class>
+		<time>MORNING</time>
+		<day>FRI</day>
+		<activity>SHOPPING</activity>
+		<emotion>LIKING</emotion>
+		<feeling>AGGRESSIVENESS</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-04-30 13:57:18.242</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>301017058</place_id>
+		<name>Linnet House Clinic</name>
+		<lat>51.534264</lat>
+		<lon>-0.168285</lon>
+		<class>1107</class>
+		<time>NOON</time>
+		<day>FRI</day>
+		<activity>PREPARING MEALS/EATING</activity>
+		<emotion>JOY</emotion>
+		<feeling>OPTIMISM</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-04-30 08:51:19.707</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>469770458</place_id>
+		<name>Greening Street</name>
+		<lat>51.4880777</lat>
+		<lon>0.117060</lon>
+		<class>195</class>
+		<time>EVENING</time>
+		<day>FRI</day>
+		<activity>WORK/HOUSEWORK</activity>
+		<emotion>SURPRISE</emotion>
+		<feeling>CONTEMPT</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-03-12 11:18:15.36</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>469761277</place_id>
+		<name>Emerson Park</name>
+		<lat>51.5682682</lat>
+		<lon>0.219272</lon>
+		<class>195</class>
+		<time>MORNING</time>
+		<day>SAT</day>
+		<activity>WORK/HOUSEWORK</activity>
+		<emotion>ANGER</emotion>
+		<feeling>CONTEMPT</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-01-30 03:27:37.239</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>566160019</place_id>
+		<name>Hornsey</name>
+		<lat>51.585639</lat>
+		<lon>-0.111122</lon>
+		<class>783</class>
+		<time>NOON</time>
+		<day>SAT</day>
+		<activity>WORK/HOUSEWORK</activity>
+		<emotion>ANGER</emotion>
+		<feeling>CONTEMPT</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-01-11 16:51:35.796</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>1237997059</place_id>
+		<name>West Green Road Car Park</name>
+		<lat>51.5844133</lat>
+		<lon>-0.077079</lon>
+		<class>1120</class>
+		<time>EVENING</time>
+		<day>SAT</day>
+		<activity>SHOPPING</activity>
+		<emotion>JOY</emotion>
+		<feeling>AGGRESSIVENESS</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-01-07 06:27:04.45</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>3502063728</place_id>
+		<name>Gold Craft</name>
+		<lat>52.4879231</lat>
+		<lon>-1.912400</lon>
+		<class>297</class>
+		<time>MORNING</time>
+		<day>SUN</day>
+		<activity>SHOPPING</activity>
+		<emotion>SADNESS</emotion>
+		<feeling>AWARE</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-01-01 01:36:43.78</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>3750681425</place_id>
+		<name>Artiquea</name>
+		<lat>51.4739494</lat>
+		<lon>-0.19220</lon>
+		<class>386</class>
+		<time>NOON</time>
+		<day>SUN</day>
+		<activity>COMMUNITY MOBILITY</activity>
+		<emotion>SADNESS</emotion>
+		<feeling>SUBMISSION</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-01-13 21:42:28.229</timestamp>
+	</user>
+	<user>
+		<user_id>1</user_id>
+		<place_id>3357928623</place_id>
+		<name>Kipling</name>
+		<lat>51.5012737</lat>
+		<lon>-0.161103</lon>
+		<class>402</class>
+		<time>EVENING</time>
+		<day>SUN</day>
+		<activity>SHOPPING</activity>
+		<emotion>JOY</emotion>
+		<feeling>AGGRESSIVENESS</feeling>
+		<rating>1</rating>
+		<with_friends>0</with_friends>
+		<timestamp>2016-04-11 10:08:05.081</timestamp>
+	</user>
+</user_data>

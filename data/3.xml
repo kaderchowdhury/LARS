@@ -1,0 +1,1044 @@
+<node id="207493" lat="52.4507612" lon="-1.7251273"  n="Birmingham International" t="railway" st="station"/>
+<node id="304651" lat="52.3993889" lon="-1.5475666"  n="Canley" t="railway" st="station"/>
+<node id="600252" lat="52.3962379" lon="-1.6421879"  n="Berkswell" t="railway" st="station"/>
+<node id="653032" lat="52.5285663" lon="-1.8392253"  n="Erdington" t="railway" st="station"/>
+<node id="653033" lat="52.5357946" lon="-1.8324576"  n="Chester Road" t="railway" st="station"/>
+<node id="653041" lat="52.5647207" lon="-1.8252548"  n="Sutton Coldfield" t="railway" st="station"/>
+<node id="653044" lat="52.5153876" lon="-1.8527077"  n="Gravelly Hill" t="railway" st="station"/>
+<node id="672672" lat="52.5043754" lon="-1.8719855"  n="Aston" t="railway" st="station"/>
+<node id="672673" lat="52.5055693" lon="-1.8732423"  n="Aston North Junction" t="railway" st="junction"/>
+<node id="672683" lat="52.5032124" lon="-1.8709101"  n="Aston South Junction" t="railway" st="junction"/>
+<node id="672701" lat="52.4884841" lon="-1.8711838"  n="Duddeston" t="railway" st="station"/>
+<node id="2502617" lat="52.5925882" lon="-1.8383384"  n="Butlers Lane" t="railway" st="station"/>
+<node id="5872090" lat="52.6043684" lon="-1.8446319"  n="Blake Street" t="railway" st="station"/>
+<node id="10809201" lat="52.4142672" lon="-1.9328061"  n="Kings Norton" t="railway" st="station"/>
+<node id="10809211" lat="52.4273865" lon="-1.9266395"  n="Bournville" t="railway" st="station"/>
+<node id="10809215" lat="52.4418577" lon="-1.9356149"  n="Selly Oak" t="railway" st="station"/>
+<node id="10809344" lat="52.4079711" lon="-1.9656209"  n="Northfield" t="railway" st="station"/>
+<node id="10913029" lat="52.471199" lon="-1.9130341"  n="Five Ways" t="railway" st="station"/>
+<node id="14462005" lat="52.5795483" lon="-1.8280042"  n="Four Oaks" t="railway" st="station"/>
+<node id="20696101" lat="52.4831043" lon="-1.8551504"  n="Adderley Park" t="railway" st="station"/>
+<node id="20983005" lat="52.3417839" lon="-1.7257883"  n="Lapworth" t="railway" st="station"/>
+<node id="20983011" lat="52.3718751" lon="-1.7527722"  n="Dorridge" t="railway" st="station"/>
+<node id="20983015" lat="52.3962802" lon="-1.7743426"  n="Widney Manor" t="railway" st="station"/>
+<node id="20983048" lat="52.4539236" lon="-1.8385161"  n="Tyseley" t="railway" st="station"/>
+<node id="20984161" lat="52.4144553" lon="-1.7883911"  n="Solihull" t="railway" st="station"/>
+<node id="20984401" lat="52.4722925" lon="-1.8778555"  n="Bordesley" t="railway" st="station"/>
+<node id="20984433" lat="52.4836264" lon="-1.8994682"  n="Birmingham Snow Hill" t="railway" st="station"/>
+<node id="20984528" lat="52.5021186" lon="-1.9523164"  n="Handsworth, Booth Street" t="railway" st="tram_stop"/>
+<node id="21137875" lat="52.5876559" lon="-2.1199992"  n="Wolverhampton" t="railway" st="station"/>
+<node id="21137896" lat="52.5453156" lon="-2.0858348"  n="Coseley" t="railway" st="station"/>
+<node id="21137911" lat="52.5305385" lon="-2.0658008"  n="Tipton" t="railway" st="station"/>
+<node id="21140726" lat="52.4964344" lon="-1.9701934"  n="Smethwick Rolfe Street" t="railway" st="station"/>
+<node id="21257178" lat="52.5943734" lon="-2.105934"  n="Wednesfield Heath" t="railway" st="historic_station"/>
+<node id="21257413" lat="52.5739511" lon="-1.9944697"  n="Pleck Junction" t="railway" st="junction"/>
+<node id="21257422" lat="52.5630075" lon="-1.9909844"  n="Bescot Stadium" t="railway" st="station"/>
+<node id="21257431" lat="52.5522427" lon="-1.9759632"  n="Tame Bridge Parkway" t="railway" st="station"/>
+<node id="21257447" lat="52.5310039" lon="-1.9288524"  n="Hamstead" t="railway" st="station"/>
+<node id="21257480" lat="52.516391" lon="-1.9020671"  n="Perry Barr" t="railway" st="station"/>
+<node id="21264498" lat="52.5122032" lon="-1.8839156"  n="Witton" t="railway" st="station"/>
+<node id="21281257" lat="52.4476157" lon="-2.1340314"  n="Stourbridge Junction" t="railway" st="station"/>
+<node id="21281267" lat="52.4556424" lon="-2.1419647"  n="Stourbridge Town" t="railway" st="station"/>
+<node id="21281283" lat="52.4598829" lon="-2.1160336"  n="Lye" t="railway" st="station"/>
+<node id="21281285" lat="52.4694408" lon="-2.0906252"  n="Cradley Heath" t="railway" st="station"/>
+<node id="21281425" lat="52.4707846" lon="-2.0561923"  n="Old Hill" t="railway" st="station"/>
+<node id="21281483" lat="52.4773585" lon="-2.0309039"  n="Rowley Regis" t="railway" st="station"/>
+<node id="21281486" lat="52.4934857" lon="-2.0054314"  n="Langley Green" t="railway" st="station"/>
+<node id="25479889" lat="52.4851671" lon="-1.8116699"  n="Stechford" t="railway" st="station"/>
+<node id="25522884" lat="52.480731" lon="-1.7866895"  n="Lea Hall" t="railway" st="station"/>
+<node id="25524280" lat="52.4669026" lon="-1.7551019"  n="Marston Green" t="railway" st="station"/>
+<node id="25524281" lat="52.4288874" lon="-1.699979"  n="Hampton-in-Arden" t="railway" st="station"/>
+<node id="25549573" lat="52.4210127" lon="-1.8545892"  n="Yardley Wood" t="railway" st="station"/>
+<node id="25549581" lat="52.4369951" lon="-1.8455973"  n="Hall Green" t="railway" st="station"/>
+<node id="25549582" lat="52.4442762" lon="-1.8362836"  n="Spring Road" t="railway" st="station"/>
+<node id="26092803" lat="52.413531" lon="-1.5229354"  n="Coundon Road Level Crossing" t="railway" st="level_crossing"/>
+<node id="27181044" lat="52.545628" lon="-1.8314247"  n="Wylde Green" t="railway" st="station"/>
+<node id="29283560" lat="52.5845472" lon="-1.984926"  n="Walsall" t="railway" st="station"/>
+<node id="31156056" lat="52.4496015" lon="-1.8191543"  n="Acocks Green" t="railway" st="station"/>
+<node id="31554710" lat="52.4035314" lon="-1.8451595"  n="Shirley" t="railway" st="station"/>
+<node id="31554729" lat="52.3443845" lon="-1.8444546"  n="Wood End" t="railway" st="halt"/>
+<node id="31554743" lat="52.3590937" lon="-1.8446283"  n="The Lakes" t="railway" st="halt"/>
+<node id="31554745" lat="52.3918816" lon="-1.8514322"  n="Whitlocks End" t="railway" st="station"/>
+<node id="31554765" lat="52.3800791" lon="-1.8654572"  n="Wythall" t="railway" st="station"/>
+<node id="31554767" lat="52.3666042" lon="-1.8613816"  n="Earlswood" t="railway" st="station"/>
+<node id="36959293" lat="52.524465" lon="-2.0495079"  n="Dudley Port" t="railway" st="station"/>
+<node id="178947934" lat="52.477658" lon="-1.8986665"  n="Birmingham New Street" t="railway" st="station"/>
+<node id="181306846" lat="52.4790289" lon="-1.8922608"  n="Birmingham Moor Street" t="railway" st="station"/>
+<node id="187104817" lat="52.4899309" lon="-1.9142628"  n="Jewellery Quarter" t="railway" st="tram_stop"/>
+<node id="245805209" lat="52.5411313" lon="-2.0728893"  n="Princes End" t="railway" st="station"/>
+<node id="246561591" lat="52.4872332" lon="-1.9047842"  n="Saint Paul&#39;s" t="railway" st="tram_stop"/>
+<node id="247763046" lat="52.5810458" lon="-2.1169798"  n="The Royal" t="railway" st="tram_stop"/>
+<node id="249663867" lat="52.4895742" lon="-1.9132015"  n="Jewellery Quarter" t="railway" st="station"/>
+<node id="249663901" lat="52.5559816" lon="-2.0576788"  n="Bradley Lane" t="railway" st="tram_stop"/>
+<node id="251064972" lat="52.5656904" lon="-2.0750521"  n="Bilston Central" t="railway" st="tram_stop"/>
+<node id="252956634" lat="52.4832017" lon="-1.8985698"  n="Snow Hill (closed)" t="railway" st="tram_stop_former"/>
+<node id="253075708" lat="52.4852923" lon="-1.8139005"  n="Stechford North Junction" t="railway" st="junction"/>
+<node id="255946656" lat="52.4510426" lon="-1.9367799"  n="University" t="railway" st="station"/>
+<node id="260114060" lat="52.5679643" lon="-2.0808452"  n="The Crescent" t="railway" st="tram_stop"/>
+<node id="280156260" lat="52.549704" lon="-2.0320236"  n="Wednesbury Parkway" t="railway" st="tram_stop"/>
+<node id="280417262" lat="52.548932" lon="-2.0256171"  n="Wednesbury, Great Western Street" t="railway" st="tram_stop"/>
+<node id="280417266" lat="52.5310175" lon="-2.0111588"  n="Black Lake" t="railway" st="tram_stop"/>
+<node id="280417267" lat="52.5251673" lon="-2.0085363"  n="Dudley Street, Guns Village" t="railway" st="tram_stop"/>
+<node id="280417268" lat="52.5204882" lon="-2.0045223"  n="Dartmouth Street" t="railway" st="tram_stop"/>
+<node id="280417269" lat="52.5186777" lon="-1.9998654"  n="Lodge Road, West Bromwich Town Hall" t="railway" st="tram_stop"/>
+<node id="280417271" lat="52.5165409" lon="-1.994705"  n="West Bromwich Central" t="railway" st="tram_stop"/>
+<node id="280417273" lat="52.5119414" lon="-1.9882932"  n="Trinity Way" t="railway" st="tram_stop"/>
+<node id="280417275" lat="52.5058387" lon="-1.9650843"  n="The Hawthorns" t="railway" st="tram_stop"/>
+<node id="280417276" lat="52.5087162" lon="-1.9825255"  n="Kenrick Park" t="railway" st="tram_stop"/>
+<node id="280417278" lat="52.498945" lon="-1.939106"  n="Winson Green, Outer Circle" t="railway" st="tram_stop"/>
+<node id="280417281" lat="52.4970105" lon="-1.9310021"  n="Soho, Benson Road" t="railway" st="tram_stop"/>
+<node id="280417283" lat="52.571952" lon="-2.0979676"  n="Priestfield" t="railway" st="tram_stop"/>
+<node id="285052147" lat="52.3952321" lon="-1.5968808"  n="Tile Hill" t="railway" st="station"/>
+<node id="290235759" lat="52.5085779" lon="-2.01168"  n="Sandwell and Dudley" t="railway" st="station"/>
+<node id="295718082" lat="52.5055248" lon="-1.964545"  n="The Hawthorns" t="railway" st="station"/>
+<node id="303268707" lat="52.4602699" lon="-2.0494828"  n="Coombes Wood Halt" t="railway" st="station"/>
+<node id="313003356" lat="52.3969882" lon="-1.980665"  n="Longbridge" t="railway" st="station"/>
+<node id="339871670" lat="52.6253158" lon="-2.0175675"  n="Bloxwich North" t="railway" st="station"/>
+<node id="450804011" lat="52.5880112" lon="-2.1183492"  n="Wolverhampton Low Level" t="railway" st="historic_station"/>
+<node id="503897847" lat="52.6626684" lon="-1.9532199"  n="Brownhills West" t="railway" st="station"/>
+<node id="875476986" lat="52.481409" lon="-1.8777808"  n="Grand Junction" t="railway" st="junction"/>
+<node id="956806258" lat="52.4605059" lon="-1.4775195"  n="Hawkesbury Lane Level Crossing" t="railway" st="level_crossing"/>
+<node id="956916907" lat="52.4332057" lon="-1.5049506"  n="Foleshill" t="railway" st="station_site"/>
+<node id="957092473" lat="52.5685107" lon="-1.8275775"  n="Sutton Park Station (disused)" t="railway" st="station_site"/>
+<node id="957097846" lat="52.5853331" lon="-1.8732774"  n="Streetly Station (disused)" t="railway" st="station_site"/>
+<node id="957099466" lat="52.5380815" lon="-1.802128"  n="Penns Station (disused)" t="railway" st="station_site"/>
+<node id="958274780" lat="52.5017042" lon="-1.927281"  n="Soho Road" t="railway" st="station"/>
+<node id="958278785" lat="52.4943861" lon="-1.6885996"  n="Coleshill (Maxstoke)" t="railway" st="station"/>
+<node id="1135417079" lat="52.4849034" lon="-1.9017896"  n="Kwikstop" t="railway" st="arch under railway viaduct"/>
+<node id="1135417081" lat="52.4844711" lon="-1.9011816"  n="Lituanica" t="railway" st="arch under railway viaduct"/>
+<node id="1135417091" lat="52.484823" lon="-1.9016878"  n="Brewsmiths" t="railway" st="arch under railway viaduct"/>
+<node id="1135417101" lat="52.4845566" lon="-1.9013054"  n="Connolly&#39;s Wine Merchants" t="railway" st="arch under railway viaduct"/>
+<node id="1196910055" lat="52.4636439" lon="-1.8592731"  n="Small Heath" t="railway" st="station"/>
+<node id="1198383150" lat="52.4384106" lon="-1.8044867"  n="Olton" t="railway" st="station"/>
+<node id="1245480785" lat="52.4807348" lon="-1.88486"  n="Proof House Junction" t="railway" st="junction"/>
+<node id="1343327095" lat="52.5840763" lon="-2.1245218"  n="St Georges Platform 1" t="railway" st="tram_stop"/>
+<node id="1343327096" lat="52.5840062" lon="-2.1245244"  n="St Georges Platform 2" t="railway" st="tram_stop"/>
+<node id="1459290794" lat="52.400442" lon="-1.5112749"  n="Leamington Junction" t="railway" st="junction"/>
+<node id="1459292537" lat="52.4004281" lon="-1.5118747"  n="Leamington Junction" t="railway" st="junction"/>
+<node id="1461408488" lat="52.4807694" lon="-1.8848365"  n="Proof House Junction" t="railway" st="junction"/>
+<node id="1461549931" lat="52.4004185" lon="-1.5115602"  n="Leamington Junction" t="railway" st="junction"/>
+<node id="1469880625" lat="52.5164126" lon="-2.0241128"  n="Albion" t="railway" st="station"/>
+<node id="1491529522" lat="52.502029" lon="-1.9806589"  n="Smethwick Galton Bridge" t="railway" st="station"/>
+<node id="1491529527" lat="52.5020391" lon="-1.9803142"  n="Smethwick Galton Bridge" t="railway" st="station"/>
+<node id="1494736906" lat="52.4477685" lon="-1.8848045"  n="Moseley" t="railway" st="abandoned"/>
+<node id="1505708115" lat="52.5653121" lon="-1.820094"  n="Sutton Town Station (disused)" t="railway" st="station_site"/>
+<node id="1579929167" lat="52.4961184" lon="-1.9578629"  n="Soho Train Station (Closed)" t="railway" st="station"/>
+<node id="1830075898" lat="52.4993878" lon="-1.9991658"  n="Rood End" t="railway" st="station"/>
+<node id="1853231399" lat="52.5013802" lon="-1.9850538"  n="Smethwick Junction/ Smethwick West" t="railway" st="station"/>
+<node id="1853253202" lat="52.5019907" lon="-1.9523615"  n="Handsworth and Smethwick" t="railway" st="station"/>
+<node id="1853489962" lat="52.4968422" lon="-1.9308497"  n="Soho and Winson Green" t="railway" st="station"/>
+<node id="1853514814" lat="52.4904743" lon="-1.9170414"  n="Hockley (closed 1972)" t="railway" st="station"/>
+<node id="1869983944" lat="52.5121004" lon="-1.9210371"  n="Handsworth Wood" t="railway" st="en:Handsworth Wood railway station"/>
+<node id="2003007164" lat="52.4468669" lon="-1.4947943"  n="Coventry Arena" t="railway" st="station"/>
+<node id="2116697350" lat="52.6003102" lon="-2.1291283"  n="Dunstall Park" t="railway" st="historic_station"/>
+<node id="2172107509" lat="52.4778493" lon="-2.061611"  n="High Street Halt" t="railway" st="station"/>
+<node id="2174059468" lat="52.4190262" lon="-1.9198276"  n="Lifford" t="railway" st="disused"/>
+<node id="2576329624" lat="52.4561612" lon="-2.1426956"  n="Stourbridge Town" t="railway" st="station_site"/>
+<node id="2731786423" lat="52.5600783" lon="-2.065885"  n="Loxdale" t="railway" st="tram_stop"/>
+<node id="2802420380" lat="52.4135016" lon="-1.5229104"  n="Coundon Road Level Crossing" t="railway" st="level_crossing"/>
+<node id="3168694076" lat="52.6184313" lon="-2.0116594"  n="Bloxwich" t="railway" st="station"/>
+<node id="3708019865" lat="52.4468834" lon="-1.4948466"  n="Coventry Arena" t="railway" st="station"/>
+<node id="3708019866" lat="52.4605366" lon="-1.4775502"  n="Hawkesbury Lane Level Crossing" t="railway" st="level_crossing"/>
+<node id="3784614212" lat="52.5739372" lon="-1.9944184"  n="Pleck Junction" t="railway" st="junction"/>
+<node id="3784614213" lat="52.5739682" lon="-1.9945204"  n="Pleck Junction" t="railway" st="junction"/>
+<node id="3784614214" lat="52.5739778" lon="-1.9945666"  n="Pleck Junction" t="railway" st="junction"/>
+<node id="3784614215" lat="52.5744365" lon="-1.9941139"  n="Pleck Junction" t="railway" st="junction"/>
+<node id="3922791477" lat="52.4128238" lon="-1.5230933"  n="Former Coundon Road Goods Sidings" t="railway" st="http://www.warwickshirerailways.com/lms/lnwrcr41.htm"/>
+<node id="3922799434" lat="52.4190624" lon="-1.5141339"  n="Former Daimler Holt Station" t="railway" st="http://www.warwickshirerailways.com/lms/daimlerhalt.htm"/>
+<node id="4193650347" lat="52.4495049" lon="-1.8192659"  n="Acocks Green" t="railway" st="station"/>
+<node id="4216185181" lat="52.4820128" lon="-1.8964738"  n="Bull Street" t="railway" st="tram_stop"/>
+<node id="4216185182" lat="52.4799005" lon="-1.8970338"  n="Corporation Street" t="railway" st="tram_stop"/>
+<node id="4216185183" lat="52.4786144" lon="-1.8992383"  n="Grand Central" t="railway" st="tram_stop"/>
+<node id="4216185184" lat="52.4846612" lon="-1.9003722"  n="Snow Hill" t="railway" st="tram_stop"/>
+<node id="525102" lat="51.6519706" lon="-0.0793861"  n="Enfield Town" t="railway" st="station"/>
+<node id="659860" lat="51.6487926" lon="-0.1728648"  n="New Barnet" t="railway" st="station"/>
+<node id="702503" lat="51.4936587" lon="-0.2250014"  n="Hammersmith" t="railway" st="station"/>
+<node id="780856" lat="51.5057965" lon="-0.2263831"  n="Shepherd&#39;s Bush Market" t="railway" st="station"/>
+<node id="780911" lat="51.509891" lon="-0.2239966"  n="Wood Lane" t="railway" st="station"/>
+<node id="818704" lat="51.5828565" lon="-0.0201263"  n="Walthamstow Central" t="railway" st="station"/>
+<node id="1142856" lat="51.5172681" lon="-0.2109422"  n="Ladbroke Grove" t="railway" st="station"/>
+<node id="1143535" lat="51.5208909" lon="-0.2009628"  n="Westbourne Park" t="railway" st="station"/>
+<node id="1249524" lat="51.5135144" lon="-0.3206222"  n="West Ealing" t="railway" st="station"/>
+<node id="1256794" lat="51.5097525" lon="-0.4714567"  n="West Drayton" t="railway" st="station"/>
+<node id="2013971" lat="51.600934" lon="-0.1925393"  n="Finchley Central" t="railway" st="station"/>
+<node id="7085515" lat="51.6486568" lon="-0.0525309"  n="Southbury" t="railway" st="station"/>
+<node id="7259482" lat="51.6529496" lon="-0.0907539"  n="Enfield Chase" t="railway" st="station"/>
+<node id="7993108" lat="51.5302977" lon="-0.2932869"  n="Hanger Lane" t="railway" st="station"/>
+<node id="9779750" lat="51.4405198" lon="-0.0911533"  n="West Dulwich" t="railway" st="station"/>
+<node id="9779990" lat="51.4120303" lon="-0.0446558"  n="Kent House" t="railway" st="station"/>
+<node id="9780241" lat="51.3946424" lon="0.1062674"  n="St Mary Cray" t="railway" st="station"/>
+<node id="9780323" lat="51.4058825" lon="0.0021628"  n="Shortlands" t="railway" st="station"/>
+<node id="10287073" lat="51.5523767" lon="-0.2964853"  n="Wembley Central" t="railway" st="station"/>
+<node id="10370938" lat="51.6686051" lon="-0.1763075"  n="Hadley Wood" t="railway" st="station"/>
+<node id="10371887" lat="51.5978897" lon="-0.1204423"  n="Alexandra Palace" t="railway" st="station"/>
+<node id="10713594" lat="51.3571919" lon="-0.1693544"  n="Carshalton Beeches" t="railway" st="station"/>
+<node id="11248823" lat="51.3922553" lon="-0.0885798"  n="Selhurst" t="railway" st="station"/>
+<node id="11248832" lat="51.3988535" lon="-0.1002713"  n="Thornton Heath" t="railway" st="station"/>
+<node id="11248837" lat="51.4114209" lon="-0.1216555"  n="Norbury" t="railway" st="station"/>
+<node id="11248846" lat="51.4185975" lon="-0.1358251"  n="Streatham Common" t="railway" st="station"/>
+<node id="11249226" lat="51.3971534" lon="-0.0746248"  n="Norwood Junction" t="railway" st="station"/>
+<node id="11249237" lat="51.4389248" lon="-0.0530757"  n="Forest Hill" t="railway" st="station"/>
+<node id="11249254" lat="51.4500132" lon="-0.0453613"  n="Honor Oak Park" t="railway" st="station"/>
+<node id="11249269" lat="51.4750391" lon="-0.0401897"  n="New Cross Gate" t="railway" st="station"/>
+<node id="11497847" lat="51.6847515" lon="-0.1072293"  n="Crews Hill" t="railway" st="station"/>
+<node id="11776731" lat="51.5154494" lon="-0.1754622"  n="Paddington" t="railway" st="stop"/>
+<node id="12708029" lat="51.5809807" lon="-0.0328098"  n="St James Street" t="railway" st="station"/>
+<node id="13330343" lat="51.6066361" lon="0.0339239"  n="Woodford" t="railway" st="station"/>
+<node id="13330350" lat="51.5919262" lon="0.0274565"  n="South Woodford" t="railway" st="station"/>
+<node id="13790683" lat="51.5253233" lon="-0.0334206"  n="Mile End" t="railway" st="stop"/>
+<node id="13821631" lat="51.476356" lon="-0.0326914"  n="New Cross" t="railway" st="station"/>
+<node id="13854685" lat="51.4655574" lon="-0.0130577"  n="Lewisham" t="railway" st="station"/>
+<node id="13854686" lat="51.4446596" lon="-0.0248829"  n="Catford Bridge" t="railway" st="station"/>
+<node id="13884199" lat="51.6126434" lon="-0.248872"  n="Mill Hill Broadway" t="railway" st="station"/>
+<node id="13893346" lat="51.4245767" lon="-0.0333131"  n="Lower Sydenham" t="railway" st="station"/>
+<node id="13893359" lat="51.4444044" lon="-0.0261433"  n="Catford" t="railway" st="station"/>
+<node id="15026054" lat="51.4923484" lon="-0.1565262"  n="Sloane Square" t="railway" st="station"/>
+<node id="16237179" lat="51.4244583" lon="-0.3325919"  n="Teddington" t="railway" st="station"/>
+<node id="16477786" lat="51.4477638" lon="-0.4104932"  n="Feltham" t="railway" st="station"/>
+<node id="17019735" lat="51.6726632" lon="-0.0472263"  n="Turkey Street" t="railway" st="station"/>
+<node id="17421339" lat="51.6044798" lon="-0.0709492"  n="White Hart Lane" t="railway" st="station"/>
+<node id="17422234" lat="51.5883333" lon="-0.0598708"  n="Tottenham Hale" t="railway" st="station"/>
+<node id="17426981" lat="51.5937107" lon="-0.0700811"  n="Bruce Grove" t="railway" st="station"/>
+<node id="17427004" lat="51.5586385" lon="-0.0684446"  n="Rectory Road" t="railway" st="station"/>
+<node id="18020039" lat="51.5123722" lon="-0.0396872"  n="Limehouse" t="railway" st="station"/>
+<node id="18036779" lat="51.5094515" lon="-0.0267357"  n="Westferry" t="railway" st="station"/>
+<node id="18036791" lat="51.5076645" lon="-0.0167075"  n="Poplar" t="railway" st="station"/>
+<node id="18037081" lat="51.507945" lon="-0.0072262"  n="Blackwall" t="railway" st="station"/>
+<node id="18037094" lat="51.5093856" lon="-0.002259"  n="East India" t="railway" st="station"/>
+<node id="18038030" lat="51.5090857" lon="0.0175799"  n="Royal Victoria" t="railway" st="station"/>
+<node id="18038183" lat="51.5095847" lon="0.0253066"  n="Custom House for ExCel" t="railway" st="station"/>
+<node id="18038190" lat="51.5093637" lon="0.0336387"  n="Prince Regent" t="railway" st="station"/>
+<node id="18049583" lat="51.5084075" lon="0.0639781"  n="Cyprus" t="railway" st="station"/>
+<node id="18049618" lat="51.5089611" lon="0.0718147"  n="Gallions Reach" t="railway" st="station"/>
+<node id="18049738" lat="51.5143798" lon="0.061028"  n="Beckton" t="railway" st="station"/>
+<node id="18050282" lat="51.4958364" lon="-0.0144681"  n="Crossharbour" t="railway" st="station"/>
+<node id="18089211" lat="51.4213762" lon="-0.206699"  n="Wimbledon" t="railway" st="station"/>
+<node id="18089212" lat="51.408977" lon="-0.2305447"  n="Raynes Park" t="railway" st="station"/>
+<node id="18395696" lat="51.5118924" lon="-0.0952228"  n="Mansion House" t="railway" st="station"/>
+<node id="18395697" lat="51.510617" lon="-0.0861362"  n="Monument" t="railway" st="stop"/>
+<node id="19134896" lat="51.5575208" lon="-0.3592754"  n="Northolt Park" t="railway" st="station"/>
+<node id="19134919" lat="51.5542434" lon="-0.2855027"  n="Wembley Stadium" t="railway" st="station"/>
+<node id="19135534" lat="51.5850201" lon="-0.3627739"  n="North Harrow" t="railway" st="station"/>
+<node id="19135537" lat="51.5927378" lon="-0.3807838"  n="Pinner" t="railway" st="station"/>
+<node id="19137790" lat="51.536609" lon="-0.3234627"  n="Perivale" t="railway" st="station"/>
+<node id="20253346" lat="51.4753025" lon="-0.2010872"  n="Parsons Green" t="railway" st="station"/>
+<node id="20455533" lat="51.592409" lon="-0.3349124"  n="Harrow &#38; Wealdstone" t="railway" st="station"/>
+<node id="20694299" lat="51.4496983" lon="0.0145218"  n="Lee" t="railway" st="station"/>
+<node id="20694367" lat="51.4329965" lon="-0.0193376"  n="Bellingham" t="railway" st="station"/>
+<node id="20694371" lat="51.424292" lon="-0.0156445"  n="Beckenham Hill" t="railway" st="station"/>
+<node id="20694386" lat="51.4560242" lon="-0.0191686"  n="Ladywell" t="railway" st="station"/>
+<node id="20694400" lat="51.4552265" lon="-0.0366176"  n="Crofton Park" t="railway" st="station"/>
+<node id="20694409" lat="51.4652442" lon="-0.0137654"  n="Lewisham" t="railway" st="station"/>
+<node id="20698942" lat="51.5268176" lon="-0.2840826"  n="Park Royal" t="railway" st="station"/>
+<node id="20698948" lat="51.5174827" lon="-0.2887429"  n="North Ealing" t="railway" st="station"/>
+<node id="20828580" lat="51.3782171" lon="-0.1537058"  n="Hackbridge" t="railway" st="station"/>
+<node id="20828688" lat="51.3929413" lon="-0.1578117"  n="Mitcham Junction" t="railway" st="station"/>
+<node id="20828689" lat="51.439867" lon="-0.1050481"  n="Tulse Hill" t="railway" st="station"/>
+<node id="20828690" lat="51.4662002" lon="-0.1022733"  n="Loughborough Junction" t="railway" st="station"/>
+<node id="20856570" lat="51.5844899" lon="-0.2786881"  n="Kingsbury" t="railway" st="station"/>
+<node id="20915244" lat="51.471992" lon="-0.2526761"  n="Barnes Bridge" t="railway" st="station"/>
+<node id="20955702" lat="51.5796017" lon="-0.3530825"  n="West Harrow" t="railway" st="station"/>
+<node id="20955782" lat="51.5102267" lon="-0.2881798"  n="Ealing Common" t="railway" st="station"/>
+<node id="20955787" lat="51.4915959" lon="-0.2752121"  n="Gunnersbury" t="railway" st="station"/>
+<node id="21095031" lat="51.4817772" lon="-0.0107262"  n="Cutty Sark for Maritime Greenwich" t="railway" st="station"/>
+<node id="21095196" lat="51.4685108" lon="-0.0162581"  n="Elverson Road" t="railway" st="station"/>
+<node id="21095219" lat="51.4649293" lon="-0.0130551"  n="Lewisham" t="railway" st="station"/>
+<node id="21123075" lat="51.5787302" lon="-0.4973598"  n="Denham" t="railway" st="station"/>
+<node id="21123675" lat="51.5697393" lon="-0.4374877"  n="West Ruislip" t="railway" st="station"/>
+<node id="21123677" lat="51.5607409" lon="-0.4105946"  n="Ruislip Gardens" t="railway" st="station"/>
+<node id="21123678" lat="51.5571509" lon="-0.3991716"  n="South Ruislip" t="railway" st="station"/>
+<node id="21137115" lat="51.5332883" lon="-0.3364535"  n="South Greenford" t="railway" st="station"/>
+<node id="21137116" lat="51.5228257" lon="-0.3314562"  n="Castle Bar Park" t="railway" st="station"/>
+<node id="21137117" lat="51.5164383" lon="-0.3301499"  n="Drayton Green" t="railway" st="station"/>
+<node id="21137119" lat="51.5117869" lon="-0.3385103"  n="Hanwell" t="railway" st="station"/>
+<node id="21140710" lat="51.6108085" lon="-0.4236925"  n="Northwood" t="railway" st="station"/>
+<node id="21140711" lat="51.6002282" lon="-0.4085961"  n="Northwood Hills" t="railway" st="station"/>
+<node id="21141345" lat="51.5702541" lon="-0.3083998"  n="South Kenton" t="railway" st="station"/>
+<node id="21141346" lat="51.5624059" lon="-0.3038748"  n="North Wembley" t="railway" st="station"/>
+<node id="21186474" lat="51.44941" lon="-0.357336"  n="Whitton" t="railway" st="station"/>
+<node id="21186480" lat="51.4391676" lon="-0.3393237"  n="Strawberry Hill" t="railway" st="station"/>
+<node id="21186484" lat="51.4500621" lon="-0.3302262"  n="Twickenham" t="railway" st="station"/>
+<node id="21269005" lat="51.4957089" lon="-0.3246893"  n="Boston Manor" t="railway" st="station"/>
+<node id="21269012" lat="51.4993649" lon="-0.3142022"  n="Northfields" t="railway" st="station"/>
+<node id="21269013" lat="51.500997" lon="-0.3071059"  n="South Ealing" t="railway" st="stop"/>
+<node id="21362517" lat="51.558533" lon="-0.3361942"  n="Sudbury Hill Harrow" t="railway" st="station"/>
+<node id="21442171" lat="51.4355983" lon="-0.1596505"  n="Tooting Bec" t="railway" st="station"/>
+<node id="21507731" lat="51.4651178" lon="-0.1298984"  n="Clapham North" t="railway" st="station"/>
+<node id="21507733" lat="51.4818291" lon="-0.1123685"  n="Oval" t="railway" st="station"/>
+<node id="21507823" lat="51.4617331" lon="-0.1379997"  n="Clapham Common" t="railway" st="station"/>
+<node id="21507827" lat="51.4882412" lon="-0.1056085"  n="Kennington" t="railway" st="station"/>
+<node id="21558313" lat="51.4168229" lon="0.044659"  n="Elmstead Woods" t="railway" st="station"/>
+<node id="21568272" lat="51.3566007" lon="0.1083048"  n="Chelsfield" t="railway" st="station"/>
+<node id="21568342" lat="51.3457368" lon="0.1308692"  n="Knockholt" t="railway" st="station"/>
+<node id="21577758" lat="51.3980058" lon="-0.0496908"  n="Elmers End" t="railway" st="station"/>
+<node id="21577769" lat="51.3870773" lon="-0.0653308"  n="Woodside" t="railway" st="tram_stop"/>
+<node id="21577771" lat="51.3849891" lon="-0.070221"  n="Blackhorse Lane" t="railway" st="tram_stop"/>
+<node id="21577897" lat="51.4035157" lon="-0.0563375"  n="Birkbeck" t="railway" st="station"/>
+<node id="21578163" lat="51.414316" lon="-0.0076051"  n="Ravensbourne" t="railway" st="station"/>
+<node id="21587964" lat="51.4303371" lon="0.0222347"  n="Grove Park" t="railway" st="station"/>
+<node id="21588270" lat="51.4137935" lon="0.0214362"  n="Sundridge Park" t="railway" st="station"/>
+<node id="21596119" lat="51.546155" lon="-0.0750219"  n="Dalston Junction" t="railway" st="station"/>
+<node id="21607411" lat="51.5815898" lon="0.2051525"  n="Gidea Park" t="railway" st="stop"/>
+<node id="21619242" lat="51.4769958" lon="-0.147282"  n="Battersea Park" t="railway" st="stop"/>
+<node id="21620640" lat="51.4316172" lon="-0.1035239"  n="West Norwood" t="railway" st="station"/>
+<node id="21621436" lat="51.4110326" lon="-0.0255257"  n="Beckenham Junction" t="railway" st="station"/>
+<node id="21621627" lat="51.3901543" lon="-0.0262999"  n="Eden Park" t="railway" st="station"/>
+<node id="21622249" lat="51.3545721" lon="-0.0429213"  n="Gravel Hill" t="railway" st="tram_stop"/>
+<node id="21645242" lat="51.4630943" lon="-0.3014946"  n="Richmond" t="railway" st="station"/>
+<node id="21645377" lat="51.4749072" lon="-0.3367916"  n="Isleworth" t="railway" st="station"/>
+<node id="21660198" lat="51.499304" lon="-0.2705105"  n="South Acton" t="railway" st="station"/>
+<node id="21660979" lat="51.5232482" lon="-0.2545081"  n="Acton Wells" t="railway" st="junction"/>
+<node id="21669523" lat="51.4668888" lon="-0.0523564"  n="Nunhead" t="railway" st="station"/>
+<node id="21669593" lat="51.4541783" lon="-0.0883292"  n="North Dulwich" t="railway" st="station"/>
+<node id="21764417" lat="51.5509296" lon="-0.2509381"  n="Neasden Junction" t="railway" st="junction"/>
+<node id="22993021" lat="51.663189" lon="-0.094515"  n="Gordon Hill" t="railway" st="station"/>
+<node id="23608923" lat="51.6433237" lon="-0.0969173"  n="Grange Park" t="railway" st="station"/>
+<node id="25030425" lat="51.5298025" lon="-0.1857746"  n="Maida Vale" t="railway" st="station"/>
+<node id="25230282" lat="51.5233004" lon="-0.1840098"  n="Warwick Avenue" t="railway" st="station"/>
+<node id="25279123" lat="51.3975335" lon="-0.1711521"  n="Mitcham" t="railway" st="tram_stop"/>
+<node id="25279249" lat="51.3894605" lon="-0.1428504"  n="Beddington Lane" t="railway" st="tram_stop"/>
+<node id="25279257" lat="51.3856974" lon="-0.1290915"  n="Therapia Lane" t="railway" st="tram_stop"/>
+<node id="25279260" lat="51.3823591" lon="-0.1236871"  n="Ampere Way" t="railway" st="tram_stop"/>
+<node id="25279390" lat="51.3770031" lon="-0.1178267"  n="Waddon Marsh" t="railway" st="tram_stop"/>
+<node id="25279393" lat="51.3734814" lon="-0.1133617"  n="Wandle Park" t="railway" st="tram_stop"/>
+<node id="25288646" lat="51.5408186" lon="-0.2100014"  n="Brondesbury Park" t="railway" st="station"/>
+<node id="25288702" lat="51.5345973" lon="-0.2197141"  n="Kensal Rise" t="railway" st="station"/>
+<node id="25307533" lat="51.3093212" lon="-0.1693169"  n="Chipstead" t="railway" st="station"/>
+<node id="25316887" lat="51.5815384" lon="-0.0237418"  n="Walthamstow Queen&#39;s Road" t="railway" st="station"/>
+<node id="25318238" lat="51.4809007" lon="-0.1943738"  n="Fulham Broadway" t="railway" st="station"/>
+<node id="25324919" lat="51.5492532" lon="0.0442392"  n="Woodgrange Park" t="railway" st="station"/>
+<node id="25503923" lat="51.5305156" lon="-0.1201202"  n="King&#39;s Cross Thameslink" t="railway" st="en:King&#39;s Cross Thameslink railway station"/>
+<node id="25524263" lat="51.4993017" lon="-0.1346043"  n="Saintt James Park" t="railway" st="station"/>
+<node id="25531617" lat="51.5181964" lon="-0.2806051"  n="West Acton" t="railway" st="station"/>
+<node id="25531623" lat="51.5047539" lon="-0.218384"  n="Shepherd&#39;s Bush (Central Line)" t="railway" st="subway_entrance"/>
+<node id="25532362" lat="51.5085902" lon="-0.5068211"  n="Iver" t="railway" st="station"/>
+<node id="25532364" lat="51.5029389" lon="-0.4196517"  n="Hayes &#38; Harlington" t="railway" st="station"/>
+<node id="25534427" lat="51.5011465" lon="-0.1252066"  n="Westminster" t="railway" st="station"/>
+<node id="25535935" lat="51.6852227" lon="-0.0264261"  n="Waltham Cross" t="railway" st="station"/>
+<node id="25536064" lat="51.6708863" lon="-0.0285518"  n="Enfield Lock" t="railway" st="station"/>
+<node id="25536065" lat="51.6555722" lon="-0.0308164"  n="Brimsdown" t="railway" st="station"/>
+<node id="25542662" lat="51.5858203" lon="0.0886031"  n="Barkingside" t="railway" st="stop"/>
+<node id="25578775" lat="51.5754803" lon="0.0899485"  n="Newbury Park" t="railway" st="station"/>
+<node id="25643787" lat="51.6171057" lon="0.0438798"  n="Roding Valley" t="railway" st="stop"/>
+<node id="25876718" lat="51.4340173" lon="0.1032003"  n="Sidcup" t="railway" st="station"/>
+<node id="25876763" lat="51.4379996" lon="0.0709453"  n="New Eltham" t="railway" st="station"/>
+<node id="25876774" lat="51.4402439" lon="0.049951"  n="Mottingham" t="railway" st="station"/>
+<node id="25876792" lat="51.4514542" lon="-0.0004785"  n="Hither Green" t="railway" st="station"/>
+<node id="25876793" lat="51.4690518" lon="-0.0222304"  n="St Johns" t="railway" st="station"/>
+<node id="25895816" lat="51.5774698" lon="0.1922642"  n="Romford Junction" t="railway" st="junction"/>
+<node id="26041166" lat="51.3814179" lon="-0.2449695"  n="Worcester Park" t="railway" st="station"/>
+<node id="26065579" lat="51.3685915" lon="-0.1663953"  n="Carshalton" t="railway" st="station"/>
+<node id="26087536" lat="51.3220131" lon="-0.1348177"  n="Coulsdon Town" t="railway" st="station"/>
+<node id="26087544" lat="51.3189347" lon="-0.1540561"  n="Woodmansterne" t="railway" st="station"/>
+<node id="26087557" lat="51.3311273" lon="-0.1234118"  n="Reedham" t="railway" st="station"/>
+<node id="26195723" lat="51.4353714" lon="0.1259645"  n="Albany Park" t="railway" st="station"/>
+<node id="26243155" lat="51.5167086" lon="0.1906061"  n="Rainham" t="railway" st="station"/>
+<node id="26271228" lat="51.574532" lon="-0.1257724"  n="Crouch End" t="railway" st="station"/>
+<node id="26273005" lat="51.4481795" lon="0.1783783"  n="Crayford" t="railway" st="station"/>
+<node id="26374016" lat="51.5104449" lon="-0.1872053"  n="Queensway" t="railway" st="station"/>
+<node id="26374027" lat="51.5123038" lon="-0.188251"  n="Bayswater" t="railway" st="stop"/>
+<node id="26374056" lat="51.5118158" lon="-0.1751204"  n="Lancaster Gate" t="railway" st="station"/>
+<node id="26478123" lat="51.3926416" lon="-0.1572974"  n="Mitcham Junction" t="railway" st="tram_stop"/>
+<node id="26528801" lat="51.4826357" lon="0.0035027"  n="Maze Hill" t="railway" st="station"/>
+<node id="26579336" lat="51.4910957" lon="0.0550507"  n="Woolwich Dockyard" t="railway" st="station"/>
+<node id="26587441" lat="51.4899002" lon="0.0693062"  n="Woolwich Arsenal" t="railway" st="station"/>
+<node id="26600118" lat="51.4897871" lon="0.0840298"  n="Plumstead" t="railway" st="station"/>
+<node id="26620249" lat="51.478993" lon="-0.0266261"  n="Deptford" t="railway" st="station"/>
+<node id="26631299" lat="51.5057078" lon="-0.1419788"  n="Green Park" t="railway" st="stop"/>
+<node id="26634145" lat="51.5350844" lon="-0.1938415"  n="Kilburn Park" t="railway" st="stop_position"/>
+<node id="26652919" lat="51.4626925" lon="-0.1147275"  n="Brixton" t="railway" st="station"/>
+<node id="26654295" lat="51.4192855" lon="-0.0540578"  n="Penge East" t="railway" st="station"/>
+<node id="26654588" lat="51.4000573" lon="0.017524"  n="Bromley South" t="railway" st="station"/>
+<node id="26655503" lat="51.4000752" lon="0.0449265"  n="Bickley" t="railway" st="station"/>
+<node id="26683564" lat="51.3932569" lon="0.1685141"  n="Swanley" t="railway" st="station"/>
+<node id="26746932" lat="51.517611" lon="-0.119707"  n="Holborn" t="railway" st="stopping_point"/>
+<node id="26854620" lat="51.5941727" lon="-0.2861855"  n="Queensbury" t="railway" st="station"/>
+<node id="26945448" lat="51.510716" lon="-0.0130713"  n="All Saints" t="railway" st="station"/>
+<node id="26945468" lat="51.5224747" lon="-0.0175011"  n="Devons Road" t="railway" st="station"/>
+<node id="27020219" lat="51.3956042" lon="-0.199134"  n="Morden South" t="railway" st="station"/>
+<node id="27020525" lat="51.3895373" lon="-0.1987934"  n="St. Helier" t="railway" st="station"/>
+<node id="27021082" lat="51.3753729" lon="-0.1960317"  n="Sutton Common" t="railway" st="station"/>
+<node id="27021258" lat="51.3660375" lon="-0.204707"  n="West Sutton" t="railway" st="station"/>
+<node id="27085355" lat="51.5067146" lon="-0.020513"  n="West India Quay" t="railway" st="station"/>
+<node id="27466482" lat="51.5650642" lon="-0.0727145"  n="Stoke Newington" t="railway" st="station"/>
+<node id="27504202" lat="51.5143298" lon="-0.1489989"  n="Bond Street" t="railway" st="stop"/>
+<node id="27555804" lat="51.5246057" lon="-0.1377493"  n="Warren Street" t="railway" st="stopping_point"/>
+<node id="27603965" lat="51.3037474" lon="-0.0772538"  n="Whyteleafe South" t="railway" st="station"/>
+<node id="27603987" lat="51.3099262" lon="-0.0810306"  n="Whyteleafe" t="railway" st="station"/>
+<node id="27604093" lat="51.3247881" lon="-0.1008662"  n="Kenley" t="railway" st="station"/>
+<node id="27604161" lat="51.3629022" lon="-0.0933041"  n="South Croydon" t="railway" st="station"/>
+<node id="27604187" lat="51.3483967" lon="-0.0934787"  n="Sanderstead" t="railway" st="station"/>
+<node id="27605421" lat="51.6033235" lon="0.0933524"  n="Hainault" t="railway" st="stop"/>
+<node id="28108911" lat="51.5181135" lon="-0.1123596"  n="Chancery Lane" t="railway" st="stop"/>
+<node id="28835876" lat="51.5744377" lon="-0.0766814"  n="Stamford Hill" t="railway" st="station"/>
+<node id="28899940" lat="51.4615604" lon="-0.0803888"  n="East Dulwich" t="railway" st="station"/>
+<node id="29034424" lat="51.5271235" lon="-0.0548391"  n="Bethnal Green" t="railway" st="stop"/>
+<node id="29859288" lat="51.5867236" lon="-0.0412833"  n="Blackhorse Road" t="railway" st="station"/>
+<node id="30148026" lat="51.4868269" lon="0.0314396"  n="Charlton" t="railway" st="station"/>
+<node id="30148056" lat="51.4842355" lon="0.0188778"  n="Westcombe Park" t="railway" st="station"/>
+<node id="31072288" lat="51.5750459" lon="0.1830876"  n="Romford" t="railway" st="station"/>
+<node id="31472785" lat="51.5542648" lon="-0.31584"  n="Sudbury &#38; Harrow Road" t="railway" st="station"/>
+<node id="31907614" lat="51.5236375" lon="-0.1466069"  n="Regent&#39;s Park" t="railway" st="station"/>
+<node id="33104076" lat="51.5028045" lon="0.0225367"  n="West Silvertown" t="railway" st="station"/>
+<node id="33104077" lat="51.5022144" lon="0.0327038"  n="Pontoon Dock" t="railway" st="station"/>
+<node id="33104078" lat="51.5036756" lon="0.0480118"  n="London City Airport" t="railway" st="station"/>
+<node id="33498730" lat="51.6377516" lon="-0.1662835"  n="Oakleigh Park" t="railway" st="station"/>
+<node id="33869573" lat="51.3601034" lon="-0.1512671"  n="Wallington" t="railway" st="station"/>
+<node id="33984316" lat="51.5864233" lon="-0.1117024"  n="Hornsey" t="railway" st="station"/>
+<node id="34006946" lat="51.4527629" lon="-0.1475843"  n="Clapham South" t="railway" st="station"/>
+<node id="34007928" lat="51.4433579" lon="-0.1528484"  n="Balham" t="railway" st="station"/>
+<node id="34037748" lat="51.4277454" lon="-0.1681853"  n="Tooting Broadway" t="railway" st="station"/>
+<node id="34037750" lat="51.4179815" lon="-0.1782587"  n="Colliers Wood" t="railway" st="station"/>
+<node id="34037860" lat="51.4153286" lon="-0.1921381"  n="South Wimbledon" t="railway" st="station"/>
+<node id="34039081" lat="51.4023455" lon="-0.1947337"  n="Morden" t="railway" st="station"/>
+<node id="34595046" lat="51.5762528" lon="0.0454097"  n="Redbridge" t="railway" st="station"/>
+<node id="34595047" lat="51.5765222" lon="0.0653035"  n="Gants Hill" t="railway" st="stop"/>
+<node id="34816124" lat="51.4817899" lon="-0.3247274"  n="Syon Lane" t="railway" st="station"/>
+<node id="35133359" lat="51.467678" lon="0.1903289"  n="Slade Green" t="railway" st="station"/>
+<node id="35499361" lat="51.3924111" lon="-0.3039992"  n="Surbiton" t="railway" st="station"/>
+<node id="35680187" lat="51.586632" lon="-0.0023458"  n="Wood Street" t="railway" st="station"/>
+<node id="36417248" lat="51.6140289" lon="-0.1430054"  n="New Southgate" t="railway" st="station"/>
+<node id="36417395" lat="51.6071151" lon="-0.1204347"  n="Bowes Park" t="railway" st="station"/>
+<node id="36931223" lat="51.3948493" lon="-0.2396174"  n="Motspur Park" t="railway" st="station"/>
+<node id="37984741" lat="51.4034108" lon="-0.2055592"  n="South Merton" t="railway" st="station"/>
+<node id="43413183" lat="51.6023127" lon="-0.0537465"  n="Northumberland Park" t="railway" st="station"/>
+<node id="43427504" lat="51.5260029" lon="0.1465042"  n="Dagenham Dock" t="railway" st="station"/>
+<node id="43450256" lat="51.5801373" lon="-0.2389439"  n="Hendon" t="railway" st="station"/>
+<node id="48800317" lat="51.4552539" lon="-0.3201399"  n="St Margarets" t="railway" st="station"/>
+<node id="48802587" lat="51.4169851" lon="-0.0351397"  n="New Beckenham" t="railway" st="station"/>
+<node id="50944778" lat="51.547069" lon="-0.0425037"  n="Homerton" t="railway" st="station"/>
+<node id="56159554" lat="51.3886495" lon="0.07463"  n="Petts Wood" t="railway" st="station"/>
+<node id="56168528" lat="51.4269398" lon="-0.0545149"  n="Sydenham" t="railway" st="station"/>
+<node id="56470621" lat="51.4247042" lon="-0.0845885"  n="Gipsy Hill" t="railway" st="station"/>
+<node id="56577749" lat="51.4051744" lon="0.0578835"  n="Chislehurst" t="railway" st="station"/>
+<node id="60126970" lat="51.3813906" lon="-0.0145031"  n="West Wickham" t="railway" st="station"/>
+<node id="60306534" lat="51.3749647" lon="-0.0777467"  n="Sandilands" t="railway" st="tram_stop"/>
+<node id="60694961" lat="51.4325957" lon="-0.0801656"  n="Sydenham Hill" t="railway" st="station"/>
+<node id="63190881" lat="51.3374949" lon="-0.1139476"  n="Purley" t="railway" st="station"/>
+<node id="63195110" lat="51.3469921" lon="-0.0986032"  n="Purley Oaks" t="railway" st="station"/>
+<node id="64775110" lat="51.5118216" lon="-0.0952117"  n="Mansion House" t="railway" st="stop"/>
+<node id="66688401" lat="51.5540577" lon="-0.2500491"  n="Neasden" t="railway" st="station"/>
+<node id="66714345" lat="51.543336" lon="-0.1746633"  n="Swiss Cottage" t="railway" st="station"/>
+<node id="70804547" lat="51.5256284" lon="-0.0875418"  n="Old Street" t="railway" st="station"/>
+<node id="80820200" lat="51.543058" lon="-0.1541652"  n="Primrose Hill" t="railway" st="disused_station"/>
+<node id="82620018" lat="51.4084256" lon="0.0170418"  n="Bromley North" t="railway" st="station"/>
+<node id="82626213" lat="51.3562667" lon="-0.0328821"  n="Addington Village" t="railway" st="tram_stop"/>
+<node id="82626520" lat="51.3509685" lon="-0.0241702"  n="Fieldway" t="railway" st="tram_stop"/>
+<node id="82627515" lat="51.3453762" lon="-0.0202322"  n="King Henry&#39;s Drive" t="railway" st="tram_stop"/>
+<node id="82627519" lat="51.3426389" lon="-0.0175461"  n="New Addington" t="railway" st="tram_stop"/>
+<node id="83683573" lat="51.374803" lon="-0.1062524"  n="Reeves Corner" t="railway" st="tram_stop"/>
+<node id="83701432" lat="51.3748695" lon="-0.0927327"  n="East Croydon" t="railway" st="tram_stop"/>
+<node id="83701443" lat="51.3739003" lon="-0.0989116"  n="George Street" t="railway" st="tram_stop"/>
+<node id="87451950" lat="51.522402" lon="-0.0741338"  n="Bishopsgate Low Level" t="railway" st="station_site"/>
+<node id="87504768" lat="51.5473207" lon="-0.0985415"  n="Canonbury Junction" t="railway" st="junction"/>
+<node id="89137908" lat="51.5815305" lon="-0.316625"  n="Kenton" t="railway" st="station"/>
+<node id="89440197" lat="51.5350719" lon="-0.2555824"  n="Harlesden Junction" t="railway" st="junction"/>
+<node id="96087531" lat="51.494854" lon="-0.1448332"  n="London Victoria" t="railway" st="stop"/>
+<node id="96089072" lat="51.4951377" lon="-0.1435984"  n="London Victoria" t="railway" st="stop"/>
+<node id="104101213" lat="51.4086629" lon="-0.0404203"  n="Clock House" t="railway" st="station"/>
+<node id="104282624" lat="51.4881305" lon="-0.0545402"  n="South Bermondsey" t="railway" st="station"/>
+<node id="107260025" lat="51.4037479" lon="-0.0558016"  n="Birkbeck" t="railway" st="tram_stop"/>
+<node id="107260045" lat="51.399663" lon="-0.0604811"  n="Harrington Road" t="railway" st="tram_stop"/>
+<node id="107262636" lat="51.4108522" lon="-0.0267333"  n="Beckenham Junction" t="railway" st="tram_stop"/>
+<node id="107262646" lat="51.4096366" lon="-0.0431569"  n="Beckenham Road" t="railway" st="tram_stop"/>
+<node id="107436631" lat="51.4768309" lon="-0.1476577"  n="Battersea Park" t="railway" st="stop"/>
+<node id="117921882" lat="51.5352242" lon="0.0344141"  n="Upton Park" t="railway" st="station"/>
+<node id="117923617" lat="51.5313878" lon="0.0176341"  n="Plaistow" t="railway" st="station"/>
+<node id="119005418" lat="51.5517772" lon="0.0257405"  n="Wanstead Park" t="railway" st="station"/>
+<node id="119274464" lat="51.5302558" lon="-0.1240631"  n="King&#39;s Cross St. Pancras" t="railway" st="station"/>
+<node id="128665478" lat="51.3756242" lon="-0.0976166"  n="Wellesley Road" t="railway" st="tram_stop"/>
+<node id="129650696" lat="51.531186" lon="0.1023248"  n="CTRL Wayside Ventilation Shaft" t="railway" st="ventilation_shaft"/>
+<node id="129706558" lat="51.5470325" lon="-0.1005762"  n="CTRL Corsica Street ventilation Shaft" t="railway" st="ventilation_shaft"/>
+<node id="129706565" lat="51.5470119" lon="-0.0612538"  n="CTRL Graham Road Ventilation Shaft" t="railway" st="ventilation_shaft"/>
+<node id="129879246" lat="51.5435319" lon="-0.1756572"  n="Swiss Cottage Exit 4&#38;5" t="railway" st="subway_entrance"/>
+<node id="133043403" lat="51.5252027" lon="-0.0333503"  n="Mile End" t="railway" st="subway_entrance"/>
+<node id="133190031" lat="51.5218907" lon="-0.0465531"  n="Stepney Green" t="railway" st="subway_entrance"/>
+<node id="135569973" lat="51.50206" lon="0.0458132"  n="Silvertown" t="railway" st="disused_station"/>
+<node id="154555335" lat="51.3673441" lon="-0.1174758"  n="Waddon" t="railway" st="station"/>
+<node id="158697845" lat="51.515139" lon="-0.0141129"  n="Langdon Park" t="railway" st="station"/>
+<node id="166585156" lat="51.4876146" lon="-0.3096762"  n="Brentford" t="railway" st="station"/>
+<node id="166725697" lat="51.3598192" lon="-0.0600802"  n="Coombe Lane" t="railway" st="tram_stop"/>
+<node id="181505582" lat="51.5201844" lon="-0.0984869"  n="Barbican" t="railway" st="stop"/>
+<node id="181662604" lat="51.4721799" lon="-0.1225019"  n="Stockwell" t="railway" st="station"/>
+<node id="182135816" lat="51.5484423" lon="-0.1919951"  n="West Hampstead Thameslink" t="railway" st="station"/>
+<node id="182244786" lat="51.4916186" lon="-0.1941348"  n="Earl&#39;s Court" t="railway" st="stop"/>
+<node id="183377997" lat="51.4744832" lon="-0.0225661"  n="Deptford Bridge (DLR)" t="railway" st="station"/>
+<node id="186186683" lat="51.5584218" lon="-0.105647"  n="Arsenal" t="railway" st="subway_entrance"/>
+<node id="186194628" lat="51.5587178" lon="-0.1078741"  n="Arsenal" t="railway" st="station"/>
+<node id="208338600" lat="51.5296972" lon="-0.0977626"  n="City Road" t="railway" st="disused_station"/>
+<node id="242936414" lat="51.4993493" lon="-0.314134"  n="Northfields" t="railway" st="subway_entrance"/>
+<node id="245736992" lat="51.373656" lon="-0.1042366"  n="Church Street" t="railway" st="tram_stop"/>
+<node id="248200076" lat="51.515658" lon="-0.1420128"  n="Oxford Circus" t="railway" st="stop"/>
+<node id="248576852" lat="51.4718204" lon="-0.4541833"  n="Heathrow Central" t="railway" st="station"/>
+<node id="248576871" lat="51.4591024" lon="-0.4462997"  n="Heathrow Express Terminal 4" t="railway" st="station"/>
+<node id="252863294" lat="51.4811742" lon="-0.2681562"  n="Chiswick" t="railway" st="station"/>
+<node id="252863919" lat="51.5171077" lon="-0.2671552"  n="Acton Main Line" t="railway" st="station"/>
+<node id="254350058" lat="51.4723239" lon="-0.4877479"  n="Heathrow Terminal 5" t="railway" st="station"/>
+<node id="255012049" lat="51.5776268" lon="-0.1244075"  n="Railway Tavern" t="railway" st="http://www.the-railwaytavern.co.uk/"/>
+<node id="269742686" lat="51.4073714" lon="-0.1549198"  n="Mitcham Eastfields" t="railway" st="station"/>
+<node id="270091541" lat="51.3787804" lon="-0.1020266"  n="West Croydon" t="railway" st="station"/>
+<node id="273210309" lat="51.4892032" lon="-0.1335393"  n="Pimlico" t="railway" st="station"/>
+<node id="281608544" lat="51.497875" lon="-0.174186"  n="South Kensington" t="railway" st="subway_entrance"/>
+<node id="290511221" lat="51.5087026" lon="0.0549571"  n="Beckton Park" t="railway" st="station"/>
+<node id="290511497" lat="51.5084468" lon="0.0461055"  n="Royal Albert" t="railway" st="station"/>
+<node id="291913896" lat="51.5135498" lon="-0.0888718"  n="Bank station, Exit 2" t="railway" st="subway_entrance"/>
+<node id="291913900" lat="51.5134264" lon="-0.0881246"  n="Bank station, Exit 4" t="railway" st="subway_entrance"/>
+<node id="294078890" lat="51.4387268" lon="-0.3393628"  n="Strawberry Hill Level Crossing" t="railway" st="level_crossing"/>
+<node id="295715599" lat="51.5261496" lon="-0.0875249"  n="Old Street - Exit 1" t="railway" st="subway_entrance"/>
+<node id="295818158" lat="51.5256015" lon="-0.0868459"  n="Old Street - Exit 3" t="railway" st="subway_entrance"/>
+<node id="295818159" lat="51.5252317" lon="-0.0872449"  n="Old Street - Exit 4" t="railway" st="subway_entrance"/>
+<node id="295818160" lat="51.525738" lon="-0.0885208"  n="Old Street - Exit 7" t="railway" st="subway_entrance"/>
+<node id="295818161" lat="51.5260014" lon="-0.0879256"  n="Old Street - Exit 8" t="railway" st="subway_entrance"/>
+<node id="295818162" lat="51.5252167" lon="-0.0876518"  n="Old Street - Exit 5" t="railway" st="subway_entrance"/>
+<node id="295818163" lat="51.5254599" lon="-0.0881507"  n="Old Street - Exit 6" t="railway" st="subway_entrance"/>
+<node id="298024001" lat="51.4067969" lon="-0.049519"  n="Avenue Road" t="railway" st="tram_stop"/>
+<node id="299664774" lat="51.3916054" lon="-0.0582529"  n="Arena" t="railway" st="tram_stop"/>
+<node id="299665006" lat="51.3799365" lon="-0.073267"  n="Addiscombe" t="railway" st="tram_stop"/>
+<node id="302013869" lat="51.504913" lon="-0.0902091"  n="Borough High Street (West)" t="railway" st="subway_entrance"/>
+<node id="302042289" lat="51.3758448" lon="-0.0927317"  n="East Croydon" t="railway" st="station"/>
+<node id="307542330" lat="51.4212148" lon="-0.2056494"  n="Wimbledon" t="railway" st="tram_stop"/>
+<node id="308426708" lat="51.5099809" lon="-0.2244246"  n="Wood Lane" t="railway" st="subway_entrance"/>
+<node id="311222450" lat="51.3983499" lon="-0.0495263"  n="Elmers End" t="railway" st="tram_stop"/>
+<node id="312676581" lat="51.3758669" lon="-0.1037838"  n="Centrale" t="railway" st="tram_stop"/>
+<node id="362474938" lat="51.5253596" lon="-0.135548"  n="Euston Square" t="railway" st="subway_entrance"/>
+<node id="379265864" lat="51.3870489" lon="-0.2691937"  n="from the A3 to the railway bridge" t="railway" st="from the A3 to the railway bridge"/>
+<node id="386204370" lat="51.5040801" lon="-0.1051491"  n="Southwark" t="railway" st="stopping_point"/>
+<node id="392952029" lat="51.4021456" lon="-0.3424767"  n="Hampton Court" t="railway" st="buffer_stop"/>
+<node id="393464451" lat="51.5650743" lon="-0.1059098"  n="Station Place Off-Licence" t="railway" st="ground level under the railway"/>
+<node id="441947584" lat="51.4963738" lon="-0.1430221"  n="Victoria" t="railway" st="station"/>
+<node id="443640800" lat="51.5590085" lon="0.2505745"  n="Upminster" t="railway" st="station"/>
+<node id="443721779" lat="51.5126318" lon="-0.039596"  n="Limehouse" t="railway" st="station"/>
+<node id="452514295" lat="51.5081647" lon="-0.1256055"  n="Charing Cross Rail" t="railway" st="subway_entrance"/>
+<node id="469759899" lat="51.51603" lon="-0.0701"  n="Aldgate East" t="railway" st="subway_entrance"/>
+<node id="475381373" lat="51.5157593" lon="-0.0699611"  n="Aldgate East" t="railway" st="subway_entrance"/>
+<node id="486544194" lat="51.5928124" lon="-0.4320592"  n="Willow Lawn Station" t="railway" st="station"/>
+<node id="486544208" lat="51.5886994" lon="-0.4291065"  n="Woody Bay Station" t="railway" st="station"/>
+<node id="558489683" lat="51.5159749" lon="-0.1751319"  n="Paddington" t="railway" st="subway_entrance"/>
+<node id="560717337" lat="51.5134119" lon="-0.0902084"  n="Bank station, Exit 9" t="railway" st="subway_entrance"/>
+<node id="560720541" lat="51.5172563" lon="-0.08041"  n="Bishopsgate (East)" t="railway" st="station_entrance"/>
+<node id="561297695" lat="51.5647702" lon="-0.1061079"  n="Finsbury Park" t="railway" st="station"/>
+<node id="566591759" lat="51.6685981" lon="-0.1762691"  n="Hadley Wood" t="railway" st="station"/>
+<node id="567256556" lat="51.5000102" lon="-0.0161934"  n="South Quay" t="railway" st="station"/>
+<node id="659654478" lat="51.5152436" lon="-0.1414893"  n="exit 5" t="railway" st="subway_entrance"/>
+<node id="659654479" lat="51.5151875" lon="-0.1417613"  n="exit 2" t="railway" st="subway_entrance"/>
+<node id="659654480" lat="51.5154363" lon="-0.1418861"  n="exit 1" t="railway" st="subway_entrance"/>
+<node id="659654482" lat="51.5150294" lon="-0.1409806"  n="exit 8" t="railway" st="subway_entrance"/>
+<node id="659654483" lat="51.5152975" lon="-0.1410017"  n="exit 7" t="railway" st="subway_entrance"/>
+<node id="659654484" lat="51.5152868" lon="-0.1411867"  n="exit 6" t="railway" st="subway_entrance"/>
+<node id="764179946" lat="51.5257883" lon="-0.0885232"  n="Old Street - Exit 7" t="railway" st="subway_entrance"/>
+<node id="771868343" lat="51.5052473" lon="-0.4408836"  n="Airport Junction" t="railway" st="junction"/>
+<node id="799284766" lat="51.5145539" lon="-0.1489963"  n="Bond Street - Exit 2" t="railway" st="subway_entrance"/>
+<node id="812150818" lat="51.551682" lon="-0.2392409"  n="Dollis Hill" t="railway" st="subway_entrance"/>
+<node id="812150828" lat="51.5522512" lon="-0.2389469"  n="Dollis Hill" t="railway" st="subway_entrance"/>
+<node id="822175565" lat="51.561663" lon="-0.0568321"  n="Clapton" t="railway" st="station"/>
+<node id="826724221" lat="51.5085961" lon="-0.124607"  n="Charing Cross" t="railway" st="subway_entrance"/>
+<node id="850451674" lat="51.5175613" lon="-0.1199237"  n="Holborn" t="railway" st="subway_entrance"/>
+<node id="853640845" lat="51.4552833" lon="0.0500053"  n="Eltham Well Hall" t="railway" st="station"/>
+<node id="853640847" lat="51.4564852" lon="0.0599188"  n="Eltham Park" t="railway" st="station"/>
+<node id="926239878" lat="51.4859247" lon="-0.1237468"  n="Vauxhall" t="railway" st="subway_entrance"/>
+<node id="937022268" lat="51.4647154" lon="0.1015989"  n="Welling Station" t="railway" st="station"/>
+<node id="961587777" lat="51.5252369" lon="-0.033369"  n="Mile End" t="railway" st="stop"/>
+<node id="963506307" lat="51.5522809" lon="-0.2968105"  n="Wembley Central" t="railway" st="station"/>
+<node id="1016942784" lat="51.5970382" lon="-0.4274432"  n="Haste Hill Station" t="railway" st="station"/>
+<node id="1048410592" lat="51.5098426" lon="-0.0763965"  n="Tower Hill" t="railway" st="subway_entrance"/>
+<node id="1102565750" lat="51.5258252" lon="-0.1357861"  n="Euston Square" t="railway" st="subway_entrance"/>
+<node id="1140859041" lat="51.5375214" lon="-0.191953"  n="Kilburn High Road" t="railway" st="halt"/>
+<node id="1145615310" lat="51.3620701" lon="-0.087523"  n="Spencer Road Halt" t="railway" st="en:Spencer Road Halt railway station"/>
+<node id="1155201774" lat="51.5012165" lon="-0.0935086"  n="Borough" t="railway" st="subway_entrance"/>
+<node id="1165697920" lat="51.5007521" lon="-0.0520793"  n="Rotherhithe" t="railway" st="Ticket Office"/>
+<node id="1165952977" lat="51.461825" lon="-0.1382551"  n="Clapham Common" t="railway" st="subway_entrance"/>
+<node id="1226526417" lat="51.4123931" lon="-0.0657707"  n="Anerley" t="railway" st="station"/>
+<node id="1227938903" lat="51.5098918" lon="-0.1340943"  n="Piccadilly Circus" t="railway" st="subway_entrance"/>
+<node id="1227938921" lat="51.5100894" lon="-0.1341121"  n="Piccadilly Circus" t="railway" st="subway_entrance"/>
+<node id="1227938928" lat="51.5096076" lon="-0.1345233"  n="Piccadilly Circus" t="railway" st="subway_entrance"/>
+<node id="1227938942" lat="51.5095491" lon="-0.1347454"  n="Piccadilly Circus" t="railway" st="subway_entrance"/>
+<node id="1260540359" lat="51.5127053" lon="-0.0883645"  n="Bank" t="railway" st="stop"/>
+<node id="1261934034" lat="51.5775464" lon="-0.1053876"  n="Harringay" t="railway" st="station"/>
+<node id="1264468143" lat="51.5225862" lon="-0.1567349"  n="Baker Street" t="railway" st="station"/>
+<node id="1264482797" lat="51.5157049" lon="-0.1758402"  n="Paddington (District, Circle, and Bakerloo Lines)" t="railway" st="station"/>
+<node id="1277999027" lat="51.5170442" lon="-0.1955304"  n="Paddington railway working men&#39;s club" t="railway" st="Paddington railway working men&#39;s club"/>
+<node id="1287522465" lat="51.4871277" lon="-0.1984634"  n="Lillie Bridge Depot (London Underground)" t="railway" st="railway"/>
+<node id="1288249464" lat="51.5184829" lon="-0.0882479"  n="Moorgate" t="railway" st="subway_entrance"/>
+<node id="1321785861" lat="51.4953911" lon="-0.1734069"  n="South Kensington" t="railway" st="subway_entrance"/>
+<node id="1378606970" lat="51.5436808" lon="-0.1744864"  n="Swiss Cottage Exit 2" t="railway" st="subway_entrance"/>
+<node id="1378607097" lat="51.5431595" lon="-0.1748615"  n="Swiss Cottage Exit 3" t="railway" st="subway_entrance"/>
+<node id="1378607131" lat="51.5432331" lon="-0.174333"  n="Swiss Cottage Exit 1" t="railway" st="subway_entrance"/>
+<node id="1389887370" lat="51.5654371" lon="-0.1349977"  n="Archway" t="railway" st="station"/>
+<node id="1401459404" lat="51.5104352" lon="-0.085975"  n="Fish Street Hill" t="railway" st="subway_entrance"/>
+<node id="1401459406" lat="51.5105954" lon="-0.086535"  n="King William Street (South)" t="railway" st="subway_entrance"/>
+<node id="1402066827" lat="51.5140418" lon="-0.0754818"  n="Aldgate" t="railway" st="subway_entrance"/>
+<node id="1436218816" lat="51.5016139" lon="-0.1604769"  n="Knightsbridge" t="railway" st="subway_entrance"/>
+<node id="1436229643" lat="51.5162263" lon="-0.1766741"  n="Paddington Station (District, Circle and Bakerloo Lines)" t="railway" st="subway_entrance"/>
+<node id="1508497949" lat="51.4906489" lon="-0.2059044"  n="West Kensington" t="railway" st="station"/>
+<node id="1508678646" lat="51.5102267" lon="-0.2882565"  n="Ealing Common" t="railway" st="station"/>
+<node id="1508735341" lat="51.4992518" lon="-0.3141552"  n="Northfields" t="railway" st="station"/>
+<node id="1508735344" lat="51.499337" lon="-0.3141802"  n="Northfields" t="railway" st="station"/>
+<node id="1508735346" lat="51.4994475" lon="-0.3142586"  n="Northfields" t="railway" st="station"/>
+<node id="1508735347" lat="51.5008966" lon="-0.307044"  n="South Ealing" t="railway" st="stop"/>
+<node id="1508735348" lat="51.5009705" lon="-0.3070762"  n="South Ealing" t="railway" st="stop"/>
+<node id="1508735351" lat="51.5010777" lon="-0.3071389"  n="South Ealing" t="railway" st="stop"/>
+<node id="1508864496" lat="51.4957483" lon="-0.3247334"  n="Boston Manor" t="railway" st="station"/>
+<node id="1508864504" lat="51.4664204" lon="-0.4241505"  n="Hatton Cross" t="railway" st="station"/>
+<node id="1508864507" lat="51.4713989" lon="-0.4527727"  n="Heathrow Terminals 2 &#38; 3" t="railway" st="station"/>
+<node id="1508864518" lat="51.4712225" lon="-0.3667373"  n="Hounslow Central" t="railway" st="station"/>
+<node id="1508864541" lat="51.4732008" lon="-0.3562716"  n="Hounslow East" t="railway" st="station"/>
+<node id="1508864546" lat="51.4735809" lon="-0.3856162"  n="Hounslow West" t="railway" st="station"/>
+<node id="1508864558" lat="51.4810993" lon="-0.3522334"  n="Osterley" t="railway" st="station"/>
+<node id="1525365505" lat="51.5173451" lon="-0.248137"  n="East Acton" t="railway" st="station"/>
+<node id="1525365517" lat="51.5301886" lon="-0.2933143"  n="Hanger Lane" t="railway" st="station"/>
+<node id="1525365534" lat="51.5181587" lon="-0.280583"  n="West Acton" t="railway" st="station"/>
+<node id="1525365546" lat="51.5119542" lon="-0.2246299"  n="White City" t="railway" st="subway_entrance"/>
+<node id="1527408752" lat="51.5602005" lon="-0.2152446"  n="Cricklewood Curve Junction" t="railway" st="junction"/>
+<node id="1528232330" lat="51.5165442" lon="-0.1197397"  n="Holborn Tram Station" t="railway" st="disused"/>
+<node id="1528661184" lat="51.5095971" lon="-0.0789867"  n="Mark Lane" t="railway" st="station"/>
+<node id="1531158616" lat="51.5172341" lon="-0.1231884"  n="British Museum (closed)" t="railway" st="disused"/>
+<node id="1531431054" lat="51.4969798" lon="-0.1686808"  n="Brompton Road (closed)" t="railway" st="disused"/>
+<node id="1531553668" lat="51.5101291" lon="-0.0866153"  n="King William Street (closed)" t="railway" st="station"/>
+<node id="1533454921" lat="51.5323815" lon="0.0037345"  n="Abbey Road" t="railway" st="station"/>
+<node id="1546672365" lat="51.3330562" lon="-0.0997479"  n="Riddlesdown" t="railway" st="station"/>
+<node id="1558436528" lat="51.6066413" lon="0.0339011"  n="Woodford" t="railway" st="station"/>
+<node id="1562544847" lat="51.5475101" lon="-0.146931"  n="Camden Town Brewery" t="railway" st="position estimated; railway arch property"/>
+<node id="1567761340" lat="51.5116024" lon="-0.127934"  n="Leicester Square" t="railway" st="subway_entrance"/>
+<node id="1567842127" lat="51.5114829" lon="-0.1284598"  n="Leicester Square" t="railway" st="subway_entrance"/>
+<node id="1567842141" lat="51.5112713" lon="-0.1282391"  n="Leicester Square" t="railway" st="subway_entrance"/>
+<node id="1567896328" lat="51.5099261" lon="-0.1351428"  n="Piccadilly Circus" t="railway" st="subway_entrance"/>
+<node id="1568611250" lat="51.5117388" lon="-0.1282269"  n="Leicester Square" t="railway" st="subway_entrance"/>
+<node id="1568636401" lat="51.5101379" lon="-0.1349815"  n="Piccadilly Circus" t="railway" st="subway_entrance"/>
+<node id="1568934912" lat="51.5391884" lon="-0.1425747"  n="Camden Town" t="railway" st="subway_entrance"/>
+<node id="1568934913" lat="51.5391783" lon="-0.1427157"  n="Camden Town" t="railway" st="subway_entrance"/>
+<node id="1570980317" lat="51.5452032" lon="-0.2020834"  n="Brondesbury" t="railway" st="station"/>
+<node id="1571982051" lat="51.5088403" lon="-0.1257531"  n="Charing Cross" t="railway" st="subway_entrance"/>
+<node id="1571982070" lat="51.5087873" lon="-0.1253281"  n="Charing Cross" t="railway" st="subway_entrance"/>
+<node id="1581531089" lat="51.5959458" lon="0.0911452"  n="Fairlop" t="railway" st="stop"/>
+<node id="1581531093" lat="51.6131433" lon="0.0925197"  n="Grange Hill" t="railway" st="stop"/>
+<node id="1581531102" lat="51.6033138" lon="0.093396"  n="Hainault" t="railway" st="stop"/>
+<node id="1581531103" lat="51.6171294" lon="0.0438719"  n="Roding Valley" t="railway" st="stop"/>
+<node id="1581574576" lat="51.5858151" lon="0.0886504"  n="Barkingside" t="railway" st="stop"/>
+<node id="1581574577" lat="51.5754764" lon="0.0899913"  n="Newbury Park" t="railway" st="station"/>
+<node id="1582375181" lat="51.5766236" lon="0.0653068"  n="Gants Hill" t="railway" st="stop"/>
+<node id="1582375190" lat="51.5763628" lon="0.045411"  n="Redbridge" t="railway" st="station"/>
+<node id="1582375193" lat="51.5756659" lon="0.028621"  n="Wanstead" t="railway" st="station"/>
+<node id="1582448808" lat="51.5919316" lon="0.0273908"  n="South Woodford" t="railway" st="station"/>
+<node id="1583662829" lat="51.438286" lon="-0.1275511"  n="Streatham Hill" t="railway" st="station"/>
+<node id="1586683103" lat="51.5809967" lon="0.0215251"  n="Snaresbrook" t="railway" st="station"/>
+<node id="1590789232" lat="51.512335" lon="-0.0878563"  n="Bank station, DLR lift 7" t="railway" st="subway_entrance"/>
+<node id="1591017141" lat="51.4391677" lon="-0.3392737"  n="Strawberry Hill" t="railway" st="station"/>
+<node id="1591356266" lat="51.4808703" lon="-0.1943189"  n="Fulham Broadway" t="railway" st="station"/>
+<node id="1591356270" lat="51.4873027" lon="-0.1956084"  n="West Brompton" t="railway" st="station"/>
+<node id="1591356373" lat="51.4914665" lon="-0.1938834"  n="Earl&#39;s Court" t="railway" st="stop"/>
+<node id="1591399577" lat="51.5122731" lon="-0.1882443"  n="Bayswater" t="railway" st="stop"/>
+<node id="1591399583" lat="51.5154037" lon="-0.1754503"  n="Paddington" t="railway" st="stop"/>
+<node id="1593916527" lat="51.5310529" lon="-0.0202823"  n="Bow Junction" t="railway" st="junction"/>
+<node id="1595168844" lat="51.5163582" lon="-0.0996007"  n="King Edward Building" t="railway" st="disused"/>
+<node id="1595221737" lat="51.5246046" lon="-0.1118864"  n="Mount Pleasant" t="railway" st="disused"/>
+<node id="1600337388" lat="51.632301" lon="-0.127758"  n="Southgate" t="railway" st="station"/>
+<node id="1602746928" lat="51.6515957" lon="-0.1489526"  n="Cockfosters" t="railway" st="station"/>
+<node id="1602748877" lat="51.6475598" lon="-0.1319044"  n="Oakwood" t="railway" st="station"/>
+<node id="1605304973" lat="51.5959492" lon="0.0911132"  n="Fairlop" t="railway" st="stop"/>
+<node id="1611925654" lat="51.5929863" lon="0.233493"  n="Harold Wood" t="railway" st="stop"/>
+<node id="1612461698" lat="51.4642433" lon="-0.1702667"  n="Platform 10 4 car stop" t="railway" st="stop"/>
+<node id="1612461710" lat="51.4648212" lon="-0.169543"  n="Platform 10 8 car stop" t="railway" st="stop"/>
+<node id="1612461711" lat="51.4642595" lon="-0.1708828"  n="Platform 7 5-10 car stop" t="railway" st="stop"/>
+<node id="1612592270" lat="51.5747892" lon="0.1824157"  n="Romford" t="railway" st="stop"/>
+<node id="1612592304" lat="51.5822391" lon="0.2064653"  n="Gidea Park" t="railway" st="stop"/>
+<node id="1622139583" lat="51.6131248" lon="0.0924869"  n="Grange Hill" t="railway" st="stop"/>
+<node id="1623632152" lat="51.5216632" lon="0.2902329"  n="Ockendon" t="railway" st="station"/>
+<node id="1637478193" lat="51.5143809" lon="-0.1490106"  n="Bond Street" t="railway" st="stop"/>
+<node id="1637478195" lat="51.5118713" lon="-0.1751449"  n="Lancaster Gate" t="railway" st="station"/>
+<node id="1637478196" lat="51.5153611" lon="-0.1407785"  n="Oxford Circus" t="railway" st="stop"/>
+<node id="1637478197" lat="51.5154617" lon="-0.1408111"  n="Oxford Circus" t="railway" st="stop"/>
+<node id="1637478198" lat="51.5105004" lon="-0.1872298"  n="Queensway" t="railway" st="station"/>
+<node id="1637478220" lat="51.5090768" lon="-0.1961102"  n="Notting Hill Gate" t="railway" st="subway_entrance"/>
+<node id="1637578305" lat="51.5173286" lon="-0.1232101"  n="British Museum (closed)" t="railway" st="disused"/>
+<node id="1637578314" lat="51.5181135" lon="-0.1123596"  n="Chancery Lane" t="railway" st="stop"/>
+<node id="1637578323" lat="51.518177" lon="-0.1116472"  n="Chancery Lane" t="railway" st="subway_entrance"/>
+<node id="1637578327" lat="51.5176613" lon="-0.1197226"  n="Holborn" t="railway" st="stopping_point"/>
+<node id="1637578440" lat="51.5133798" lon="-0.0889552"  n="Bank" t="railway" st="station"/>
+<node id="1637578467" lat="51.5149724" lon="-0.0976144"  n="St. Paul&#39;s Central Line Eastbound" t="railway" st="platform"/>
+<node id="1637627149" lat="51.5273905" lon="-0.0548057"  n="Bethnal Green" t="railway" st="stop"/>
+<node id="1637627151" lat="51.5254588" lon="-0.0335219"  n="Mile End" t="railway" st="stop"/>
+<node id="1637960727" lat="51.6555694" lon="-0.0308584"  n="Brimsdown" t="railway" st="station"/>
+<node id="1637960729" lat="51.6708845" lon="-0.0285929"  n="Enfield Lock" t="railway" st="station"/>
+<node id="1637960730" lat="51.6023252" lon="-0.0537935"  n="Northumberland Park" t="railway" st="station"/>
+<node id="1637960733" lat="51.5805059" lon="-0.0716808"  n="South Tottenham" t="railway" st="station"/>
+<node id="1637960734" lat="51.5883358" lon="-0.0599085"  n="Tottenham Hale" t="railway" st="station"/>
+<node id="1637960735" lat="51.6852244" lon="-0.0264845"  n="Waltham Cross" t="railway" st="station"/>
+<node id="1638039850" lat="51.5712785" lon="-0.1171954"  n="Crouch Hill" t="railway" st="station"/>
+<node id="1638039854" lat="51.5636254" lon="-0.1294854"  n="Upper Holloway" t="railway" st="station"/>
+<node id="1639348752" lat="51.6847526" lon="-0.1072932"  n="Crews Hill" t="railway" st="station"/>
+<node id="1639348765" lat="51.6531595" lon="-0.0907385"  n="Enfield Chase" t="railway" st="station"/>
+<node id="1639348771" lat="51.663177" lon="-0.0945564"  n="Gordon Hill" t="railway" st="station"/>
+<node id="1639348785" lat="51.6433341" lon="-0.0969646"  n="Grange Park" t="railway" st="station"/>
+<node id="1640037071" lat="51.6686072" lon="-0.1761"  n="Hadley Wood" t="railway" st="station"/>
+<node id="1640037072" lat="51.6686124" lon="-0.1760547"  n="Hadley Wood" t="railway" st="station"/>
+<node id="1640037073" lat="51.6487843" lon="-0.1729127"  n="New Barnet" t="railway" st="station"/>
+<node id="1640037074" lat="51.6140016" lon="-0.1430349"  n="New Southgate" t="railway" st="station"/>
+<node id="1640042562" lat="51.6514222" lon="-0.1491048"  n="Cockfosters" t="railway" st="station"/>
+<node id="1640042563" lat="51.6515022" lon="-0.1490347"  n="Cockfosters" t="railway" st="station"/>
+<node id="1640042564" lat="51.6476351" lon="-0.1318077"  n="Oakwood" t="railway" st="station"/>
+<node id="1645567975" lat="51.4714894" lon="-0.4526694"  n="Heathrow Terminals 2 &#38; 3" t="railway" st="station"/>
+<node id="1645907858" lat="51.458659" lon="-0.4454346"  n="Heathrow Terminal 4" t="railway" st="station"/>
+<node id="1649365732" lat="51.5149323" lon="-0.0975583"  n="St. Paul&#39;s" t="railway" st="subway_entrance"/>
+<node id="1649365744" lat="51.514985" lon="-0.0970139"  n="St. Paul&#39;s" t="railway" st="subway_entrance"/>
+<node id="1651498764" lat="51.4902539" lon="-0.2134348"  n="Barons Court" t="railway" st="station"/>
+<node id="1651504140" lat="51.6162917" lon="-0.1331457"  n="Arnos Grove" t="railway" st="station"/>
+<node id="1655232542" lat="51.5189315" lon="-0.0580036"  n="Whitechapel Delivery Office" t="railway" st="station"/>
+<node id="1655439947" lat="51.5133034" lon="-0.0889086"  n="Bank" t="railway" st="stop"/>
+<node id="1655787181" lat="51.5168863" lon="-0.1785949"  n="Paddington Crossrail" t="railway" st="construction"/>
+<node id="1666386021" lat="51.520515" lon="-0.1343582"  n="Goodge Street" t="railway" st="stop"/>
+<node id="1666386024" lat="51.5205973" lon="-0.1344849"  n="Goodge Street" t="railway" st="subway_entrance"/>
+<node id="1666386055" lat="51.5030198" lon="-0.1525843"  n="Hyde Park Corner" t="railway" st="station"/>
+<node id="1666386067" lat="51.5016597" lon="-0.1606557"  n="Knightsbridge" t="railway" st="station"/>
+<node id="1666386104" lat="51.5231029" lon="-0.124286"  n="Russell Square" t="railway" st="subway_entrance"/>
+<node id="1670707904" lat="51.5322944" lon="-0.1059515"  n="Angel" t="railway" st="station"/>
+<node id="1670707917" lat="51.5392237" lon="-0.1426554"  n="Camden Town" t="railway" st="station"/>
+<node id="1670707933" lat="51.5870829" lon="-0.1646508"  n="East Finchley" t="railway" st="station"/>
+<node id="1670707949" lat="51.5776446" lon="-0.145782"  n="Highgate" t="railway" st="station"/>
+<node id="1670707975" lat="51.556808" lon="-0.1384329"  n="Tufnell Park" t="railway" st="station"/>
+<node id="1674807233" lat="51.5232432" lon="-0.2544651"  n="Acton Wells" t="railway" st="junction"/>
+<node id="1676949272" lat="51.4589148" lon="-0.4459416"  n="Heathrow Express Terminal 4" t="railway" st="station"/>
+<node id="1678368302" lat="51.5831329" lon="-0.2260987"  n="Hendon Central" t="railway" st="station"/>
+<node id="1684833379" lat="51.4895129" lon="-0.287203"  n="Kew Bridge" t="railway" st="station"/>
+<node id="1687814967" lat="51.6507493" lon="-0.1945569"  n="High Barnet" t="railway" st="station"/>
+<node id="1688010022" lat="51.618324" lon="-0.1104923"  n="Palmers Green" t="railway" st="station"/>
+<node id="1688010029" lat="51.6339405" lon="-0.101003"  n="Winchmore Hill" t="railway" st="station"/>
+<node id="1690301433" lat="51.5091153" lon="0.0175669"  n="Royal Victoria" t="railway" st="station"/>
+<node id="1692393860" lat="51.5504082" lon="-0.1407344"  n="Kentish Town" t="railway" st="station"/>
+<node id="1693158540" lat="51.5767002" lon="-0.2135533"  n="Brent Cross" t="railway" st="station"/>
+<node id="1693385285" lat="51.5439658" lon="-0.2759357"  n="Stonebridge Park" t="railway" st="station"/>
+<node id="1721206185" lat="51.5765739" lon="-0.3970497"  n="Eastcote" t="railway" st="station"/>
+<node id="1721206198" lat="51.57516" lon="-0.3712967"  n="Rayners Lane" t="railway" st="station"/>
+<node id="1721206230" lat="51.5462751" lon="-0.4782688"  n="Uxbridge" t="railway" st="station"/>
+<node id="1721819949" lat="51.5468982" lon="-0.1004944"  n="CTRL Corsica Street ventilation Shaft" t="railway" st="ventilation_shaft"/>
+<node id="1721819950" lat="51.5468484" lon="-0.0612805"  n="CTRL Graham Road Ventilation Shaft" t="railway" st="ventilation_shaft"/>
+<node id="1721881886" lat="51.526845" lon="-0.0248534"  n="Bow Road" t="railway" st="station"/>
+<node id="1721888649" lat="51.5281606" lon="-0.0212544"  n="Bow Station" t="railway" st="station_site"/>
+<node id="1725278953" lat="51.5201544" lon="-0.0984849"  n="Barbican" t="railway" st="stop"/>
+<node id="1725359916" lat="51.5106529" lon="-0.0861494"  n="Monument" t="railway" st="stop"/>
+<node id="1725575333" lat="51.5309648" lon="0.1022911"  n="CTRL Wayside Ventilation Shaft" t="railway" st="ventilation_shaft"/>
+<node id="1726375839" lat="51.4916596" lon="-0.2753247"  n="Gunnersbury" t="railway" st="station"/>
+<node id="1733389358" lat="51.5133099" lon="-0.0903283"  n="Bank" t="railway" st="subway_entrance"/>
+<node id="1735534945" lat="51.5403106" lon="-0.0580303"  n="London Fields" t="railway" st="stop"/>
+<node id="1735534976" lat="51.5415199" lon="-0.0577822"  n="London Fields" t="railway" st="stop"/>
+<node id="1736548279" lat="51.5424155" lon="-0.3462839"  n="Greenford" t="railway" st="station"/>
+<node id="1736548304" lat="51.5425289" lon="-0.3462173"  n="Greenford" t="railway" st="station"/>
+<node id="1736548313" lat="51.5423222" lon="-0.345644"  n="Greenford" t="railway" st="station"/>
+<node id="1736548332" lat="51.5570347" lon="-0.3992884"  n="South Ruislip" t="railway" st="station"/>
+<node id="1736548336" lat="51.5696319" lon="-0.4376618"  n="West Ruislip" t="railway" st="station"/>
+<node id="1736585139" lat="51.5751882" lon="-0.3712814"  n="Rayners Lane" t="railway" st="station"/>
+<node id="1740277345" lat="51.5071603" lon="-0.1418986"  n="Green Park" t="railway" st="stop"/>
+<node id="1741097877" lat="51.4915594" lon="-0.1940354"  n="Earl&#39;s Court" t="railway" st="stop"/>
+<node id="1741129666" lat="51.5016057" lon="-0.1605916"  n="Knightsbridge" t="railway" st="station"/>
+<node id="1741698385" lat="51.5151472" lon="-0.0718766"  n="Aldgate East" t="railway" st="station"/>
+<node id="1741760056" lat="51.5268726" lon="-0.0248416"  n="Bow Road" t="railway" st="station"/>
+<node id="1741760057" lat="51.5253563" lon="-0.0334449"  n="Mile End" t="railway" st="stop"/>
+<node id="1741760058" lat="51.5217146" lon="-0.0467282"  n="Stepney Green" t="railway" st="station"/>
+<node id="1742702419" lat="51.5072434" lon="-0.1419698"  n="Green Park" t="railway" st="stop"/>
+<node id="1742756469" lat="51.5156576" lon="-0.1417687"  n="Oxford Circus" t="railway" st="stop"/>
+<node id="1742756486" lat="51.5156081" lon="-0.1422972"  n="Oxford Circus" t="railway" st="stop"/>
+<node id="1742840596" lat="51.5517505" lon="0.0257246"  n="Wanstead Park" t="railway" st="station"/>
+<node id="1742846162" lat="51.5635218" lon="0.0084701"  n="Leytonstone High Road" t="railway" st="station"/>
+<node id="1744175810" lat="51.4798508" lon="-0.4857478"  n="Station B" t="railway" st="station"/>
+<node id="1744176128" lat="51.4797763" lon="-0.4882894"  n="Station A" t="railway" st="station"/>
+<node id="1744176185" lat="51.4797795" lon="-0.4882332"  n="Station A" t="railway" st="station"/>
+<node id="1744176299" lat="51.4798487" lon="-0.4858146"  n="Station B" t="railway" st="station"/>
+<node id="1744497400" lat="51.4667152" lon="-0.4227622"  n="Hatton Cross" t="railway" st="subway_entrance"/>
+<node id="1744498045" lat="51.4669572" lon="-0.4230225"  n="Hatton Cross" t="railway" st="subway_entrance"/>
+<node id="1746737390" lat="51.4323542" lon="-0.5032065"  n="Staines" t="railway" st="station"/>
+<node id="1746755436" lat="51.602767" lon="-0.2640589"  n="Burnt Oak" t="railway" st="station"/>
+<node id="1747080886" lat="51.6323336" lon="-0.1278107"  n="Southgate" t="railway" st="station"/>
+<node id="1747549354" lat="51.4711523" lon="-0.4522579"  n="Heathrow Terminals 2 &#38; 3" t="railway" st="subway_entrance"/>
+<node id="1747549541" lat="51.4712649" lon="-0.4521383"  n="Heathrow Terminals 2 &#38; 3" t="railway" st="subway_entrance"/>
+<node id="1748630218" lat="51.4595851" lon="-0.4476909"  n="Heathrow Terminal 4" t="railway" st="subway_entrance"/>
+<node id="1748630302" lat="51.4601298" lon="-0.4460682"  n="Heathrow Terminal 4" t="railway" st="subway_entrance"/>
+<node id="1752783203" lat="51.4914816" lon="-0.0148878"  n="Mudchute" t="railway" st="station"/>
+<node id="1752921217" lat="51.5602056" lon="-0.2153202"  n="Cricklewood Curve Junction" t="railway" st="junction"/>
+<node id="1753024871" lat="51.5130172" lon="-0.0883819"  n="Bank station, Exit 6" t="railway" st="subway_entrance"/>
+<node id="1754989023" lat="51.5235326" lon="-0.1467518"  n="Regent&#39;s Park" t="railway" st="subway_entrance"/>
+<node id="1758412827" lat="51.4428954" lon="-0.1517368"  n="Balham" t="railway" st="stop"/>
+<node id="1758413939" lat="51.4429146" lon="-0.1511528"  n="Balham" t="railway" st="stop"/>
+<node id="1760244804" lat="51.3790494" lon="-0.1016245"  n="West Croydon" t="railway" st="tram_stop"/>
+<node id="1763987970" lat="51.3752087" lon="-0.0847328"  n="Lebanon Road" t="railway" st="tram_stop"/>
+<node id="1763991367" lat="51.4008245" lon="-0.1781695"  n="Belgrave Walk" t="railway" st="tram_stop"/>
+<node id="1763991540" lat="51.4033072" lon="-0.1821132"  n="Phipps Bridge" t="railway" st="tram_stop"/>
+<node id="1773123640" lat="51.519304" lon="-0.0828012"  n="Broad Street" t="railway" st="station_site"/>
+<node id="1773375117" lat="51.5294929" lon="-0.4763836"  n="Cowley" t="railway" st="station_site"/>
+<node id="1773375133" lat="51.5443343" lon="-0.4790736"  n="Uxbridge Vine Street" t="railway" st="station_site"/>
+<node id="1773375171" lat="51.4686526" lon="-0.5102782"  n="Poyle Halt" t="railway" st="station_site"/>
+<node id="1773375210" lat="51.4747893" lon="-0.5097484"  n="Poyle Estate Halt" t="railway" st="station_site"/>
+<node id="1781533447" lat="51.5064488" lon="-0.1407735"  n="Green Park" t="railway" st="stop"/>
+<node id="1781533449" lat="51.5061845" lon="-0.140787"  n="Green Park" t="railway" st="stop"/>
+<node id="1781547362" lat="51.5056178" lon="-0.1423748"  n="Green Park" t="railway" st="stop"/>
+<node id="1781669412" lat="51.5245174" lon="-0.1380159"  n="Warren Street" t="railway" st="stopping_point"/>
+<node id="1781669415" lat="51.5245953" lon="-0.1391568"  n="Warren Street" t="railway" st="stop"/>
+<node id="1781687874" lat="51.5165747" lon="-0.1760281"  n="Paddington Station (District, Circle and Bakerloo Lines)" t="railway" st="subway_entrance"/>
+<node id="1781694459" lat="51.5226324" lon="-0.1632305"  n="Marylebone" t="railway" st="subway_entrance"/>
+<node id="1782059707" lat="51.5710689" lon="-0.0964212"  n="Manor House" t="railway" st="subway_entrance"/>
+<node id="1782125670" lat="51.5233201" lon="-0.1835922"  n="Warwick Avenue" t="railway" st="subway_entrance"/>
+<node id="1800139463" lat="51.550087" lon="-0.4832639"  n="Uxbridge High Street" t="railway" st="en:Uxbridge High Street railway station"/>
+<node id="1800752576" lat="51.5085083" lon="-0.1032597"  n="Blackfriars Rail Station" t="railway" st="platform"/>
+<node id="1802592682" lat="51.5973711" lon="-0.109854"  n="Wood Green" t="railway" st="subway_entrance"/>
+<node id="1802592716" lat="51.6069998" lon="-0.1241632"  n="Bounds Green" t="railway" st="subway_entrance"/>
+<node id="1803040291" lat="51.3642061" lon="-0.0805814"  n="Lloyd Park" t="railway" st="tram_stop"/>
+<node id="1806593749" lat="51.5169543" lon="-0.124314"  n="West Central District Office" t="railway" st="disused"/>
+<node id="1806595526" lat="51.5167932" lon="-0.1343276"  n="New West District Office" t="railway" st="disused"/>
+<node id="1806607696" lat="51.5156944" lon="-0.147521"  n="Old Western District Office" t="railway" st="disused"/>
+<node id="1806610620" lat="51.5148551" lon="-0.1508351"  n="Western Parcels Office" t="railway" st="disused"/>
+<node id="1807593699" lat="51.5010936" lon="-0.093406"  n="Borough" t="railway" st="station"/>
+<node id="1813222596" lat="51.5203855" lon="0.0044142"  n="Star Lane" t="railway" st="station"/>
+<node id="1813224670" lat="51.537781" lon="-0.0003041"  n="Stratford High Street" t="railway" st="station"/>
+<node id="1825191028" lat="51.515128" lon="-0.0718502"  n="Aldgate East" t="railway" st="station"/>
+<node id="1825191029" lat="51.5407069" lon="-0.0961847"  n="Essex Road" t="railway" st="station"/>
+<node id="1825191031" lat="51.5205525" lon="-0.1342306"  n="Goodge Street" t="railway" st="stop"/>
+<node id="1825191032" lat="51.5527303" lon="-0.1130087"  n="Holloway Road" t="railway" st="station"/>
+<node id="1825191034" lat="51.4713198" lon="-0.3667251"  n="Hounslow Central" t="railway" st="station"/>
+<node id="1825191035" lat="51.4732284" lon="-0.3563131"  n="Hounslow East" t="railway" st="station"/>
+<node id="1825191041" lat="51.5703213" lon="-0.0963841"  n="Manor House" t="railway" st="station"/>
+<node id="1825191042" lat="51.4811241" lon="-0.3522965"  n="Osterley" t="railway" st="station"/>
+<node id="1825191051" lat="51.4872739" lon="-0.1956644"  n="West Brompton" t="railway" st="station"/>
+<node id="1825191054" lat="51.4906733" lon="-0.2059243"  n="West Kensington" t="railway" st="station"/>
+<node id="1825273026" lat="51.6070658" lon="-0.1241345"  n="Bounds Green" t="railway" st="station"/>
+<node id="1825273032" lat="51.608253" lon="-0.2101506"  n="Mill Hill East" t="railway" st="station"/>
+<node id="1825273039" lat="51.5903482" lon="-0.1028465"  n="Turnpike Lane" t="railway" st="station"/>
+<node id="1825273046" lat="51.5903672" lon="-0.1029486"  n="Turnpike Lane" t="railway" st="subway_entrance"/>
+<node id="1825273052" lat="51.6094884" lon="-0.1883013"  n="West Finchley" t="railway" st="station"/>
+<node id="1825273060" lat="51.5974189" lon="-0.1097553"  n="Wood Green" t="railway" st="station"/>
+<node id="1825273066" lat="51.6180979" lon="-0.1855467"  n="Woodside Park" t="railway" st="station"/>
+<node id="1825289792" lat="51.6028449" lon="-0.2639522"  n="Burnt Oak" t="railway" st="station"/>
+<node id="1825295624" lat="51.4621177" lon="-0.3617473"  n="Hounslow" t="railway" st="station"/>
+<node id="1834159294" lat="51.5374942" lon="-0.1919269"  n="Kilburn High Road" t="railway" st="halt"/>
+<node id="1835118619" lat="51.3438965" lon="-0.1988752"  n="Belmont" t="railway" st="station"/>
+<node id="1885142188" lat="51.5105927" lon="-0.0747762"  n="Tower Gateway DLR station" t="railway" st="subway_entrance"/>
+<node id="1905896378" lat="51.5067753" lon="-0.1426699"  n="Green Park" t="railway" st="subway_entrance"/>
+<node id="1905896400" lat="51.5065691" lon="-0.1425943"  n="Green Park" t="railway" st="subway_entrance"/>
+<node id="1905896404" lat="51.5066917" lon="-0.1426498"  n="Green Park" t="railway" st="subway_entrance"/>
+<node id="1905896410" lat="51.5068991" lon="-0.1429622"  n="Green Park" t="railway" st="subway_entrance"/>
+<node id="1960307168" lat="51.5142891" lon="-0.075594"  n="Aldgate" t="railway" st="stop"/>
+<node id="1964240596" lat="51.4819835" lon="-0.1126153"  n="Oval" t="railway" st="subway_entrance"/>
+<node id="1981724789" lat="51.5591297" lon="0.070019"  n="Ilford" t="railway" st="station"/>
+<node id="1981729187" lat="51.5639058" lon="0.0968813"  n="Seven Kings" t="railway" st="station"/>
+<node id="1984736160" lat="51.5410956" lon="-0.1253075"  n="Maiden Lane" t="railway" st="station_site"/>
+<node id="2038051147" lat="51.5068698" lon="-0.142828"  n="Green Park" t="railway" st="subway_entrance"/>
+<node id="2146058862" lat="51.4862612" lon="-0.1245346"  n="Vauxhall" t="railway" st="subway_entrance"/>
+<node id="2158280269" lat="51.5646517" lon="-0.3522211"  n="South Harrow" t="railway" st="station"/>
+<node id="2158280270" lat="51.550786" lon="-0.3156819"  n="Sudbury Town" t="railway" st="station"/>
+<node id="2266399032" lat="51.5087654" lon="-0.2629503"  n="Acton Central" t="railway" st="station"/>
+<node id="2288456779" lat="51.5570064" lon="-0.3361263"  n="Sudbury Hill" t="railway" st="station"/>
+<node id="2297110852" lat="51.4920088" lon="-0.2753987"  n="Gunnersbury" t="railway" st="subway_entrance"/>
+<node id="2311292254" lat="51.5881948" lon="-0.0601766"  n="Tottenham Hale" t="railway" st="station"/>
+<node id="2314512860" lat="51.5202552" lon="-0.1665602"  n="Edgware Road (Circle, District and Hammersmith &#38; City)" t="railway" st="station"/>
+<node id="2315112846" lat="51.5051776" lon="-0.0209208"  n="Canary Wharf" t="railway" st="station"/>
+<node id="2318257991" lat="51.5019523" lon="0.0621418"  n="King George V" t="railway" st="station"/>
+<node id="2337594752" lat="51.5272716" lon="-0.0550277"  n="Bethnal Green" t="railway" st="station"/>
+<node id="2338116238" lat="51.5457078" lon="-0.0096965"  n="Stratford International" t="railway" st="station"/>
+<node id="2343331828" lat="51.5342654" lon="-0.1389348"  n="Mornington Crescent" t="railway" st="subway_entrance"/>
+<node id="2349997447" lat="51.4999105" lon="-0.1626652"  n="Knightsbridge" t="railway" st="subway_entrance"/>
+<node id="2360771366" lat="51.5259368" lon="-0.0869558"  n="Old Street - Exit 2" t="railway" st="subway_entrance"/>
+<node id="2365046457" lat="51.5244913" lon="-0.1381737"  n="Warren Street" t="railway" st="subway_entrance"/>
+<node id="2366418416" lat="51.5487769" lon="-0.0840886"  n="Mildmay Park" t="railway" st="station_site"/>
+<node id="2389868966" lat="51.5113591" lon="-0.0906094"  n="Cannon Street" t="railway" st="subway_entrance"/>
+<node id="2397308060" lat="51.4620691" lon="0.0274859"  n="Kidbrooke" t="railway" st="station"/>
+<node id="2403974186" lat="51.5819929" lon="-0.0750205"  n="Seven Sisters" t="railway" st="subway_entrance"/>
+<node id="2403974187" lat="51.5832024" lon="-0.0724696"  n="Seven Sisters" t="railway" st="subway_entrance"/>
+<node id="2403974188" lat="51.5832805" lon="-0.071966"  n="Seven Sisters" t="railway" st="subway_entrance"/>
+<node id="2403974189" lat="51.5835035" lon="-0.0719602"  n="Seven Sisters" t="railway" st="subway_entrance"/>
+<node id="2403974190" lat="51.583614" lon="-0.0723972"  n="Seven Sisters" t="railway" st="subway_entrance"/>
+<node id="2405959747" lat="51.5173851" lon="-0.1200551"  n="Holborn" t="railway" st="stopping_point"/>
+<node id="2405965178" lat="51.5173545" lon="-0.1200099"  n="Holborn" t="railway" st="subway_entrance"/>
+<node id="2405990287" lat="51.5119418" lon="-0.1156463"  n="Aldwych" t="railway" st="subway_entrance"/>
+<node id="2405990288" lat="51.5121876" lon="-0.1159868"  n="Aldwych" t="railway" st="subway_entrance"/>
+<node id="2417777283" lat="51.565403" lon="-0.1348577"  n="Archway" t="railway" st="subway_entrance"/>
+<node id="2417777289" lat="51.5503562" lon="-0.1405245"  n="Kentish Town" t="railway" st="subway_entrance"/>
+<node id="2417777294" lat="51.5567216" lon="-0.1380444"  n="Tufnell Park" t="railway" st="subway_entrance"/>
+<node id="2426825788" lat="51.5194655" lon="-0.0611124"  n="Whitechapel" t="railway" st="station"/>
+<node id="2428147211" lat="51.5321208" lon="-0.1258634"  n="St Pancras" t="railway" st="subway_entrance"/>
+<node id="2433763983" lat="51.6128743" lon="-0.3131637"  n="Stanmore Village" t="railway" st="station_site"/>
+<node id="2433763986" lat="51.6013577" lon="-0.3194024"  n="Belmont" t="railway" st="station_site"/>
+<node id="2438234411" lat="51.5385184" lon="-0.0753811"  n="Haggerston" t="railway" st="station"/>
+<node id="2438248384" lat="51.5007782" lon="-0.0519063"  n="Rotherhithe" t="railway" st="station"/>
+<node id="2438262362" lat="51.4935351" lon="-0.0480129"  n="Surrey Quays" t="railway" st="station"/>
+<node id="2438276350" lat="51.5044344" lon="-0.0560206"  n="Wapping" t="railway" st="station"/>
+<node id="2438280276" lat="51.468043" lon="-0.0896031"  n="Denmark Hill" t="railway" st="station"/>
+<node id="2438286491" lat="51.4699602" lon="-0.1384355"  n="Wandsworth Road" t="railway" st="station"/>
+<node id="2438288086" lat="51.4654853" lon="-0.1323141"  n="Clapham High Street" t="railway" st="station"/>
+<node id="2441957067" lat="51.5312914" lon="-0.0758535"  n="Hoxton" t="railway" st="station"/>
+<node id="2446751285" lat="51.4735706" lon="-0.0572827"  n="Queens Road Peckham" t="railway" st="station"/>
+<node id="2450024729" lat="51.4975422" lon="-0.0494132"  n="Canada Water" t="railway" st="subway_entrance"/>
+<node id="2450024730" lat="51.4983537" lon="-0.0494419"  n="Canada Water" t="railway" st="subway_entrance"/>
+<node id="2458417913" lat="51.541289" lon="-0.1791366"  n="South Hampstead" t="railway" st="station"/>
+<node id="2458659084" lat="51.5469198" lon="-0.17986"  n="FInchley Road" t="railway" st="subway_entrance"/>
+<node id="2459205710" lat="51.6415044" lon="-0.0690993"  n="Bush Hill Park" t="railway" st="station"/>
+<node id="2459211077" lat="51.624931" lon="-0.0609748"  n="Edmonton Green" t="railway" st="station"/>
+<node id="2533335830" lat="51.4646822" lon="-0.17034"  n="Clapham Junction" t="railway" st="station"/>
+<node id="2535817620" lat="51.5435038" lon="-0.0241022"  n="Hackney Wick" t="railway" st="station"/>
+<node id="2558339869" lat="51.5128566" lon="-0.1585309"  n="Marble Arch" t="railway" st="subway_entrance"/>
+<node id="2558339870" lat="51.5135654" lon="-0.1583937"  n="Marble Arch" t="railway" st="subway_entrance"/>
+<node id="2586466037" lat="51.5029607" lon="-0.1525574"  n="Hyde Park Corner" t="railway" st="station"/>
+<node id="2622210364" lat="51.5135712" lon="-0.0881748"  n="Bank station, Exit 3 (North)" t="railway" st="subway_entrance"/>
+<node id="2623978877" lat="51.5042494" lon="-0.1043057"  n="Blackfriars Road" t="railway" st="station_site"/>
+<node id="2670344081" lat="51.5308737" lon="-0.12382"  n="King&#39;s Cross St. Pancras Underground Station" t="railway" st="subway_entrance"/>
+<node id="2761481019" lat="51.5149549" lon="-0.0976238"  n="St Paul&#39;s" t="railway" st="station"/>
+<node id="2864283848" lat="51.4174142" lon="-0.2075301"  n="Dundonald Road" t="railway" st="tram_stop"/>
+<node id="2867978653" lat="51.4088506" lon="-0.1927178"  n="Morden Road" t="railway" st="tram_stop"/>
+<node id="2869062009" lat="51.5131948" lon="-0.0898261"  n="Bank station, Exit 8" t="railway" st="subway_entrance"/>
+<node id="2869216633" lat="51.5053894" lon="-0.0866926"  n="London Bridge LU (Jubilee line)" t="railway" st="subway_entrance"/>
+<node id="2875405804" lat="51.4136398" lon="-0.201137"  n="Merton Park" t="railway" st="tram_stop"/>
+<node id="2907810047" lat="51.5631622" lon="-0.2792573"  n="C" t="railway" st="subway_entrance"/>
+<node id="2907810065" lat="51.5632913" lon="-0.2791503"  n="B" t="railway" st="subway_entrance"/>
+<node id="2907810083" lat="51.5634147" lon="-0.2790481"  n="A" t="railway" st="subway_entrance"/>
+<node id="2931492422" lat="51.4649695" lon="-0.0128961"  n="Lewisham" t="railway" st="station"/>
+<node id="2961311554" lat="51.4628745" lon="-0.1133321"  n="Brixton" t="railway" st="station"/>
+<node id="2970698856" lat="51.5631246" lon="-0.2793389"  n="D" t="railway" st="subway_entrance"/>
+<node id="2970698857" lat="51.5631063" lon="-0.2793574"  n="E" t="railway" st="subway_entrance"/>
+<node id="3027323674" lat="51.5184191" lon="-0.0879568"  n="Moorgate" t="railway" st="subway_entrance"/>
+<node id="3027323675" lat="51.5185379" lon="-0.0885137"  n="Moorgate" t="railway" st="subway_entrance"/>
+<node id="3034995434" lat="51.5019778" lon="-0.1603583"  n="Knightsbridge" t="railway" st="subway_entrance"/>
+<node id="3076573906" lat="51.5142097" lon="-0.0758232"  n="Aldgate" t="railway" st="stop"/>
+<node id="3076573907" lat="51.5142427" lon="-0.0757317"  n="Aldgate" t="railway" st="stop"/>
+<node id="3076573908" lat="51.5142527" lon="-0.0757044"  n="Aldgate" t="railway" st="stop"/>
+<node id="3076573909" lat="51.5134556" lon="-0.0889867"  n="Bank" t="railway" st="stop"/>
+<node id="3076573910" lat="51.520169" lon="-0.0984809"  n="Barbican" t="railway" st="station"/>
+<node id="3076573911" lat="51.5858181" lon="0.0886245"  n="Barkingside" t="railway" st="station"/>
+<node id="3076573912" lat="51.5142841" lon="-0.1489948"  n="Bond Street" t="railway" st="stop"/>
+<node id="3076573913" lat="51.514299" lon="-0.149002"  n="Bond Street" t="railway" st="station"/>
+<node id="3076573915" lat="51.5181074" lon="-0.1123604"  n="Chancery Lane" t="railway" st="station"/>
+<node id="3076573918" lat="51.4915258" lon="-0.1939838"  n="Earl&#39;s Court" t="railway" st="stop"/>
+<node id="3076573919" lat="51.4915588" lon="-0.1940345"  n="Earl&#39;s Court" t="railway" st="stop"/>
+<node id="3076573920" lat="51.4916178" lon="-0.1941324"  n="Earl&#39;s Court" t="railway" st="stop"/>
+<node id="3076573921" lat="51.5173376" lon="-0.2481593"  n="East Acton" t="railway" st="stop"/>
+<node id="3076573922" lat="51.5173528" lon="-0.2481132"  n="East Acton" t="railway" st="stop"/>
+<node id="3076573924" lat="51.5959477" lon="0.0911302"  n="Fairlop" t="railway" st="station"/>
+<node id="3076573925" lat="51.5765744" lon="0.0653081"  n="Gants Hill" t="railway" st="station"/>
+<node id="3076573926" lat="51.613134" lon="0.0925025"  n="Grange Hill" t="railway" st="station"/>
+<node id="3076573927" lat="51.6033186" lon="0.0933763"  n="Hainault" t="railway" st="station"/>
+<node id="3076573928" lat="51.5000989" lon="-0.192103"  n="High Street Kensington" t="railway" st="stop"/>
+<node id="3076573929" lat="51.5001265" lon="-0.1920382"  n="High Street Kensington" t="railway" st="stop"/>
+<node id="3076573930" lat="51.5001747" lon="-0.1919086"  n="High Street Kensington" t="railway" st="stop"/>
+<node id="3076573931" lat="51.5001924" lon="-0.1918627"  n="High Street Kensington" t="railway" st="stop"/>
+<node id="3076573932" lat="51.5171842" lon="-0.0825554"  n="Liverpool Street" t="railway" st="stop"/>
+<node id="3076574233" lat="51.5172123" lon="-0.0825435"  n="Liverpool Street" t="railway" st="stop"/>
+<node id="3076574234" lat="51.5118962" lon="-0.0952256"  n="Mansion House" t="railway" st="stop"/>
+<node id="3076574235" lat="51.511929" lon="-0.0952257"  n="Mansion House" t="railway" st="stop"/>
+<node id="3076574236" lat="51.5253378" lon="-0.033435"  n="Mile End" t="railway" st="station"/>
+<node id="3076574237" lat="51.5106328" lon="-0.0861271"  n="Monument" t="railway" st="station"/>
+<node id="3076574238" lat="51.6171183" lon="0.0438765"  n="Roding Valley" t="railway" st="station"/>
+<node id="3076574239" lat="51.5109669" lon="-0.114223"  n="Temple" t="railway" st="stop"/>
+<node id="3076574240" lat="51.5109925" lon="-0.1142341"  n="Temple" t="railway" st="stop"/>
+<node id="3100196382" lat="51.5155013" lon="-0.1755859"  n="Paddington" t="railway" st="subway_entrance"/>
+<node id="3111335327" lat="51.5885059" lon="-0.4291369"  n="Lakeside Cafe" t="railway" st="Approximate, from map at http://www.ruisliplidorailway.org/sites/ruisliplidorailway.org/files/images/NEW%20Lido%20Map%20with%202nd%20Car%20Park%20v2.0.jpg"/>
+<node id="3134010903" lat="51.5044311" lon="-0.1075952"  n="Southwark" t="railway" st="subway_entrance"/>
+<node id="3134010911" lat="51.5043075" lon="-0.1075952"  n="Southwark" t="railway" st="subway_entrance"/>
+<node id="3134026771" lat="51.5041874" lon="-0.1074478"  n="Southwark" t="railway" st="subway_entrance"/>
+<node id="3134220947" lat="51.5049525" lon="-0.0895915"  n="London Bridge" t="railway" st="subway_entrance"/>
+<node id="3136301312" lat="51.5132508" lon="-0.0886927"  n="Bank station, Exit 5" t="railway" st="subway_entrance"/>
+<node id="3136301328" lat="51.5134546" lon="-0.0891543"  n="Bank station, Exit 1" t="railway" st="subway_entrance"/>
+<node id="3153651162" lat="51.5119082" lon="-0.0875754"  n="Bank" t="railway" st="stop"/>
+<node id="3153753719" lat="51.5122183" lon="-0.0878914"  n="Bank" t="railway" st="stop"/>
+<node id="3166359133" lat="51.3037699" lon="-0.0771916"  n="Whyteleafe South" t="railway" st="station"/>
+<node id="3166359134" lat="51.3099311" lon="-0.0809591"  n="Whyteleafe" t="railway" st="station"/>
+<node id="3173410982" lat="51.4910905" lon="0.1204552"  n="Abbey Wood" t="railway" st="station"/>
+<node id="3218015875" lat="51.5057349" lon="-0.0887087"  n="London Bridge Kebab" t="railway" st="under the railway bridge"/>
+<node id="3218015876" lat="51.5057859" lon="-0.0886565"  n="William Hill" t="railway" st="under the railway bridge"/>
+<node id="3220011612" lat="51.35675" lon="-0.308097"  n="Chessington South" t="railway" st="station"/>
+<node id="3238539178" lat="51.4957698" lon="-0.1008228"  n="Elephant and Castle (Bakerloo Line)" t="railway" st="subway_entrance"/>
+<node id="3284103165" lat="51.5201241" lon="-0.1047928"  n="Farringdon" t="railway" st="station"/>
+<node id="3327255104" lat="51.5490466" lon="-0.2211093"  n="Willesden Green" t="railway" st="subway_entrance"/>
+<node id="3327255105" lat="51.5492582" lon="-0.2210251"  n="Willesden Green" t="railway" st="subway_entrance"/>
+<node id="3370671078" lat="51.5112839" lon="-0.1284197"  n="Leicester Square" t="railway" st="station"/>
+<node id="3393783822" lat="51.4337482" lon="-0.3496847"  n="Fulwell" t="railway" st="station"/>
+<node id="3393783868" lat="51.4159079" lon="-0.3721547"  n="Hampton" t="railway" st="station"/>
+<node id="3446641270" lat="51.4752161" lon="-0.1462935"  n="Queenstown Road" t="railway" st="station"/>
+<node id="3446663141" lat="51.4858478" lon="-0.1227502"  n="Vauxhall" t="railway" st="station"/>
+<node id="3495851170" lat="51.43262" lon="-0.0801338"  n="Sydenham Hill" t="railway" st="station"/>
+<node id="3495851171" lat="51.4405351" lon="-0.0911092"  n="West Dulwich" t="railway" st="station"/>
+<node id="3551184652" lat="51.5706637" lon="0.160173"  n="Crowlands" t="railway" st="en:Crowlands railway station"/>
+<node id="3572247866" lat="51.4175147" lon="-0.0607007"  n="Penge West" t="railway" st="station"/>
+<node id="3590265629" lat="51.5410738" lon="-0.0578624"  n="London Fields" t="railway" st="station"/>
+<node id="3623458215" lat="51.5702338" lon="-0.3881609"  n="Roxbourne Railway" t="railway" st="miniature_railway"/>
+<node id="3627101102" lat="51.4648056" lon="0.1016258"  n="Welling" t="railway" st="station"/>
+<node id="3627121536" lat="51.4650212" lon="0.1596467"  n="Barnehurst" t="railway" st="station"/>
+<node id="3627131075" lat="51.4555936" lon="0.0522692"  n="Eltham" t="railway" st="station"/>
+<node id="3627157761" lat="51.4815782" lon="0.1751948"  n="Erith" t="railway" st="station"/>
+<node id="3627170668" lat="51.4609627" lon="-0.1882512"  n="Wandsworth Town" t="railway" st="station"/>
+<node id="3632469240" lat="51.3990081" lon="-0.2809105"  n="Berrylands" t="railway" st="station"/>
+<node id="3632471059" lat="51.4039615" lon="-0.2557593"  n="New Malden" t="railway" st="station"/>
+<node id="3637195703" lat="51.5153401" lon="-0.1035311"  n="City Thameslink" t="railway" st="station"/>
+<node id="3637436407" lat="51.5176805" lon="-0.0823701"  n="Liverpool Street" t="railway" st="station"/>
+<node id="3637436408" lat="51.518043" lon="-0.0817735"  n="London Liverpool Street" t="railway" st="station"/>
+<node id="3637449659" lat="51.5113812" lon="-0.0903632"  n="Cannon Street" t="railway" st="station"/>
+<node id="3637449660" lat="51.5106685" lon="-0.0906046"  n="London Cannon Street" t="railway" st="station"/>
+<node id="3638779316" lat="51.5098192" lon="-0.1345484"  n="Piccadilly Circus" t="railway" st="station"/>
+<node id="3638795617" lat="51.5028379" lon="-0.112801"  n="London Waterloo" t="railway" st="station"/>
+<node id="3638795618" lat="51.5030015" lon="-0.1139812"  n="Waterloo" t="railway" st="station"/>
+<node id="3647395234" lat="51.6340717" lon="-0.0649354"  n="Bury Street Junction" t="railway" st="junction"/>
+<node id="3647395236" lat="51.581997" lon="-0.0753584"  n="Seven Sisters Junction" t="railway" st="junction"/>
+<node id="3647395237" lat="51.5498306" lon="-0.0613745"  n="Hackney Downs North Junction" t="railway" st="junction"/>
+<node id="3647410985" lat="51.5803415" lon="-0.0729479"  n="South Tottenham West Junction" t="railway" st="junction"/>
+<node id="3648451853" lat="51.4611029" lon="-0.2163296"  n="Putney" t="railway" st="station"/>
+<node id="3649452129" lat="51.5184259" lon="-0.1783349"  n="Paddington Station (Hammersmith &#38; City and Circle Lines)" t="railway" st="subway_entrance"/>
+<node id="3651033967" lat="51.533519" lon="-0.1282397"  n="Canal Tunnel Junction" t="railway" st="junction"/>
+<node id="3651033968" lat="51.5412129" lon="-0.1227915"  n="Belle Isle Junction" t="railway" st="junction"/>
+<node id="3654438967" lat="51.5298736" lon="-0.1857934"  n="Maida Vale" t="railway" st="subway_entrance"/>
+<node id="3655207913" lat="51.4775541" lon="-0.1475834"  n="Battersea Park" t="railway" st="station"/>
+<node id="3655209248" lat="51.3847246" lon="-0.2612451"  n="Malden Manor" t="railway" st="station"/>
+<node id="3655209291" lat="51.3768746" lon="-0.2794424"  n="Tolworth" t="railway" st="station"/>
+<node id="3655209318" lat="51.363982" lon="-0.3007319"  n="Chessington North" t="railway" st="station"/>
+<node id="3655237096" lat="51.4258343" lon="-0.1315885"  n="Streatham" t="railway" st="station"/>
+<node id="3660442171" lat="51.5077518" lon="-0.124256"  n="London Charing Cross" t="railway" st="station"/>
+<node id="3660442172" lat="51.5079664" lon="-0.1263945"  n="Charing Cross" t="railway" st="station"/>
+<node id="3660623412" lat="51.4940431" lon="-0.0987169"  n="Elephant &#38; Castle" t="railway" st="station"/>
+<node id="3660623413" lat="51.4953131" lon="-0.100509"  n="Elephant and Castle" t="railway" st="station"/>
+<node id="3660630383" lat="51.4681838" lon="-0.208822"  n="Putney Bridge" t="railway" st="station"/>
+<node id="3661349170" lat="51.3596769" lon="-0.1908861"  n="Sutton" t="railway" st="station"/>
+<node id="3662847634" lat="51.5318912" lon="-0.1268506"  n="St Pancras International" t="railway" st="station"/>
+<node id="3663368460" lat="51.528808" lon="-0.1342549"  n="London Euston" t="railway" st="station"/>
+<node id="3663368461" lat="51.5282865" lon="-0.1338745"  n="Euston" t="railway" st="station"/>
+<node id="3669772932" lat="51.5555244" lon="-0.1515196"  n="Gospel Oak" t="railway" st="station"/>
+<node id="3671417635" lat="51.4669317" lon="-0.2419797"  n="Barnes" t="railway" st="station"/>
+<node id="3683559902" lat="51.4145582" lon="-0.3123501"  n="Hampton Wick" t="railway" st="station"/>
+<node id="3691424209" lat="51.3556609" lon="-0.2145128"  n="Cheam" t="railway" st="station"/>
+<node id="3693265703" lat="51.5171149" lon="-0.1200657"  n="Holborn" t="railway" st="station"/>
+<node id="3729401291" lat="51.51125" lon="-0.0569241"  n="Shadwell" t="railway" st="station"/>
+<node id="3729401293" lat="51.5117257" lon="-0.0558781"  n="Shadwell" t="railway" st="station"/>
+<node id="3735044726" lat="51.4099313" lon="-0.2146269"  n="Wimbledon Chase" t="railway" st="station"/>
+<node id="3737726469" lat="51.4653247" lon="-0.2865821"  n="North Sheen" t="railway" st="station"/>
+<node id="3748134854" lat="51.4344508" lon="-0.1994485"  n="Wimbledon Park" t="railway" st="station"/>
+<node id="3749079080" lat="51.4941293" lon="-0.2357932"  n="Ravenscourt Park" t="railway" st="station"/>
+<node id="3749092470" lat="51.4122896" lon="-0.284115"  n="Norbiton" t="railway" st="station"/>
+<node id="3749159483" lat="51.4753033" lon="-0.1831109"  n="Imperial Wharf" t="railway" st="station"/>
+<node id="3749218586" lat="51.31903" lon="-0.1541299"  n="Woodmansterne" t="railway" st="station"/>
+<node id="3749254091" lat="51.4424033" lon="-0.1876937"  n="Earlsfield" t="railway" st="station"/>
+<node id="3752975773" lat="51.4198285" lon="-0.1611959"  n="Tooting" t="railway" st="station"/>
+<node id="3752975780" lat="51.4254053" lon="-0.1888656"  n="Haydons Road" t="railway" st="station"/>
+<node id="3757075887" lat="51.4461242" lon="-0.1635168"  n="Wandsworth Common" t="railway" st="station"/>
+<node id="3763522921" lat="51.5115854" lon="-0.1037671"  n="Blackfriars" t="railway" st="station"/>
+<node id="3768010552" lat="51.4947328" lon="-0.1445802"  n="London Victoria" t="railway" st="station"/>
+<node id="3773122118" lat="51.4988343" lon="-0.1123736"  n="Lambeth North" t="railway" st="station"/>
+<node id="3788735981" lat="51.5142477" lon="-0.0757186"  n="Aldgate" t="railway" st="station"/>
+<node id="3803245041" lat="51.5824738" lon="-0.0749325"  n="Seven Sisters" t="railway" st="station"/>
+<node id="3806727275" lat="51.4709832" lon="-0.4859786"  n="T5A" t="railway" st="station"/>
+<node id="3806727277" lat="51.4709928" lon="-0.481332"  n="T5B" t="railway" st="halt"/>
+<node id="3806727279" lat="51.470982" lon="-0.476074"  n="T5C" t="railway" st="station"/>
+<node id="3808897466" lat="51.445142" lon="-0.2065451"  n="Southfields" t="railway" st="station"/>
+<node id="3817850257" lat="51.4860091" lon="-0.1248604"  n="Vauxhall" t="railway" st="station"/>
+<node id="3817850260" lat="51.4857785" lon="-0.1233458"  n="Vauxhall" t="railway" st="subway_entrance"/>
+<node id="3817927775" lat="51.4215594" lon="-0.205084"  n="Wimbledon" t="railway" st="tram_stop"/>
+<node id="3825936573" lat="51.3736037" lon="0.0887195"  n="Orpington" t="railway" st="station"/>
+<node id="3831844357" lat="51.4534691" lon="-0.1022835"  n="Herne Hill" t="railway" st="station"/>
+<node id="3834755768" lat="51.547057" lon="-0.0570079"  n="Hackney Central" t="railway" st="station"/>
+<node id="3836828556" lat="51.4520673" lon="-0.3773088"  n="Feltham Junction" t="railway" st="junction"/>
+<node id="3836828557" lat="51.4510126" lon="-0.3688089"  n="Whitton Junction" t="railway" st="junction"/>
+<node id="3875853157" lat="51.4403328" lon="0.1478675"  n="Bexley" t="railway" st="station"/>
+<node id="3894369334" lat="51.5509491" lon="-0.2045877"  n="Near railway bridge" t="railway" st="Near railway bridge"/>
+<node id="3909808792" lat="51.5934931" lon="0.2347093"  n="Harold Wood" t="railway" st="stop"/>
+<node id="3941256583" lat="51.4428285" lon="-0.1514426"  n="Balham" t="railway" st="station"/>
+<node id="3942249071" lat="51.4680321" lon="-0.2668873"  n="Mortlake" t="railway" st="station"/>
+<node id="3956577242" lat="51.5009692" lon="-0.3071459"  n="South Ealing" t="railway" st="station"/>
+<node id="3959650479" lat="51.523109" lon="-0.1839756"  n="Warwick Avenue" t="railway" st="subway_entrance"/>
+<node id="4080053817" lat="51.5519993" lon="-0.1146654"  n="Holloway South Junction" t="railway" st="junction"/>
+<node id="4082891608" lat="51.4017648" lon="-0.0625081"  n="Birkbeck Junction" t="railway" st="junction"/>
+<node id="4100833163" lat="51.512998" lon="-0.124129"  n="Covent Garden" t="railway" st="subway_entrance"/>
+<node id="4272748889" lat="51.5246655" lon="-0.1396222"  n="Warren Street" t="railway" st="stop"/>
+<node id="4274551641" lat="51.5028814" lon="-0.1120901"  n="Waterloo" t="railway" st="subway_entrance"/>
+<node id="4274551706" lat="51.5033479" lon="-0.1134842"  n="Waterloo" t="railway" st="subway_entrance"/>
+<node id="4275242334" lat="51.5033345" lon="-0.1116944"  n="Waterloo" t="railway" st="subway_entrance"/>

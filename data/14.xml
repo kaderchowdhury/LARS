@@ -1,0 +1,1511 @@
+<node id="459180067" lat="52.4433899" lon="-1.9362153"  n="King &#38; Co" t="office" st="estate_agent"/>
+<node id="459279742" lat="52.4390686" lon="-1.9397602"  n="Roadangels" t="office" st="accident_management"/>
+<node id="459279744" lat="52.4391222" lon="-1.9397695"  n="Halifax" t="office" st="estate_agent"/>
+<node id="459279746" lat="52.4391891" lon="-1.9397857"  n="Brevitts" t="office" st="lawyer"/>
+<node id="459821384" lat="52.4455838" lon="-1.9332799"  n="K.B. Roman Lettings and Sales" t="office" st="estate_agent"/>
+<node id="466451537" lat="52.446205" lon="-1.9321398"  n="Britannia Property Services" t="office" st="estate_agent"/>
+<node id="466451538" lat="52.446264" lon="-1.9319443"  n="Property Solutions" t="office" st="estate_agent"/>
+<node id="466451559" lat="52.4460624" lon="-1.9327161"  n="Direct Housing" t="office" st="estate_agent"/>
+<node id="466451565" lat="52.4460414" lon="-1.9328015"  n="Easy Lettings" t="office" st="estate_agent"/>
+<node id="497304294" lat="52.4172272" lon="-1.9347797"  n="R.T. Law Solicitors" t="office" st="lawyer"/>
+<node id="523385122" lat="52.446282" lon="-1.9310142"  n="Broad Court" t="office" st="estate_agent"/>
+<node id="564725617" lat="52.4368627" lon="-1.9290929"  n="S. Pabari &#38; Co." t="office" st="accountant"/>
+<node id="564725626" lat="52.4372156" lon="-1.9291749"  n="John Wilson &#38; Co." t="office" st="property_layers"/>
+<node id="631160585" lat="52.4083334" lon="-1.928044"  n="S. Gascoigne &#38; Sons Ltd" t="office" st="funeral_directors"/>
+<node id="772781299" lat="52.3982078" lon="-1.8036345"  n="Biosite Systems" t="office" st="company"/>
+<node id="897232440" lat="52.472562" lon="-1.9038764"  n="First House" t="office" st="company"/>
+<node id="897232450" lat="52.472824" lon="-1.9039506"  n="Cartel Communications" t="office" st="it"/>
+<node id="899424519" lat="52.4045049" lon="-1.8855269"  n="NHS Hall Green &#38; Selly Oak Locality Office" t="office" st="NHS"/>
+<node id="901470332" lat="52.4565058" lon="-1.890759"  n="Rise 4 Ltd" t="office" st="company"/>
+<node id="901470747" lat="52.4560449" lon="-1.8909618"  n="B K Solicitors" t="office" st="solicitor"/>
+<node id="901470775" lat="52.4564123" lon="-1.8907973"  n="Moughal &#38; Co" t="office" st="accountant"/>
+<node id="914403960" lat="52.4759814" lon="-1.8704887"  n="Education Welfare Service Central" t="office" st="local_government"/>
+<node id="955996355" lat="52.4793722" lon="-1.8960981"  n="City Centre House" t="office" st="yes"/>
+<node id="956026772" lat="52.4818183" lon="-1.8978612"  n="Hays Recruiting" t="office" st="employment_agency"/>
+<node id="959464477" lat="52.5452661" lon="-1.9320215"  n="Swinton" t="office" st="insurance"/>
+<node id="963085021" lat="52.5416838" lon="-1.8848441"  n="Swinton" t="office" st="insurance"/>
+<node id="965843323" lat="52.4979515" lon="-1.8801171"  n="NHS Perinatal Institute" t="office" st="research"/>
+<node id="965843324" lat="52.4976476" lon="-1.8804385"  n="Birmingham Licensing" t="office" st="government"/>
+<node id="965992664" lat="52.4838198" lon="-1.894984"  n="Novate" t="office" st="lawyer"/>
+<node id="973489955" lat="52.4574501" lon="-1.8906367"  n="British Yemeni Foundation" t="office" st="ngo"/>
+<node id="975847492" lat="52.4796198" lon="-1.9001255"  n="Brook Street" t="office" st="recruitment_agency"/>
+<node id="1039775018" lat="52.4804716" lon="-1.9004493"  n="Consulate of Ireland" t="office" st="yes"/>
+<node id="1131070246" lat="52.4841567" lon="-1.9047213"  n="NASUWT" t="office" st="yes"/>
+<node id="1216272660" lat="52.5536279" lon="-1.8837593"  n="Roskell Davies" t="office" st="solicitor"/>
+<node id="1216272707" lat="52.5534566" lon="-1.8835662"  n="O&#39;Mahoney &#38; Company" t="office" st="solicitor"/>
+<node id="1216272935" lat="52.553804" lon="-1.883696"  n="Roskell Davies" t="office" st="solicitor"/>
+<node id="1272977496" lat="52.4794525" lon="-1.9008416"  n="Blue Arrow" t="office" st="employment_agency"/>
+<node id="1272977501" lat="52.4795113" lon="-1.9016851"  n="Adecco" t="office" st="employment_agency"/>
+<node id="1272977550" lat="52.4795022" lon="-1.9015183"  n="Office Angels" t="office" st="employment_agency"/>
+<node id="1319239186" lat="52.4730077" lon="-1.9564405"  n="Simon Horn" t="office" st="estate_agent"/>
+<node id="1332813005" lat="52.5844674" lon="-2.1299783"  n="Rogers &#38; Co." t="office" st="lawyer"/>
+<node id="1353612443" lat="52.4580387" lon="-1.9554913"  n="Pertemps" t="office" st="employment_agency"/>
+<node id="1483428029" lat="52.5221097" lon="-1.8691402"  n="Interserve Construction" t="office" st="company"/>
+<node id="1550492492" lat="52.452773" lon="-1.8523348"  n="WEST" t="office" st="company"/>
+<node id="1778946932" lat="52.5095917" lon="-1.8117406"  n="WinMan ERP Software" t="office" st="it"/>
+<node id="2122560935" lat="52.4620177" lon="-2.0108924"  n="Forster &#38; Wheeler" t="office" st="lawyer"/>
+<node id="2142523516" lat="52.5457968" lon="-1.9345628"  n="Active Property Agents" t="office" st="estate_agent"/>
+<node id="2142529043" lat="52.5468497" lon="-1.9347103"  n="Goodchilds Estate Agents" t="office" st="estate_agent"/>
+<node id="2142605696" lat="52.5349355" lon="-1.9195666"  n="The Co-operative Travel" t="office" st="travel_agent"/>
+<node id="2142618146" lat="52.5317291" lon="-1.9294109"  n="Landscape Property Agents" t="office" st="estate_agent"/>
+<node id="2143713464" lat="52.5404605" lon="-2.1210839"  n="Wakeman Estate Agents" t="office" st="estate_agent"/>
+<node id="2143728400" lat="52.5407439" lon="-2.1214249"  n="Skitts Estate Agents" t="office" st="estate_agent"/>
+<node id="2143757926" lat="52.5423211" lon="-2.1215936"  n="Swinscoe&#39;s Estate Agents" t="office" st="estate_agent"/>
+<node id="2143798089" lat="52.5421289" lon="-2.1219024"  n="JJD Property Rentals" t="office" st="estate_agent"/>
+<node id="2143804023" lat="52.5417243" lon="-2.1223342"  n="Roden Boydell Estate Agents" t="office" st="estate_agent"/>
+<node id="2143855630" lat="52.5409486" lon="-2.122011"  n="Taylors Estate Agents" t="office" st="estate_agent"/>
+<node id="2144028090" lat="52.4620252" lon="-2.0113382"  n="Scriven &#38; Co Estate Agents" t="office" st="estate_agent"/>
+<node id="2144144827" lat="52.463292" lon="-1.9986146"  n="St James Estate Agents" t="office" st="estate_agent"/>
+<node id="2144153763" lat="52.4633451" lon="-1.9973338"  n="Your Move" t="office" st="estate_agent"/>
+<node id="2144164533" lat="52.4633974" lon="-1.9971488"  n="Bairstow Eves" t="office" st="estate_agent"/>
+<node id="2144172768" lat="52.4638664" lon="-1.9954536"  n="Swinton Insurance" t="office" st="insurance"/>
+<node id="2513511317" lat="52.3794545" lon="-1.5603225"  n="Warwick RAG" t="office" st="ngo"/>
+<node id="2517583454" lat="52.47888" lon="-1.8991504"  n="Burlington Court" t="office" st="yes"/>
+<node id="2519250873" lat="52.481493" lon="-1.8960992"  n="HRS Solicitors" t="office" st="lawyer"/>
+<node id="2519250879" lat="52.4798519" lon="-1.8991396"  n="Irwin Mitchell Solicitors" t="office" st="lawyer"/>
+<node id="2519250902" lat="52.4806505" lon="-1.8978582"  n="CBRE" t="office" st="company"/>
+<node id="2519250932" lat="52.4800796" lon="-1.8990729"  n="Shakespeare&#39;s" t="office" st="lawyer"/>
+<node id="2519320996" lat="52.4803706" lon="-1.8956533"  n="One Martineau Place" t="office" st="yes"/>
+<node id="2523807496" lat="52.4830644" lon="-1.8928501"  n="Citadel Chambers" t="office" st="lawyer"/>
+<node id="2523807498" lat="52.4812317" lon="-1.8931871"  n="DSA Theory Test Centre" t="office" st="government"/>
+<node id="2523807501" lat="52.4819715" lon="-1.8954047"  n="Genesis Law Associates" t="office" st="lawyer"/>
+<node id="2523807502" lat="52.4832123" lon="-1.8927737"  n="John Morgan Solicitors" t="office" st="lawyer"/>
+<node id="2523807511" lat="52.4834465" lon="-1.8929027"  n="Purcell Parker" t="office" st="lawyer"/>
+<node id="2523807517" lat="52.4819209" lon="-1.8955283"  n="Stewart Oliver" t="office" st="estate_agent"/>
+<node id="2523807519" lat="52.4837355" lon="-1.8927113"  n="Tockets" t="office" st="lawyer"/>
+<node id="2525941016" lat="52.4387447" lon="-1.969135"  n="Quality Solicitors Davisons" t="office" st="lawyer"/>
+<node id="2526028741" lat="52.4821547" lon="-1.9011982"  n="Anthony Collins" t="office" st="lawyer"/>
+<node id="2526028744" lat="52.4805152" lon="-1.9000408"  n="Bargain Pages" t="office" st="classified_ads"/>
+<node id="2526028751" lat="52.4806011" lon="-1.9011927"  n="CP Bigwood" t="office" st="estate_agent"/>
+<node id="2526028752" lat="52.4818516" lon="-1.9024426"  n="Capsticks" t="office" st="lawyer"/>
+<node id="2526028754" lat="52.4807186" lon="-1.9009715"  n="Centrick Property" t="office" st="estate_agent"/>
+<node id="2526028758" lat="52.4822577" lon="-1.9010196"  n="Clarke Willmott" t="office" st="lawyer"/>
+<node id="2526028760" lat="52.478803" lon="-1.9043976"  n="Davies and Partners" t="office" st="lawyer"/>
+<node id="2526028762" lat="52.4805641" lon="-1.9013142"  n="Duncan Lewis" t="office" st="lawyer"/>
+<node id="2526028764" lat="52.4806155" lon="-1.9018515"  n="Eversheds" t="office" st="lawyer"/>
+<node id="2526028765" lat="52.4804821" lon="-1.9002079"  n="Extra Personnel" t="office" st="employment_agency"/>
+<node id="2526028766" lat="52.4810569" lon="-1.9009238"  n="Fawcett &#38; Pattni" t="office" st="lawyer"/>
+<node id="2526028767" lat="52.4811132" lon="-1.9007484"  n="Fleetmilne Property" t="office" st="estate_agent"/>
+<node id="2526028769" lat="52.4819087" lon="-1.9030703"  n="Grove Tompkins Bosworth" t="office" st="lawyer"/>
+<node id="2526028775" lat="52.4834818" lon="-1.8982544"  n="KPMG" t="office" st="consulting"/>
+<node id="2526028776" lat="52.4804174" lon="-1.9003359"  n="Kallkwik" t="office" st="communications"/>
+<node id="2526028777" lat="52.4805363" lon="-1.9008023"  n="LM Recruitment" t="office" st="estate_agent"/>
+<node id="2526028781" lat="52.4836739" lon="-1.895316"  n="No 5 Chambers" t="office" st="lawyer"/>
+<node id="2526028785" lat="52.4796069" lon="-1.9004223"  n="Pertemps" t="office" st="employment_agency"/>
+<node id="2526028787" lat="52.4812437" lon="-1.9012639"  n="Prime Time" t="office" st="employment_agency"/>
+<node id="2526028789" lat="52.4839531" lon="-1.9009238"  n="Randstad" t="office" st="employment_agency"/>
+<node id="2526028790" lat="52.4827579" lon="-1.8995222"  n="Reed" t="office" st="employment_agency"/>
+<node id="2526028791" lat="52.4799385" lon="-1.9012355"  n="Smart Recruitment" t="office" st="employment_agency"/>
+<node id="2526028801" lat="52.4827495" lon="-1.9008246"  n="The Wilkes Partnership solicitors" t="office" st="lawyer"/>
+<node id="2526028806" lat="52.4788529" lon="-1.9042308"  n="Wolf&#39;s" t="office" st="estate_agent"/>
+<node id="2535769653" lat="52.4765176" lon="-1.9019096"  n="Accord Lets" t="office" st="estate_agent"/>
+<node id="2535769654" lat="52.477225" lon="-1.9015853"  n="Asset Residential" t="office" st="estate_agent"/>
+<node id="2556578519" lat="52.4749506" lon="-1.895762"  n="Ian Henery" t="office" st="lawyer"/>
+<node id="2556578521" lat="52.475098" lon="-1.8958967"  n="Innervation Telecommunications" t="office" st="it"/>
+<node id="2556578531" lat="52.472841" lon="-1.899228"  n="Marcus &#38; Company" t="office" st="accountant"/>
+<node id="2556578536" lat="52.473391" lon="-1.8990937"  n="Mushtaq &#38; Co" t="office" st="lawyer"/>
+<node id="2556578545" lat="52.4729384" lon="-1.8976252"  n="Northwood UK" t="office" st="estate_agent"/>
+<node id="2556578552" lat="52.4727241" lon="-1.8992429"  n="Print &#38; Promotions" t="office" st="communications"/>
+<node id="2556578553" lat="52.4743317" lon="-1.899239"  n="RSCW" t="office" st="accountant"/>
+<node id="2556578566" lat="52.4749864" lon="-1.8957765"  n="Tsang &#38; Co" t="office" st="accountant"/>
+<node id="2556578579" lat="52.4738354" lon="-1.8960735"  n="York Laurent" t="office" st="estate_agent"/>
+<node id="2587329554" lat="52.475128" lon="-1.905319"  n="Centrick Property" t="office" st="estate_agent"/>
+<node id="2587329560" lat="52.4748593" lon="-1.906808"  n="IBI Group" t="office" st="construction"/>
+<node id="2587329561" lat="52.4734918" lon="-1.9046202"  n="Intercity" t="office" st="telecommunication"/>
+<node id="2587329570" lat="52.474344" lon="-1.9046224"  n="Radone Interiors" t="office" st="construction"/>
+<node id="2587329572" lat="52.473464" lon="-1.9046944"  n="Samsung Customer Centre" t="office" st="electronics"/>
+<node id="2587329580" lat="52.4758254" lon="-1.9042173"  n="Viva Aspire" t="office" st="communication"/>
+<node id="2590963423" lat="52.4756871" lon="-1.9075591"  n="Maguire Jackson" t="office" st="estate_agent"/>
+<node id="2590963424" lat="52.4768307" lon="-1.9093829"  n="Residential Lettings Group" t="office" st="estate_agent"/>
+<node id="2605488382" lat="52.4770249" lon="-1.9129264"  n="Free Radio" t="office" st="radio"/>
+<node id="2605488383" lat="52.4778596" lon="-1.9141544"  n="Places" t="office" st="estate_agent"/>
+<node id="2636547690" lat="52.4836065" lon="-1.8982962"  n="DWF" t="office" st="lawyer"/>
+<node id="2637914242" lat="52.4786952" lon="-1.9019469"  n="Browne Jacobson" t="office" st="lawyer"/>
+<node id="2637914243" lat="52.479223" lon="-1.9025933"  n="DLA Piper" t="office" st="lawyer"/>
+<node id="2638020178" lat="52.4832516" lon="-1.8969893"  n="Pinsent Masons" t="office" st="lawyer"/>
+<node id="2642258377" lat="52.4814813" lon="-1.9140026"  n="PDT" t="office" st="communication"/>
+<node id="2642258382" lat="52.4808457" lon="-1.9142096"  n="TalkTalk" t="office" st="it"/>
+<node id="2642258395" lat="52.4817338" lon="-1.9142155"  n="Westfield" t="office" st="communication"/>
+<node id="2642258399" lat="52.4808348" lon="-1.9142353"  n="Worldwide" t="office" st="estate_agent"/>
+<node id="2642605206" lat="52.4753172" lon="-1.9146232"  n="Atlas Cars" t="office" st="taxi"/>
+<node id="2642605211" lat="52.4784954" lon="-1.917296"  n="Blue Horizon" t="office" st="communication"/>
+<node id="2642605233" lat="52.4750209" lon="-1.9152108"  n="Ferdinand Kelly" t="office" st="lawyer"/>
+<node id="2642605262" lat="52.4780929" lon="-1.9169051"  n="Maguire Jackson" t="office" st="estate_agent"/>
+<node id="2642605267" lat="52.4752632" lon="-1.9147576"  n="PHC Solutions" t="office" st="healthcare"/>
+<node id="2642605268" lat="52.4752752" lon="-1.9147167"  n="Peopleserve" t="office" st="yes"/>
+<node id="2642605269" lat="52.4751914" lon="-1.9148724"  n="Personal Trainer Academy" t="office" st="training"/>
+<node id="2642605272" lat="52.4811825" lon="-1.9135611"  n="Services for Education" t="office" st="education"/>
+<node id="2642605273" lat="52.4812852" lon="-1.9133924"  n="Talk Modular Building" t="office" st="construction"/>
+<node id="2642605274" lat="52.4753251" lon="-1.9146364"  n="Telephonebook.co.uk" t="office" st="phonebook"/>
+<node id="2642605277" lat="52.4812054" lon="-1.9134897"  n="The OR Society" t="office" st="learned_society"/>
+<node id="2642605280" lat="52.4751454" lon="-1.9149871"  n="Younis Bhatti &#38; Co Ltd." t="office" st="accountant"/>
+<node id="2644108673" lat="52.4804578" lon="-1.8986396"  n="Berrymans Lace Mawer" t="office" st="lawyer"/>
+<node id="2671404225" lat="52.3711076" lon="-1.7991726"  n="ULM.COM Ltd" t="office" st="company"/>
+<node id="2723627736" lat="52.3730772" lon="-1.7532654"  n="Dixons Lettings" t="office" st="estate_agent"/>
+<node id="2755554623" lat="52.4042485" lon="-1.4885078"  n="Handytrician" t="office" st="company"/>
+<node id="2782012373" lat="52.4462557" lon="-1.9319816"  n="Brampton Green" t="office" st="estate_agent"/>
+<node id="2782012388" lat="52.4457543" lon="-1.9328095"  n="Clearline" t="office" st="accountant"/>
+<node id="2782012424" lat="52.4457824" lon="-1.9327265"  n="House Hunt" t="office" st="estate_agent"/>
+<node id="2782012442" lat="52.4401564" lon="-1.9388113"  n="Robert Bradley &#38; Co" t="office" st="estate_agent"/>
+<node id="2782012447" lat="52.4393977" lon="-1.9396247"  n="Staffordshire &#38; West-Midlands Probation Care" t="office" st="government"/>
+<node id="2782012454" lat="52.4455392" lon="-1.934002"  n="Unihousing.co" t="office" st="estate_agent"/>
+<node id="2821889895" lat="52.486308" lon="-1.9051918"  n="Back Office" t="office" st="company"/>
+<node id="2821889896" lat="52.4841227" lon="-1.9063717"  n="Baily Garner" t="office" st="company"/>
+<node id="2821889897" lat="52.4863695" lon="-1.9051305"  n="Capex Finance" t="office" st="finance"/>
+<node id="2821889899" lat="52.4858125" lon="-1.9062924"  n="Crawford" t="office" st="company"/>
+<node id="2821889900" lat="52.485117" lon="-1.903081"  n="Creative Support" t="office" st="company"/>
+<node id="2821895903" lat="52.484747" lon="-1.9046174"  n="Grafton Gate" t="office" st="company"/>
+<node id="2821895904" lat="52.4846495" lon="-1.9049693"  n="Halligan Associates" t="office" st="company"/>
+<node id="2821895907" lat="52.4837957" lon="-1.9037059"  n="LMM" t="office" st="company"/>
+<node id="2821895909" lat="52.4846016" lon="-1.9048927"  n="Ludgate Finance" t="office" st="finance"/>
+<node id="2821895910" lat="52.4841414" lon="-1.9063483"  n="MLM" t="office" st="company"/>
+<node id="2821895911" lat="52.4846679" lon="-1.9050016"  n="Measured View" t="office" st="company"/>
+<node id="2821895913" lat="52.4844029" lon="-1.9059604"  n="Pearson Rowe" t="office" st="lawyer"/>
+<node id="2821895914" lat="52.484629" lon="-1.9049285"  n="Pointon Young" t="office" st="company"/>
+<node id="2821895915" lat="52.4845896" lon="-1.9048667"  n="Poppleton &#38; Appleby" t="office" st="accountant"/>
+<node id="2821895917" lat="52.4858553" lon="-1.906231"  n="Temp Staff" t="office" st="employment_agency"/>
+<node id="2821895919" lat="52.484706" lon="-1.9045303"  n="iSphere" t="office" st="company"/>
+<node id="2860414434" lat="52.4718478" lon="-1.8954376"  n="ABplus" t="office" st="company"/>
+<node id="2860414437" lat="52.4715379" lon="-1.8955325"  n="Amass FInancial" t="office" st="financial"/>
+<node id="2860414438" lat="52.4717803" lon="-1.8953591"  n="Arrow Marking Llp" t="office" st="company"/>
+<node id="2860414439" lat="52.4716172" lon="-1.8951725"  n="BC Sports" t="office" st="company"/>
+<node id="2860414441" lat="52.4718191" lon="-1.8993924"  n="CRM Students" t="office" st="estate_agent"/>
+<node id="2860414443" lat="52.473646" lon="-1.8944872"  n="Change Kitchen" t="office" st="catering"/>
+<node id="2860414445" lat="52.4716963" lon="-1.8952672"  n="Colop" t="office" st="company"/>
+<node id="2860414448" lat="52.4714931" lon="-1.8956582"  n="Gasket Division" t="office" st="company"/>
+<node id="2860414453" lat="52.4720087" lon="-1.8960232"  n="Li &#38; Hiew Accountants" t="office" st="accountant"/>
+<node id="2860414454" lat="52.4720442" lon="-1.8960692"  n="Lin &#38; Co Sollicitors" t="office" st="lawyer"/>
+<node id="2860414455" lat="52.4715248" lon="-1.8955785"  n="Lynn Charter Accountants" t="office" st="accountant"/>
+<node id="2860414458" lat="52.471958" lon="-1.8959462"  n="Order Express" t="office" st="company"/>
+<node id="2860414459" lat="52.4715099" lon="-1.8956122"  n="Pauline Wing Accountants" t="office" st="accountant"/>
+<node id="2860414460" lat="52.4717878" lon="-1.8969494"  n="Peters Library Service" t="office" st="company"/>
+<node id="2860414462" lat="52.4721879" lon="-1.8962102"  n="Signs" t="office" st="company"/>
+<node id="2860414464" lat="52.4711863" lon="-1.8994209"  n="Syeds" t="office" st="lawyer"/>
+<node id="2860414465" lat="52.4714798" lon="-1.8966644"  n="Targeted Transport Academy" t="office" st="company"/>
+<node id="2876969279" lat="52.4696804" lon="-1.8933901"  n="A. Rashid &#38; Associates" t="office" st="accountant"/>
+<node id="2876969281" lat="52.4696141" lon="-1.893452"  n="Blue Apple Products" t="office" st="it"/>
+<node id="2876969282" lat="52.4676964" lon="-1.8925903"  n="CLC" t="office" st="company"/>
+<node id="2876969284" lat="52.4703604" lon="-1.8934354"  n="Cre8 Security" t="office" st="security"/>
+<node id="2876969291" lat="52.4685632" lon="-1.894163"  n="M. Hasnain &#38; Co Accountants" t="office" st="accountant"/>
+<node id="2876969293" lat="52.4680683" lon="-1.8918638"  n="Midland Accountants" t="office" st="accountant"/>
+<node id="2876969295" lat="52.4683708" lon="-1.8941575"  n="NHC Finance" t="office" st="finance"/>
+<node id="2876969299" lat="52.4676276" lon="-1.8927304"  n="S Business Centre Ltd" t="office" st="company"/>
+<node id="2876970101" lat="52.4703345" lon="-1.8935676"  n="Spice Nation" t="office" st="catering"/>
+<node id="2915316617" lat="52.4719943" lon="-1.8857115"  n="Ammo &#38; Company Ltd" t="office" st="company"/>
+<node id="2915316619" lat="52.470493" lon="-1.8873448"  n="Azars &#38; Company" t="office" st="accountant"/>
+<node id="2915316621" lat="52.4709154" lon="-1.885368"  n="Brindley" t="office" st="company"/>
+<node id="2915316625" lat="52.4708064" lon="-1.8854541"  n="Charles Caine" t="office" st="company"/>
+<node id="2915316628" lat="52.4706" lon="-1.8872543"  n="Clark &#38; Deen LLP" t="office" st="lawyer"/>
+<node id="2915316631" lat="52.4747645" lon="-1.8892103"  n="DBK" t="office" st="company"/>
+<node id="2915316633" lat="52.4720101" lon="-1.8857566"  n="Dalman &#38; Narborough Ltd" t="office" st="company"/>
+<node id="2915316637" lat="52.474774" lon="-1.8892415"  n="Glenn Howells Architects" t="office" st="architect"/>
+<node id="2915316639" lat="52.4752942" lon="-1.8879048"  n="ICAP" t="office" st="company"/>
+<node id="2915316640" lat="52.4765402" lon="-1.892299"  n="Inogroup" t="office" st="company"/>
+<node id="2915316641" lat="52.4745046" lon="-1.8892712"  n="Interiors Nicholas Hollinshead" t="office" st="company"/>
+<node id="2915316642" lat="52.4705956" lon="-1.8856045"  n="Jaspers" t="office" st="company"/>
+<node id="2915316643" lat="52.4731449" lon="-1.8886966"  n="MFP" t="office" st="company"/>
+<node id="2915316644" lat="52.4752574" lon="-1.887882"  n="Midland Lettings &#38; Sales" t="office" st="estate_agent"/>
+<node id="2915316645" lat="52.4738784" lon="-1.8876008"  n="NATFHE" t="office" st="trade_union"/>
+<node id="2915316646" lat="52.4748091" lon="-1.8893715"  n="Nest" t="office" st="company"/>
+<node id="2919548070" lat="52.4706656" lon="-1.883852"  n="Boxfast Cartons" t="office" st="company"/>
+<node id="2919548071" lat="52.4720605" lon="-1.8827327"  n="Connells" t="office" st="estate_agent"/>
+<node id="2919548072" lat="52.4715397" lon="-1.8813447"  n="Fountain of Knowledge Islamic Centre" t="office" st="charity"/>
+<node id="2919548074" lat="52.4710773" lon="-1.8815323"  n="ISE" t="office" st="company"/>
+<node id="2919548077" lat="52.4706362" lon="-1.8837099"  n="Mz Rags" t="office" st="company"/>
+<node id="2919548078" lat="52.4715332" lon="-1.881317"  n="One Community Organisation" t="office" st="charity"/>
+<node id="2922672067" lat="52.4695027" lon="-1.8794448"  n="Complete" t="office" st="company"/>
+<node id="2922672075" lat="52.4695449" lon="-1.8793555"  n="Ricoh" t="office" st="company"/>
+<node id="2922672077" lat="52.4729309" lon="-1.8793342"  n="Taaks" t="office" st="company"/>
+<node id="2922672078" lat="52.4754441" lon="-1.8872053"  n="The Residential Lettings Group" t="office" st="estate_agent"/>
+<node id="2922672079" lat="52.4769857" lon="-1.8873708"  n="The Sign Factory" t="office" st="company"/>
+<node id="2922672081" lat="52.4762315" lon="-1.8891699"  n="Women&#39;s Enterprise Hub" t="office" st="company"/>
+<node id="2928517059" lat="52.4768834" lon="-1.8842771"  n="Astons Catering Equipment" t="office" st="company"/>
+<node id="2928517061" lat="52.4767763" lon="-1.8819269"  n="Cheap Taxi Repair Centre" t="office" st="company"/>
+<node id="2928517075" lat="52.4767567" lon="-1.8819482"  n="Unique Accident Solutions Ltd" t="office" st="company"/>
+<node id="2928586156" lat="52.4813122" lon="-1.9133843"  n="TMB" t="office" st="company"/>
+<node id="2942601740" lat="52.4832167" lon="-1.9098351"  n="Aspect Law" t="office" st="lawyer"/>
+<node id="2942601741" lat="52.4815885" lon="-1.9073411"  n="CP Bigwood" t="office" st="company"/>
+<node id="2942601743" lat="52.4842543" lon="-1.908083"  n="Claremont" t="office" st="estate_agent"/>
+<node id="2942601744" lat="52.4819148" lon="-1.904558"  n="Connells" t="office" st="estate_agent"/>
+<node id="2942601745" lat="52.485518" lon="-1.913928"  n="Edsential Packaging" t="office" st="company"/>
+<node id="2942601746" lat="52.4821177" lon="-1.9042758"  n="Fastsigns" t="office" st="company"/>
+<node id="2942601747" lat="52.4821665" lon="-1.9075418"  n="Fleet Street Consulting" t="office" st="company"/>
+<node id="2942601748" lat="52.4828099" lon="-1.9063199"  n="Grin." t="office" st="company"/>
+<node id="2942601750" lat="52.482202" lon="-1.9041217"  n="Ink Tree" t="office" st="company"/>
+<node id="2942601751" lat="52.4854756" lon="-1.9150527"  n="JDD" t="office" st="company"/>
+<node id="2942601752" lat="52.4855627" lon="-1.9151332"  n="Kynoch Lewis" t="office" st="company"/>
+<node id="2942601753" lat="52.4821558" lon="-1.9075262"  n="LHM" t="office" st="company"/>
+<node id="2942601754" lat="52.483774" lon="-1.9091101"  n="Monteith Scott" t="office" st="company"/>
+<node id="2942601755" lat="52.4825622" lon="-1.9055149"  n="OLO Accomodation" t="office" st="company"/>
+<node id="2942601756" lat="52.483635" lon="-1.9093254"  n="Octahedron" t="office" st="company"/>
+<node id="2942601757" lat="52.483253" lon="-1.9097934"  n="Pearson Whitfield" t="office" st="company"/>
+<node id="2942601759" lat="52.4845819" lon="-1.9083674"  n="Rudge &#38; Co Sollicitors" t="office" st="company"/>
+<node id="2942601760" lat="52.4855103" lon="-1.9139533"  n="Simply Packaging" t="office" st="company"/>
+<node id="2942601761" lat="52.4853986" lon="-1.9149426"  n="Sitec" t="office" st="company"/>
+<node id="2942601762" lat="52.4837608" lon="-1.909123"  n="Slinky" t="office" st="company"/>
+<node id="2942601763" lat="52.4821621" lon="-1.9075334"  n="Social Media Partnership" t="office" st="company"/>
+<node id="2942601764" lat="52.4845781" lon="-1.9083607"  n="Suanetta" t="office" st="company"/>
+<node id="2942601766" lat="52.4845682" lon="-1.9083432"  n="The Green House" t="office" st="company"/>
+<node id="2942601767" lat="52.4845846" lon="-1.9083722"  n="Wastecollection.com" t="office" st="company"/>
+<node id="2942601768" lat="52.4845709" lon="-1.9083478"  n="iFXCM" t="office" st="company"/>
+<node id="2946730853" lat="52.5847752" lon="-1.9786246"  n="Bridge Street Media" t="office" st="company"/>
+<node id="2946730856" lat="52.5848876" lon="-1.9830456"  n="Brook Street" t="office" st="employment_agency"/>
+<node id="2946730863" lat="52.5846319" lon="-1.9780105"  n="Careerlink" t="office" st="employment_agency"/>
+<node id="2946730878" lat="52.584836" lon="-1.9780925"  n="Connells" t="office" st="estate_agent"/>
+<node id="2946730887" lat="52.5835196" lon="-1.9818811"  n="Debra Ball Homes" t="office" st="estate_agent"/>
+<node id="2946730908" lat="52.5835777" lon="-1.9827626"  n="Forster Dean" t="office" st="lawyer"/>
+<node id="2946730925" lat="52.5824334" lon="-1.9837313"  n="Henderson Hynes" t="office" st="estate_agent"/>
+<node id="2946730929" lat="52.5846562" lon="-1.9774251"  n="Jobs@pertemps" t="office" st="employment_agency"/>
+<node id="2946730930" lat="52.5823395" lon="-1.9838085"  n="John Wilson &#38; Co Property Lawyers" t="office" st="lawyer"/>
+<node id="2946730933" lat="52.5847893" lon="-1.9779155"  n="Kerry Collins" t="office" st="employment_agency"/>
+<node id="2946730944" lat="52.5869329" lon="-1.978091"  n="MG Homes And Finances" t="office" st="estate_agent"/>
+<node id="2946730955" lat="52.5848079" lon="-1.9779859"  n="New Recruits" t="office" st="employment_agency"/>
+<node id="2946730966" lat="52.5847351" lon="-1.9808565"  n="Paul Dubberley" t="office" st="estate_agent"/>
+<node id="2946730981" lat="52.5844853" lon="-1.9794491"  n="Proactive Personnel" t="office" st="employment_agency"/>
+<node id="2946730986" lat="52.5823124" lon="-1.9804154"  n="Redstones" t="office" st="estate_agent"/>
+<node id="2946731013" lat="52.5847688" lon="-1.9807323"  n="Swinton" t="office" st="insurance"/>
+<node id="2946731035" lat="52.5841619" lon="-1.9815376"  n="Tudor Employment" t="office" st="employment_agency"/>
+<node id="2946731043" lat="52.5820267" lon="-1.9839656"  n="Wadsworth &#38; Co" t="office" st="lawyer"/>
+<node id="2946731045" lat="52.5854382" lon="-1.9792058"  n="Walsall Citizens Advice Bureau" t="office" st="ngo"/>
+<node id="2946731046" lat="52.5843118" lon="-1.9792733"  n="Walsall Council Markets Office" t="office" st="administrative"/>
+<node id="2963306554" lat="52.4747927" lon="-1.8773231"  n="A&#38;S Clutch Services" t="office" st="company"/>
+<node id="2963306555" lat="52.4741839" lon="-1.8794024"  n="Artistis Trims" t="office" st="company"/>
+<node id="2963306557" lat="52.4731003" lon="-1.876902"  n="Autoform" t="office" st="company"/>
+<node id="2963306558" lat="52.4749451" lon="-1.8765288"  n="CE Polishers" t="office" st="company"/>
+<node id="2963306559" lat="52.473429" lon="-1.8760097"  n="Charles Styles Ltd" t="office" st="company"/>
+<node id="2963306560" lat="52.4730294" lon="-1.8776688"  n="Crown Banqueting" t="office" st="company"/>
+<node id="2963306562" lat="52.4728824" lon="-1.8774608"  n="F&#38;C Metals Ltd" t="office" st="company"/>
+<node id="2963306563" lat="52.4753878" lon="-1.8828144"  n="Freedom Security" t="office" st="company"/>
+<node id="2963306566" lat="52.4747977" lon="-1.8773498"  n="JCC Engineering" t="office" st="company"/>
+<node id="2963306569" lat="52.4747733" lon="-1.8773281"  n="Phoenix Joinery" t="office" st="company"/>
+<node id="2963306570" lat="52.474941" lon="-1.8764652"  n="Poole &#38; Son (Slops) Ltd" t="office" st="company"/>
+<node id="2963306574" lat="52.4752381" lon="-1.8825102"  n="Sticky Warch" t="office" st="company"/>
+<node id="2963306575" lat="52.4750507" lon="-1.8811994"  n="Swing &#38; Magic" t="office" st="company"/>
+<node id="2963306576" lat="52.4753713" lon="-1.8756495"  n="Total Fabrications" t="office" st="company"/>
+<node id="2963306577" lat="52.4730485" lon="-1.8771857"  n="Trewhella" t="office" st="company"/>
+<node id="2971266442" lat="52.4841583" lon="-1.9155828"  n="Baillie" t="office" st="accountant"/>
+<node id="2971266445" lat="52.4844806" lon="-1.9162169"  n="Hardchrome" t="office" st="company"/>
+<node id="2971266447" lat="52.483405" lon="-1.9123557"  n="Midland Pack Shot" t="office" st="company"/>
+<node id="2971266448" lat="52.4831325" lon="-1.9133742"  n="Probrand" t="office" st="company"/>
+<node id="2971266449" lat="52.4833335" lon="-1.9124784"  n="R Maintenance" t="office" st="company"/>
+<node id="2971266452" lat="52.4849469" lon="-1.915338"  n="Strip It!" t="office" st="company"/>
+<node id="2971266453" lat="52.4841902" lon="-1.9155461"  n="Synergidesign" t="office" st="company"/>
+<node id="2976042577" lat="52.4904513" lon="-1.8871285"  n="Bread Co" t="office" st="company"/>
+<node id="2976042579" lat="52.4813804" lon="-1.8899627"  n="Eight Lettings" t="office" st="estate_agent"/>
+<node id="2976042580" lat="52.4903191" lon="-1.8874104"  n="Fa. Meyveli Ltd" t="office" st="company"/>
+<node id="2976042582" lat="52.4902688" lon="-1.8875294"  n="Kitchen &#38; Bedroom Centre" t="office" st="company"/>
+<node id="2976042584" lat="52.4905608" lon="-1.8868879"  n="Midland Wheels" t="office" st="company"/>
+<node id="2976042585" lat="52.4903783" lon="-1.8872889"  n="Penlyon Electrical Ltd" t="office" st="company"/>
+<node id="2976042587" lat="52.4904148" lon="-1.8872087"  n="Roxill" t="office" st="company"/>
+<node id="2986260704" lat="52.4764501" lon="-1.8937785"  n="Markets Customer Centre" t="office" st="yes"/>
+<node id="2995130176" lat="52.4879533" lon="-1.9073676"  n="A.R. Clothing" t="office" st="company"/>
+<node id="2995130177" lat="52.4852494" lon="-1.9105466"  n="ADP" t="office" st="company"/>
+<node id="2995130178" lat="52.4872569" lon="-1.9072609"  n="AK Contracts Ltd" t="office" st="company"/>
+<node id="2995130179" lat="52.4850338" lon="-1.9106977"  n="Abacus" t="office" st="company"/>
+<node id="2995130180" lat="52.4867846" lon="-1.9088812"  n="Alliance Personnel" t="office" st="company"/>
+<node id="2995130183" lat="52.4849414" lon="-1.9106659"  n="Axis" t="office" st="company"/>
+<node id="2995130184" lat="52.4844978" lon="-1.9105497"  n="Banabay Ltd" t="office" st="company"/>
+<node id="2995130185" lat="52.4866534" lon="-1.9091845"  n="Beverley Hall Ltd" t="office" st="company"/>
+<node id="2995130186" lat="52.4864447" lon="-1.9070247"  n="Birmingham Welding Supplies Ltd" t="office" st="company"/>
+<node id="2995130188" lat="52.4874712" lon="-1.9072023"  n="Bluebird Care" t="office" st="company"/>
+<node id="2995130189" lat="52.4872818" lon="-1.9086081"  n="Boot Camp Media" t="office" st="company"/>
+<node id="2995130190" lat="52.4849831" lon="-1.910747"  n="Bootcamp Media" t="office" st="company"/>
+<node id="2995130194" lat="52.4870919" lon="-1.9085538"  n="CWA" t="office" st="company"/>
+<node id="2995130197" lat="52.4872149" lon="-1.9085838"  n="D. Fontaine &#38; Co" t="office" st="company"/>
+<node id="2995130199" lat="52.4857821" lon="-1.9100168"  n="Deakin &#38; Francis England" t="office" st="company"/>
+<node id="2995130201" lat="52.4864839" lon="-1.9073667"  n="Dotted Eyes" t="office" st="company"/>
+<node id="2995130202" lat="52.4861102" lon="-1.9095574"  n="Edis" t="office" st="company"/>
+<node id="2995130205" lat="52.4871401" lon="-1.9088593"  n="Etch Components" t="office" st="company"/>
+<node id="2995130207" lat="52.4878432" lon="-1.9070705"  n="Flamingo Audio" t="office" st="company"/>
+<node id="2995130208" lat="52.4871144" lon="-1.9075125"  n="Formis" t="office" st="company"/>
+<node id="2995130209" lat="52.4871084" lon="-1.9088537"  n="Glass Monkeys" t="office" st="company"/>
+<node id="2995130212" lat="52.4860943" lon="-1.9095499"  n="Honeywell" t="office" st="company"/>
+<node id="2995130213" lat="52.4876248" lon="-1.9071581"  n="Idq" t="office" st="company"/>
+<node id="2995130216" lat="52.4854161" lon="-1.9045274"  n="James Laurence" t="office" st="estate_agent"/>
+<node id="2995130217" lat="52.4859762" lon="-1.9074781"  n="Jasper" t="office" st="company"/>
+<node id="2995130218" lat="52.4871243" lon="-1.9088565"  n="Jewelcast" t="office" st="company"/>
+<node id="2995130219" lat="52.4877769" lon="-1.9071022"  n="Jonathan Richard Associates" t="office" st="company"/>
+<node id="2995130220" lat="52.4871288" lon="-1.9072508"  n="Kf" t="office" st="company"/>
+<node id="2995130222" lat="52.4850882" lon="-1.9107183"  n="L. R. Pearson" t="office" st="company"/>
+<node id="2995130224" lat="52.4874142" lon="-1.9072381"  n="Let to Birmingham" t="office" st="company"/>
+<node id="2995130227" lat="52.4844941" lon="-1.9105975"  n="Logistic Partners Ltd" t="office" st="company"/>
+<node id="2995130230" lat="52.4856123" lon="-1.9085021"  n="Mesmerize" t="office" st="company"/>
+<node id="2995130231" lat="52.4875652" lon="-1.9112004"  n="Met Apps" t="office" st="company"/>
+<node id="2995130232" lat="52.486466" lon="-1.9073034"  n="Miso" t="office" st="company"/>
+<node id="2995130233" lat="52.4872857" lon="-1.9085788"  n="Number Group" t="office" st="company"/>
+<node id="2995130234" lat="52.4849884" lon="-1.9106962"  n="NumberGroup" t="office" st="company"/>
+<node id="2995130235" lat="52.4846176" lon="-1.9102335"  n="OptiSpine" t="office" st="company"/>
+<node id="2995130236" lat="52.4847165" lon="-1.9088949"  n="Optimum" t="office" st="company"/>
+<node id="2995130238" lat="52.4873436" lon="-1.9072639"  n="Pickles &#38; Co" t="office" st="company"/>
+<node id="2995130240" lat="52.4868912" lon="-1.9084961"  n="Prima" t="office" st="estate_agent"/>
+<node id="2995130241" lat="52.484775" lon="-1.9114341"  n="Print Creative" t="office" st="company"/>
+<node id="2995130242" lat="52.4870926" lon="-1.9088509"  n="Pure Essence Greetings" t="office" st="company"/>
+<node id="2995130245" lat="52.4862865" lon="-1.9087926"  n="Rapid Coatings" t="office" st="company"/>
+<node id="2995130246" lat="52.486993" lon="-1.9085156"  n="Salon" t="office" st="company"/>
+<node id="2995130249" lat="52.4847188" lon="-1.9114095"  n="Substrakt" t="office" st="company"/>
+<node id="2995130250" lat="52.4850747" lon="-1.9108002"  n="T.C. Phillips" t="office" st="company"/>
+<node id="2995130252" lat="52.4859297" lon="-1.9073823"  n="The Wills, Probate &#38; Conveyancing Shop @ Brendan Fleming Solicitors" t="office" st="lawyer"/>
+<node id="2995130253" lat="52.4882869" lon="-1.9081985"  n="Tool Matic" t="office" st="company"/>
+<node id="2995130256" lat="52.4872612" lon="-1.9075323"  n="Vanguard Direct" t="office" st="company"/>
+<node id="2995130257" lat="52.4859885" lon="-1.9075036"  n="Visy" t="office" st="company"/>
+<node id="2995130258" lat="52.4870351" lon="-1.9088609"  n="Web Print Store" t="office" st="company"/>
+<node id="3035760711" lat="52.4727142" lon="-1.8836052"  n="Jobs@Birmingham" t="office" st="employment_agency"/>
+<node id="3035760714" lat="52.4733804" lon="-1.8830988"  n="Textiles By St Annes" t="office" st="company"/>
+<node id="3048296831" lat="52.4093328" lon="-1.5106142"  n="Brook Street" t="office" st="employment_agency"/>
+<node id="3048296880" lat="52.4055399" lon="-1.513127"  n="Industria" t="office" st="employment_agency"/>
+<node id="3048296883" lat="52.4055688" lon="-1.5131864"  n="JY Coventry Letting" t="office" st="estate_agent"/>
+<node id="3048296891" lat="52.4063175" lon="-1.5132181"  n="Market Chambers" t="office" st="market_administration"/>
+<node id="3048296903" lat="52.4094173" lon="-1.5106563"  n="Office Angels" t="office" st="employment_agency"/>
+<node id="3048296911" lat="52.4055264" lon="-1.5132428"  n="QualitySolicitors Mander Hadley" t="office" st="lawyer"/>
+<node id="3048296933" lat="52.4091315" lon="-1.511124"  n="Swinton Insurance" t="office" st="insurance"/>
+<node id="3048296939" lat="52.4058709" lon="-1.5129535"  n="The Job Shop" t="office" st="employment_agency"/>
+<node id="3049175296" lat="52.4093513" lon="-1.5102653"  n="Blue Arrow" t="office" st="employment_agency"/>
+<node id="3049175320" lat="52.4094065" lon="-1.5102881"  n="Contract Options" t="office" st="employment_agency"/>
+<node id="3049178143" lat="52.4100669" lon="-1.5092186"  n="GI Group" t="office" st="employment_agency"/>
+<node id="3049178144" lat="52.4077528" lon="-1.5085267"  n="Genesis Employment" t="office" st="employment_agency"/>
+<node id="3049178194" lat="52.4100157" lon="-1.5092715"  n="Remploy" t="office" st="employment_agency"/>
+<node id="3078381393" lat="52.4144535" lon="-1.7792146"  n="R. A. Bennett &#38; Partners" t="office" st="estate_agent"/>
+<node id="3092995203" lat="52.4918942" lon="-1.8917121"  n="Advice Centre for Leaving the EU" t="office" st="political_party"/>
+<node id="3092995204" lat="52.48765" lon="-1.8932071"  n="First Practice Healthcare" t="office" st="recruitment_office"/>
+<node id="3092995205" lat="52.4918462" lon="-1.8920149"  n="Little Tone Promotions" t="office" st="company"/>
+<node id="3154055576" lat="52.4144762" lon="-1.7792744"  n="R. A. Bennett &#38; Partners Lettings" t="office" st="estate_agent"/>
+<node id="3165712562" lat="52.4487197" lon="-1.8882394"  n="Alford Burton" t="office" st="insurance"/>
+<node id="3165712563" lat="52.4469622" lon="-1.8883481"  n="Anthola" t="office" st="insurance"/>
+<node id="3165712571" lat="52.4475248" lon="-1.8883366"  n="Dixons" t="office" st="estate_agent"/>
+<node id="3165712572" lat="52.4488646" lon="-1.8883088"  n="Hadgkiss Hughes &#38; Beale" t="office" st="lawyer"/>
+<node id="3165712575" lat="52.4487803" lon="-1.8882524"  n="Robert Aston" t="office" st="estate_agent"/>
+<node id="3165712579" lat="52.4476329" lon="-1.8883082"  n="Thistle Estates" t="office" st="estate_agent"/>
+<node id="3165712581" lat="52.4537779" lon="-1.8872098"  n="WK Solicitors" t="office" st="lawyer"/>
+<node id="3166867522" lat="52.4911858" lon="-1.8993124"  n="Alps Group" t="office" st="company"/>
+<node id="3166867524" lat="52.4911595" lon="-1.8981168"  n="Breese Earle" t="office" st="company"/>
+<node id="3166867525" lat="52.4914537" lon="-1.8982522"  n="Chris Baynham" t="office" st="company"/>
+<node id="3166867530" lat="52.4914417" lon="-1.8980987"  n="Flashing Badges" t="office" st="company"/>
+<node id="3166867536" lat="52.4915801" lon="-1.8973473"  n="Mazecom" t="office" st="company"/>
+<node id="3166867537" lat="52.491164" lon="-1.8983986"  n="Mirza &#38; Sons" t="office" st="company"/>
+<node id="3166867538" lat="52.4917722" lon="-1.8992825"  n="Nasao Cargo Services" t="office" st="company"/>
+<node id="3166867539" lat="52.4903679" lon="-1.8959267"  n="Property Link" t="office" st="company"/>
+<node id="3166867540" lat="52.4892808" lon="-1.8953246"  n="Regton Metal Detection Specialists" t="office" st="company"/>
+<node id="3166867542" lat="52.4891705" lon="-1.8961952"  n="SJH Engraving Company" t="office" st="company"/>
+<node id="3166867545" lat="52.4919502" lon="-1.8993164"  n="Total Catering" t="office" st="company"/>
+<node id="3166870615" lat="52.4915923" lon="-1.897456"  n="3MS Gold Services" t="office" st="company"/>
+<node id="3177657669" lat="52.4682538" lon="-1.8551707"  n="Ahmad &#38; Williams Solicitors" t="office" st="lawyer"/>
+<node id="3177657670" lat="52.4682814" lon="-1.8552499"  n="Asian Wedding Service Ltd" t="office" st="company"/>
+<node id="3177657672" lat="52.4690508" lon="-1.8574076"  n="Carltons" t="office" st="lawyer"/>
+<node id="3177657684" lat="52.4690134" lon="-1.8572925"  n="SEA" t="office" st="lawyer"/>
+<node id="3177898112" lat="52.4914153" lon="-1.9107323"  n="New Hampton Law" t="office" st="lawyer"/>
+<node id="3177898113" lat="52.4850783" lon="-1.9016311"  n="Nuttall" t="office" st="company"/>
+<node id="3177898134" lat="52.4867404" lon="-1.9022667"  n="Unik" t="office" st="communication"/>
+<node id="3181847503" lat="52.4570766" lon="-1.8861732"  n="A&#38;Z Properties Ltd" t="office" st="estate_agent"/>
+<node id="3181847513" lat="52.4493288" lon="-1.8880713"  n="Moseley &#38; District Churches Housing Association" t="office" st="housing_association"/>
+<node id="3181847522" lat="52.4571582" lon="-1.8854611"  n="Sanapost" t="office" st="company"/>
+<node id="3181847524" lat="52.4483451" lon="-1.8876026"  n="Time5 Recruitment &#38; Training" t="office" st="employment_agency"/>
+<node id="3239887269" lat="52.4612758" lon="-1.9433262"  n="Affinity" t="office" st="company"/>
+<node id="3239887273" lat="52.4581962" lon="-1.9566421"  n="Chamberlains" t="office" st="estate_agent"/>
+<node id="3239887274" lat="52.4613031" lon="-1.9432597"  n="Computaccount UK Ltd" t="office" st="company"/>
+<node id="3239887275" lat="52.4589194" lon="-1.9481507"  n="Connells" t="office" st="estate_agent"/>
+<node id="3239887276" lat="52.4579215" lon="-1.957213"  n="Douglas Smartmove" t="office" st="estate_agent"/>
+<node id="3239887280" lat="52.4594257" lon="-1.9474475"  n="Haart Ea" t="office" st="estate_agent"/>
+<node id="3239887293" lat="52.4580415" lon="-1.9557052"  n="Pro-forms" t="office" st="company"/>
+<node id="3239887296" lat="52.4613376" lon="-1.9431924"  n="Taurus Wealth" t="office" st="company"/>
+<node id="3239887299" lat="52.4586719" lon="-1.9487624"  n="W H Parker" t="office" st="accountant"/>
+<node id="3239887300" lat="52.4589432" lon="-1.9480833"  n="Your Move" t="office" st="estate_agent"/>
+<node id="3269850165" lat="52.6139227" lon="-2.0059522"  n="Facepunch Studios Ltd" t="office" st="it"/>
+<node id="3310014114" lat="52.4874087" lon="-1.89695"  n="Numix Systems Ltd" t="office" st="company"/>
+<node id="3310014115" lat="52.4866142" lon="-1.8956143"  n="W. Horton &#38; Sons" t="office" st="company"/>
+<node id="3400790596" lat="52.4876553" lon="-1.915098"  n="Anglo" t="office" st="company"/>
+<node id="3400790597" lat="52.4910469" lon="-1.9127058"  n="Apex Jewellery Co" t="office" st="company"/>
+<node id="3400790599" lat="52.4904926" lon="-1.9130488"  n="Ark" t="office" st="company"/>
+<node id="3400790600" lat="52.4878816" lon="-1.9128453"  n="Brittish Allied Trades Federation" t="office" st="trade_federation"/>
+<node id="3400790601" lat="52.4912915" lon="-1.9127097"  n="Brophy Riaz &#38; Partners" t="office" st="architect"/>
+<node id="3400790602" lat="52.4915816" lon="-1.9131801"  n="C&#38;E Plating" t="office" st="company"/>
+<node id="3400790605" lat="52.4877468" lon="-1.9151095"  n="Consortium Wholesale" t="office" st="company"/>
+<node id="3400790609" lat="52.4891572" lon="-1.9130023"  n="Future First" t="office" st="company"/>
+<node id="3400790612" lat="52.4908185" lon="-1.9133432"  n="Goldlink Jewellers" t="office" st="company"/>
+<node id="3400790613" lat="52.4904958" lon="-1.9130428"  n="Goshen Solicitors" t="office" st="lawyer"/>
+<node id="3400790614" lat="52.4870691" lon="-1.9161459"  n="Greystone Lettings" t="office" st="estate_agent"/>
+<node id="3400790616" lat="52.4904889" lon="-1.9130548"  n="Homer Creative" t="office" st="company"/>
+<node id="3400790621" lat="52.4872076" lon="-1.9151033"  n="LV Property" t="office" st="estate_agent"/>
+<node id="3400790623" lat="52.4870808" lon="-1.9170121"  n="Lux Ligtning Ltd" t="office" st="company"/>
+<node id="3400790624" lat="52.4870691" lon="-1.916935"  n="MC Footwear Ltd" t="office" st="company"/>
+<node id="3400790625" lat="52.487363" lon="-1.914999"  n="Magic Milestones" t="office" st="company"/>
+<node id="3400790628" lat="52.4871058" lon="-1.9170411"  n="Mister Smoke" t="office" st="company"/>
+<node id="3400790630" lat="52.4916522" lon="-1.9131347"  n="P. Warrington Limited" t="office" st="company"/>
+<node id="3400790631" lat="52.4909316" lon="-1.9131911"  n="Patken House" t="office" st="company"/>
+<node id="3400790632" lat="52.4871292" lon="-1.9156271"  n="Phoenix Group" t="office" st="company"/>
+<node id="3400790633" lat="52.4909037" lon="-1.912407"  n="Plataurum" t="office" st="company"/>
+<node id="3400790635" lat="52.49043" lon="-1.9129687"  n="Public Interest Lawyers" t="office" st="lawyer"/>
+<node id="3400790636" lat="52.4909951" lon="-1.9127805"  n="R.M. Pugh &#38; Co" t="office" st="company"/>
+<node id="3400790638" lat="52.4921074" lon="-1.912581"  n="SOO Business Computers" t="office" st="company"/>
+<node id="3400790640" lat="52.4878186" lon="-1.9151186"  n="Sankofa" t="office" st="company"/>
+<node id="3400790641" lat="52.490457" lon="-1.9130043"  n="TH DA" t="office" st="company"/>
+<node id="3400790643" lat="52.4912476" lon="-1.9127605"  n="Umberto Giannini" t="office" st="company"/>
+<node id="3400790644" lat="52.48721" lon="-1.9154093"  n="Warstone Centre" t="office" st="company"/>
+<node id="3406978056" lat="52.4722741" lon="-1.9173055"  n="City Life Group" t="office" st="estate_agent"/>
+<node id="3406978063" lat="52.4701859" lon="-1.920521"  n="Michael Heaven" t="office" st="accountant"/>
+<node id="3406978065" lat="52.4722601" lon="-1.9172241"  n="Seymour Luke" t="office" st="conveyors"/>
+<node id="3406978067" lat="52.471506" lon="-1.9184069"  n="The Binding Site Group" t="office" st="company"/>
+<node id="3406978068" lat="52.4721931" lon="-1.9180257"  n="The Residential Lettings Group" t="office" st="estate_agent"/>
+<node id="3407012324" lat="52.4747957" lon="-1.8839754"  n="Adee Phelan Of" t="office" st="company"/>
+<node id="3407012331" lat="52.4748658" lon="-1.884395"  n="Digital Native UK" t="office" st="employment_agency"/>
+<node id="3407012349" lat="52.4749191" lon="-1.884814"  n="Pi Space" t="office" st="meeting_space"/>
+<node id="3407012356" lat="52.4748878" lon="-1.8843631"  n="Verve People" t="office" st="employment_agency"/>
+<node id="3434518324" lat="52.5037202" lon="-1.9355473"  n="Bassi Solicitors &#38; Notary Public" t="office" st="yes"/>
+<node id="3436003842" lat="52.4733583" lon="-1.9557659"  n="Cottons" t="office" st="surveyor"/>
+<node id="3436003847" lat="52.4724516" lon="-1.9682544"  n="Oalsnam" t="office" st="estate_agent"/>
+<node id="3436003851" lat="52.4727224" lon="-1.9682978"  n="Taylors" t="office" st="estate_agent"/>
+<node id="3436003852" lat="52.4725853" lon="-1.9682926"  n="The Letting Store" t="office" st="estate_agent"/>
+<node id="3461048622" lat="52.452648" lon="-1.8781608"  n="Legal Assist" t="office" st="solicitor"/>
+<node id="3461048633" lat="52.4538771" lon="-1.8776744"  n="Zahra Enterprise" t="office" st="yes"/>
+<node id="3470524716" lat="52.467307" lon="-1.8508934"  n="Parkside" t="office" st="estate_agent"/>
+<node id="3470524735" lat="52.4696057" lon="-1.8590034"  n="S.H. &#38; Co. Solicitors" t="office" st="lawyer"/>
+<node id="3470524749" lat="52.4713973" lon="-1.8621978"  n="Six Ways Claims Ltd" t="office" st="company"/>
+<node id="3470524760" lat="52.4670819" lon="-1.8501029"  n="Sterling" t="office" st="lawyer"/>
+<node id="3470524763" lat="52.4690922" lon="-1.8565632"  n="Sultan Lloyd Sol" t="office" st="lawyer"/>
+<node id="3470524767" lat="52.4698556" lon="-1.8585597"  n="TCC Accident Management" t="office" st="company"/>
+<node id="3470524790" lat="52.4697498" lon="-1.8593117"  n="ZS Partnership Ltd" t="office" st="company"/>
+<node id="3470525039" lat="52.4681851" lon="-1.8540154"  n="Golden Estates" t="office" st="estate_agent"/>
+<node id="3470525051" lat="52.4708755" lon="-1.8622526"  n="Hanif &#38; Company Solicitors" t="office" st="lawyer"/>
+<node id="3470525056" lat="52.468472" lon="-1.85483"  n="Homewise" t="office" st="estate_agent"/>
+<node id="3470525061" lat="52.469479" lon="-1.8585089"  n="Hussain" t="office" st="lawyer"/>
+<node id="3470525085" lat="52.469309" lon="-1.8570261"  n="Kalam Solicitors" t="office" st="lawyer"/>
+<node id="3470525470" lat="52.4681651" lon="-1.8549164"  n="Accident Direct Claims" t="office" st="company"/>
+<node id="3470525498" lat="52.470815" lon="-1.8628941"  n="Baba Ali" t="office" st="company"/>
+<node id="3470525518" lat="52.4712756" lon="-1.8628699"  n="C.B.S. Properties" t="office" st="estate_agent"/>
+<node id="3470525522" lat="52.4679386" lon="-1.8543762"  n="Capital Estates" t="office" st="estate_agent"/>
+<node id="3470525526" lat="52.4705598" lon="-1.8424585"  n="Century I" t="office" st="estate_agent"/>
+<node id="3470525556" lat="52.4674497" lon="-1.8514327"  n="Farooqui &#38; Co." t="office" st="accountant"/>
+<node id="3470525610" lat="52.4693456" lon="-1.8581309"  n="Mian &#38; Co" t="office" st="lawyer"/>
+<node id="3470525627" lat="52.467649" lon="-1.8521857"  n="Oak Tree Estates" t="office" st="estate_agent"/>
+<node id="3470525628" lat="52.4715541" lon="-1.8635944"  n="Oasis Estate Agents" t="office" st="estate_agent"/>
+<node id="3492954927" lat="52.5162612" lon="-1.8754414"  n="Aquarius" t="office" st="company"/>
+<node id="3492954928" lat="52.5158965" lon="-1.8759547"  n="Aspect" t="office" st="company"/>
+<node id="3492954929" lat="52.5108364" lon="-1.875867"  n="Aston Jab Spares Ltd." t="office" st="company"/>
+<node id="3492954930" lat="52.5114731" lon="-1.8767122"  n="BS Motors / BS Plastics" t="office" st="company"/>
+<node id="3492954932" lat="52.5155671" lon="-1.8753639"  n="Barratt Vehicle Maintenance" t="office" st="company"/>
+<node id="3492954933" lat="52.5135711" lon="-1.8806733"  n="Bharat Logical Trade" t="office" st="company"/>
+<node id="3492954934" lat="52.5157225" lon="-1.8750257"  n="Birmingham Crane Hire Company" t="office" st="company"/>
+<node id="3492954935" lat="52.5154174" lon="-1.8737222"  n="Birmingham Fuel Oils" t="office" st="company"/>
+<node id="3492954936" lat="52.5107135" lon="-1.8768943"  n="Birmingham Safety Wear" t="office" st="company"/>
+<node id="3492954937" lat="52.516794" lon="-1.8765102"  n="Commercial &#38; Colour Printers" t="office" st="company"/>
+<node id="3492954938" lat="52.5160403" lon="-1.8761682"  n="Coopers" t="office" st="company"/>
+<node id="3492954939" lat="52.5117257" lon="-1.8724324"  n="Cororate Wear" t="office" st="company"/>
+<node id="3492954940" lat="52.5108302" lon="-1.8756166"  n="D Norton" t="office" st="company"/>
+<node id="3492954942" lat="52.5139779" lon="-1.8810341"  n="Driving Schools Supplies Ltd" t="office" st="company"/>
+<node id="3492954943" lat="52.5136321" lon="-1.8807275"  n="Easy Housing Association" t="office" st="estate_agent"/>
+<node id="3492954945" lat="52.5107008" lon="-1.8767321"  n="Engine Reconditioning &#38; Parts P" t="office" st="company"/>
+<node id="3492954947" lat="52.5167634" lon="-1.8761313"  n="Fracino" t="office" st="company"/>
+<node id="3492954948" lat="52.5104843" lon="-1.8731542"  n="Freedom Paper Converters Ltd" t="office" st="company"/>
+<node id="3492954949" lat="52.5107049" lon="-1.8745046"  n="Freedom Paper Converters Ltd" t="office" st="company"/>
+<node id="3492954950" lat="52.5114384" lon="-1.8759037"  n="G.S.S. Walia &#38; Sons" t="office" st="company"/>
+<node id="3492954951" lat="52.5156041" lon="-1.8812738"  n="GCE Fluid Power" t="office" st="company"/>
+<node id="3492954952" lat="52.5139505" lon="-1.8810098"  n="Imprintz" t="office" st="company"/>
+<node id="3492954953" lat="52.5156291" lon="-1.875229"  n="Jamesons (Tyres)" t="office" st="company"/>
+<node id="3492954954" lat="52.5163238" lon="-1.876498"  n="John Stedeford" t="office" st="company"/>
+<node id="3492954955" lat="52.5083617" lon="-1.8756897"  n="Junction 6 Commercials" t="office" st="company"/>
+<node id="3492954957" lat="52.5135953" lon="-1.8806948"  n="MSL Estates" t="office" st="estate_agent"/>
+<node id="3492954959" lat="52.5166276" lon="-1.8767816"  n="Mirage Blinds UK" t="office" st="company"/>
+<node id="3492954960" lat="52.5114609" lon="-1.8764968"  n="Motorman" t="office" st="company"/>
+<node id="3492954961" lat="52.5115013" lon="-1.8770673"  n="N&#38;J" t="office" st="company"/>
+<node id="3492954963" lat="52.515452" lon="-1.8812633"  n="Norgren" t="office" st="company"/>
+<node id="3492954964" lat="52.5108461" lon="-1.8760212"  n="Pob Precision Tools" t="office" st="company"/>
+<node id="3492954965" lat="52.5160825" lon="-1.8762225"  n="Reupholstery" t="office" st="company"/>
+<node id="3492954968" lat="52.5106033" lon="-1.8763291"  n="TTI Group Ltd" t="office" st="company"/>
+<node id="3492954970" lat="52.5151907" lon="-1.8818157"  n="The Ford Centre" t="office" st="company"/>
+<node id="3492954971" lat="52.5098863" lon="-1.8746758"  n="Thermotec" t="office" st="company"/>
+<node id="3492954972" lat="52.5157541" lon="-1.8749569"  n="Trolquote Limited" t="office" st="company"/>
+<node id="3492954973" lat="52.5114927" lon="-1.8769626"  n="W.H.Doherty &#38; Co. Limited" t="office" st="company"/>
+<node id="3492954974" lat="52.5108265" lon="-1.8754777"  n="Westbury Lifts Ltd" t="office" st="company"/>
+<node id="3492954975" lat="52.5121935" lon="-1.8758185"  n="Westwood Body Shop" t="office" st="company"/>
+<node id="3492954976" lat="52.5121654" lon="-1.8753522"  n="Westwood Motors" t="office" st="company"/>
+<node id="3492954977" lat="52.5108339" lon="-1.8757454"  n="Witton Autos Ltd" t="office" st="company"/>
+<node id="3492954978" lat="52.5121678" lon="-1.875481"  n="Zaf&#39;s Catering Service" t="office" st="company"/>
+<node id="3502063695" lat="52.4887896" lon="-1.911735"  n="A.O.G. Birmingham Ltd." t="office" st="company"/>
+<node id="3502063696" lat="52.4897461" lon="-1.911985"  n="Adapt" t="office" st="accountant"/>
+<node id="3502063699" lat="52.4887648" lon="-1.9106665"  n="B. Simkiss" t="office" st="company"/>
+<node id="3502063701" lat="52.4911688" lon="-1.9121186"  n="Backtrack" t="office" st="company"/>
+<node id="3502063702" lat="52.490951" lon="-1.9108436"  n="Bailey Wright &#38; Co." t="office" st="company"/>
+<node id="3502063704" lat="52.4897779" lon="-1.91173"  n="Bbalb" t="office" st="company"/>
+<node id="3502063706" lat="52.4880416" lon="-1.9104804"  n="Blakeley-Browns" t="office" st="company"/>
+<node id="3502063708" lat="52.4890839" lon="-1.9122649"  n="Cabex" t="office" st="company"/>
+<node id="3502063713" lat="52.4911335" lon="-1.9120551"  n="Cutie Dogs Ltd" t="office" st="company"/>
+<node id="3502063719" lat="52.4894714" lon="-1.9112352"  n="E. Goodby" t="office" st="company"/>
+<node id="3502063720" lat="52.4896707" lon="-1.9118631"  n="Easy Housing Association" t="office" st="estate_agent"/>
+<node id="3502063722" lat="52.489146" lon="-1.9121362"  n="Euro Findings" t="office" st="company"/>
+<node id="3502063723" lat="52.488397" lon="-1.9096513"  n="Expert Medical Solutions" t="office" st="company"/>
+<node id="3502063739" lat="52.4909647" lon="-1.9117627"  n="Kays Counselling" t="office" st="company"/>
+<node id="3502063743" lat="52.4910826" lon="-1.9119636"  n="Mahay Financial Services" t="office" st="company"/>
+<node id="3502063744" lat="52.4895032" lon="-1.9086377"  n="MarCity" t="office" st="company"/>
+<node id="3502063745" lat="52.4899895" lon="-1.9111716"  n="Midland Precision Diamond Tools" t="office" st="company"/>
+<node id="3502063747" lat="52.4886859" lon="-1.9117349"  n="Morelin Precision Castings Ltd." t="office" st="company"/>
+<node id="3502063748" lat="52.4911641" lon="-1.9119156"  n="Mortgages Full Stop" t="office" st="company"/>
+<node id="3502063749" lat="52.4892283" lon="-1.9120371"  n="NTR Metals" t="office" st="company"/>
+<node id="3502063751" lat="52.4891005" lon="-1.9117355"  n="Nexgen" t="office" st="company"/>
+<node id="3502063752" lat="52.4892283" lon="-1.9118264"  n="Nigel Lynall" t="office" st="company"/>
+<node id="3502063754" lat="52.4884712" lon="-1.9097854"  n="P.J.F. (Metal Processors) Limited" t="office" st="company"/>
+<node id="3502063755" lat="52.4911881" lon="-1.9119621"  n="Parabellum" t="office" st="company"/>
+<node id="3502063757" lat="52.4885866" lon="-1.9099106"  n="PlusGold" t="office" st="company"/>
+<node id="3502063758" lat="52.4895435" lon="-1.9118533"  n="Power Ltd" t="office" st="company"/>
+<node id="3502063759" lat="52.4911358" lon="-1.9118557"  n="Pure De&#39;vine" t="office" st="company"/>
+<node id="3502063761" lat="52.4889969" lon="-1.9117353"  n="R.F. May &#38; Company Ltd." t="office" st="company"/>
+<node id="3502063764" lat="52.4881388" lon="-1.9098327"  n="Rehmat" t="office" st="company"/>
+<node id="3502063765" lat="52.4881241" lon="-1.909887"  n="Renatex" t="office" st="company"/>
+<node id="3502063766" lat="52.4882923" lon="-1.9095735"  n="Shipton &#38; Co Ltd." t="office" st="company"/>
+<node id="3502063771" lat="52.4892042" lon="-1.9117356"  n="TECC" t="office" st="company"/>
+<node id="3502063772" lat="52.4890655" lon="-1.9098069"  n="Taylor &#38; Hodgetts" t="office" st="company"/>
+<node id="3502063777" lat="52.4910559" lon="-1.9109426"  n="TheCreativeStrategy.co.uk" t="office" st="company"/>
+<node id="3502063778" lat="52.4910956" lon="-1.9110168"  n="TheITBusiness.com" t="office" st="company"/>
+<node id="3502063783" lat="52.4888932" lon="-1.9117352"  n="Unity" t="office" st="company"/>
+<node id="3502063784" lat="52.4910022" lon="-1.9109053"  n="Urban Workspace" t="office" st="company"/>
+<node id="3502063785" lat="52.4910573" lon="-1.9121356"  n="V. &#38; F. Parker Ltd." t="office" st="company"/>
+<node id="3502063786" lat="52.4912151" lon="-1.9109996"  n="Warley Cash and Carry" t="office" st="company"/>
+<node id="3502063789" lat="52.4909161" lon="-1.9118249"  n="Yasin &#38; Company" t="office" st="company"/>
+<node id="3544824492" lat="52.4836892" lon="-1.8961487"  n="Colmore Plaza" t="office" st="company"/>
+<node id="3556688747" lat="52.4919964" lon="-1.8587841"  n="A. Zeb Khan Solicitors" t="office" st="lawyer"/>
+<node id="3556688760" lat="52.4767037" lon="-1.8585457"  n="Auto Tech company" t="office" st="company"/>
+<node id="3556688761" lat="52.4767041" lon="-1.8586749"  n="Auto Turned Parts" t="office" st="company"/>
+<node id="3556690986" lat="52.4773029" lon="-1.8534072"  n="Walters" t="office" st="lawyer"/>
+<node id="3556691494" lat="52.4954347" lon="-1.8532647"  n="Greengate Properties" t="office" st="estate_agent"/>
+<node id="3556691499" lat="52.4765415" lon="-1.8568943"  n="I Move" t="office" st="estate_agent"/>
+<node id="3556691507" lat="52.4903962" lon="-1.8553441"  n="K Legal Solicitors" t="office" st="lawyer"/>
+<node id="3556691526" lat="52.4767531" lon="-1.8554172"  n="Midland Properties" t="office" st="estate_agent"/>
+<node id="3556691545" lat="52.4919078" lon="-1.8590026"  n="Prime Properties" t="office" st="estate_agent"/>
+<node id="3562350100" lat="52.4897647" lon="-1.853163"  n="Garry&#39;s" t="office" st="visa_services"/>
+<node id="3562350121" lat="52.4896087" lon="-1.8517888"  n="Regent Homes" t="office" st="estate_agent"/>
+<node id="3562350129" lat="52.489219" lon="-1.8512992"  n="Swift Accident Claims" t="office" st="company"/>
+<node id="3562369458" lat="52.4886664" lon="-1.8477118"  n="Edward Lloyds Estates" t="office" st="estate_agent"/>
+<node id="3562369461" lat="52.4887585" lon="-1.8483054"  n="Greengates" t="office" st="estate_agent"/>
+<node id="3563271797" lat="52.4887109" lon="-1.8510146"  n="Ahmad &#38; Williams" t="office" st="lawyer"/>
+<node id="3563271804" lat="52.4909114" lon="-1.8574987"  n="Aman Solicitors" t="office" st="lawyer"/>
+<node id="3563271819" lat="52.489922" lon="-1.8547673"  n="Embassy Cars" t="office" st="company"/>
+<node id="3563271832" lat="52.4882713" lon="-1.8468644"  n="JD Spicer Zeb" t="office" st="lawyer"/>
+<node id="3563271853" lat="52.4887278" lon="-1.8512457"  n="Pak Properties" t="office" st="estate_agent"/>
+<node id="3563271866" lat="52.4886175" lon="-1.8498988"  n="Rightways" t="office" st="estate_agent"/>
+<node id="3563271884" lat="52.4886005" lon="-1.8499199"  n="Vesey Solicitors" t="office" st="lawyer"/>
+<node id="3574870494" lat="52.5076826" lon="-1.8919726"  n="Ace" t="office" st="estate_agent"/>
+<node id="3574870503" lat="52.5029701" lon="-1.8989167"  n="Aston Bradley" t="office" st="estate_agent"/>
+<node id="3574870513" lat="52.4991758" lon="-1.8808278"  n="Boiler Line Spares" t="office" st="company"/>
+<node id="3574870523" lat="52.5003323" lon="-1.8785584"  n="D.C.D. Engineering" t="office" st="company"/>
+<node id="3574870524" lat="52.5028572" lon="-1.8987775"  n="DC Properties" t="office" st="estate_agent"/>
+<node id="3574870526" lat="52.5024008" lon="-1.8742216"  n="Enterprise Security Distribution" t="office" st="company"/>
+<node id="3574870530" lat="52.512493" lon="-1.8856348"  n="Global Translation Services" t="office" st="company"/>
+<node id="3574870533" lat="52.4975443" lon="-1.8812453"  n="Grundfos" t="office" st="company"/>
+<node id="3574870539" lat="52.499987" lon="-1.8803787"  n="Imirp Rapid Prototyping Ltd" t="office" st="company"/>
+<node id="3574870540" lat="52.5122415" lon="-1.8855883"  n="In Home Estates" t="office" st="estate_agent"/>
+<node id="3574870541" lat="52.5010396" lon="-1.8749993"  n="Integrity Services Ltd" t="office" st="company"/>
+<node id="3574870555" lat="52.5025199" lon="-1.8743124"  n="Laser Cutting Services Limited" t="office" st="company"/>
+<node id="3574870563" lat="52.4990353" lon="-1.8806569"  n="McDermotts" t="office" st="company"/>
+<node id="3574870572" lat="52.5104595" lon="-1.8882001"  n="Pearl Properties" t="office" st="estate_agent"/>
+<node id="3574870573" lat="52.4974642" lon="-1.8962026"  n="Pertemps" t="office" st="employment_agency"/>
+<node id="3574870576" lat="52.5003262" lon="-1.8787333"  n="Polyfibre" t="office" st="company"/>
+<node id="3574870577" lat="52.5080496" lon="-1.891634"  n="RS" t="office" st="accountant"/>
+<node id="3574870579" lat="52.5120555" lon="-1.8859521"  n="Rashid &#38; Co Solicitors" t="office" st="lawyer"/>
+<node id="3574870603" lat="52.4989286" lon="-1.8805031"  n="Technispray" t="office" st="company"/>
+<node id="3574870608" lat="52.5019912" lon="-1.8738027"  n="Touch" t="office" st="company"/>
+<node id="3599406898" lat="52.44614" lon="-1.9323891"  n="Prestige Properties" t="office" st="estate_agent"/>
+<node id="3599406899" lat="52.4462578" lon="-1.9311093"  n="Seasonslaw" t="office" st="estate_agent"/>
+<node id="3702607484" lat="52.4673937" lon="-1.7519874"  n="Doyles Accountants" t="office" st="yes"/>
+<node id="3721561828" lat="52.4712103" lon="-1.8791902"  n="Radio XL 1296AM" t="office" st="radio"/>
+<node id="3750552521" lat="52.4365098" lon="-1.8464905"  n="RUS Accountants" t="office" st="accountant"/>
+<node id="3764307076" lat="52.4824616" lon="-1.8096496"  n="Lawrence Reynolds Solicitors" t="office" st="yes"/>
+<node id="3770731377" lat="52.4416641" lon="-1.8105527"  n="Home James" t="office" st="yes"/>
+<node id="3775130957" lat="52.481256" lon="-1.9006752"  n="RBS Regional Training Centre" t="office" st="yes"/>
+<node id="3808578497" lat="52.4013044" lon="-1.5054018"  n="The Technology Centre" t="office" st="company"/>
+<node id="3882085845" lat="52.414592" lon="-1.781921"  n="Office Angels" t="office" st="recruitment"/>
+<node id="3999440698" lat="52.5302531" lon="-2.0328347"  n="Paul Dubberley" t="office" st="estate_agent"/>
+<node id="3999440699" lat="52.5302798" lon="-2.0328881"  n="Skitts" t="office" st="estate_agent"/>
+<node id="4000889723" lat="52.5301577" lon="-2.0356486"  n="National &#38; Tipton Cars" t="office" st="yes"/>
+<node id="4000889745" lat="52.5303333" lon="-2.0341159"  n="Pennington Insurance Brokers" t="office" st="insurance"/>
+<node id="4102502818" lat="52.5626771" lon="-2.0645046"  n="EST Euro Stock Traders" t="office" st="wholesaler"/>
+<node id="4102502823" lat="52.5607971" lon="-2.0624902"  n="Geomani Designs" t="office" st="yes"/>
+<node id="4102502826" lat="52.5626037" lon="-2.0645797"  n="Oliver Simars" t="office" st="accountant"/>
+<node id="4111711975" lat="52.3894506" lon="-1.7354067"  n="Haskers Architects" t="office" st="architect"/>
+<node id="4111711987" lat="52.3895308" lon="-1.7355609"  n="Standley &#38; Co Solicitors" t="office" st="lawyer"/>
+<node id="4111735292" lat="52.3866454" lon="-1.7342345"  n="Mortgage Advice Centre" t="office" st="estate_agent"/>
+<node id="4111792656" lat="52.388857" lon="-1.734657"  n="John Shepherd" t="office" st="estate_agent"/>
+<node id="4111792662" lat="52.3883058" lon="-1.734429"  n="PSL" t="office" st="lawyer"/>
+<node id="4111792668" lat="52.3891607" lon="-1.7348763"  n="SL" t="office" st="lawyer"/>
+<node id="4111792670" lat="52.3891267" lon="-1.7348743"  n="Shipways" t="office" st="estate_agent"/>
+<node id="4151530093" lat="52.4307317" lon="-1.8927484"  n="Barron &#38; Co" t="office" st="accountant"/>
+<node id="4151530102" lat="52.4307023" lon="-1.8927417"  n="Martin &#38; Co" t="office" st="estate_agent"/>
+<node id="4151530103" lat="52.4321178" lon="-1.8933048"  n="Sats 7" t="office" st="estate_agent"/>
+<node id="4151530104" lat="52.4307571" lon="-1.8927484"  n="Simply Tax" t="office" st="accountant"/>
+<node id="269198298" lat="51.3567455" lon="-0.1707127"  n="Davis, Burton, Williams &#38; Co." t="office" st="accountant"/>
+<node id="302410174" lat="51.521981" lon="-0.1648802"  n="St Marlebone Job Centre Plus" t="office" st="employment_agency"/>
+<node id="302432873" lat="51.4135936" lon="-0.0517197"  n="Property World" t="office" st="estate_agent"/>
+<node id="304994967" lat="51.507928" lon="-0.108039"  n="Steer Davies Gleave" t="office" st="consulting"/>
+<node id="348116256" lat="51.5481454" lon="-0.1067759"  n="Ginger Lettings" t="office" st="estate_agent"/>
+<node id="362315176" lat="51.550209" lon="-0.1093747"  n="Kings Solicitors" t="office" st="lawyer"/>
+<node id="368002358" lat="51.5208799" lon="-0.0801157"  n="Hill Dickinson" t="office" st="lawyer"/>
+<node id="369829172" lat="51.5434205" lon="-0.1176689"  n="Allen Robyn &#38; Associates" t="office" st="accountant"/>
+<node id="371761555" lat="51.3629007" lon="-0.1842392"  n="Robinson &#38; Kinrade" t="office" st="solicitor"/>
+<node id="379905682" lat="51.5154686" lon="-0.082075"  n="St Ethelburga’s Centre for Reconciliation and Peace" t="office" st="ngo"/>
+<node id="411096511" lat="51.5543155" lon="-0.212768"  n="Peter Horada &#38; Co Solicitors" t="office" st="lawyer"/>
+<node id="411115298" lat="51.5530495" lon="-0.2112567"  n="Neil O&#39;sullivan &#38; Associates" t="office" st="accountant"/>
+<node id="420792054" lat="51.3998353" lon="0.0167848"  n="Andrew Reeves Lettings" t="office" st="estate_agent"/>
+<node id="466926204" lat="51.5116125" lon="-0.1356443"  n="Image Source" t="office" st="company"/>
+<node id="521716083" lat="51.5184172" lon="-0.188845"  n="Placem Insurance Agency Ltd" t="office" st="insurance"/>
+<node id="588008340" lat="51.5072001" lon="-0.128227"  n="Tourism Malaysia" t="office" st="tourism"/>
+<node id="608592587" lat="51.5684985" lon="0.0091549"  n="Trading Places" t="office" st="estate_agent"/>
+<node id="706611728" lat="51.454822" lon="-0.229156"  n="Cousins Realtors" t="office" st="estate_agent"/>
+<node id="742539845" lat="51.5226452" lon="-0.1039146"  n="bespoke" t="office" st="recruitment"/>
+<node id="742539850" lat="51.5224096" lon="-0.1024912"  n="Tag:" t="office" st="design"/>
+<node id="836831641" lat="51.359016" lon="-0.2168761"  n="JB Insurance Brokers Ltd" t="office" st="insurance"/>
+<node id="931608198" lat="51.5440236" lon="-0.1540145"  n="Williams Lewis and Co" t="office" st="estate_agent"/>
+<node id="931618150" lat="51.5388104" lon="-0.1440523"  n="Halpern Cowan" t="office" st="solicitors"/>
+<node id="931618605" lat="51.5566724" lon="-0.1387449"  n="Duke&#38;Herzog" t="office" st="estate_agent"/>
+<node id="931620747" lat="51.5387403" lon="-0.1439987"  n="Halpern Cowan" t="office" st="solicitors"/>
+<node id="931621715" lat="51.5385584" lon="-0.1442142"  n="Janaway Travel" t="office" st="travel_agent"/>
+<node id="931623130" lat="51.5401329" lon="-0.1402973"  n="Camden New Journal" t="office" st="newspaper"/>
+<node id="931624125" lat="51.5401863" lon="-0.1401846"  n="ASVSH Accountacy Services Ltd" t="office" st="accountant"/>
+<node id="931624901" lat="51.5560799" lon="-0.1387751"  n="Burghleys" t="office" st="estate_agent"/>
+<node id="931627623" lat="51.5557252" lon="-0.1394583"  n="Insurance Consultant" t="office" st="insurance"/>
+<node id="931628291" lat="51.542168" lon="-0.1412319"  n="Professional Cleaning Services" t="office" st="company"/>
+<node id="931630788" lat="51.5454026" lon="-0.1551979"  n="Goodman Lawrence and Co, Chartered Accountant" t="office" st="accountant"/>
+<node id="931631126" lat="51.5555851" lon="-0.1395549"  n="Blueprint Building Solutions" t="office" st="architect"/>
+<node id="931634429" lat="51.5555529" lon="-0.1391184"  n="Pearl Homes" t="office" st="estate_agent"/>
+<node id="931645222" lat="51.5415878" lon="-0.1567075"  n="John D Wood &#38; Co. Lettings" t="office" st="estate_agent"/>
+<node id="931645279" lat="51.5415695" lon="-0.1571018"  n="Adam Simmonos" t="office" st="estate_agent"/>
+<node id="931646140" lat="51.5459464" lon="-0.1522421"  n="Findon Homes" t="office" st="estate_agent"/>
+<node id="931648899" lat="51.5528824" lon="-0.1408813"  n="major travel" t="office" st="travel_agent"/>
+<node id="931648909" lat="51.5531959" lon="-0.1428768"  n="Union income Benefit" t="office" st="company"/>
+<node id="931648912" lat="51.5530541" lon="-0.1432403"  n="Highgate Business Centre" t="office" st="company"/>
+<node id="931648917" lat="51.5529341" lon="-0.1436305"  n="Dean House Studios" t="office" st="company"/>
+<node id="931648922" lat="51.5528874" lon="-0.143534"  n="MailOut" t="office" st="company"/>
+<node id="931648932" lat="51.5530041" lon="-0.1424933"  n="The Highgate Centre" t="office" st="government"/>
+<node id="931648955" lat="51.5517099" lon="-0.1411683"  n="Whatestate" t="office" st="estate_agent"/>
+<node id="931648990" lat="51.5518158" lon="-0.1416043"  n="Renaissance Personnel Limited" t="office" st="employment_agency"/>
+<node id="931663909" lat="51.5514643" lon="-0.1407751"  n="Advanced Letting and Sales" t="office" st="estate_agent"/>
+<node id="931663911" lat="51.5513525" lon="-0.1406946"  n="Winkworth Estates" t="office" st="estate_agent"/>
+<node id="931665474" lat="51.5422818" lon="-0.1559543"  n="Hill Mathieson Partners" t="office" st="estate_agent"/>
+<node id="931665478" lat="51.5426688" lon="-0.1552274"  n="David Birkett" t="office" st="estate_agent"/>
+<node id="940023903" lat="51.4843249" lon="-0.1228034"  n="British Interplanetry Society" t="office" st="ngo"/>
+<node id="969138220" lat="51.5116941" lon="-0.1239688"  n="NASUWT" t="office" st="ngo"/>
+<node id="970356703" lat="51.5709377" lon="-0.1482394"  n="Highgate Travel Ltd" t="office" st="travel_agent"/>
+<node id="972954132" lat="51.5116858" lon="-0.1246295"  n="unite union" t="office" st="union"/>
+<node id="973036648" lat="51.5112886" lon="-0.1234584"  n="Seth Lovis &#38; Co Solicitors" t="office" st="lawyer"/>
+<node id="975764382" lat="51.5472659" lon="-0.1464564"  n="Rapha Racing Ltd" t="office" st="retail"/>
+<node id="1005265990" lat="51.3993363" lon="-0.2610575"  n="Mountford Pigott LLP" t="office" st="architect"/>
+<node id="1122019375" lat="51.4647141" lon="-0.1611943"  n="Shakespeare House" t="office" st="administrative"/>
+<node id="1153552348" lat="51.5189674" lon="-0.0886428"  n="British Red Cross" t="office" st="ngo"/>
+<node id="1157981296" lat="51.5360266" lon="-0.0042011"  n="Bluebird Care" t="office" st="yes"/>
+<node id="1165952930" lat="51.4644178" lon="-0.1409519"  n="Jobcentre Plus" t="office" st="employment_agency"/>
+<node id="1171141389" lat="51.5107962" lon="-0.1215874"  n="Davidson Building" t="office" st="mixed"/>
+<node id="1171141406" lat="51.5109974" lon="-0.1218349"  n="Tower House" t="office" st="mixed"/>
+<node id="1207122373" lat="51.4905859" lon="0.1479504"  n="Belvedere Delivery Office" t="office" st="delivery"/>
+<node id="1231485511" lat="51.5218228" lon="-0.1379937"  n="Adobe" t="office" st="it"/>
+<node id="1236834446" lat="51.5216819" lon="-0.1119032"  n="City Fleet Cars" t="office" st="yes"/>
+<node id="1240136126" lat="51.4939261" lon="-0.1948299"  n="Soliman Travel" t="office" st="travel_agent"/>
+<node id="1244162699" lat="51.5369522" lon="-0.1925431"  n="ACE" t="office" st="financial"/>
+<node id="1248728790" lat="51.5360084" lon="-0.0049211"  n="Filtons" t="office" st="estate_agent"/>
+<node id="1253219101" lat="51.5640503" lon="-0.1188511"  n="CWA accountants" t="office" st="accountant"/>
+<node id="1265049996" lat="51.5164567" lon="-0.141679"  n="CBN London LTD" t="office" st="finance"/>
+<node id="1266124391" lat="51.5156597" lon="-0.1536501"  n="Portman Heritage" t="office" st="estate_agent"/>
+<node id="1266124444" lat="51.5163121" lon="-0.1544534"  n="Barclays Assesment Centre" t="office" st="yes"/>
+<node id="1266124449" lat="51.5159715" lon="-0.1545295"  n="Hammond Philips" t="office" st="estate_agent"/>
+<node id="1266124453" lat="51.5158667" lon="-0.1544834"  n="Seddons Solicitors" t="office" st="lawyer"/>
+<node id="1266124466" lat="51.5156725" lon="-0.1535487"  n="Streathers Solicitors" t="office" st="lawyer"/>
+<node id="1275821201" lat="51.4913301" lon="-0.2903194"  n="Sega" t="office" st="company"/>
+<node id="1290648005" lat="51.4943679" lon="-0.1407543"  n="S. Westminster Legal Advice" t="office" st="lawyer"/>
+<node id="1290648019" lat="51.4938956" lon="-0.1418512"  n="Chesterton" t="office" st="estate_agent"/>
+<node id="1290648032" lat="51.495201" lon="-0.1415554"  n="The Press Association" t="office" st="newspaper"/>
+<node id="1298431490" lat="51.5235634" lon="-0.1022733"  n="Capellini" t="office" st="design"/>
+<node id="1314268638" lat="51.4608426" lon="-0.1390025"  n="Keating Estates" t="office" st="yes"/>
+<node id="1314925435" lat="51.4535189" lon="-0.146624"  n="Dexters" t="office" st="yes"/>
+<node id="1314925493" lat="51.4561149" lon="-0.1439833"  n="Duck &#38; Hedges" t="office" st="yes"/>
+<node id="1322154162" lat="51.5403565" lon="0.0003124"  n="Team Support" t="office" st="employment_agency"/>
+<node id="1322154179" lat="51.5401012" lon="0.0000228"  n="Celsian Education" t="office" st="employment_agency"/>
+<node id="1322154188" lat="51.5404316" lon="0.0004117"  n="Brook Street" t="office" st="employment_agency"/>
+<node id="1330788641" lat="51.5129072" lon="-0.1350883"  n="A4e" t="office" st="employment_agency"/>
+<node id="1334631006" lat="51.4956443" lon="-0.1290586"  n="Garton Jones" t="office" st="estate_agent"/>
+<node id="1343966804" lat="51.5318751" lon="-0.1114058"  n="LLGS" t="office" st="misc"/>
+<node id="1344022044" lat="51.5324999" lon="-0.1111525"  n="Action for Southern Africa" t="office" st="charity"/>
+<node id="1344022067" lat="51.5322915" lon="-0.1111624"  n="Penton Street" t="office" st="design"/>
+<node id="1360451442" lat="51.4914604" lon="-0.1802182"  n="Knight Frank" t="office" st="estate_agent"/>
+<node id="1360472224" lat="51.493022" lon="-0.1814845"  n="Winkworth" t="office" st="estate_agent"/>
+<node id="1402845953" lat="51.4451619" lon="-0.1892601"  n="Accident Victim Helpline" t="office" st="insurance"/>
+<node id="1402845955" lat="51.4460228" lon="-0.189188"  n="Battersea and Wandsworth Trade Union Council" t="office" st="trade_union"/>
+<node id="1402845962" lat="51.4437823" lon="-0.1900831"  n="Franklin" t="office" st="accountant"/>
+<node id="1422901263" lat="51.5038775" lon="-0.3070688"  n="Trinity Solicitors" t="office" st="lawyer"/>
+<node id="1422901267" lat="51.5039743" lon="-0.3070673"  n="Elthorne Solicitors" t="office" st="lawyer"/>
+<node id="1427421969" lat="51.5229374" lon="-0.1453871"  n="RAF Benevolent Fund" t="office" st="yes"/>
+<node id="1427421976" lat="51.5230284" lon="-0.1452711"  n="Adobe Consulting" t="office" st="yes"/>
+<node id="1427488532" lat="51.537481" lon="-0.1454327"  n="Compton" t="office" st="lawyer"/>
+<node id="1427511171" lat="51.5379981" lon="-0.144738"  n="Dennis &#38; Hayes" t="office" st="estate_agent"/>
+<node id="1427511176" lat="51.5378438" lon="-0.1449412"  n="Christo &#38; Co" t="office" st="estate_agent"/>
+<node id="1427528242" lat="51.5444282" lon="-0.1416588"  n="Mirshahi Finance" t="office" st="yes"/>
+<node id="1439203777" lat="51.4756506" lon="-0.3951492"  n="Landmark" t="office" st="real estate agent"/>
+<node id="1448838361" lat="51.5216794" lon="-0.1352164"  n="UCL" t="office" st="university"/>
+<node id="1459035320" lat="51.5679296" lon="-0.1096169"  n="Fradalit travel and financial services" t="office" st="accountant"/>
+<node id="1485273431" lat="51.63022" lon="-0.17931"  n="Anscombe &#38; Ringland" t="office" st="estate_agent"/>
+<node id="1488980593" lat="51.5174687" lon="-0.149907"  n="ARM media" t="office" st="yes"/>
+<node id="1493151161" lat="51.517323" lon="-0.1206612"  n="Government Digital Service" t="office" st="government"/>
+<node id="1508663635" lat="51.5801433" lon="-0.334857"  n="Ellis and Co." t="office" st="estate_agent"/>
+<node id="1531462640" lat="51.5381776" lon="-0.0013854"  n="Eurolink Cars" t="office" st="yes"/>
+<node id="1538908186" lat="51.5584427" lon="-0.1181152"  n="Luxury Homes" t="office" st="estate_agent"/>
+<node id="1582409850" lat="51.4923987" lon="-0.2245931"  n="Coca-Cola" t="office" st="company"/>
+<node id="1588710779" lat="51.5067266" lon="-0.1267102"  n="BT Whitehall telephone exchange" t="office" st="telecommunication"/>
+<node id="1607078881" lat="51.5207204" lon="-0.102071"  n="Save The Children" t="office" st="ngo"/>
+<node id="1609552615" lat="51.4915084" lon="-0.224158"  n="The Walt Disney Company" t="office" st="company"/>
+<node id="1612461741" lat="51.463867" lon="-0.1694691"  n="Clapham Junction St John&#39;s Hill" t="office" st="travel_agent"/>
+<node id="1612461786" lat="51.4651912" lon="-0.1708692"  n="Clapham Junction Grant Road" t="office" st="travel_agent"/>
+<node id="1613019077" lat="51.5358408" lon="-0.116529"  n="Audu &#38; Co" t="office" st="lawyer"/>
+<node id="1613019081" lat="51.5359168" lon="-0.1165126"  n="Audu &#38; Co" t="office" st="lawyer"/>
+<node id="1617653556" lat="51.5144238" lon="-0.1108988"  n="Lewis Silkin" t="office" st="company"/>
+<node id="1617653561" lat="51.5143972" lon="-0.1108839"  n="SNR Denton" t="office" st="company"/>
+<node id="1617653573" lat="51.5143733" lon="-0.1108817"  n="Stirling Energy" t="office" st="company"/>
+<node id="1622546443" lat="51.6087294" lon="-0.0020599"  n="TMP Worldwide" t="office" st="company"/>
+<node id="1655225585" lat="51.4947132" lon="-0.1974309"  n="Soap and Glory" t="office" st="company"/>
+<node id="1656745014" lat="51.5240132" lon="-0.1087687"  n="KCE FM" t="office" st="company"/>
+<node id="1657505488" lat="51.5517187" lon="-0.1114189"  n="Ferro Services" t="office" st="finance"/>
+<node id="1671168891" lat="51.5799667" lon="-0.1232041"  n="Greene &#38; Co Estate Agent" t="office" st="estate_agent"/>
+<node id="1671195374" lat="51.5808304" lon="-0.1221364"  n="KFH" t="office" st="estate_agent"/>
+<node id="1671195406" lat="51.5805877" lon="-0.1224337"  n="Tatler&#39;s Lettings" t="office" st="estate_agent"/>
+<node id="1671195409" lat="51.580396" lon="-0.122668"  n="Winkworth Estate Agents" t="office" st="estate_agent"/>
+<node id="1680893535" lat="51.5236773" lon="-0.115407"  n="Randstad" t="office" st="company"/>
+<node id="1690180837" lat="51.5146616" lon="-0.0791699"  n="Capital Structure" t="office" st="company"/>
+<node id="1690180850" lat="51.5146512" lon="-0.0791827"  n="Imas" t="office" st="company"/>
+<node id="1690180859" lat="51.5146739" lon="-0.07916"  n="Meridian" t="office" st="company"/>
+<node id="1696895512" lat="51.5081267" lon="-0.1653951"  n="The Royal Parks" t="office" st="government"/>
+<node id="1707451772" lat="51.5222379" lon="-0.107947"  n="Yo! Sushi" t="office" st="company"/>
+<node id="1716927278" lat="51.5248203" lon="-0.1101165"  n="AW Childs" t="office" st="estate_agent"/>
+<node id="1721040695" lat="51.5837649" lon="-0.0188816"  n="Foxtons" t="office" st="estate_agent"/>
+<node id="1721713669" lat="51.5151232" lon="-0.0917099"  n="Alcatel Lucent" t="office" st="company"/>
+<node id="1723315600" lat="51.5200041" lon="-0.0896689"  n="Macquarie" t="office" st="company"/>
+<node id="1726343280" lat="51.5273443" lon="-0.1006682"  n="Bureau of Investigative Journalism" t="office" st="ngo"/>
+<node id="1765988249" lat="51.5256679" lon="-0.0800597"  n="Alfred Conway / Fluid Event" t="office" st="company"/>
+<node id="1765988258" lat="51.525664" lon="-0.0800824"  n="Centre Charles Péguy (CCP)" t="office" st="company"/>
+<node id="1765988263" lat="51.5256711" lon="-0.0800167"  n="Centre d&#39;Echanges Internationaux (CEI)" t="office" st="company"/>
+<node id="1765988283" lat="51.5256876" lon="-0.0795706"  n="Dan Wood" t="office" st="company"/>
+<node id="1765988293" lat="51.5256868" lon="-0.0795453"  n="Home Fundraising" t="office" st="company"/>
+<node id="1765988304" lat="51.5256648" lon="-0.0801052"  n="PJ Marks &#38; Co" t="office" st="company"/>
+<node id="1770505851" lat="51.5255756" lon="-0.0809901"  n="Cadis" t="office" st="company"/>
+<node id="1770505853" lat="51.5255761" lon="-0.0809774"  n="TDA Group" t="office" st="company"/>
+<node id="1774147218" lat="51.5257826" lon="-0.0813555"  n="The Prince&#39;s Foundation" t="office" st="ngo"/>
+<node id="1776830781" lat="51.5256931" lon="-0.0816898"  n="Lovell Consulting" t="office" st="company"/>
+<node id="1781389239" lat="51.5264407" lon="-0.0795428"  n="Clubtickets" t="office" st="company"/>
+<node id="1781389240" lat="51.5264395" lon="-0.0795502"  n="DJ Mag (Thrust Publishing)" t="office" st="company"/>
+<node id="1781389241" lat="51.5264361" lon="-0.0795341"  n="Frank Metier LLP (Ben Monk)" t="office" st="company"/>
+<node id="1781389243" lat="51.5264461" lon="-0.0795502"  n="Ioro Limited" t="office" st="company"/>
+<node id="1781389245" lat="51.5264253" lon="-0.0795353"  n="Pointer" t="office" st="company"/>
+<node id="1781389246" lat="51.526433" lon="-0.0795434"  n="Popcorn" t="office" st="company"/>
+<node id="1781389248" lat="51.5264314" lon="-0.0795539"  n="Texmodel" t="office" st="company"/>
+<node id="1781389249" lat="51.5264249" lon="-0.0795483"  n="Urban Network" t="office" st="company"/>
+<node id="1794961577" lat="51.4936478" lon="-0.1464199"  n="Highways Agency" t="office" st="government"/>
+<node id="1794961579" lat="51.4936658" lon="-0.1464014"  n="PA Consulting" t="office" st="company"/>
+<node id="1794961580" lat="51.4927302" lon="-0.1471213"  n="Human Tissue Authority" t="office" st="government"/>
+<node id="1794961581" lat="51.4927212" lon="-0.1471623"  n="London Probation Trust" t="office" st="government"/>
+<node id="1794961582" lat="51.4936534" lon="-0.1464647"  n="Eni Trading &#38; Shipping" t="office" st="company"/>
+<node id="1794961584" lat="51.4936776" lon="-0.1464744"  n="Google Uk Ltd" t="office" st="company"/>
+<node id="1794961587" lat="51.4927056" lon="-0.1471018"  n="Health Protection Agency" t="office" st="government"/>
+<node id="1794961588" lat="51.4936873" lon="-0.1464278"  n="BSkyB" t="office" st="company"/>
+<node id="1794961589" lat="51.4926968" lon="-0.1471403"  n="Medicines and Healthcare Products Regulatory Agency" t="office" st="government"/>
+<node id="1831082701" lat="51.489481" lon="-0.105997"  n="Territorial Army" t="office" st="government"/>
+<node id="1831936031" lat="51.491045" lon="-0.096974"  n="Walworth One Stop Shop" t="office" st="government"/>
+<node id="1831963352" lat="51.48471" lon="-0.09409"  n="Home Ownership Unit" t="office" st="government"/>
+<node id="1832688359" lat="51.5170001" lon="-0.1125991"  n="DX" t="office" st="yes"/>
+<node id="1843941776" lat="51.476658" lon="-0.094052"  n="Anthony &#38; Co" t="office" st="lawyer"/>
+<node id="1843943130" lat="51.477044" lon="-0.094164"  n="Scena" t="office" st="government"/>
+<node id="1843990627" lat="51.480533" lon="-0.094574"  n="Fah Accountants" t="office" st="accountant"/>
+<node id="1912626134" lat="51.5266419" lon="-0.0794542"  n="Hi-Res" t="office" st="company"/>
+<node id="1932375657" lat="51.4642165" lon="-0.1626574"  n="Barnard Marcus" t="office" st="estate_agent"/>
+<node id="1932743555" lat="51.5250992" lon="-0.0351655"  n="WJ Meade" t="office" st="estate_agent"/>
+<node id="1949781244" lat="51.6067149" lon="-0.1235633"  n="P. Spyrou &#38; Co" t="office" st="accountant"/>
+<node id="1950878206" lat="51.498962" lon="-0.1304268"  n="Department of Business, Innovation and Skills" t="office" st="government"/>
+<node id="1958800694" lat="51.5181234" lon="-0.1171622"  n="Pendragon Health" t="office" st="company"/>
+<node id="1973260533" lat="51.5291682" lon="-0.0883171"  n="Accessable Advice" t="office" st="consultancy"/>
+<node id="1973260574" lat="51.5291866" lon="-0.0881948"  n="Motorcade City Insurance" t="office" st="insurance"/>
+<node id="1985559291" lat="51.5945793" lon="0.0221202"  n="Hetheringtons" t="office" st="estate_agent"/>
+<node id="1996847474" lat="51.4874424" lon="-0.3129875"  n="PageOne Communications Ltd" t="office" st="telecommunication"/>
+<node id="2013060288" lat="51.56989" lon="-0.339684"  n="J E Kennedy &#38;amp; Co Solicitors" t="office" st="lawyer"/>
+<node id="2019120109" lat="51.5277745" lon="-0.0836989"  n="London Youth" t="office" st="charity"/>
+<node id="2022895798" lat="51.5013745" lon="-0.1750994"  n="Royal Geographical Society" t="office" st="educational_institution"/>
+<node id="2026660362" lat="51.4238204" lon="-0.0348984"  n="Taipec" t="office" st="company"/>
+<node id="2042957749" lat="51.49522" lon="-0.2162608"  n="Bear Stearns" t="office" st="company"/>
+<node id="2042957752" lat="51.4951946" lon="-0.2162122"  n="Racepoint Group" t="office" st="company"/>
+<node id="2042957753" lat="51.4951722" lon="-0.2161651"  n="Virgin" t="office" st="company"/>
+<node id="2048043635" lat="51.5681016" lon="0.0086411"  n="Excel" t="office" st="estate_agent"/>
+<node id="2048043639" lat="51.5680325" lon="0.0085324"  n="Century 21 Cameron Adams" t="office" st="estate_agent"/>
+<node id="2048072099" lat="51.5681491" lon="0.0110109"  n="Stoke Partnership" t="office" st="lawyer"/>
+<node id="2048090613" lat="51.5672139" lon="0.0107452"  n="Rosens" t="office" st="estate_agent"/>
+<node id="2054234738" lat="51.5153995" lon="-0.1331985"  n="Dolby House" t="office" st="company"/>
+<node id="2092074609" lat="51.5990236" lon="-0.0161052"  n="Henscott Solicitors" t="office" st="lawyer"/>
+<node id="2097232173" lat="51.3747641" lon="-0.0968351"  n="Brook Street" t="office" st="employment_agency"/>
+<node id="2097232179" lat="51.3750769" lon="-0.097077"  n="London Visa" t="office" st="lawyer"/>
+<node id="2097232183" lat="51.3752388" lon="-0.0971901"  n="Swinton" t="office" st="insurance"/>
+<node id="2100470549" lat="51.5887139" lon="-0.0055963"  n="Majestic Property Maintenance Ltd" t="office" st="estate_agent"/>
+<node id="2102150829" lat="51.519685" lon="-0.166767"  n="Voluntary Action Westminster" t="office" st="ngo"/>
+<node id="2103297854" lat="51.3727057" lon="-0.1004695"  n="Jobs @ Pertemps" t="office" st="employment_agency"/>
+<node id="2103297877" lat="51.3711249" lon="-0.1005095"  n="Streeter Marshall" t="office" st="lawyer"/>
+<node id="2112979612" lat="51.369591" lon="-0.099204"  n="Jark" t="office" st="employment_agency"/>
+<node id="2121900013" lat="51.3744503" lon="-0.1055195"  n="ASV Accountancy Ltd" t="office" st="accountant"/>
+<node id="2124568624" lat="51.456188" lon="-0.035983"  n="KFH" t="office" st="estate_agent"/>
+<node id="2124626802" lat="51.3749198" lon="-0.1052034"  n="Andrew Thurburn &#38; Co" t="office" st="accountant"/>
+<node id="2124626805" lat="51.3748643" lon="-0.1052512"  n="Hamilton Eddy &#38; Co" t="office" st="accountant"/>
+<node id="2124626807" lat="51.3746728" lon="-0.1054264"  n="Office Anyplace" t="office" st="it_consultant"/>
+<node id="2126893294" lat="51.5157591" lon="-0.1591206"  n="Ross and Craig" t="office" st="lawyer"/>
+<node id="2133152334" lat="51.5228812" lon="-0.1047727"  n="Mariel Irvine" t="office" st="lawyer"/>
+<node id="2143278477" lat="51.3680698" lon="-0.0990487"  n="African Salihiya" t="office" st="travel_agent"/>
+<node id="2143278481" lat="51.3681106" lon="-0.0990663"  n="London Lettings" t="office" st="estate_agent"/>
+<node id="2143278482" lat="51.3677453" lon="-0.0988553"  n="London Lettings" t="office" st="estate_agent"/>
+<node id="2143278483" lat="51.3679758" lon="-0.0989735"  n="Berry Recruitment" t="office" st="employment_agency"/>
+<node id="2153032615" lat="51.5810775" lon="-0.0102405"  n="Fullers Builders" t="office" st="yes"/>
+<node id="2186159798" lat="51.5151444" lon="-0.1755529"  n="Freerange Communications" t="office" st="company"/>
+<node id="2187356225" lat="51.5045136" lon="-0.056274"  n="Rendall &#38; Rattner" t="office" st="estate_agent"/>
+<node id="2191588084" lat="51.5152393" lon="-0.1497235"  n="De Stefano Investment Corporation" t="office" st="company"/>
+<node id="2191588094" lat="51.5152332" lon="-0.1497508"  n="London and Henley Properties" t="office" st="company"/>
+<node id="2192476978" lat="51.5348809" lon="-0.0907013"  n="Museum of London Archaeology" t="office" st="ngo"/>
+<node id="2196152743" lat="51.3904467" lon="0.0146396"  n="Vogue Development Co Kent Ltd" t="office" st="general"/>
+<node id="2251372213" lat="51.3751369" lon="-0.0946694"  n="Hartwig" t="office" st="lawyer"/>
+<node id="2261220853" lat="51.5880414" lon="-0.0329812"  n="Forest Lettings &#38; Estates" t="office" st="estate_agent"/>
+<node id="2262784170" lat="51.5162909" lon="-0.072345"  n="East One" t="office" st="company"/>
+<node id="2264971286" lat="51.5147522" lon="-0.3192556"  n="Syntec Telecom" t="office" st="yes"/>
+<node id="2264971290" lat="51.5148052" lon="-0.3192556"  n="VR &#38; Shaw Solicitors" t="office" st="lawyer"/>
+<node id="2272747722" lat="51.515249" lon="-0.1512644"  n="Reiss" t="office" st="company"/>
+<node id="2273086338" lat="51.3662521" lon="-0.1009485"  n="Europa Host" t="office" st="it"/>
+<node id="2273086343" lat="51.3668707" lon="-0.1018046"  n="Horizon Estates" t="office" st="estate_agent"/>
+<node id="2273086382" lat="51.3663169" lon="-0.1010496"  n="Zeraxis" t="office" st="it"/>
+<node id="2292189500" lat="51.5755014" lon="-0.0178162"  n="Boost Education" t="office" st="yes"/>
+<node id="2294699885" lat="51.5570377" lon="-0.3356544"  n="DM &#38; Co" t="office" st="estate_agent"/>
+<node id="2295548031" lat="51.4549438" lon="-0.0372842"  n="Bryan &#38; Keegan" t="office" st="estate_agent"/>
+<node id="2296928518" lat="51.5508603" lon="-0.3391441"  n="London Metropolis" t="office" st="estate_agent"/>
+<node id="2309970949" lat="51.5367296" lon="-0.1253755"  n="Hoare Lea, Zone" t="office" st="yes"/>
+<node id="2312646589" lat="51.5011413" lon="0.0723562"  n="Spencer James Estate Agents" t="office" st="estate_agent"/>
+<node id="2316998556" lat="51.5150232" lon="-0.1613631"  n="Copperfields" t="office" st="Consultancy"/>
+<node id="2327675281" lat="51.3737936" lon="-0.1023999"  n="Blue Arrow" t="office" st="employment_agency"/>
+<node id="2333408446" lat="51.5823832" lon="-0.099886"  n="Pro-visas &#38; Immigration Solicitors" t="office" st="solicitors"/>
+<node id="2333408447" lat="51.58242" lon="-0.0998913"  n="Professional Property Management" t="office" st="property management"/>
+<node id="2336909845" lat="51.5137504" lon="-0.1076102"  n="Freshfields Bruckhaus Derringer LLP" t="office" st="lawyer"/>
+<node id="2344809331" lat="51.3826786" lon="-0.1073198"  n="Taxaccolega" t="office" st="accountant"/>
+<node id="2344809333" lat="51.3828723" lon="-0.1075162"  n="Zaar Properties" t="office" st="estate_agent"/>
+<node id="2348235659" lat="51.5021386" lon="-0.2274275"  n="Kerr &#38; Co" t="office" st="estate_agent"/>
+<node id="2381182939" lat="51.5410103" lon="0.0025537"  n="Manpower" t="office" st="recruitment"/>
+<node id="2381182942" lat="51.5412155" lon="0.0015844"  n="Reed" t="office" st="recruitment"/>
+<node id="2381182944" lat="51.5410754" lon="0.0027468"  n="Daybells" t="office" st="solicitor"/>
+<node id="2381182947" lat="51.5409753" lon="0.0024679"  n="Cullens Solicitors" t="office" st="solicitor"/>
+<node id="2381204375" lat="51.5417519" lon="0.0038452"  n="Blakewells" t="office" st="solicitor"/>
+<node id="2381204379" lat="51.5415408" lon="0.0036226"  n="Prime Time" t="office" st="recruitment"/>
+<node id="2389234328" lat="51.5187829" lon="-0.0882468"  n="Mace" t="office" st="company"/>
+<node id="2398116788" lat="51.3639574" lon="-0.2994981"  n="Mann Estate Agents" t="office" st="estate_agent"/>
+<node id="2406756171" lat="51.5725504" lon="-0.2948412"  n="Century 21" t="office" st="estate_agent"/>
+<node id="2406756181" lat="51.5714804" lon="-0.2949399"  n="Bunce-Linsell" t="office" st="lawyer"/>
+<node id="2410318747" lat="51.4982641" lon="-0.1357373"  n="The Labour Party (UK)" t="office" st="political_party"/>
+<node id="2410346991" lat="51.501073" lon="-0.1285269"  n="Liberal Democrats" t="office" st="political_party"/>
+<node id="2412628240" lat="51.524008" lon="-0.15941"  n="White &#38; co" t="office" st="lawyer"/>
+<node id="2414012808" lat="51.4990321" lon="-0.1331303"  n="Barth Coates Solicitors" t="office" st="lawyer"/>
+<node id="2428598436" lat="51.6711205" lon="-0.0404051"  n="Nick de Bois" t="office" st="political_party"/>
+<node id="2429943554" lat="51.6714423" lon="-0.0406445"  n="Enfield Highway Conservative Club Ltd" t="office" st="yes"/>
+<node id="2430158068" lat="51.5735292" lon="-0.294257"  n="Burrows Solicitors" t="office" st="lawyer"/>
+<node id="2430158080" lat="51.5732984" lon="-0.2943212"  n="Hunters" t="office" st="estate_agent"/>
+<node id="2431319638" lat="51.6170792" lon="-0.087407"  n="Canary Property Management" t="office" st="estate_agent"/>
+<node id="2431333141" lat="51.6168693" lon="-0.0871978"  n="Amigos" t="office" st="estate_agent"/>
+<node id="2431348816" lat="51.6166993" lon="-0.0852772"  n="Ayshen Travel" t="office" st="travel"/>
+<node id="2431363115" lat="51.6166994" lon="-0.0849233"  n="Premier Cars" t="office" st="minicab"/>
+<node id="2434611718" lat="51.519855" lon="-0.1557702"  n="Zodiak Media" t="office" st="media"/>
+<node id="2437743915" lat="51.6487845" lon="-0.1293483"  n="Cedar House Financial Services" t="office" st="yes"/>
+<node id="2439812498" lat="51.5729363" lon="-0.2944041"  n="Kyo Service Company" t="office" st="estate_agent"/>
+<node id="2439812510" lat="51.5731487" lon="-0.2943524"  n="Natural Health Clinic" t="office" st="chiropodist"/>
+<node id="2443158454" lat="51.5874411" lon="-0.0395712"  n="Empire Lets" t="office" st="estate_agent"/>
+<node id="2444676803" lat="51.6463155" lon="-0.0470496"  n="Amanah Services" t="office" st="travel_agent"/>
+<node id="2444689809" lat="51.6453719" lon="-0.0466739"  n="Smart Move" t="office" st="estate_agent"/>
+<node id="2444689817" lat="51.6454267" lon="-0.0466873"  n="Clover Insurance Services" t="office" st="insurance"/>
+<node id="2444751170" lat="51.6444831" lon="-0.0466552"  n="Enfield Bangladesh Welfare Association" t="office" st="political_party"/>
+<node id="2444759257" lat="51.6443932" lon="-0.046682"  n="Harris Homes" t="office" st="estate_agent"/>
+<node id="2444947427" lat="51.6438066" lon="-0.0466876"  n="Harris Homes" t="office" st="estate_agent"/>
+<node id="2444977697" lat="51.6421455" lon="-0.0471945"  n="Advance Insurance Services" t="office" st="insurance"/>
+<node id="2444977701" lat="51.6418725" lon="-0.0472939"  n="Portfolio Property Services UK Ltd" t="office" st="estate_agent"/>
+<node id="2445329540" lat="51.6355315" lon="-0.0522601"  n="Austin Ryder and Co" t="office" st="solicitor"/>
+<node id="2445330830" lat="51.6352718" lon="-0.052539"  n="JH Properties" t="office" st="estate_agent"/>
+<node id="2445337303" lat="51.6344295" lon="-0.0531829"  n="Target Property" t="office" st="estate_agent"/>
+<node id="2445337306" lat="51.6343163" lon="-0.0532687"  n="Davis" t="office" st="estate_agent"/>
+<node id="2445337307" lat="51.6343579" lon="-0.0532392"  n="Elpaya" t="office" st="estate_agent"/>
+<node id="2445340504" lat="51.6340182" lon="-0.0534887"  n="Martin Brookes" t="office" st="estate_agent"/>
+<node id="2445340507" lat="51.6341714" lon="-0.0533787"  n="Artemis" t="office" st="accountant"/>
+<node id="2445347229" lat="51.6336552" lon="-0.0537676"  n="Tailors Property Services" t="office" st="estate_agent"/>
+<node id="2445362043" lat="51.6317474" lon="-0.0551892"  n="Ellis &#38; Co" t="office" st="estate_agent"/>
+<node id="2447708112" lat="51.6286634" lon="-0.0563789"  n="Martin Shepherd Company" t="office" st="solicitor"/>
+<node id="2447991472" lat="51.572803" lon="-0.2944358"  n="Bonningtons Solicitors" t="office" st="lawyer"/>
+<node id="2447991477" lat="51.5710339" lon="-0.294584"  n="Liberty Cars" t="office" st="minicab"/>
+<node id="2447991486" lat="51.5728022" lon="-0.2944354"  n="Preston Hill Estates" t="office" st="yes"/>
+<node id="2447991488" lat="51.5728017" lon="-0.294436"  n="R.N.S." t="office" st="accountant"/>
+<node id="2451265182" lat="51.6248715" lon="-0.0592582"  n="SmartMoves" t="office" st="estate_agent"/>
+<node id="2451294923" lat="51.6318877" lon="-0.0546528"  n="W J Meade" t="office" st="estate_agent"/>
+<node id="2451294924" lat="51.6319326" lon="-0.0546206"  n="Automotive Coachworks Ltd" t="office" st="yes"/>
+<node id="2451298304" lat="51.6319803" lon="-0.0545915"  n="Filey Properties Ltd" t="office" st="estate_agent"/>
+<node id="2451324080" lat="51.6361638" lon="-0.0509839"  n="Castles" t="office" st="estate_agent"/>
+<node id="2451326588" lat="51.6362336" lon="-0.0509034"  n="IC Property" t="office" st="estate_agent"/>
+<node id="2451327301" lat="51.6362719" lon="-0.0508605"  n="Tiger Contstruction" t="office" st="builder"/>
+<node id="2451345452" lat="51.6390053" lon="-0.0479585"  n="Davis &#38; Gold Ltd" t="office" st="plumbing"/>
+<node id="2451345453" lat="51.6390337" lon="-0.0479397"  n="Laza" t="office" st="plumbing"/>
+<node id="2451540956" lat="51.6394215" lon="-0.0476903"  n="ADA Associates" t="office" st="accountant"/>
+<node id="2453751950" lat="51.6110561" lon="-0.0656449"  n="Fortis Rose" t="office" st="solicitor"/>
+<node id="2453751952" lat="51.6109129" lon="-0.0656771"  n="Cousins" t="office" st="estate_agent"/>
+<node id="2462839829" lat="51.4575232" lon="0.0594414"  n="Westmount Estates" t="office" st="estate_agent"/>
+<node id="2462839837" lat="51.4577756" lon="0.0593604"  n="Etham Labour Party" t="office" st="political"/>
+<node id="2463974581" lat="51.4507031" lon="0.0515119"  n="Cook Taylor Woodhouse" t="office" st="solicitors"/>
+<node id="2466428730" lat="51.4924774" lon="-0.1497569"  n="Continental Check In" t="office" st="travel_agent"/>
+<node id="2475125541" lat="51.5675582" lon="-0.1223078"  n="appleman Solicitors" t="office" st="solicitors"/>
+<node id="2485002544" lat="51.4504975" lon="0.0543173"  n="Jobcentre Plus" t="office" st="employment"/>
+<node id="2485002546" lat="51.4500912" lon="0.0543465"  n="Kirk &#38; Partners" t="office" st="solicitors"/>
+<node id="2491588991" lat="51.5432053" lon="0.0043707"  n="Foxtons" t="office" st="estate_agent"/>
+<node id="2493885128" lat="51.5801784" lon="-0.3352179"  n="Blaser Mills" t="office" st="solicitors"/>
+<node id="2493885134" lat="51.5781855" lon="-0.3341834"  n="Duncan Lewis Solictors" t="office" st="solicitors"/>
+<node id="2493885147" lat="51.5775737" lon="-0.3333392"  n="Lynch Hall &#38; Hornby Solicitors" t="office" st="solicitors"/>
+<node id="2494486488" lat="51.5954764" lon="-0.3353339"  n="Hilton &#38; Fox" t="office" st="estate_agent"/>
+<node id="2503037652" lat="51.4980461" lon="-0.167085"  n="Waellis" t="office" st="estate_agent"/>
+<node id="2503037658" lat="51.4977746" lon="-0.167555"  n="Savills" t="office" st="estate_agent"/>
+<node id="2503401934" lat="51.5695322" lon="-0.1129808"  n="Gold Insurance" t="office" st="insurance"/>
+<node id="2509680839" lat="51.5354855" lon="-0.0897662"  n="Royal Mail Islington Delivery Office" t="office" st="delivery"/>
+<node id="2512254607" lat="51.58414" lon="-0.313662"  n="Locumlink Pharmacy Recruitment" t="office" st="employment_agency"/>
+<node id="2513428052" lat="51.5826392" lon="-0.3155859"  n="Forum Insurance" t="office" st="insurance"/>
+<node id="2517463829" lat="51.5701744" lon="-0.2945024"  n="Bryan Maher &#38; Co" t="office" st="estate_agent"/>
+<node id="2517463842" lat="51.5696448" lon="-0.2940308"  n="Preston Accountants Ltd" t="office" st="accountant"/>
+<node id="2517463849" lat="51.569674" lon="-0.2943871"  n="Wex &#38; Co" t="office" st="estate_agent"/>
+<node id="2519299689" lat="51.3836506" lon="-0.1080059"  n="Croydon Estates" t="office" st="estate_agent"/>
+<node id="2528652085" lat="51.3736157" lon="-0.0982058"  n="Lloyd Recruitment Services" t="office" st="employment_agency"/>
+<node id="2536912157" lat="51.518439" lon="-0.124561"  n="Stirling Ackroyd" t="office" st="estate_agent"/>
+<node id="2548473333" lat="51.5013957" lon="-0.1267676"  n="HM Revenue and Customs" t="office" st="government"/>
+<node id="2548473334" lat="51.501773" lon="-0.1266951"  n="Department for Culture, Media and Sport" t="office" st="government"/>
+<node id="2554872707" lat="51.5534602" lon="-0.2913774"  n="HM Revenue &#38; Customs Enquiry Centre" t="office" st="government"/>
+<node id="2557128364" lat="51.4897932" lon="-0.0892312"  n="WinMax IT Services LTD" t="office" st="it"/>
+<node id="2562743731" lat="51.5183802" lon="-0.0773648"  n="Euroffice Ltd" t="office" st="company"/>
+<node id="2564607565" lat="51.5024572" lon="-0.0199699"  n="Prolegal" t="office" st="lawyer"/>
+<node id="2576317844" lat="51.5519815" lon="-0.297967"  n="Benjamin Bala &#38; Co" t="office" st="accountant"/>
+<node id="2576317845" lat="51.5519764" lon="-0.2980242"  n="Gaithiri Nathan &#38; Co." t="office" st="lawyer"/>
+<node id="2578108606" lat="51.5195635" lon="-0.0858694"  n="Erudine Financial Limited" t="office" st="company"/>
+<node id="2582823954" lat="51.5563118" lon="-0.3364406"  n="Phillips &#38; Co" t="office" st="estate_agent"/>
+<node id="2583905179" lat="51.5231733" lon="-0.1018162"  n="WorldAccent" t="office" st="company"/>
+<node id="2610004469" lat="51.5636703" lon="-0.3545263"  n="David Conway" t="office" st="estate_agent"/>
+<node id="2617304200" lat="51.5174665" lon="-0.118557"  n="Elliptic Vault" t="office" st="company"/>
+<node id="2617457557" lat="51.5537787" lon="-0.1435876"  n="The College Practice" t="office" st="physician"/>
+<node id="2617540404" lat="51.5151584" lon="-0.0955124"  n="JMP Consultants Lts" t="office" st="company"/>
+<node id="2617935342" lat="51.3852947" lon="-0.1099483"  n="Greater London Solicitors" t="office" st="lawyer"/>
+<node id="2624030080" lat="51.5403251" lon="-0.1465367"  n="Reed Elsevier" t="office" st="company"/>
+<node id="2624805924" lat="51.6441055" lon="-0.0462908"  n="Pro-Visas &#38; Immigration Solicitors" t="office" st="company"/>
+<node id="2629051059" lat="51.5896165" lon="0.0814741"  n="City Edge &#38; Co" t="office" st="accountant"/>
+<node id="2629340972" lat="51.5894635" lon="0.0816687"  n="Reed Rains" t="office" st="estate_agent"/>
+<node id="2629656699" lat="51.590729" lon="-0.1559961"  n="Boulevard House" t="office" st="architect"/>
+<node id="2633604900" lat="51.6008938" lon="-0.1947339"  n="Geek Brothers, IT support computer repairs" t="office" st="company"/>
+<node id="2636548479" lat="51.5124057" lon="-0.0877602"  n="DWF" t="office" st="lawyer"/>
+<node id="2636551249" lat="51.5120381" lon="-0.0796131"  n="DWF" t="office" st="lawyer"/>
+<node id="2637931942" lat="51.5170083" lon="-0.0952568"  n="DLA Piper" t="office" st="lawyer"/>
+<node id="2637961140" lat="51.5205888" lon="-0.0901457"  n="Addleshaw Goddard" t="office" st="lawyer"/>
+<node id="2638014776" lat="51.5207327" lon="-0.0830148"  n="Pinsent Masons" t="office" st="lawyer"/>
+<node id="2638055225" lat="51.5078477" lon="-0.1346788"  n="Hill Dickinson" t="office" st="lawyer"/>
+<node id="2639368443" lat="51.5187151" lon="-0.1101582"  n="Wragge &#38; Co" t="office" st="lawyer"/>
+<node id="2639375134" lat="51.520343" lon="-0.0923418"  n="Linklaters" t="office" st="lawyer"/>
+<node id="2642857083" lat="51.512515" lon="-0.0871204"  n="UBS" t="office" st="finance"/>
+<node id="2644152967" lat="51.5175118" lon="-0.0874383"  n="Berrymans Lace Mawer" t="office" st="lawyer"/>
+<node id="2644157774" lat="51.513228" lon="-0.082647"  n="Berrymans Lace Mawer" t="office" st="lawyer"/>
+<node id="2650092134" lat="51.5124856" lon="-0.0669381"  n="Wool House" t="office" st="yes"/>
+<node id="2652003741" lat="51.5225024" lon="-0.1353555"  n="Wayra" t="office" st="Accelerator"/>
+<node id="2659214398" lat="51.5256237" lon="-0.0888454"  n="TEchHub" t="office" st="coworking"/>
+<node id="2659475637" lat="51.5662207" lon="-0.1347113"  n="Lady&#39;s &#38; Gent&#39;s Minicabs Ltd" t="office" st="company"/>
+<node id="2659475645" lat="51.5110805" lon="-0.1337514"  n="Resilient plc" t="office" st="company"/>
+<node id="2664096400" lat="51.486091" lon="-0.120822"  n="Dexters" t="office" st="estate_agent"/>
+<node id="2668403166" lat="51.5143026" lon="-0.0769179"  n="Internetq" t="office" st="company"/>
+<node id="2671603270" lat="51.46146" lon="-0.1021652"  n="RoboFold" t="office" st="company"/>
+<node id="2672655898" lat="51.5354078" lon="-0.0050119"  n="Gerrys Visa Centre" t="office" st="yes"/>
+<node id="2673046711" lat="51.492116" lon="-0.1387848"  n="FARA Kids" t="office" st="charity"/>
+<node id="2679074518" lat="51.5205622" lon="-0.1328494"  n="Sheridans" t="office" st="company"/>
+<node id="2682052353" lat="51.4536967" lon="-0.0270094"  n="Olan Trust" t="office" st="association"/>
+<node id="2699951308" lat="51.5045938" lon="-0.0204697"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2700140470" lat="51.5141227" lon="-0.2994837"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2700141623" lat="51.514124" lon="-0.2995272"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2700144373" lat="51.4645471" lon="-0.2669629"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2700145498" lat="51.4645506" lon="-0.2669958"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2701152565" lat="51.4078923" lon="-0.3077675"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2701153300" lat="51.407909" lon="-0.30775"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2701157268" lat="51.498125" lon="-0.1668347"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2701157495" lat="51.4981015" lon="-0.166823"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2701160395" lat="51.5105301" lon="-0.1525744"  n="Hamptons International Land &#38; New Homes" t="office" st="estate_agent"/>
+<node id="2701161877" lat="51.5104955" lon="-0.1525236"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2701164509" lat="51.5104715" lon="-0.1524681"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2701175419" lat="51.5908849" lon="-0.1418303"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2701176541" lat="51.5908832" lon="-0.1418759"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2701178583" lat="51.5184101" lon="-0.1708747"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2701179182" lat="51.5183962" lon="-0.1708564"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2701184666" lat="51.491681" lon="-0.1413301"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2701184919" lat="51.4916733" lon="-0.1412986"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2701264227" lat="51.4607106" lon="-0.2161506"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2701267034" lat="51.4607095" lon="-0.2161205"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2701272213" lat="51.5038383" lon="-0.0750185"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2701272494" lat="51.5038333" lon="-0.0749863"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2701318553" lat="51.4274621" lon="-0.3269758"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="2701319570" lat="51.4274712" lon="-0.3269489"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="2702402132" lat="51.388619" lon="0.0734734"  n="Alan de Maid Lettings" t="office" st="estate_agent"/>
+<node id="2702415181" lat="51.3748974" lon="0.098977"  n="Andrew Reeves Lettings" t="office" st="estate_agent"/>
+<node id="2702415778" lat="51.407754" lon="-0.0259716"  n="Andrew Reeves Lettings" t="office" st="estate_agent"/>
+<node id="2703907140" lat="51.3743309" lon="0.0985103"  n="Bairstow Eves Lettings" t="office" st="estate_agent"/>
+<node id="2707249756" lat="51.487919" lon="-0.1115105"  n="Daniel Cobb" t="office" st="estate_agent"/>
+<node id="2707251409" lat="51.4878447" lon="-0.1115017"  n="Kinleigh Folkard &#38; Hayward" t="office" st="estate_agent"/>
+<node id="2707298710" lat="51.4883825" lon="-0.1110582"  n="Winkworth" t="office" st="estate_agent"/>
+<node id="2707308593" lat="51.4879873" lon="-0.1110969"  n="Barnard Marcus" t="office" st="estate_agent"/>
+<node id="2707310220" lat="51.4878124" lon="-0.1111171"  n="Field &#38; Sons" t="office" st="estate_agent"/>
+<node id="2707317941" lat="51.485052" lon="-0.110237"  n="Fisher Meredith Solicitors" t="office" st="lawyer"/>
+<node id="2714491973" lat="51.494747" lon="-0.148308"  n="Andrew Reeves" t="office" st="estate_agent"/>
+<node id="2715374739" lat="51.4541031" lon="-0.0378716"  n="Rocodells" t="office" st="estate_agent"/>
+<node id="2715374740" lat="51.4541249" lon="-0.0375741"  n="Acorn" t="office" st="estate_agent"/>
+<node id="2715374741" lat="51.454307" lon="-0.037378"  n="Swinton" t="office" st="insurer"/>
+<node id="2715374742" lat="51.4542436" lon="-0.0378155"  n="Walter Saunders" t="office" st="lawyer"/>
+<node id="2715374745" lat="51.4540145" lon="-0.0379308"  n="Desiman Limited" t="office" st="estate_agent"/>
+<node id="2715472516" lat="51.455758" lon="-0.036302"  n="Saxton &#38; Co" t="office" st="estate_agent"/>
+<node id="2715475157" lat="51.455801" lon="-0.036264"  n="Spiropoulos Lawal Solicitors" t="office" st="lawyer"/>
+<node id="2722355772" lat="51.5001897" lon="-0.0261879"  n="CBRE" t="office" st="estate_agent"/>
+<node id="2737155408" lat="51.5056199" lon="0.016013"  n="Theory and Practice of Software (tapSW)" t="office" st="company"/>
+<node id="2752619569" lat="51.5252425" lon="-0.0571744"  n="The Pill Box" t="office" st="yes"/>
+<node id="2757250046" lat="51.5264769" lon="-0.1363874"  n="Anthonisz Neville" t="office" st="accountant"/>
+<node id="2769358809" lat="51.5139149" lon="-0.1392891"  n="Acanchi" t="office" st="company"/>
+<node id="2770153176" lat="51.5140807" lon="-0.1382033"  n="Catch" t="office" st="company"/>
+<node id="2770153180" lat="51.5140515" lon="-0.1381915"  n="Ebiquity" t="office" st="company"/>
+<node id="2770153185" lat="51.5140195" lon="-0.1381739"  n="Farpoint" t="office" st="company"/>
+<node id="2770728802" lat="51.5370829" lon="-0.1252215"  n="The Bigger Room" t="office" st="yes"/>
+<node id="2774648459" lat="51.4793083" lon="0.023963"  n="Overhang Ltd" t="office" st="company"/>
+<node id="2777917640" lat="51.4822853" lon="-0.1240971"  n="Ricardina Bridges Ltd" t="office" st="lawyer"/>
+<node id="2778453139" lat="51.5220004" lon="-0.1437602"  n="HowardKennedyfsi" t="office" st="yes"/>
+<node id="2779057268" lat="51.5145878" lon="-0.1752541"  n="Marengo Management" t="office" st="yes"/>
+<node id="2779057271" lat="51.5146529" lon="-0.1753319"  n="Morgan Reed Solicitors" t="office" st="lawyer"/>
+<node id="2781885065" lat="51.488761" lon="-0.136865"  n="Belvoir!" t="office" st="estate_agent"/>
+<node id="2785528241" lat="51.5138478" lon="-0.1354436"  n="Qubit" t="office" st="it"/>
+<node id="2791595360" lat="51.5122023" lon="-0.1158939"  n="KCL Modern language Centre" t="office" st="university"/>
+<node id="2791733514" lat="51.5133759" lon="-0.1341791"  n="MPC" t="office" st="company"/>
+<node id="2791793775" lat="51.4954234" lon="-0.2157536"  n="omnifone" t="office" st="yes"/>
+<node id="2797621894" lat="51.5144292" lon="-0.1342204"  n="Data Know How" t="office" st="company"/>
+<node id="2797621895" lat="51.51455" lon="-0.1333618"  n="GHD" t="office" st="company"/>
+<node id="2797621896" lat="51.5144713" lon="-0.1342518"  n="Misan" t="office" st="company"/>
+<node id="2797621897" lat="51.5144593" lon="-0.1342373"  n="Soho Management + Media" t="office" st="company"/>
+<node id="2797621898" lat="51.5144856" lon="-0.134259"  n="Sweet Images" t="office" st="company"/>
+<node id="2797621899" lat="51.514442" lon="-0.1342312"  n="Trident Sound Studios Ltd" t="office" st="company"/>
+<node id="2801837765" lat="51.4957616" lon="-0.2152311"  n="FT Labs" t="office" st="yes"/>
+<node id="2806295309" lat="51.5010484" lon="-0.1285993"  n="Finmeccanica UK Ltd" t="office" st="warmonger"/>
+<node id="2823668215" lat="51.5160661" lon="-0.1205818"  n="Action for Children" t="office" st="ngo"/>
+<node id="2850023083" lat="51.5141172" lon="-0.1315766"  n="Alumno" t="office" st="company"/>
+<node id="2850023084" lat="51.5140864" lon="-0.1316811"  n="Internap" t="office" st="company"/>
+<node id="2850023085" lat="51.5141086" lon="-0.1316055"  n="MGV" t="office" st="company"/>
+<node id="2850023086" lat="51.5140992" lon="-0.1316426"  n="One Chocolate Communications" t="office" st="company"/>
+<node id="2877480457" lat="51.5132167" lon="-0.1324447"  n="The Village Communications" t="office" st="company"/>
+<node id="2877811401" lat="51.492471" lon="-0.140322"  n="Shiraz Travel" t="office" st="travel_agent"/>
+<node id="2892557336" lat="51.4474164" lon="-0.3286931"  n="Prestige Realty" t="office" st="estate_agent"/>
+<node id="2904816101" lat="51.4919851" lon="-0.1396722"  n="Dauntons" t="office" st="estate_agent"/>
+<node id="2904825701" lat="51.491981" lon="-0.140924"  n="Marsh &#38; Parsons" t="office" st="estate_agent"/>
+<node id="2914698101" lat="51.507875" lon="-0.153506"  n="Harrods Estates" t="office" st="estate_agent"/>
+<node id="2923914370" lat="51.5236309" lon="-0.0679316"  n="Inner City Estates" t="office" st="estate_agent"/>
+<node id="2938637144" lat="51.5093106" lon="-0.1371889"  n="De Pinna Notaries" t="office" st="lawyer"/>
+<node id="2938637145" lat="51.5092894" lon="-0.1371732"  n="L.S.G. Solicitors" t="office" st="lawyer"/>
+<node id="2942062851" lat="51.5103526" lon="-0.1272066"  n="Mozilla London" t="office" st="yes"/>
+<node id="2946296333" lat="51.518139" lon="-0.172218"  n="Fraser" t="office" st="estate_agent"/>
+<node id="2971543733" lat="51.5466524" lon="-0.0549123"  n="Kings Group" t="office" st="estate_agent"/>
+<node id="2971545333" lat="51.5467779" lon="-0.0553057"  n="Stirling Ackroyd" t="office" st="estate_agent"/>
+<node id="2971547033" lat="51.546041" lon="-0.054931"  n="Foxtons" t="office" st="estate_agent"/>
+<node id="2980201836" lat="51.5148248" lon="-0.126221"  n="London Beauty Institute" t="office" st="yes"/>
+<node id="2984249817" lat="51.5383536" lon="-0.123155"  n="The Finnish Institute in London" t="office" st="private_trust"/>
+<node id="2984598827" lat="51.5329008" lon="-0.1717867"  n="REMAX Premier - St. John&#39;s Wood" t="office" st="estate_agent"/>
+<node id="2993726633" lat="51.5128451" lon="-0.1360053"  n="Workpad" t="office" st="yes"/>
+<node id="3012438625" lat="51.6537693" lon="-0.2013409"  n="Foxtons" t="office" st="estate_agent"/>
+<node id="3014118442" lat="51.5246126" lon="-0.1033157"  n="Mother @ Trampery" t="office" st="company"/>
+<node id="3031611238" lat="51.5204208" lon="-0.1181181"  n="STONEiMAGE Management" t="office" st="personal_trainer"/>
+<node id="3046339788" lat="51.3674832" lon="-0.0966927"  n="Communist Party of Britain" t="office" st="political_party"/>
+<node id="3046376789" lat="51.5058407" lon="-0.103235"  n="Infinigate UK Ltd" t="office" st="it"/>
+<node id="3050371734" lat="51.526913" lon="-0.0820246"  n="Head To Head" t="office" st="company"/>
+<node id="3055291138" lat="51.5003708" lon="-0.0171542"  n="SQP" t="office" st="estate_agent"/>
+<node id="3055294042" lat="51.500481" lon="-0.0175807"  n="Felicity J Lord" t="office" st="estate_agent"/>
+<node id="3060907922" lat="51.5324645" lon="0.0159419"  n="Junk Please" t="office" st="company"/>
+<node id="3065534057" lat="51.4619427" lon="-0.1677409"  n="Brook Street" t="office" st="employment_agency"/>
+<node id="3065534060" lat="51.4622808" lon="-0.1674707"  n="Reeds" t="office" st="employment_agency"/>
+<node id="3068304305" lat="51.5045913" lon="-0.0204469"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="3068306003" lat="51.513678" lon="-0.0732104"  n="Hamptons Corporate &#38; Relocation Services" t="office" st="estate_agent"/>
+<node id="3068410314" lat="51.4779445" lon="-0.0126547"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="3068419577" lat="51.4779506" lon="-0.012625"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="3068421237" lat="51.4666333" lon="0.0080017"  n="Hamptons International Sales" t="office" st="estate_agent"/>
+<node id="3068421423" lat="51.4666292" lon="0.008023"  n="Hamptons International Lettings" t="office" st="estate_agent"/>
+<node id="3068849644" lat="51.5145552" lon="-0.0958132"  n="Barnett Waddingham" t="office" st="company"/>
+<node id="3070693327" lat="51.4584409" lon="-0.0813833"  n="Dulwich Helpline" t="office" st="ngo"/>
+<node id="3070697144" lat="51.6167494" lon="-0.0856207"  n="Green House Estate Agents" t="office" st="estate_agent"/>
+<node id="3072882300" lat="51.5431205" lon="-0.0655637"  n="CUT IT OUT Wall Stickers" t="office" st="company"/>
+<node id="3079274703" lat="51.4564221" lon="-0.1627035"  n="Physio For All" t="office" st="physician"/>
+<node id="3081437998" lat="51.5594998" lon="-0.2518226"  n="Flat 22, Grange Court, Birse Crescent" t="office" st="Pest_Control"/>
+<node id="3087527047" lat="51.492084" lon="-0.165708"  n="Cluttons" t="office" st="estate_agent"/>
+<node id="3090725389" lat="51.4559451" lon="-0.1653374"  n="Douglas &#38; Gordon" t="office" st="estate_agent"/>
+<node id="3090725391" lat="51.4557952" lon="-0.1652509"  n="Palace Gate" t="office" st="estate_agent"/>
+<node id="3090725393" lat="51.4556506" lon="-0.1651549"  n="John Thorogood" t="office" st="estate_agent"/>
+<node id="3090725396" lat="51.4562121" lon="-0.1651067"  n="Rampton Baseley" t="office" st="estate_agent"/>
+<node id="3090725397" lat="51.456256" lon="-0.1651384"  n="Edmund Cude" t="office" st="estate_agent"/>
+<node id="3090725399" lat="51.4565061" lon="-0.1652552"  n="Cluttons" t="office" st="estate_agent"/>
+<node id="3090725402" lat="51.456634" lon="-0.1656816"  n="Marsh &#38; Parsons" t="office" st="estate_agent"/>
+<node id="3090725405" lat="51.4569289" lon="-0.165805"  n="Kinleigh, Folkard &#38; Hayward" t="office" st="estate_agent"/>
+<node id="3090725412" lat="51.4573887" lon="-0.1659311"  n="James Pendleton" t="office" st="estate_agent"/>
+<node id="3096582547" lat="51.5057553" lon="-0.1174103"  n="Web developers glass box" t="office" st="yes"/>
+<node id="3098868122" lat="51.6522995" lon="-0.0776384"  n="Martin Shepherd" t="office" st="lawyer"/>
+<node id="3098868123" lat="51.6493599" lon="-0.0576642"  n="Reed" t="office" st="employment_agency"/>
+<node id="3111782020" lat="51.4577209" lon="-0.1656582"  n="Savilles" t="office" st="estate_agent"/>
+<node id="3123726786" lat="51.5068756" lon="-0.125613"  n="Mobile App Developers India" t="office" st="yes"/>
+<node id="3131242152" lat="51.4953798" lon="-0.1417326"  n="TaxAssist Accountant" t="office" st="accountant"/>
+<node id="3135363171" lat="51.6599429" lon="-0.046566"  n="Castles" t="office" st="estate_agent"/>
+<node id="3141368900" lat="51.6028734" lon="-0.1483003"  n="Rubbish Please" t="office" st="company"/>
+<node id="3141818388" lat="51.4642716" lon="-0.1642466"  n="Bairstow Eves Lettings" t="office" st="estate_agent"/>
+<node id="3152235310" lat="51.6537087" lon="-0.0895159"  n="Barnfields" t="office" st="estate_agent"/>
+<node id="3152321227" lat="51.5171026" lon="-0.0791743"  n="Tavistock Centre for Couple Relationships" t="office" st="counselling"/>
+<node id="3152321228" lat="51.5171391" lon="-0.0792729"  n="Belgravia Hair Centre" t="office" st="cosmetic_surgeon"/>
+<node id="3154031505" lat="51.4941621" lon="-0.151445"  n="John D Wood &#38; Co. Lettings" t="office" st="estate_agent"/>
+<node id="3155429074" lat="51.5209135" lon="-0.1921107"  n="Westminster Academy" t="office" st="educational_institution"/>
+<node id="3159369637" lat="51.5158396" lon="0.0572052"  n="24/7 Waste Removal" t="office" st="Rubbish_Removal"/>
+<node id="3168102765" lat="51.4098067" lon="-0.1144246"  n="Rubbish Begone" t="office" st="company"/>
+<node id="3174844584" lat="51.5136724" lon="-0.1150244"  n="Grantham Research Institute on Climate Change and the Environment" t="office" st="research"/>
+<node id="3186866564" lat="51.5244102" lon="-0.1376798"  n="Lazari investment" t="office" st="company"/>
+<node id="3187618261" lat="51.4618794" lon="-0.1740093"  n="Chester &#38; Aldgate " t="office" st="yes"/>
+<node id="3188275545" lat="51.4619149" lon="-0.1740677"  n="Revere" t="office" st="yes"/>
+<node id="3192210599" lat="51.4625048" lon="-0.1756437"  n="Lions Residential" t="office" st="estate_agent"/>
+<node id="3199946354" lat="51.538876" lon="0.0791088"  n="Aquanet Services" t="office" st="company"/>
+<node id="3199946355" lat="51.5388385" lon="0.0790712"  n="Barking Valuation Office" t="office" st="government"/>
+<node id="3199946356" lat="51.5388757" lon="0.079037"  n="Barts &#38; the London NHS Trust" t="office" st="government"/>
+<node id="3199946357" lat="51.5388486" lon="0.079057"  n="Careers Development Group" t="office" st="company"/>
+<node id="3199946358" lat="51.5388645" lon="0.0791159"  n="Credit Claim Helpline Ltd" t="office" st="company"/>
+<node id="3199946359" lat="51.5388373" lon="0.0790959"  n="Extra Management Services Ltd" t="office" st="company"/>
+<node id="3199946561" lat="51.538858" lon="0.079037"  n="Lewis Day Transport Plc" t="office" st="company"/>
+<node id="3199946562" lat="51.5388811" lon="0.0790738"  n="London Borough of Barking and Dagenham Marketing and Communications Department" t="office" st="government"/>
+<node id="3199946563" lat="51.5388543" lon="0.0790819"  n="Sternberg, Reed" t="office" st="company"/>
+<node id="3202931474" lat="51.6071753" lon="-0.1235543"  n="Ellis Estate Agents" t="office" st="estate_agent"/>
+<node id="3204750005" lat="51.5505564" lon="0.107189"  n="London Drainage" t="office" st="company"/>
+<node id="3205848957" lat="51.5727" lon="-0.0954907"  n="24/7 Pest Control" t="office" st="Pest_Control"/>
+<node id="3208169592" lat="51.5384245" lon="0.0806587"  n="Hungerburger Limited" t="office" st="company"/>
+<node id="3209999020" lat="51.5403546" lon="0.0829434"  n="Dataday Accountability" t="office" st="accountant"/>
+<node id="3209999021" lat="51.5405085" lon="0.0831501"  n="New Heights Immigration Services" t="office" st="immigration_consultant"/>
+<node id="3214291785" lat="51.5729746" lon="-0.1221533"  n="Cromon Media Services" t="office" st="media"/>
+<node id="3214437304" lat="51.4522142" lon="-0.1475054"  n="Patrick Henry" t="office" st="estate_agent"/>
+<node id="3217428661" lat="51.4986669" lon="-0.10832"  n="the Chandlery" t="office" st="company"/>
+<node id="3217652861" lat="51.5497342" lon="-0.087181"  n="M&#38;M Property" t="office" st="estate_agent"/>
+<node id="3222327413" lat="51.4693562" lon="-0.1787855"  n="Aleutia Ltd." t="office" st="company"/>
+<node id="3224938942" lat="51.3382915" lon="-0.3185877"  n="DiGiCo UK Ltd" t="office" st="company"/>
+<node id="3238116910" lat="51.5501444" lon="-0.3392935"  n="Rehncy Shaheen Accountants" t="office" st="accountant"/>
+<node id="3247502561" lat="51.522642" lon="-0.1350485"  n="AOL (UK) Ltd" t="office" st="company"/>
+<node id="3247851963" lat="51.5151401" lon="-0.3375895"  n="Tuffin and Wren" t="office" st="estate_agent"/>
+<node id="3259884390" lat="51.391809" lon="0.0008397"  n="George Proctor and Partners" t="office" st="estate_agent"/>
+<node id="3260045877" lat="51.5123581" lon="-0.304259"  n="International House" t="office" st="yes"/>
+<node id="3260660647" lat="51.5075287" lon="-0.3374713"  n="KRS Estates" t="office" st="estate_agent"/>
+<node id="3260746767" lat="51.5068531" lon="-0.3374845"  n="DSA Chartered Accountants" t="office" st="accountant"/>
+<node id="3261542728" lat="51.3921756" lon="0.0015056"  n="Edmund" t="office" st="estate_agent"/>
+<node id="3261915823" lat="51.5082469" lon="-0.3379885"  n="Doyle" t="office" st="estate_agent"/>
+<node id="3274933161" lat="51.488864" lon="-0.143977"  n="Jackson-Stops &#38; Staff" t="office" st="estate_agent"/>
+<node id="3286870561" lat="51.495109" lon="-0.130604"  n="Life Residential" t="office" st="estate_agent"/>
+<node id="3287542561" lat="51.4911098" lon="-0.1393072"  n="Chard" t="office" st="estate_agent"/>
+<node id="3287646261" lat="51.513208" lon="-0.136967"  n="GLP" t="office" st="estate_agent"/>
+<node id="3291299137" lat="51.4731093" lon="-0.1620682"  n="Mick Coulson Scrap Metal" t="office" st="yes"/>
+<node id="3307388028" lat="51.4620461" lon="-0.1135123"  n="Market Village Company Ltd" t="office" st="company"/>
+<node id="3315565962" lat="51.484463" lon="-0.1226359"  n="The Interplanetary Society" t="office" st="ngo"/>
+<node id="3317712761" lat="51.6052074" lon="-0.2969039"  n="UK E Testing Services" t="office" st="yes"/>
+<node id="3336222924" lat="51.463152" lon="-0.1133256"  n="Mini Cab One World International Shipping Services" t="office" st="taxi"/>
+<node id="3337942354" lat="51.5762445" lon="-0.0987495"  n="Ace Lettings" t="office" st="estate_agent"/>
+<node id="3337952137" lat="51.5768171" lon="-0.0988487"  n="Alpha Lettings" t="office" st="estate_agent"/>
+<node id="3338325137" lat="51.4568262" lon="-0.1891321"  n="Simply Letting London" t="office" st="estate_agent"/>
+<node id="3340681799" lat="51.5061853" lon="-0.1274241"  n="Department for International Development" t="office" st="government"/>
+<node id="3353955811" lat="51.3942968" lon="-0.2386233"  n="Elite Property Services" t="office" st="estate_agent"/>
+<node id="3353970561" lat="51.3946323" lon="-0.2386075"  n="West Barnes Hypnotherapy" t="office" st="yes"/>
+<node id="3353970563" lat="51.3947754" lon="-0.2383149"  n="Prestige Nursing Care" t="office" st="yes"/>
+<node id="3356848321" lat="51.5118907" lon="-0.0799997"  n="AIG" t="office" st="company"/>
+<node id="3357928385" lat="51.4997675" lon="-0.1636445"  n="Harrods Estates" t="office" st="estate_agent"/>
+<node id="3357928593" lat="51.499043" lon="-0.1654768"  n="Hobart Slater" t="office" st="estate_agent"/>
+<node id="3357928808" lat="51.5009403" lon="-0.1602267"  n="Marler &#38; Marler" t="office" st="estate_agent"/>
+<node id="3358734427" lat="51.5111989" lon="-0.0819881"  n="Accenture" t="office" st="company"/>
+<node id="3358741097" lat="51.5128807" lon="-0.0922627"  n="Accenture" t="office" st="company"/>
+<node id="3369032461" lat="51.5406741" lon="0.0027246"  n="Jobcentre Plus" t="office" st="employment_agency"/>
+<node id="3375577905" lat="51.5102169" lon="-0.0931023"  n="King &#38; Wood Mallesons LLP" t="office" st="lawyer"/>
+<node id="3392834093" lat="51.500639" lon="-0.156824"  n="Douglas Lyons &#38; Lyons" t="office" st="estate_agent"/>
+<node id="3392839793" lat="51.499203" lon="-0.156788"  n="Henry &#38; James" t="office" st="estate_agent"/>
+<node id="3396321278" lat="51.5134029" lon="-0.0757201"  n="Azam &#38; Co. Solicitors" t="office" st="lawyer"/>
+<node id="3397556275" lat="51.509727" lon="-0.0864199"  n="Waagner Biro" t="office" st="yes"/>
+<node id="3400081272" lat="51.5325375" lon="-0.0094325"  n="Capricorn Property Services" t="office" st="estate_agent"/>
+<node id="3400081274" lat="51.5326856" lon="-0.009239"  n="Appleby and Wood" t="office" st="accountant"/>
+<node id="3404289993" lat="51.501974" lon="-0.158384"  n="Iles Property" t="office" st="estate_agent"/>
+<node id="3404291195" lat="51.498507" lon="-0.157329"  n="Chestertons" t="office" st="estate_agent"/>
+<node id="3404324594" lat="51.494548" lon="-0.147788"  n="Diplomat Travel" t="office" st="travel_agent"/>
+<node id="3406254099" lat="51.3851736" lon="-0.1016358"  n="Krishmorgan Solicitors" t="office" st="lawyer"/>
+<node id="3406254502" lat="51.3854426" lon="-0.1001461"  n="London Accident Claims Ltd" t="office" st="insurance"/>
+<node id="3425273574" lat="51.5190668" lon="-0.156491"  n="BDO LLP" t="office" st="company"/>
+<node id="3430375163" lat="51.4673291" lon="-0.1702607"  n="Battersea Labour Club" t="office" st="political_party"/>
+<node id="3440712494" lat="51.494177" lon="-0.21335"  n="Tates" t="office" st="estate_agent"/>
+<node id="3450884560" lat="51.4676327" lon="-0.1903479"  n="Bannenberg Rowell Design" t="office" st="graphic_design"/>
+<node id="3451035751" lat="51.4678034" lon="-0.190451"  n="Chelsea Studios" t="office" st="yes"/>
+<node id="3454674464" lat="51.5137438" lon="-0.1471645"  n="Cameo" t="office" st="company"/>
+<node id="3457928227" lat="51.6520447" lon="-0.0798313"  n="Dayfields" t="office" st="estate_agent"/>
+<node id="3459243165" lat="51.4227493" lon="-0.2092147"  n="Zipcar" t="office" st="company"/>
+<node id="3468278518" lat="51.5098295" lon="-0.1429868"  n="Cognis Capital" t="office" st="company"/>
+<node id="3468278519" lat="51.5098159" lon="-0.1429716"  n="Doherty Baines" t="office" st="company"/>
+<node id="3468278520" lat="51.509824" lon="-0.1430031"  n="Michaeljohn Group Ltd" t="office" st="company"/>
+<node id="3468278521" lat="51.5098133" lon="-0.1429868"  n="Saker Estates Ltd" t="office" st="company"/>
+<node id="3469151253" lat="51.5136798" lon="-0.1181262"  n="Adecco" t="office" st="company"/>
+<node id="3473952408" lat="51.463707" lon="-0.3015901"  n="Winkworth" t="office" st="estate_agent"/>
+<node id="3475610554" lat="51.5052039" lon="-0.0957755"  n="uSwitch Limited" t="office" st="company"/>
+<node id="3476186438" lat="51.4631122" lon="-0.3019891"  n="Foxtons" t="office" st="estate_agent"/>
+<node id="3489908199" lat="51.507537" lon="-0.1514999"  n="Capus Land" t="office" st="company"/>
+<node id="3489908200" lat="51.507534" lon="-0.1514842"  n="London &#38; Oriental" t="office" st="company"/>
+<node id="3489908201" lat="51.5075411" lon="-0.1515162"  n="Northover Litigation" t="office" st="company"/>
+<node id="3489908202" lat="51.5075329" lon="-0.1515211"  n="Tideway Investment Management Ltd" t="office" st="company"/>
+<node id="3489908203" lat="51.5075287" lon="-0.1515072"  n="Wort Cherry Johnson Waud" t="office" st="company"/>
+<node id="3494677458" lat="51.5108504" lon="-0.1487583"  n="BerchWood Partners" t="office" st="company"/>
+<node id="3494677461" lat="51.5108614" lon="-0.1487724"  n="Investcorp International Limited" t="office" st="company"/>
+<node id="3494677462" lat="51.5108526" lon="-0.1487351"  n="Meaby &#38; Co Solicitors" t="office" st="lawyer"/>
+<node id="3494677463" lat="51.5107118" lon="-0.1494704"  n="Metro" t="office" st="company"/>
+<node id="3494677464" lat="51.5108631" lon="-0.1487534"  n="Oxburgh Partners" t="office" st="company"/>
+<node id="3494677465" lat="51.5107145" lon="-0.1494268"  n="Sheffield United FC" t="office" st="company"/>
+<node id="3494677466" lat="51.5107136" lon="-0.1494458"  n="Topspring" t="office" st="company"/>
+<node id="3495051911" lat="51.5120152" lon="-0.1531896"  n="Atkin Associates Limited" t="office" st="company"/>
+<node id="3495051912" lat="51.5120369" lon="-0.1531985"  n="Capitalise" t="office" st="company"/>
+<node id="3495051913" lat="51.5120604" lon="-0.1531491"  n="Dragon Capital Corporation Ltd" t="office" st="company"/>
+<node id="3495051914" lat="51.5120372" lon="-0.1531372"  n="Grosvenor Capital" t="office" st="company"/>
+<node id="3495051917" lat="51.5120641" lon="-0.1531737"  n="House of Thara" t="office" st="company"/>
+<node id="3495051918" lat="51.5120567" lon="-0.1532035"  n="Inspired Asset Management" t="office" st="company"/>
+<node id="3495051919" lat="51.5120482" lon="-0.1531442"  n="Joseph Homes" t="office" st="company"/>
+<node id="3495051920" lat="51.5120257" lon="-0.1531557"  n="Momo Group Ltd" t="office" st="company"/>
+<node id="3495051921" lat="51.5120486" lon="-0.1531707"  n="Watson Helsby" t="office" st="company"/>
+<node id="3497324072" lat="51.5356007" lon="-0.1033114"  n="Cluttons" t="office" st="estate_agent"/>
+<node id="3498730349" lat="51.5006729" lon="-0.0148631"  n="CCTvenues South Quay" t="office" st="company"/>
+<node id="3498761205" lat="51.5006558" lon="-0.0146712"  n="Broadridge Financial Solutions" t="office" st="company"/>
+<node id="3502454864" lat="51.4736954" lon="-0.1604374"  n="SL Property Consultants" t="office" st="estate_agent"/>
+<node id="3502897401" lat="51.525197" lon="-0.0573855"  n="Crafted" t="office" st="company"/>
+<node id="3511268914" lat="51.516948" lon="-0.1418996"  n="Recombu" t="office" st="company"/>
+<node id="3511268915" lat="51.5169384" lon="-0.1418943"  n="Scott Marshall" t="office" st="company"/>
+<node id="3527722639" lat="51.5237278" lon="-0.1048208"  n="Ordnance Survey GeoVation Hub - London" t="office" st="mapping_agency"/>
+<node id="3547717993" lat="51.535723" lon="-0.24408"  n="Xpress Shipping &#38; Travel" t="office" st="travel_agent"/>
+<node id="3552207293" lat="51.511389" lon="-0.135874"  n="Flight Centre" t="office" st="travel_agent"/>
+<node id="3557104795" lat="51.5136439" lon="-0.1282422"  n="Akelius" t="office" st="company"/>
+<node id="3559090578" lat="51.4927905" lon="-0.2205984"  n="Orega Hammersmith" t="office" st="company"/>
+<node id="3559146642" lat="51.5198934" lon="-0.0877022"  n="Orega Moorgate" t="office" st="company"/>
+<node id="3559189781" lat="51.4566365" lon="-0.1963781"  n="Orega Wandsworth" t="office" st="company"/>
+<node id="3560950169" lat="51.5182336" lon="-0.1504091"  n="Hamilton Court Group" t="office" st="commercial"/>
+<node id="3568266594" lat="51.3362504" lon="-0.1142467"  n="Mark Youll" t="office" st="estate_agent"/>
+<node id="3568677020" lat="51.3379451" lon="-0.1162444"  n="Bairstow Eves Lettings" t="office" st="estate_agent"/>
+<node id="3568711002" lat="51.3384263" lon="-0.1167074"  n="Frost Estate Agent" t="office" st="estate_agent"/>
+<node id="3568867705" lat="51.3386028" lon="-0.1165489"  n="David Bright" t="office" st="estate_agent"/>
+<node id="3569159820" lat="51.3392092" lon="-0.1156394"  n="Mann Estate Agents" t="office" st="estate_agent"/>
+<node id="3569168816" lat="51.3393196" lon="-0.1154605"  n="Cubitt &#38; West" t="office" st="estate_agent"/>
+<node id="3569322793" lat="51.3391604" lon="-0.1175517"  n="Shinerocks" t="office" st="estate_agent"/>
+<node id="3569354109" lat="51.3396227" lon="-0.1177159"  n="Artemis" t="office" st="insurance"/>
+<node id="3574462593" lat="51.5228084" lon="-0.0817892"  n="moo.com" t="office" st="company"/>
+<node id="3574808283" lat="51.5272768" lon="-0.0175398"  n="Local People" t="office" st="employment_agency"/>
+<node id="3579185978" lat="51.6535686" lon="-0.0293675"  n="Inc Direct" t="office" st="marketing"/>
+<node id="3579412406" lat="51.5273871" lon="-0.1006203"  n="Enterprise Office" t="office" st="ngo"/>
+<node id="3590548768" lat="51.5254605" lon="-0.127884"  n="Smart Focus HQ" t="office" st="company"/>
+<node id="3593397940" lat="51.5232766" lon="-0.0110439"  n="Capital Solicitors" t="office" st="lawyer"/>
+<node id="3595050531" lat="51.5253286" lon="-0.1042646"  n="Oxand" t="office" st="consulting"/>
+<node id="3598486251" lat="51.5110611" lon="-0.0671596"  n="Direct Homes" t="office" st="estate_agent"/>
+<node id="3598486252" lat="51.5110686" lon="-0.067055"  n="Direct Auto" t="office" st="insurance"/>
+<node id="3599602612" lat="51.5012318" lon="-0.0258539"  n="Square Mile" t="office" st="estate_agent"/>
+<node id="3605906218" lat="51.5006349" lon="-0.025756"  n="Atkinson McLeod" t="office" st="estate_agent"/>
+<node id="3607806796" lat="51.5029274" lon="-0.0260154"  n="Alex Neil" t="office" st="estate_agent"/>
+<node id="3607806797" lat="51.5029558" lon="-0.0262407"  n="Keatons" t="office" st="estate_agent"/>
+<node id="3609402261" lat="51.5725783" lon="-0.2951724"  n="Conservatives" t="office" st="political_party"/>
+<node id="3620876494" lat="51.5091759" lon="-0.1974799"  n="EcoSwitch" t="office" st="company"/>
+<node id="3620876495" lat="51.5091934" lon="-0.197476"  n="Go Native Limited" t="office" st="company"/>
+<node id="3620876496" lat="51.5091573" lon="-0.1974741"  n="Inspire" t="office" st="company"/>
+<node id="3624879489" lat="51.5389129" lon="-0.2500816"  n="Matheson&#39;s" t="office" st="estate_agent"/>
+<node id="3624951697" lat="51.5148682" lon="-0.1761288"  n="Northfields" t="office" st="estate_agent"/>
+<node id="3625017319" lat="51.4980264" lon="-0.1442187"  n="Celestial Travel" t="office" st="travel_agent"/>
+<node id="3629353837" lat="51.5144762" lon="-0.1108739"  n="Orega Chancery Lane" t="office" st="company"/>
+<node id="3629357750" lat="51.5186004" lon="-0.1122776"  n="Orega High Holborn" t="office" st="company"/>
+<node id="3631210988" lat="51.4981195" lon="-0.1447806"  n="Bravo Travel" t="office" st="travel_agent"/>
+<node id="3637222489" lat="51.5173065" lon="-0.1105803"  n="MSF" t="office" st="ngo"/>
+<node id="3637645309" lat="51.5205465" lon="-0.1395551"  n="Chris Dedman" t="office" st="estate_agent"/>
+<node id="3639334564" lat="51.5463974" lon="-0.1040351"  n="City &#38; Urban" t="office" st="estate_agent"/>
+<node id="3639512816" lat="51.5254012" lon="-0.0776997"  n="Forge &#38; Co" t="office" st="yes"/>
+<node id="3661150003" lat="51.5259107" lon="-0.1787552"  n="Goldschmidt-Howland" t="office" st="esate agent"/>
+<node id="3661779162" lat="51.5482392" lon="-0.0079454"  n="East Village Management Office" t="office" st="company"/>
+<node id="3675032003" lat="51.4882237" lon="-0.0188422"  n="Landmark Estates" t="office" st="estate_agent"/>
+<node id="3675032004" lat="51.488187" lon="-0.0187645"  n="Bestway Builders" t="office" st="company"/>
+<node id="3679274913" lat="51.4933158" lon="-0.1414255"  n="Douglas &#38; Gordon" t="office" st="estate_agent"/>
+<node id="3691595577" lat="51.4984207" lon="-0.0652831"  n="MGM London" t="office" st="estate_agent"/>
+<node id="3701908379" lat="51.5317646" lon="-0.1803741"  n="Global Realty" t="office" st="estate_agent"/>
+<node id="3705335126" lat="51.4455562" lon="-0.4106984"  n="Adecco" t="office" st="employment_agency"/>
+<node id="3705335134" lat="51.4454203" lon="-0.4108701"  n="Demon Recruitment Group" t="office" st="employment_agency"/>
+<node id="3714045135" lat="51.5009393" lon="-0.1182403"  n="Life Residential" t="office" st="estate_agent"/>
+<node id="3714081150" lat="51.5021619" lon="-0.1163085"  n="Guy&#39;s and St Thomas&#39; NHS Foundation Trust Education Centre" t="office" st="educational_institution"/>
+<node id="3714081154" lat="51.500936" lon="-0.1122328"  n="Fyfe McDade" t="office" st="estate_agent"/>
+<node id="3718166225" lat="51.5186116" lon="-0.0861335"  n="Skills Matter" t="office" st="yes"/>
+<node id="3723647595" lat="51.5816548" lon="-0.1262402"  n="Traynor" t="office" st="estate_agent"/>
+<node id="3730488618" lat="51.4917439" lon="-0.1649551"  n="Douglas &#38; Gordon" t="office" st="estate_agent"/>
+<node id="3735862992" lat="51.5181983" lon="-0.0791513"  n="Sabera &#38; Co" t="office" st="accountant"/>
+<node id="3735863233" lat="51.5180284" lon="-0.0793169"  n="Ritz Recruitment" t="office" st="employment_agency"/>
+<node id="3737503990" lat="51.5131477" lon="-0.1335865"  n="ThoughtWorks" t="office" st="company"/>
+<node id="3741113704" lat="51.5168204" lon="-0.088002"  n="Lebara" t="office" st="telecommunication"/>
+<node id="3746122088" lat="51.4977833" lon="-0.0974971"  n="ETC Venues" t="office" st="company"/>
+<node id="3750384073" lat="51.5869172" lon="-0.0964217"  n="West Green Cars" t="office" st="taxi"/>
+<node id="3750654395" lat="51.4545785" lon="-0.1395915"  n="KFH" t="office" st="estate_agent"/>
+<node id="3751587157" lat="51.5703847" lon="-0.1465877"  n="TMD" t="office" st="estate_agent"/>
+<node id="3756642910" lat="51.4818766" lon="-0.0265079"  n="Bench Outreach" t="office" st="administrative"/>
+<node id="3756642913" lat="51.4819179" lon="-0.0265065"  n="Jessica&#39;s Heart" t="office" st="administrative"/>
+<node id="3756642914" lat="51.4816972" lon="-0.0262595"  n="Orlando Cars &#38; Airport Transfers" t="office" st="yes"/>
+<node id="3756642917" lat="51.4819662" lon="-0.0265208"  n="The Compassionate Friends" t="office" st="administrative"/>
+<node id="3756642918" lat="51.4817713" lon="-0.02619"  n="Unique Contract Services Ltd" t="office" st="yes"/>
+<node id="3763350319" lat="51.5256752" lon="-0.1397833"  n="Facebook" t="office" st="yes"/>
+<node id="3770564759" lat="51.5012828" lon="-0.2328623"  n="Duncan Lewis Solicitors" t="office" st="lawyer"/>
+<node id="3770653760" lat="51.5021744" lon="-0.2272358"  n="Frixou &#38; Co" t="office" st="accountant"/>
+<node id="3770653761" lat="51.5021809" lon="-0.2272015"  n="Ramda" t="office" st="travel_agent"/>
+<node id="3771959506" lat="51.4999952" lon="-0.2383174"  n="Samir &#38; Co" t="office" st="accountant"/>
+<node id="3771959762" lat="51.4998704" lon="-0.2376696"  n="Ravenscourt Residential" t="office" st="estate_agent"/>
+<node id="3772007557" lat="51.4999291" lon="-0.2383831"  n="Samir &#38; Co" t="office" st="accountant"/>
+<node id="3772007558" lat="51.5000413" lon="-0.2380938"  n="Sunshine Smiles" t="office" st="logistics"/>
+<node id="3781041942" lat="51.5061799" lon="-0.2322145"  n="Winkworth" t="office" st="estate_agent"/>
+<node id="3781060724" lat="51.5065405" lon="-0.2331538"  n="The Advice Centre" t="office" st="ngo"/>
+<node id="3781060727" lat="51.5062363" lon="-0.2328332"  n="Al-Muna" t="office" st="travel_agent"/>
+<node id="3781060731" lat="51.5061623" lon="-0.2319349"  n="Londomus" t="office" st="estate_agent"/>
+<node id="3781068768" lat="51.5062135" lon="-0.232482"  n="Kartar Properties" t="office" st="estate_agent"/>
+<node id="3781068769" lat="51.5061898" lon="-0.232302"  n="Albrek Travel" t="office" st="travel_agent"/>
+<node id="3782252276" lat="51.5063122" lon="-0.2377761"  n="West 12 Law" t="office" st="lawyer"/>
+<node id="3782253762" lat="51.5064326" lon="-0.236591"  n="Oaklands Estates" t="office" st="estate_agent"/>
+<node id="3782253763" lat="51.5064451" lon="-0.236917"  n="Amber &#38; Co" t="office" st="estate_agent"/>
+<node id="3782253768" lat="51.5065636" lon="-0.2377274"  n="Juba Express" t="office" st="travel_agent"/>
+<node id="3785890082" lat="51.5231022" lon="-0.0845066"  n="Amplify" t="office" st="advertising_agency"/>
+<node id="3787421928" lat="51.5244541" lon="-0.0723499"  n="Marsh and Parsons" t="office" st="estate_agent"/>
+<node id="3790251764" lat="51.4953194" lon="-0.224129"  n="Myers Fletcher &#38; Gordon" t="office" st="lawyer"/>
+<node id="3790295461" lat="51.494082" lon="-0.2238076"  n="Summit Recruitment" t="office" st="employment_agency"/>
+<node id="3790320758" lat="51.4973173" lon="-0.222517"  n="Winkworth" t="office" st="estate_agent"/>
+<node id="3790321558" lat="51.4978161" lon="-0.2223518"  n="Marsh &#38; Parsons" t="office" st="estate_agent"/>
+<node id="3790332057" lat="51.4983676" lon="-0.2220804"  n="Brook Green Estate Agents" t="office" st="estate_agent"/>
+<node id="3790332063" lat="51.4997859" lon="-0.2218058"  n="Townends" t="office" st="estate_agent"/>
+<node id="3790362258" lat="51.5030982" lon="-0.2228986"  n="Language Friendship" t="office" st="educational_institution"/>
+<node id="3793525836" lat="51.5127716" lon="-0.0615345"  n="Sharif and Co" t="office" st="accountant"/>
+<node id="3793550312" lat="51.5519537" lon="-0.1412935"  n="Loft Style Properties" t="office" st="estate_agent"/>
+<node id="3793550315" lat="51.5523531" lon="-0.1416389"  n="Green and Co" t="office" st="estate_agent"/>
+<node id="3801857851" lat="51.5862306" lon="-0.0331003"  n="Ramodson and Company Accountants" t="office" st="accountant"/>
+<node id="3804083558" lat="51.5882349" lon="-0.0324058"  n="Key Time Ltd" t="office" st="accountant"/>
+<node id="3804083561" lat="51.5884098" lon="-0.0318109"  n="New Move Property Agents" t="office" st="estate_agent"/>
+<node id="3805599538" lat="51.4949419" lon="-0.2267012"  n="Winton Capital" t="office" st="financial"/>
+<node id="3811088497" lat="51.5143565" lon="-0.0698537"  n="Hurford Salvi Carr" t="office" st="estate_agent"/>
+<node id="3835357178" lat="51.5047406" lon="-0.0223613"  n="Knight Frank" t="office" st="estate_agent"/>
+<node id="3838047418" lat="51.571345" lon="-0.0897478"  n="Cook Estates" t="office" st="estate_agent"/>
+<node id="3840603256" lat="51.5429636" lon="-0.058245"  n="Studio 10" t="office" st="company"/>
+<node id="3841574295" lat="51.5416027" lon="-0.1814506"  n="Regal Homes" t="office" st="estate_agent"/>
+<node id="3841574296" lat="51.5417925" lon="-0.1810354"  n="SweetTree" t="office" st="home_care"/>
+<node id="3843819081" lat="51.4969501" lon="-0.1512149"  n="Oficina de empadronamiento electoral de Bolivia en el exterior" t="office" st="government"/>
+<node id="3862873056" lat="51.5041495" lon="-0.1113418"  n="old school" t="office" st="company"/>
+<node id="3865853878" lat="51.5907315" lon="-0.1032742"  n="Westbury Properies" t="office" st="estate_agent"/>
+<node id="3874539264" lat="51.4990365" lon="-0.0844531"  n="Studio 1" t="office" st="company"/>
+<node id="3879106456" lat="51.5219368" lon="-0.1025518"  n="St John Ambulance" t="office" st="ngo"/>
+<node id="3881609300" lat="51.5218212" lon="-0.0334411"  n="Citiside Properties" t="office" st="estate_agent"/>
+<node id="3881680183" lat="51.521143" lon="-0.0328166"  n="Ideal Homes" t="office" st="estate_agent"/>
+<node id="3881693857" lat="51.5213456" lon="-0.0330594"  n="Clear View Claims" t="office" st="lawyer"/>
+<node id="3881696519" lat="51.5214033" lon="-0.0331254"  n="Black and White Claims" t="office" st="lawyer"/>
+<node id="3881750389" lat="51.522149" lon="-0.0337036"  n="J Cooper Solicitors" t="office" st="lawyer"/>
+<node id="3885288413" lat="51.4425603" lon="-0.4122614"  n="Forest" t="office" st="estate_agent"/>
+<node id="3889011979" lat="51.534912" lon="-0.1820157"  n="Clean Gutters Ltd." t="office" st="yes"/>
+<node id="3895353238" lat="51.5419267" lon="-0.3460712"  n="Brian Cox" t="office" st="estate_agent"/>
+<node id="3895354444" lat="51.54184" lon="-0.3461142"  n="Rolitex Estate Agents" t="office" st="estate_agent"/>
+<node id="3900663904" lat="51.5740565" lon="-0.1129325"  n="Hobarts" t="office" st="estate_agent"/>
+<node id="3905207750" lat="51.5119234" lon="-0.0698447"  n="Carter Backer Winter LLP" t="office" st="accountant"/>
+<node id="3923703916" lat="51.5232822" lon="-0.0340522"  n="City Lord" t="office" st="estate_agent"/>
+<node id="3924529057" lat="51.5214707" lon="-0.0313332"  n="Rajjak Associates" t="office" st="accountant"/>
+<node id="3925026591" lat="51.4465922" lon="-0.4099951"  n="am2pm" t="office" st="employment_agency"/>
+<node id="3932136289" lat="51.4924565" lon="0.0714246"  n="Garton Jones" t="office" st="estate_agent"/>
+<node id="3935808949" lat="51.4647034" lon="-0.1612541"  n="Foxtons" t="office" st="estate_agent"/>
+<node id="3935808950" lat="51.4641706" lon="-0.1633853"  n="Featherstone Leigh" t="office" st="estate_agent"/>
+<node id="3935808951" lat="51.464288" lon="-0.162381"  n="Andrews" t="office" st="estate_agent"/>
+<node id="3935808952" lat="51.4641423" lon="-0.1636948"  n="Haart" t="office" st="estate_agent"/>
+<node id="3973507319" lat="51.5199705" lon="-0.0687671"  n="Xhibit" t="office" st="estate_agent"/>
+<node id="3980229454" lat="51.5314216" lon="-0.1113624"  n="Deliveroo" t="office" st="courier"/>
+<node id="3988136205" lat="51.521035" lon="-0.0900797"  n="Slaughter and May" t="office" st="lawyer"/>
+<node id="4002427988" lat="51.522978" lon="-0.098226"  n="Survival International" t="office" st="ngo"/>
+<node id="4012048155" lat="51.5214361" lon="-0.135709"  n="5th Floor" t="office" st="company"/>
+<node id="4029722723" lat="51.4789328" lon="-0.1185719"  n="Ser Contractor Ltd" t="office" st="builder"/>
+<node id="4033010110" lat="51.4148666" lon="-0.1929947"  n="Spur House" t="office" st="company"/>
+<node id="4038877608" lat="51.5195405" lon="-0.1216108"  n="Unite Students" t="office" st="estate_agent"/>
+<node id="4050148670" lat="51.4989127" lon="-0.176949"  n="Data Science Institute" t="office" st="research"/>
+<node id="4063218982" lat="51.5273213" lon="-0.1153679"  n="Phoenix Yard" t="office" st="company"/>
+<node id="4063248711" lat="51.5116977" lon="-0.1246"  n="Qubit" t="office" st="yes"/>
+<node id="4064835092" lat="51.5308347" lon="-0.2293302"  n="True Kiffin" t="office" st="architect"/>
+<node id="4069504290" lat="51.5165857" lon="-0.1086553"  n="Nesta" t="office" st="company"/>
+<node id="4076126438" lat="51.5161596" lon="-0.1014998"  n="Scott City Residential" t="office" st="estate_agent"/>
+<node id="4076552260" lat="51.5176912" lon="-0.0797622"  n="Longcroft house" t="office" st="therapist"/>
+<node id="4085415602" lat="51.4653103" lon="-0.37878"  n="Skytrak Travel" t="office" st="travel_agent"/>
+<node id="4085693315" lat="51.5048485" lon="-0.05776"  n="Pheonix Property" t="office" st="estate_agent"/>
+<node id="4117637267" lat="51.4647197" lon="-0.1594863"  n="Battersea Labour Party" t="office" st="political_party"/>
+<node id="4146426855" lat="51.5257844" lon="-0.0307076"  n="Ludlow Thompson" t="office" st="estate_agent"/>
+<node id="4158457588" lat="51.5057048" lon="-0.0539105"  n="New Crane Wharf" t="office" st="estate_agent"/>
+<node id="4159001515" lat="51.4211814" lon="-0.2066391"  n="WHSmith" t="office" st="newspaper"/>
+<node id="4167188274" lat="51.5318596" lon="-0.0424069"  n="Vantage Accident Management Group" t="office" st="yes"/>
+<node id="4167188275" lat="51.5319777" lon="-0.0423203"  n="Jeffrey Smith &#38; Co" t="office" st="estate_agent"/>
+<node id="4167188276" lat="51.5320076" lon="-0.0422543"  n="Aaron Bates Residential" t="office" st="estate_agent"/>
+<node id="4167188278" lat="51.5320324" lon="-0.0420563"  n="Native Creator" t="office" st="advertising_agency"/>
+<node id="4167409326" lat="51.5075454" lon="-0.0712718"  n="Ivory House" t="office" st="design"/>
+<node id="4167450915" lat="51.5079744" lon="-0.0717654"  n="Commodity Quay" t="office" st="yes"/>
+<node id="4171784390" lat="51.506667" lon="-0.1390277"  n="Horne &#38; Harvey" t="office" st="estate_agent"/>
+<node id="4172529564" lat="51.5369194" lon="0.0787916"  n="Panda&#39;s Eyes" t="office" st="yes"/>
+<node id="4179381934" lat="51.6524015" lon="-0.0798383"  n="Sorpen" t="office" st="financial"/>
+<node id="4179404566" lat="51.6523902" lon="-0.0801519"  n="Martin &#38; Co" t="office" st="estate_agent"/>
+<node id="4179425552" lat="51.65223" lon="-0.0800019"  n="Manpower" t="office" st="employment_agency"/>
+<node id="4179425553" lat="51.6522282" lon="-0.0801039"  n="Brook Street" t="office" st="employment_agency"/>
+<node id="4181925963" lat="51.5203592" lon="-0.1044774"  n="Silverfish Media" t="office" st="media"/>
+<node id="4181925968" lat="51.5216421" lon="-0.105618"  n="Blueprint Living Apartments" t="office" st="estate_agent"/>
+<node id="4183488058" lat="51.5043038" lon="-0.0564717"  n="Abbatoria Residential" t="office" st="estate_agent"/>
+<node id="4184446457" lat="51.5668501" lon="-0.110577"  n="Charteris Neighbourhood Tenant Co-operative" t="office" st="housing"/>
+<node id="4195131398" lat="51.4734152" lon="-0.1842237"  n="Laura Ashley" t="office" st="company"/>
+<node id="4195713394" lat="51.444485" lon="-0.2071161"  n="Cound" t="office" st="estate_agent"/>
+<node id="4199100136" lat="51.5109905" lon="-0.1403463"  n="Hardy Amies" t="office" st="company"/>
+<node id="4207977945" lat="51.5193689" lon="-0.1087314"  n="Street Trading Section" t="office" st="yes"/>
+<node id="4210776239" lat="51.4845178" lon="-0.1838742"  n="May &#38; Co" t="office" st="estate_agent"/>
+<node id="4212305127" lat="51.5188525" lon="-0.1143502"  n="Air Pilots Trust" t="office" st="ngo"/>
+<node id="4212305128" lat="51.5188266" lon="-0.1143757"  n="Air Safety Trust" t="office" st="ngo"/>
+<node id="4212305129" lat="51.518845" lon="-0.1143797"  n="Honourable Company of Air Pilots" t="office" st="ngo"/>
+<node id="4212305130" lat="51.518825" lon="-0.1143368"  n="R.A. Pick &#38; Co." t="office" st="accountant"/>
+<node id="4214691752" lat="51.4864292" lon="-0.1198816"  n="Mail Boxes Etc." t="office" st="post"/>
+<node id="4215728312" lat="51.518372" lon="-0.1170647"  n="First Clarity" t="office" st="company"/>
+<node id="4215728313" lat="51.5183361" lon="-0.1170982"  n="Infinite Spada" t="office" st="company"/>
+<node id="4215728314" lat="51.5183611" lon="-0.1170996"  n="PFP Group" t="office" st="company"/>
+<node id="4215728315" lat="51.5183478" lon="-0.1170553"  n="Saffery Champness" t="office" st="accountant"/>
+<node id="4219465084" lat="51.4180285" lon="-0.0594793"  n="A Local Broker" t="office" st="insurance"/>
+<node id="4221386322" lat="51.4169707" lon="-0.0564641"  n="Charles Clarke &#38; Co Solicitors" t="office" st="lawyer"/>
+<node id="4221741248" lat="51.415266" lon="-0.0531737"  n="Baxter Lambert" t="office" st="estate_agent"/>
+<node id="4221769434" lat="51.414081" lon="-0.0520613"  n="Ewings &#38; Co. Solicitors" t="office" st="lawyer"/>
+<node id="4222961710" lat="51.5201116" lon="-0.1303621"  n="Caviar" t="office" st="company"/>
+<node id="4222961715" lat="51.5201088" lon="-0.1303356"  n="UKWA" t="office" st="ngo"/>
+<node id="4225802489" lat="51.4877364" lon="-0.1111177"  n="Acorn" t="office" st="estate_agent"/>
+<node id="4225816973" lat="51.4876358" lon="-0.1111184"  n="Brimstone Construction Ltd." t="office" st="company"/>
+<node id="4228764504" lat="51.601822" lon="-0.0679791"  n="Tottenham Hotspur StubHub Ticket Collections" t="office" st="company"/>
+<node id="4234685793" lat="51.4798119" lon="-0.1117318"  n="Davis &#38; Gibbs" t="office" st="estate_agent"/>
+<node id="4237228442" lat="51.4804619" lon="-0.1113438"  n="Avrasons" t="office" st="estate_agent"/>
+<node id="4237264554" lat="51.4809131" lon="-0.1136749"  n="Ludlow Thompson" t="office" st="estate_agent"/>
+<node id="4237925652" lat="51.4873542" lon="-0.1115474"  n="Daniel Cobb" t="office" st="estate_agent"/>
+<node id="4238247839" lat="51.5186213" lon="-0.1281848"  n="Clear Motion" t="office" st="company"/>
+<node id="4238247840" lat="51.5186034" lon="-0.1281678"  n="Dunlop Goodrich Creative" t="office" st="company"/>
+<node id="4238247841" lat="51.5201672" lon="-0.1313279"  n="Institute for Fiscal Studies" t="office" st="ngo"/>
+<node id="4238247843" lat="51.5188774" lon="-0.1284128"  n="Turchini Design" t="office" st="company"/>
+<node id="4238448438" lat="51.5193328" lon="-0.1307986"  n="FSPG Chartered Accountants" t="office" st="company"/>
+<node id="4238448439" lat="51.5190747" lon="-0.1314849"  n="IT Plus" t="office" st="company"/>
+<node id="4238448440" lat="51.5193487" lon="-0.1308145"  n="PF Private Finance" t="office" st="company"/>
+<node id="4244189919" lat="51.5359527" lon="-0.1255845"  n="Argent (Property Development) Services" t="office" st="company"/>
+<node id="4247625380" lat="51.5182639" lon="-0.1340999"  n="Bigdog" t="office" st="advertising_agency"/>
+<node id="4247625381" lat="51.5182757" lon="-0.1340954"  n="Bray Leino" t="office" st="advertising_agency"/>
+<node id="4247625382" lat="51.5183875" lon="-0.1338682"  n="Brinkworth Films" t="office" st="company"/>
+<node id="4247625383" lat="51.5183773" lon="-0.1338917"  n="Cardboard" t="office" st="company"/>
+<node id="4247625384" lat="51.5183741" lon="-0.1338618"  n="MacFarlane Chard Associates Ltd" t="office" st="company"/>
+<node id="4247625385" lat="51.5182564" lon="-0.1340802"  n="Mongoose" t="office" st="advertising_agency"/>
+<node id="4247625386" lat="51.5183694" lon="-0.1338822"  n="Specific Films" t="office" st="company"/>
+<node id="4247625387" lat="51.5182702" lon="-0.1340789"  n="Thinkmedia" t="office" st="advertising_agency"/>
+<node id="4247625388" lat="51.5183646" lon="-0.1338637"  n="Wonderworks" t="office" st="company"/>
+<node id="4252460525" lat="51.5185303" lon="-0.1358347"  n="Clear Cut Pictures" t="office" st="company"/>
+<node id="4252996613" lat="51.5184897" lon="-0.1342397"  n="Markham, Froggatt and Irwin" t="office" st="company"/>
+<node id="4252996614" lat="51.5185101" lon="-0.1342545"  n="Tallowin" t="office" st="company"/>
+<node id="4252996615" lat="51.5185481" lon="-0.134119"  n="Ubiquity Press" t="office" st="company"/>
+<node id="4254781854" lat="51.5059966" lon="-0.0541841"  n="Daa Residential" t="office" st="estate_agent"/>
+<node id="4255448790" lat="51.4840441" lon="-0.1106805"  n="Haart Kennington" t="office" st="estate_agent"/>
+<node id="4263046633" lat="51.4092801" lon="-0.2272446"  n="Phillips Young LLP" t="office" st="accountant"/>
+<node id="4264061260" lat="51.4093374" lon="-0.2270234"  n="Burnley-Jones Bate &#38; Co" t="office" st="lawyer"/>
+<node id="4264061263" lat="51.4092989" lon="-0.2271644"  n="Hotech Ltd" t="office" st="it"/>
+<node id="4264061264" lat="51.4093561" lon="-0.2269559"  n="Kings Lettings" t="office" st="estate_agent"/>
+<node id="4264061265" lat="51.4093945" lon="-0.226815"  n="Park Accounts" t="office" st="accountant"/>
+<node id="4267918128" lat="51.4095213" lon="-0.2263522"  n="Duckworth &#38; Co" t="office" st="accountant"/>
+<node id="4267918137" lat="51.409596" lon="-0.2260113"  n="Plane Business" t="office" st="newspaper"/>
+<node id="4267918138" lat="51.4096243" lon="-0.2259176"  n="Plane Business" t="office" st="newspaper"/>
+<node id="4267918160" lat="51.4095652" lon="-0.22615"  n="Zest Financial Consultants" t="office" st="tax_advisor"/>
+<node id="4267918161" lat="51.4095512" lon="-0.2262209"  n="csarchitects" t="office" st="architect"/>
+<node id="4268272667" lat="51.4098775" lon="-0.2256622"  n="Raynes Park Estate Agents" t="office" st="estate_agent"/>
+<node id="4268770837" lat="51.4096949" lon="-0.2255603"  n="howell jones solicitors" t="office" st="lawyer"/>
+<node id="4268770838" lat="51.4097071" lon="-0.2254602"  n="howell jones solicitors" t="office" st="lawyer"/>
+<node id="4269007708" lat="51.5713192" lon="-0.1936166"  n="Japan Homes" t="office" st="estate_agent"/>
+<node id="4270414017" lat="51.5062097" lon="-0.0543193"  n="Property Liasons" t="office" st="estate_agent"/>
+<node id="4270562968" lat="51.5146268" lon="-0.1316957"  n="Loco" t="office" st="media"/>
+<node id="4270562971" lat="51.5142371" lon="-0.1320981"  n="Strategy Analytics" t="office" st="consulting"/>
+<node id="4270686792" lat="51.5265273" lon="-0.1368351"  n="Hodge, Jones and Allen" t="office" st="lawyer"/>
+<node id="4270689602" lat="51.4972285" lon="-0.1121339"  n="Reeds Rains" t="office" st="estate_agent"/>
+<node id="4270698823" lat="51.4988982" lon="-0.1128615"  n="Prime London" t="office" st="estate_agent"/>
+<node id="4271314747" lat="51.4097439" lon="-0.2252702"  n="Enva Estates Ltd" t="office" st="estate_agent"/>
+<node id="4271314753" lat="51.4097329" lon="-0.2253269"  n="Offshore Business Solutions Limited" t="office" st="tax_advisor"/>
+<node id="4279065816" lat="51.464252" lon="-0.2127647"  n="Dreamhouse Estates" t="office" st="estate_agent"/>
+<node id="4281628907" lat="51.4053394" lon="-0.257766"  n="Nice and Clean Surrey" t="office" st="company"/>

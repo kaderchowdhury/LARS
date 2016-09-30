@@ -1,0 +1,13 @@
+body {
+	font-family: "Calibri", "Arial";
+}
+.code {
+	display: none;
+}
+.show-code {
+	cursor: pointer;
+}
+
+.call-to-action.small {
+	padding: 10px 0;
+}

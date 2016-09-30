@@ -1,0 +1,919 @@
+<node id="15732194" lat="52.561519" lon="-1.8779303"  n="Banners Gate United Reform Church" t="place_of_worship" st="christian"/>
+<node id="57563616" lat="52.5516592" lon="-1.8787971"  n="Kingstanding Methodist Church Centre" t="place_of_worship" st="christian"/>
+<node id="58850574" lat="52.5395253" lon="-1.8799785"  n="Charlton Road Christian Church" t="place_of_worship" st="christian"/>
+<node id="64798195" lat="52.5162826" lon="-1.8562277"  n="Ghausia Mosque Trust" t="place_of_worship" st="muslim"/>
+<node id="67266062" lat="52.5522358" lon="-1.8812284"  n="Good News Centre" t="place_of_worship" st="christian"/>
+<node id="76480464" lat="52.4797107" lon="-1.9520118"  n="City Road Baptist Church" t="place_of_worship" st="christian"/>
+<node id="140097399" lat="52.599981" lon="-1.9171512"  n="Saint Mary of the Angels" t="place_of_worship" st="christian"/>
+<node id="232390173" lat="52.5399187" lon="-1.9052379"  n="Perry Beeches Baptist Church" t="place_of_worship" st="christian"/>
+<node id="246751908" lat="52.5109843" lon="-2.0035975"  n="Bethel Convention Centre" t="place_of_worship" st="christian"/>
+<node id="248680147" lat="52.5383314" lon="-1.950574"  n="St. Bernard&#39;s Hamstead Parish Church &#38; Centre" t="place_of_worship" st="christian"/>
+<node id="252937150" lat="52.4149378" lon="-1.5044794"  n="Cornerstone Methodist Church" t="place_of_worship" st="christian"/>
+<node id="259645058" lat="52.4883971" lon="-1.8493971"  n="Jami Madina Ashiful Loom Masjid" t="place_of_worship" st="muslim"/>
+<node id="260240980" lat="52.4359287" lon="-1.4746997"  n="Kingdom Hall" t="place_of_worship" st="christian"/>
+<node id="260589333" lat="52.492738" lon="-1.8300118"  n="Ward End Methodist Church" t="place_of_worship" st="christian"/>
+<node id="262424845" lat="52.4384629" lon="-1.464245"  n="St Chads" t="place_of_worship" st="christian"/>
+<node id="278206516" lat="52.4152391" lon="-1.9668626"  n="Quaker Meeting House" t="place_of_worship" st="christian"/>
+<node id="280714540" lat="52.5058212" lon="-1.9109466"  n="Shri Geeta Bhawan" t="place_of_worship" st="hindu"/>
+<node id="281232252" lat="52.5483224" lon="-2.0323638"  n="Lea Brook Methodist Church" t="place_of_worship" st="christian"/>
+<node id="292616843" lat="52.5051428" lon="-1.9313419"  n="Makki Masjid &#38; Madrassa" t="place_of_worship" st="muslim"/>
+<node id="293190183" lat="52.5109431" lon="-1.9616432"  n="Church of God of Prophecy" t="place_of_worship" st="christian"/>
+<node id="303535318" lat="52.5006839" lon="-1.9658271"  n="Bangladeshi Islamic Association Centre" t="place_of_worship" st="muslim"/>
+<node id="303535326" lat="52.5005963" lon="-1.9666523"  n="Providence Church" t="place_of_worship" st="christian"/>
+<node id="305810578" lat="52.5040038" lon="-1.944044"  n="Handsworth Mosque &#38; IslamicCentre" t="place_of_worship" st="muslim"/>
+<node id="309284975" lat="52.469111" lon="-1.9911379"  n="Warley Baptist Church" t="place_of_worship" st="christian"/>
+<node id="310239895" lat="52.503361" lon="-1.9847366"  n="Smethwick Elim Pentecostal Church" t="place_of_worship" st="christian"/>
+<node id="310841309" lat="52.496624" lon="-1.9982884"  n="Kingdom Hall of Jehovah&#39;s Witnesses" t="place_of_worship" st="christian"/>
+<node id="310929363" lat="52.4944661" lon="-1.9988454"  n="Triumphant Church of God" t="place_of_worship" st="christian"/>
+<node id="313191904" lat="52.491101" lon="-2.012101"  n="Ebenezer Wesleyan Reform Church" t="place_of_worship" st="christian"/>
+<node id="315579312" lat="52.477222" lon="-1.9981113"  n="King&#39;s Community Church" t="place_of_worship" st="christian"/>
+<node id="315891884" lat="52.4884423" lon="-2.0105354"  n="Zion United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="315897353" lat="52.4802619" lon="-2.0058312"  n="Warley Institutional Church" t="place_of_worship" st="christian"/>
+<node id="317064228" lat="52.3956454" lon="-1.9804127"  n="Christadelphian Hall" t="place_of_worship" st="christian"/>
+<node id="317327577" lat="52.4692637" lon="-2.0068285"  n="King&#39;s Community Church" t="place_of_worship" st="christian"/>
+<node id="317459301" lat="52.4822434" lon="-2.0191185"  n="Causway Green Methodist Church" t="place_of_worship" st="christian"/>
+<node id="331850337" lat="52.5785668" lon="-1.9447082"  n="St. Martin&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="340413722" lat="52.4822739" lon="-2.039686"  n="Providence Strict Baptist Church" t="place_of_worship" st="christian"/>
+<node id="340414791" lat="52.4768916" lon="-2.0470615"  n="THE CHURCH IN THE GARDEN" t="place_of_worship" st="christian"/>
+<node id="352742007" lat="52.5610358" lon="-1.9587896"  n="St Joseph&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="352990134" lat="52.5587796" lon="-1.960261"  n="Church of the Annunciation Of Our Lady" t="place_of_worship" st="christian"/>
+<node id="360465172" lat="52.5777848" lon="-2.001436"  n="St John&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="365573646" lat="52.6268911" lon="-1.931807"  n="The Parish Church of St John" t="place_of_worship" st="christian"/>
+<node id="366358680" lat="52.4854367" lon="-2.0809571"  n="Primrose Congregational Chapel" t="place_of_worship" st="christian"/>
+<node id="367994161" lat="52.6174444" lon="-1.950155"  n="Shelfield Methodist Church" t="place_of_worship" st="christian"/>
+<node id="369756312" lat="52.5700895" lon="-2.0878842"  n="Dera Baba Memorial Temple" t="place_of_worship" st="hindu"/>
+<node id="369884582" lat="52.5239224" lon="-2.0042887"  n="Centrepoint Christian Centre" t="place_of_worship" st="christian"/>
+<node id="369973305" lat="52.5206738" lon="-2.0032237"  n="Jamimasjid &#38; Islamic Centre" t="place_of_worship" st="muslim"/>
+<node id="370558756" lat="52.6441369" lon="-1.9274882"  n="St. Bernadette&#39;s Catholic Church" t="place_of_worship" st="christian"/>
+<node id="370560284" lat="52.6426967" lon="-1.926987"  n="Temple of Light Spiritualist Church" t="place_of_worship" st="spiritualist"/>
+<node id="387846718" lat="52.4723313" lon="-2.0288127"  n="Hurst Green Family Church" t="place_of_worship" st="christian"/>
+<node id="390466204" lat="52.4510192" lon="-2.0527006"  n="Halesowen Baptist Church" t="place_of_worship" st="christian"/>
+<node id="411115800" lat="52.4987093" lon="-2.107484"  n="Woodside Methodist Church" t="place_of_worship" st="christian"/>
+<node id="444624280" lat="52.6447652" lon="-1.9312583"  n="Brownhills Methodist Church" t="place_of_worship" st="christian"/>
+<node id="475396465" lat="52.6190622" lon="-1.9504872"  n="The Paris of Saint Mark Shelfield &#38; High Heath" t="place_of_worship" st="christian"/>
+<node id="475396471" lat="52.6195931" lon="-1.9458229"  n="Shelfield Pentecostal Church" t="place_of_worship" st="christian"/>
+<node id="476685168" lat="52.618024" lon="-1.9529991"  n="St. Francis of Assisi Shelfield Catholic Church" t="place_of_worship" st="christian"/>
+<node id="494519308" lat="52.6427826" lon="-1.9453191"  n="Clayhanger Methodist Church" t="place_of_worship" st="christian"/>
+<node id="503730488" lat="52.6462716" lon="-1.9297623"  n="Calgary Pentacostal Church" t="place_of_worship" st="christian"/>
+<node id="503730493" lat="52.6474445" lon="-1.9385918"  n="Kingdom Hall of Jehovah&#39;s Witnesses" t="place_of_worship" st="christian"/>
+<node id="538207823" lat="52.4752648" lon="-2.0718599"  n="Macefield Mission" t="place_of_worship" st="christian"/>
+<node id="538273090" lat="52.473299" lon="-2.0732904"  n="Elim Pentecostal Church Centre" t="place_of_worship" st="christian"/>
+<node id="540597214" lat="52.5761824" lon="-2.1144227"  n="Bhagwan Valmik Temple" t="place_of_worship" st="sikh"/>
+<node id="540665791" lat="52.5741995" lon="-2.1211944"  n="Pond Lane Mission" t="place_of_worship" st="christian"/>
+<node id="568630598" lat="52.6283302" lon="-1.9683252"  n="Pelsall Methodist Church" t="place_of_worship" st="christian"/>
+<node id="570589234" lat="52.4735281" lon="-1.914101"  n="Birmingham Progressive Synagogue" t="place_of_worship" st="jewish"/>
+<node id="576984186" lat="52.4842413" lon="-2.0576566"  n="Elim Church" t="place_of_worship" st="christian"/>
+<node id="581967419" lat="52.6059047" lon="-1.9745863"  n="The Methodist Church, Coalpool" t="place_of_worship" st="christian"/>
+<node id="615595899" lat="52.6283861" lon="-2.0003507"  n="Holy Ascension Church of England" t="place_of_worship" st="christian"/>
+<node id="622010329" lat="52.4109976" lon="-1.9071734"  n="Lindsworth Community Church" t="place_of_worship" st="christian"/>
+<node id="653179278" lat="52.4526751" lon="-1.8781306"  n="Fountain of Knowledge Islamic Centre" t="place_of_worship" st="muslim"/>
+<node id="664607481" lat="52.5408317" lon="-1.8922645"  n="Goodway Evangelical Free Church" t="place_of_worship" st="christian"/>
+<node id="665789388" lat="52.6197606" lon="-2.0200898"  n="St Thomas Church,Mossley" t="place_of_worship" st="christian"/>
+<node id="676070389" lat="52.4337001" lon="-1.8903731"  n="Kings Heath Christadelphians" t="place_of_worship" st="christian"/>
+<node id="676745753" lat="52.6153263" lon="-2.0020016"  n="Bloxwich Spiritualist Church" t="place_of_worship" st="christian"/>
+<node id="676745776" lat="52.6175951" lon="-2.0022101"  n="St. John&#39;s Methodist Church" t="place_of_worship" st="christian"/>
+<node id="683651844" lat="52.6122784" lon="-1.993258"  n="Blakenall Reformed Church" t="place_of_worship" st="christian"/>
+<node id="683651941" lat="52.6149438" lon="-1.990302"  n="Christ Church Blakenall Heath" t="place_of_worship" st="christian"/>
+<node id="823773810" lat="52.5829381" lon="-1.9691065"  n="New Testament Church of God" t="place_of_worship" st="christian"/>
+<node id="823774072" lat="52.5832348" lon="-1.9704539"  n="Central Mosque" t="place_of_worship" st="muslim"/>
+<node id="823774093" lat="52.5828807" lon="-1.9706779"  n="St Lukes" t="place_of_worship" st="christian"/>
+<node id="903941842" lat="52.4562063" lon="-1.8581574"  n="Faizan -e-Mustafa Educational Centre" t="place_of_worship" st="muslim"/>
+<node id="1134644956" lat="52.5865311" lon="-1.9858608"  n="Walsall Corps - The Salvation Army" t="place_of_worship" st="christian"/>
+<node id="1247030871" lat="52.3806369" lon="-1.561382"  n="Islamic Prayer Hall" t="place_of_worship" st="muslim"/>
+<node id="1271510870" lat="52.6200794" lon="-2.1272736"  n="Temple Baptist Church" t="place_of_worship" st="christian"/>
+<node id="1477764724" lat="52.6050516" lon="-2.0387987"  n="Short Heath Methodist Church" t="place_of_worship" st="christian"/>
+<node id="1556272963" lat="52.4569767" lon="-1.9930076"  n="Our Lady of Fatima" t="place_of_worship" st="christian"/>
+<node id="1691980376" lat="52.41099" lon="-1.5195498"  n="St Osburg" t="place_of_worship" st="christian"/>
+<node id="1691980385" lat="52.4113467" lon="-1.5190884"  n="Upper Hill Street Gospel Hall" t="place_of_worship" st="christian"/>
+<node id="1779515866" lat="52.6126575" lon="-2.0042575"  n="Bloxwich Community Church" t="place_of_worship" st="christian"/>
+<node id="1969743164" lat="52.557783" lon="-2.171147"  n="Penn Christian Centre" t="place_of_worship" st="christian"/>
+<node id="1969744882" lat="52.5611323" lon="-2.1677192"  n="Springdale Methodist Church &#38; Community Centre" t="place_of_worship" st="christian"/>
+<node id="2036058830" lat="52.485227" lon="-1.8885066"  n="Martin Luther King Multi Faith Centre" t="place_of_worship" st="multifaith"/>
+<node id="2326318182" lat="52.4230624" lon="-1.557446"  n="AllSaints Parish Church" t="place_of_worship" st="christian"/>
+<node id="2568406263" lat="52.4201287" lon="-1.5038161"  n="Shri Sidhi Vinayagar Devasthanam" t="place_of_worship" st="hindu"/>
+<node id="2606233637" lat="52.4714496" lon="-1.9013114"  n="Rickman Drive Hall" t="place_of_worship" st="christian"/>
+<node id="2798968986" lat="52.464953" lon="-1.8507167"  n="Jamiat-ul-Muslimin" t="place_of_worship" st="muslim"/>
+<node id="2888318176" lat="52.4714847" lon="-1.8913304"  n="Winners&#39; Chapel Int&#39;l Birmingham" t="place_of_worship" st="christian"/>
+<node id="2915316623" lat="52.473161" lon="-1.8887488"  n="Cathedral Revival Church" t="place_of_worship" st="christian"/>
+<node id="2915316626" lat="52.4731498" lon="-1.8887574"  n="Christ Embassy" t="place_of_worship" st="christian"/>
+<node id="2915316655" lat="52.4761948" lon="-1.8915451"  n="The Potters House Christian Fellowship Church" t="place_of_worship" st="christian"/>
+<node id="3124788852" lat="52.486714" lon="-2.0290018"  n="Whiteheath English Martyrs Catholic Church" t="place_of_worship" st="christian"/>
+<node id="3166867526" lat="52.4910163" lon="-1.8993381"  n="Christ Apostolic Church" t="place_of_worship" st="christian"/>
+<node id="3166867527" lat="52.4911523" lon="-1.8993069"  n="Christian Advantage Int&#39;l" t="place_of_worship" st="christian"/>
+<node id="3369978713" lat="52.5394619" lon="-1.895692"  n="St. Matthews Church" t="place_of_worship" st="christian"/>
+<node id="3380904828" lat="52.4211526" lon="-1.9418393"  n="Rowheath Pavilion" t="place_of_worship" st="christian"/>
+<node id="3406258200" lat="52.4927213" lon="-1.9986513"  n="St Johns Community Centre" t="place_of_worship" st="christian"/>
+<node id="3470525605" lat="52.4661983" lon="-1.8477679"  n="Makkah Madrassah" t="place_of_worship" st=""/>
+<node id="3492954958" lat="52.5113702" lon="-1.8749765"  n="Madrasa-Tul-Madina" t="place_of_worship" st=""/>
+<node id="3556690964" lat="52.4767037" lon="-1.8572922"  n="Spiritual Centre Maddrassa Naqshbandiyya Nawabiyya Aslamiyya Birmingham" t="place_of_worship" st="muslim"/>
+<node id="3556691523" lat="52.47892" lon="-1.8563214"  n="Maktaba Tul Madina Dawat-E-Islami" t="place_of_worship" st="muslim"/>
+<node id="3574870510" lat="52.5079855" lon="-1.8910018"  n="Birchfield Gospel Hall" t="place_of_worship" st="christian"/>
+<node id="3651290829" lat="52.4996194" lon="-1.9934214"  n="Oldbury Cemetery Chapel" t="place_of_worship" st="christian"/>
+<node id="3736546560" lat="52.508752" lon="-2.0867649"  n="St Thomas &#38; St Luke (Top Church)" t="place_of_worship" st="christian"/>
+<node id="4212119644" lat="52.5983922" lon="-2.035045"  n="The Church at Rosedale CofE Infants School" t="place_of_worship" st="christian"/>
+<node id="451156" lat="51.5996316" lon="-0.197601"  n="St Mary at Finchley" t="place_of_worship" st="christian"/>
+<node id="469648" lat="51.6323613" lon="-0.2002582"  n="St Andrew&#39;s" t="place_of_worship" st="christian"/>
+<node id="10806290" lat="51.3509907" lon="-0.1616453"  n="Stanley Park Church" t="place_of_worship" st="christian"/>
+<node id="16602730" lat="51.4507141" lon="-0.4208368"  n="Calvary Free Grace Baptist Church" t="place_of_worship" st="christian"/>
+<node id="16602745" lat="51.4508337" lon="-0.4211662"  n="Southville Methodist Church" t="place_of_worship" st="christian"/>
+<node id="17806374" lat="51.4492207" lon="-0.2371211"  n="Holy Trinity" t="place_of_worship" st="christian"/>
+<node id="18235173" lat="51.4620813" lon="-0.2221957"  n="Putney Methodist Church" t="place_of_worship" st="christian"/>
+<node id="18301609" lat="51.4671595" lon="-0.2287694"  n="All Saints Church, Putney Common" t="place_of_worship" st="christian"/>
+<node id="20917317" lat="51.4685481" lon="-0.2117616"  n="All Saints Church" t="place_of_worship" st="christian"/>
+<node id="21373114" lat="51.375134" lon="-0.0311658"  n="All Saints Church" t="place_of_worship" st="christian"/>
+<node id="21411575" lat="51.4456769" lon="-0.2056842"  n="Southfields Baptist Church" t="place_of_worship" st="christian"/>
+<node id="21411576" lat="51.442587" lon="-0.1981392"  n="St Barnabas Southfields" t="place_of_worship" st="christian"/>
+<node id="21427515" lat="51.4513055" lon="-0.2161432"  n="Holy Trinity" t="place_of_worship" st="christian"/>
+<node id="24909261" lat="51.442375" lon="-0.0198125"  n="St Lawrence Church" t="place_of_worship" st="christian"/>
+<node id="25322357" lat="51.4791173" lon="-0.2084013"  n="St. Peter&#39;s" t="place_of_worship" st="christian"/>
+<node id="25530377" lat="51.51542" lon="-0.1313897"  n="St Patrick&#39;s Soho Square" t="place_of_worship" st="christian"/>
+<node id="25534438" lat="51.4964344" lon="-0.1287838"  n="Emmanuel Evangelical Church" t="place_of_worship" st="christian"/>
+<node id="26416319" lat="51.6274889" lon="-0.1752814"  n="Saint John the Apostle" t="place_of_worship" st="christian"/>
+<node id="26542523" lat="51.3991084" lon="-0.1648571"  n="Catholic Church of St Paul" t="place_of_worship" st="christian"/>
+<node id="26603932" lat="51.5430228" lon="-0.4733404"  n="St Andrew&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="26756585" lat="51.4364908" lon="-0.1972458"  n="Wimbledon Mosque" t="place_of_worship" st="muslim"/>
+<node id="26769263" lat="51.4440021" lon="-0.1911938"  n="St. Gregory&#39;s" t="place_of_worship" st="christian"/>
+<node id="26979415" lat="51.5459404" lon="-0.4796635"  n="St Margaret&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="26992680" lat="51.4428978" lon="-0.044571"  n="Malham Christian Centre" t="place_of_worship" st="christian"/>
+<node id="26997950" lat="51.4607331" lon="-0.0339081"  n="St Andrew&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="27000982" lat="51.4547862" lon="-0.0309879"  n="Crofton Park Baptist Church" t="place_of_worship" st="christian"/>
+<node id="27025726" lat="51.4401742" lon="-0.0312942"  n="King&#39;s Church Centre" t="place_of_worship" st="christian"/>
+<node id="27159931" lat="51.4168636" lon="-0.2043517"  n="St. Andrew" t="place_of_worship" st="christian"/>
+<node id="27177300" lat="51.4263098" lon="-0.1899135"  n="Bethel United Church of Jesus Christ (Apostolic)" t="place_of_worship" st="christian"/>
+<node id="27181692" lat="51.4202906" lon="-0.2165201"  n="St. John&#39;s" t="place_of_worship" st="christian"/>
+<node id="29848159" lat="51.4600995" lon="-0.3036875"  n="RIchmond-upon-Thames Parish church" t="place_of_worship" st="christian"/>
+<node id="30047252" lat="51.4647185" lon="0.0136057"  n="St Michael" t="place_of_worship" st="christian"/>
+<node id="30429877" lat="51.4625178" lon="-0.2619526"  n="All Saints" t="place_of_worship" st="christian"/>
+<node id="30431949" lat="51.4631848" lon="-0.2836732"  n="Our Lady Queen of Peace" t="place_of_worship" st="christian"/>
+<node id="30483512" lat="51.4176786" lon="-0.285501"  n="St Paul&#39;s, Kingston Hill" t="place_of_worship" st="christian"/>
+<node id="30484260" lat="51.4336299" lon="-0.2588332"  n="St John the Baptist" t="place_of_worship" st="christian"/>
+<node id="30551252" lat="51.4721348" lon="-0.2822564"  n="The Barn Church" t="place_of_worship" st="christian"/>
+<node id="30585298" lat="51.51164" lon="-0.1872379"  n="Our Lady Queen Of Heaven Catholic Church" t="place_of_worship" st="christian"/>
+<node id="30607834" lat="51.4167429" lon="-0.2971155"  n="Parish Church of St Luke" t="place_of_worship" st="christian"/>
+<node id="30952179" lat="51.4706027" lon="-0.2528085"  n="St Michael And All Angels" t="place_of_worship" st="christian"/>
+<node id="31032648" lat="51.37205" lon="-0.1602593"  n="Strawberry Lane Baptist Church" t="place_of_worship" st="christian"/>
+<node id="31098616" lat="51.5784179" lon="0.187751"  n="Romford United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="31098617" lat="51.5807875" lon="0.1857648"  n="Romford Baptist Church" t="place_of_worship" st="christian"/>
+<node id="31304325" lat="51.5784657" lon="0.208245"  n="Gidea Park Methodist Church" t="place_of_worship" st="christian"/>
+<node id="31304327" lat="51.5805916" lon="0.2096896"  n="Christ the Eternal High Priest" t="place_of_worship" st="christian"/>
+<node id="31437647" lat="51.5639452" lon="-0.3556345"  n="The South Harrow Baptist Church" t="place_of_worship" st="christian"/>
+<node id="32048020" lat="51.4668138" lon="-0.2655596"  n="East Sheen United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="32579164" lat="51.4640234" lon="-0.3668846"  n="Gurdwara Sri Guru Singh Sabha" t="place_of_worship" st="sikh"/>
+<node id="32579173" lat="51.461952" lon="-0.3658863"  n="St. Stephen&#39;s Parish Church" t="place_of_worship" st="christian"/>
+<node id="32669276" lat="51.4722243" lon="-0.3362043"  n="St. John the Baptit&#39;s, Isleworth" t="place_of_worship" st="christian"/>
+<node id="32939994" lat="51.4686288" lon="-0.3731618"  n="SS Michael and Martin" t="place_of_worship" st="christian"/>
+<node id="33116135" lat="51.4748588" lon="-0.3857539"  n="Hounslow West Evangelical Church" t="place_of_worship" st="christian"/>
+<node id="33132338" lat="51.6531063" lon="-0.0881233"  n="St Paul&#39;s Centre" t="place_of_worship" st="christian"/>
+<node id="33170703" lat="51.3469013" lon="-0.2098204"  n="St Andrew&#39;s United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="33173830" lat="51.4715987" lon="-0.3811828"  n="St. Paul&#39;s" t="place_of_worship" st="christian"/>
+<node id="33228429" lat="51.4665639" lon="-0.3826598"  n="St John&#39;s Mar Thoma Church" t="place_of_worship" st="christian"/>
+<node id="33381459" lat="51.4722474" lon="-0.4031049"  n="The Parish Church of the Good Shepherd" t="place_of_worship" st="christian"/>
+<node id="33760214" lat="51.4852166" lon="-0.3725053"  n="Parish Church of St. Leonard" t="place_of_worship" st="christian"/>
+<node id="34555813" lat="51.4826975" lon="-0.3312657"  n="St. Francis of Assisi" t="place_of_worship" st="christian"/>
+<node id="34816065" lat="51.481147" lon="-0.3432466"  n="St. Mary&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="36216889" lat="51.5610986" lon="-0.372558"  n="South Harrow Methodist Church" t="place_of_worship" st="christian"/>
+<node id="36685563" lat="51.4718027" lon="-0.3502682"  n="Hounslow Spiritualist Church" t="place_of_worship" st="spiritualist"/>
+<node id="36728206" lat="51.4118403" lon="-0.2339513"  n="St. Matthew&#39;s" t="place_of_worship" st="christian"/>
+<node id="36761312" lat="51.4674548" lon="-0.3298526"  n="Isleworth Congregationalist Church" t="place_of_worship" st="christian"/>
+<node id="36761405" lat="51.4669977" lon="-0.3452197"  n="St. Mary&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="36960842" lat="51.3607296" lon="-0.2163003"  n="Saint Dunstan&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="36969165" lat="51.3597163" lon="-0.2168432"  n="Cheam Baptist Church" t="place_of_worship" st="christian"/>
+<node id="40175279" lat="51.364166" lon="-0.1827916"  n="Sutton Spiritualist Church" t="place_of_worship" st="spiritualist"/>
+<node id="40175327" lat="51.3637053" lon="-0.1832204"  n="Brethren&#39;s Meeting Room" t="place_of_worship" st="christian"/>
+<node id="40175341" lat="51.3647538" lon="-0.1831926"  n="St. Barnabas" t="place_of_worship" st="christian"/>
+<node id="43500671" lat="51.4304424" lon="-0.1573652"  n="All Saints Church" t="place_of_worship" st="christian"/>
+<node id="45281257" lat="51.5903319" lon="0.2335989"  n="Saint Peter" t="place_of_worship" st="christian"/>
+<node id="45282306" lat="51.594555" lon="0.2320711"  n="Harold Wood Methodist Church" t="place_of_worship" st="christian"/>
+<node id="48700428" lat="51.5302103" lon="-0.064495"  n="St Peter with St Thomas" t="place_of_worship" st="christian"/>
+<node id="49326968" lat="51.6005713" lon="-0.1962181"  n="St Margaret&#39;s United Reform Church" t="place_of_worship" st="christian"/>
+<node id="49967226" lat="51.4242933" lon="-0.3766486"  n="All Saints, parish church of Hampton" t="place_of_worship" st="christian"/>
+<node id="50453588" lat="51.4449848" lon="-0.3618975"  n="Whitton Methodist Church" t="place_of_worship" st="christian"/>
+<node id="50944792" lat="51.5459584" lon="-0.0422067"  n="Homerton Baptist Church" t="place_of_worship" st="christian"/>
+<node id="51941902" lat="51.5570187" lon="-0.0739332"  n="St Paul&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="52343699" lat="51.5469569" lon="-0.0675858"  n="Faith Tabernacle Church of God" t="place_of_worship" st="christian"/>
+<node id="53456917" lat="51.5469007" lon="-0.0649923"  n="Kingdom Hall of Jehovah&#39;s Witnesses" t="place_of_worship" st="christian"/>
+<node id="59721173" lat="51.3776923" lon="-0.0234685"  n="St Mark&#39;s" t="place_of_worship" st="christian"/>
+<node id="60016002" lat="51.6072654" lon="-0.1855765"  n="Finchley Methodist Church" t="place_of_worship" st="christian"/>
+<node id="60264263" lat="51.3530509" lon="-0.1627405"  n="St. Margaret&#39;s Catholic Church" t="place_of_worship" st="christian"/>
+<node id="60471895" lat="51.6041823" lon="0.2091264"  n="Saint Dominics Roman Catholic Church" t="place_of_worship" st="christian"/>
+<node id="60472940" lat="51.6236624" lon="0.2246961"  n="Saint Thomas&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="61984591" lat="51.5999704" lon="-0.3378573"  n="St Josephs" t="place_of_worship" st="christian"/>
+<node id="62055863" lat="51.48268" lon="-0.3811403"  n="Heston United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="64812752" lat="51.4390627" lon="-0.0343189"  n="St. George&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="66815406" lat="51.6449024" lon="-0.066386"  n="St Mark&#39;s" t="place_of_worship" st="christian"/>
+<node id="66816178" lat="51.6448705" lon="-0.067622"  n="Bush Hill Park URC" t="place_of_worship" st="christian"/>
+<node id="75539587" lat="51.4790658" lon="-0.3889567"  n="All Saints Church and Hall" t="place_of_worship" st="christian"/>
+<node id="76465510" lat="51.5051923" lon="-0.1486509"  n="Christ Church" t="place_of_worship" st="christian"/>
+<node id="81529523" lat="51.4689875" lon="-0.3582236"  n="Hounslow Citadel" t="place_of_worship" st="christian"/>
+<node id="83736897" lat="51.3603803" lon="-0.0836152"  n="St. Paul&#39;s United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="86171273" lat="51.3728539" lon="-0.1889255"  n="Brethren&#39;s Meeting Room" t="place_of_worship" st="christian"/>
+<node id="98160858" lat="51.5714652" lon="-0.1494202"  n="Highgate School Chapel" t="place_of_worship" st="christian"/>
+<node id="130157091" lat="51.4167" lon="-0.1771262"  n="Atlasta Hall" t="place_of_worship" st="christian"/>
+<node id="134764870" lat="51.4915241" lon="-0.2254364"  n="St Paul" t="place_of_worship" st="christian"/>
+<node id="138120349" lat="51.5404662" lon="0.2885013"  n="St Mary Magdalene" t="place_of_worship" st="christian"/>
+<node id="142382773" lat="51.4541764" lon="-0.3588447"  n="Whitton Baptist Church" t="place_of_worship" st="christian"/>
+<node id="150547218" lat="51.6530471" lon="-0.0820563"  n="St Andrew&#39;s" t="place_of_worship" st="christian"/>
+<node id="150569961" lat="51.6641282" lon="-0.0822127"  n="Lancaster Rd United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="150569986" lat="51.6638394" lon="-0.0793324"  n="Community of Christ Church" t="place_of_worship" st="christian"/>
+<node id="151022175" lat="51.4796916" lon="-0.4083349"  n="Cranford Baptist Church" t="place_of_worship" st="christian"/>
+<node id="151022198" lat="51.48271" lon="-0.4104915"  n="Holy Angels" t="place_of_worship" st="christian"/>
+<node id="151022199" lat="51.4827325" lon="-0.4107303"  n="Church of Our Lady and St Christopher" t="place_of_worship" st="christian"/>
+<node id="158863953" lat="51.4984361" lon="-0.1119033"  n="Christ Church and Upton Chapel" t="place_of_worship" st="christian"/>
+<node id="166585101" lat="51.4856638" lon="-0.3071968"  n="Brentford Free Church" t="place_of_worship" st="christian"/>
+<node id="169130189" lat="51.4422933" lon="-0.1667646"  n="Trinity Road Chapel" t="place_of_worship" st="christian"/>
+<node id="169131339" lat="51.4432188" lon="-0.1671802"  n="St Mary Magalene" t="place_of_worship" st="christian"/>
+<node id="171276931" lat="51.5222115" lon="0.0588336"  n="St Mary Magdalene" t="place_of_worship" st="christian"/>
+<node id="173393180" lat="51.5156951" lon="-0.1977443"  n="St Mary of the Angels" t="place_of_worship" st="christian"/>
+<node id="181817739" lat="51.6480883" lon="-0.1781938"  n="St John&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="183074388" lat="51.3800723" lon="0.004615"  n="Hayes Free Church" t="place_of_worship" st="christian"/>
+<node id="186844528" lat="51.4528527" lon="-0.0823089"  n="Saint Barnabas" t="place_of_worship" st="christian"/>
+<node id="187178415" lat="51.4315005" lon="-0.183467"  n="Summerstown Mission Evangelical Church" t="place_of_worship" st="christian"/>
+<node id="195919215" lat="51.3615251" lon="-0.130809"  n="Wallington Christian Centre" t="place_of_worship" st="christian"/>
+<node id="196086880" lat="51.3612903" lon="-0.1366176"  n="Bandon Hill Methodist Church" t="place_of_worship" st="christian"/>
+<node id="196112437" lat="51.360997" lon="-0.1449879"  n="Gospel Hall" t="place_of_worship" st="christian"/>
+<node id="205550880" lat="51.4128199" lon="-0.3614218"  n="Saint Mary&#39;s Parish Church" t="place_of_worship" st="christian"/>
+<node id="206095003" lat="51.4274536" lon="-0.190374"  n="Kingdom Hall" t="place_of_worship" st="christian"/>
+<node id="206144886" lat="51.4157534" lon="-0.3688489"  n="St Theodore" t="place_of_worship" st="christian"/>
+<node id="206149236" lat="51.4143913" lon="-0.3713906"  n="Hampton Baptist Church" t="place_of_worship" st="christian"/>
+<node id="206251140" lat="51.4682732" lon="0.007638"  n="All Saints" t="place_of_worship" st="christian"/>
+<node id="206276560" lat="51.389219" lon="-0.065241"  n="St. Luke&#39;s" t="place_of_worship" st="christian"/>
+<node id="207630574" lat="51.4469798" lon="-0.325066"  n="Saint Mary the Virgin" t="place_of_worship" st="christian"/>
+<node id="211649818" lat="51.5862191" lon="-0.2931158"  n="All Saints" t="place_of_worship" st="christian"/>
+<node id="224091551" lat="51.4699292" lon="0.0237643"  n="St James&#39; Church Kidbrooke" t="place_of_worship" st="christian"/>
+<node id="224146178" lat="51.4628317" lon="0.000771"  n="Parish Church of St Margarets" t="place_of_worship" st="christian"/>
+<node id="237469481" lat="51.5824691" lon="-0.3318261"  n="Saint John the Baptist, Greenhill" t="place_of_worship" st="christian"/>
+<node id="239965407" lat="51.5847926" lon="-0.3399434"  n="Trinity Church" t="place_of_worship" st="christian"/>
+<node id="240613400" lat="51.4420847" lon="-0.3905042"  n="All Saints Church, Hanworth" t="place_of_worship" st="christian"/>
+<node id="240616199" lat="51.5953415" lon="-0.3827217"  n="Saint Lukes" t="place_of_worship" st="christian"/>
+<node id="240620871" lat="51.5945477" lon="-0.3790955"  n="Pinner Parish Church" t="place_of_worship" st="christian"/>
+<node id="240649052" lat="51.3452319" lon="-0.1303629"  n="St. Mark&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="242542157" lat="51.4348368" lon="-0.3921491"  n="Hanworth Gospel Hall" t="place_of_worship" st="christian"/>
+<node id="243633656" lat="51.4796957" lon="0.0269148"  n="Our Lady of Grace RC Church" t="place_of_worship" st="christian"/>
+<node id="243635640" lat="51.4757638" lon="0.0184946"  n="St John the Evangelist" t="place_of_worship" st="christian"/>
+<node id="243709916" lat="51.4763311" lon="-0.0060199"  n="Our Ladye Star of the Sea" t="place_of_worship" st="christian"/>
+<node id="243710184" lat="51.4747149" lon="-0.0141327"  n="South Street Baptist Church" t="place_of_worship" st="christian"/>
+<node id="243710185" lat="51.4760436" lon="-0.0131611"  n="St Mark&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="243746404" lat="51.4699044" lon="0.0374561"  n="St Nicholas Kidbrooke CofE Church" t="place_of_worship" st="christian"/>
+<node id="243771371" lat="51.4753761" lon="-0.0169916"  n="Greenwich Seventh Day Adventist Church" t="place_of_worship" st="christian"/>
+<node id="243832546" lat="51.4527459" lon="0.0081495"  n="Church of the Good Shepherd" t="place_of_worship" st="christian"/>
+<node id="245003264" lat="51.4516555" lon="-0.4402888"  n="St. Mary&#39;s Bedfont" t="place_of_worship" st="christian"/>
+<node id="245097342" lat="51.4631633" lon="-0.0007936"  n="Sacred Heart Convent" t="place_of_worship" st="christian"/>
+<node id="245097420" lat="51.4590372" lon="0.003599"  n="Lewisham Spiritual Church" t="place_of_worship" st="spiritualist"/>
+<node id="245406667" lat="51.531059" lon="-0.0916709"  n="Holy Trinity Hoxton" t="place_of_worship" st="christian"/>
+<node id="245460685" lat="51.6708656" lon="-0.0633187"  n="Jesus Church Forty Hill" t="place_of_worship" st="christian"/>
+<node id="246455162" lat="51.3825353" lon="-0.15769"  n="All Saints" t="place_of_worship" st="christian"/>
+<node id="247465722" lat="51.449846" lon="-0.416678"  n="Salvation Army" t="place_of_worship" st="christian"/>
+<node id="247884516" lat="51.4282619" lon="-0.3877263"  n="St Richard&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="247909883" lat="51.3441514" lon="-0.2028277"  n="St John&#39;s" t="place_of_worship" st="christian"/>
+<node id="248228749" lat="51.3584199" lon="-0.1410767"  n="St. Michael&#39;s and All Angels" t="place_of_worship" st="christian"/>
+<node id="248229484" lat="51.5598285" lon="-0.140775"  n="St Mary Brookfield" t="place_of_worship" st="christian"/>
+<node id="248478328" lat="51.4693065" lon="-0.3279533"  n="St Marys" t="place_of_worship" st="christian"/>
+<node id="248478393" lat="51.4670534" lon="-0.3281065"  n="Kingdom Hall of Jehovah&#39;s Witnesses" t="place_of_worship" st="christian"/>
+<node id="248947896" lat="51.4391407" lon="-0.3749264"  n="Hanworth Methodist Church" t="place_of_worship" st="christian"/>
+<node id="249167570" lat="51.5061922" lon="-0.0580171"  n="St Peter&#39;s London Docks" t="place_of_worship" st="christian"/>
+<node id="249573060" lat="51.492118" lon="-0.2715562"  n="First Church of Christ Scientist Chiswick" t="place_of_worship" st="christian"/>
+<node id="249573063" lat="51.4903425" lon="-0.2727527"  n="Gunnersbury Baptist Church" t="place_of_worship" st="christian"/>
+<node id="249573653" lat="51.492236" lon="-0.2610321"  n="Our Lady of Grace and St. Edward&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="249855776" lat="51.4869221" lon="-0.4352895"  n="Harlington Baptist Church" t="place_of_worship" st="christian"/>
+<node id="250746925" lat="51.4766427" lon="-0.3477381"  n="St. Vincent de Paul" t="place_of_worship" st="christian"/>
+<node id="250747008" lat="51.460546" lon="-0.3251766"  n="All Soul&#39;s" t="place_of_worship" st="christian"/>
+<node id="251385844" lat="51.492509" lon="-0.4340803"  n="Parish Church of St Peter and St Paul Harlington" t="place_of_worship" st="christian"/>
+<node id="251815569" lat="51.350734" lon="-0.1517095"  n="St. Patrick&#39;s Church, Wallington" t="place_of_worship" st="christian"/>
+<node id="252643308" lat="51.5533518" lon="0.0555262"  n="Celestial Church of Christ" t="place_of_worship" st="christian"/>
+<node id="252783742" lat="51.3579022" lon="-0.2137822"  n="St. Christopher&#39;s RC Church" t="place_of_worship" st="christian"/>
+<node id="253029651" lat="51.3643805" lon="-0.1996611"  n="The Mosque" t="place_of_worship" st="muslim"/>
+<node id="253234529" lat="51.4472726" lon="-0.4061905"  n="Christ Church" t="place_of_worship" st="christian"/>
+<node id="253234612" lat="51.444695" lon="-0.4091691"  n="Catholic Church of St Lawrence" t="place_of_worship" st="christian"/>
+<node id="253821949" lat="51.4898365" lon="-0.4567639"  n="Church Court" t="place_of_worship" st="christian"/>
+<node id="253904763" lat="51.647618" lon="-0.1757739"  n="Holy Trinity, Lyonsdown" t="place_of_worship" st="christian"/>
+<node id="253904767" lat="51.6480326" lon="-0.1759011"  n="Mary Immaculate &#38; St Peter" t="place_of_worship" st="christian"/>
+<node id="254338323" lat="51.4387354" lon="-0.4207544"  n="St Dunstan&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="254663089" lat="51.3823009" lon="-0.2149323"  n="St Cecilia&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="254663134" lat="51.3824401" lon="-0.2161682"  n="Emmanuel Church" t="place_of_worship" st="christian"/>
+<node id="254987616" lat="51.555738" lon="-0.0414886"  n="The Risen Christ and All Souls" t="place_of_worship" st="christian"/>
+<node id="254994975" lat="51.5554649" lon="-0.0458658"  n="Clapton Park Methodist Church" t="place_of_worship" st="christian"/>
+<node id="255034086" lat="51.5516512" lon="-0.0412342"  n="St Paul" t="place_of_worship" st="christian"/>
+<node id="255565732" lat="51.5180466" lon="-0.1939043"  n="St Stephen" t="place_of_worship" st="christian"/>
+<node id="255693405" lat="51.4533168" lon="-0.3130856"  n="St. Stephen&#39;s" t="place_of_worship" st="christian"/>
+<node id="256341252" lat="51.559919" lon="-0.3984936"  n="Saint Gregory The Great" t="place_of_worship" st="christian"/>
+<node id="256341253" lat="51.5672413" lon="-0.4097047"  n="Ruislip Manor Methodist Church" t="place_of_worship" st="christian"/>
+<node id="256341872" lat="51.5597273" lon="-0.3940777"  n="Saint Mary" t="place_of_worship" st="christian"/>
+<node id="256342339" lat="51.5662098" lon="-0.4104155"  n="Saint Paul&#39;s Church Ruislip Manor" t="place_of_worship" st="christian"/>
+<node id="256342452" lat="51.5620801" lon="-0.3913954"  n="South Ruislip Methodist Church" t="place_of_worship" st="christian"/>
+<node id="256343340" lat="51.5676663" lon="-0.3952835"  n="Saint Andrews" t="place_of_worship" st="christian"/>
+<node id="256508648" lat="51.4970506" lon="-0.2487883"  n="Chiswick Seventh Day Adventist Church" t="place_of_worship" st="christian"/>
+<node id="256612242" lat="51.4870672" lon="-0.2965164"  n="North Road Baptist Church" t="place_of_worship" st="christian"/>
+<node id="257346934" lat="51.458604" lon="-0.3040148"  n="Richmond and Putney Unitarian Church" t="place_of_worship" st="christian"/>
+<node id="257480747" lat="51.497295" lon="-0.2351429"  n="The Church of the Holy Innocents and St John" t="place_of_worship" st="christian"/>
+<node id="257480749" lat="51.4970703" lon="-0.2344146"  n="Hammersmith Christian Fellowship" t="place_of_worship" st="christian"/>
+<node id="257596499" lat="51.489568" lon="-0.2759108"  n="Russian Orthodox Church Abroad" t="place_of_worship" st="christian"/>
+<node id="257807915" lat="51.4885815" lon="-0.3042996"  n="Jubilee Chapel" t="place_of_worship" st="christian"/>
+<node id="257807941" lat="51.4871899" lon="-0.3070771"  n="Methodist Chapel" t="place_of_worship" st="christian"/>
+<node id="257846356" lat="51.4849159" lon="-0.3059343"  n="St Paul&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="259190769" lat="51.4561101" lon="-0.3200492"  n="St Margarets" t="place_of_worship" st="christian"/>
+<node id="259247831" lat="51.4888859" lon="-0.3010694"  n="Ealing Road Baptist Church" t="place_of_worship" st="christian"/>
+<node id="261245961" lat="51.4709697" lon="-0.1205014"  n="Stockwell Spiritist Church and Healing Centre" t="place_of_worship" st="christian"/>
+<node id="261269886" lat="51.5280326" lon="-0.0512545"  n="London Buddhist Centre" t="place_of_worship" st="buddhist"/>
+<node id="261602159" lat="51.5164526" lon="-0.2027929"  n="All Saints" t="place_of_worship" st="christian"/>
+<node id="261633820" lat="51.3614406" lon="-0.1975507"  n="First Church of Christ the Scientist Sutton" t="place_of_worship" st="christian"/>
+<node id="262556660" lat="51.5607022" lon="-0.3586972"  n="Saint Gabriel&#39;s Catholic Church" t="place_of_worship" st="christian"/>
+<node id="262566131" lat="51.5698109" lon="-0.3593995"  n="Roxeth Green Free Church" t="place_of_worship" st="christian"/>
+<node id="262890341" lat="51.5111211" lon="-0.0192829"  n="Prayer Temple, Calvary Charismatic Baptist Church" t="place_of_worship" st="christian"/>
+<node id="262897666" lat="51.4802695" lon="-0.2700919"  n="St. Joseph&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="263905047" lat="51.5703735" lon="-0.0716353"  n="Stamford Hill United Church" t="place_of_worship" st="christian"/>
+<node id="264132206" lat="51.563242" lon="0.0324617"  n="St Gabriel&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="264133272" lat="51.5622374" lon="0.0351308"  n="Aldersbrook Baptist Church" t="place_of_worship" st="christian"/>
+<node id="266392993" lat="51.4890492" lon="-0.0062525"  n="Christ Church" t="place_of_worship" st="christian"/>
+<node id="266489267" lat="51.4106135" lon="-0.2220164"  n="Dundonald Church" t="place_of_worship" st="christian"/>
+<node id="266527268" lat="51.4469665" lon="-0.4582931"  n="Ashford &#38; Staines Community Centre" t="place_of_worship" st="muslim"/>
+<node id="266689789" lat="51.3746817" lon="-0.2160783"  n="St Oswald Church" t="place_of_worship" st="christian"/>
+<node id="266740389" lat="51.3668301" lon="-0.1986038"  n="Crown Road Baptist Church" t="place_of_worship" st="christian"/>
+<node id="266741156" lat="51.3716037" lon="-0.1961348"  n="Holy Family Catholic Church" t="place_of_worship" st="christian"/>
+<node id="266749420" lat="51.3754478" lon="-0.2355882"  n="St Matthias" t="place_of_worship" st="christian"/>
+<node id="266749422" lat="51.376232" lon="-0.2359782"  n="Christ Church with St Philip" t="place_of_worship" st="christian"/>
+<node id="266891287" lat="51.4067736" lon="0.0188053"  n="Bromley Baptist Church" t="place_of_worship" st="christian"/>
+<node id="266902524" lat="51.3906037" lon="-0.222052"  n="Morden Park Baptist Church" t="place_of_worship" st="christian"/>
+<node id="267338588" lat="51.4602058" lon="-0.1326235"  n="Elim Church" t="place_of_worship" st="christian"/>
+<node id="267341149" lat="51.4572475" lon="-0.1065908"  n="Railton Methodist Church" t="place_of_worship" st="christian"/>
+<node id="267640603" lat="51.4721679" lon="-0.1320719"  n="Christ Church" t="place_of_worship" st="christian"/>
+<node id="267640647" lat="51.4712114" lon="-0.1274753"  n="Stockwell Methodist Church" t="place_of_worship" st="christian"/>
+<node id="267642731" lat="51.4673548" lon="-0.128909"  n="St. John the Evangelist" t="place_of_worship" st="christian"/>
+<node id="267652952" lat="51.4677641" lon="-0.1212194"  n="St. Andrew&#39;s" t="place_of_worship" st="christian"/>
+<node id="267653112" lat="51.4695027" lon="-0.1199772"  n="Stockwell Green United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="268521590" lat="51.5298547" lon="0.057286"  n="St Michaels" t="place_of_worship" st="christian"/>
+<node id="268548571" lat="51.5373458" lon="0.024189"  n="Gurdwara Neville Road" t="place_of_worship" st="sikh"/>
+<node id="268588203" lat="51.5090324" lon="-0.3264097"  n="Saint James&#39;" t="place_of_worship" st="christian"/>
+<node id="269138160" lat="51.5375054" lon="0.005808"  n="Vision Church" t="place_of_worship" st="christian"/>
+<node id="269139651" lat="51.3550209" lon="-0.1885023"  n="Christ Church Sutton" t="place_of_worship" st="christian"/>
+<node id="269253580" lat="51.5476152" lon="0.0008151"  n="St Paul&#39;s" t="place_of_worship" st="christian"/>
+<node id="269896000" lat="51.4940071" lon="-0.0607352"  n="City Hope Church" t="place_of_worship" st="christian"/>
+<node id="270420441" lat="51.5001479" lon="-0.0342845"  n="Trinity Hall" t="place_of_worship" st="christian"/>
+<node id="271292082" lat="51.4910521" lon="-0.0234642"  n="St Edmund&#39;s Church Millwall" t="place_of_worship" st="christian"/>
+<node id="271517280" lat="51.488535" lon="-0.143256"  n="Holy Apostles" t="place_of_worship" st="christian"/>
+<node id="271653112" lat="51.4030012" lon="-0.1748801"  n="Mitcham Parish Church" t="place_of_worship" st="christian"/>
+<node id="272526498" lat="51.5915176" lon="-0.2276471"  n="Hendon St Mary" t="place_of_worship" st="christian"/>
+<node id="273460826" lat="51.4450483" lon="-0.1092796"  n="Holy Trinity Church" t="place_of_worship" st="christian"/>
+<node id="273535351" lat="51.499242" lon="-0.0539424"  n="Sjomannskirken" t="place_of_worship" st="christian"/>
+<node id="273542282" lat="51.4631015" lon="-0.1207686"  n="St Paul&#39;s, Brixton" t="place_of_worship" st="christian"/>
+<node id="274268702" lat="51.4617521" lon="-0.125277"  n="Brixton Baptist Church (Kenyon)" t="place_of_worship" st="christian"/>
+<node id="274268706" lat="51.4615137" lon="-0.1226177"  n="Brixton Seventh-Day Adventist Church" t="place_of_worship" st="christian"/>
+<node id="274268708" lat="51.4622444" lon="-0.1212724"  n="Church of the First Born" t="place_of_worship" st="christian"/>
+<node id="275069923" lat="51.5429064" lon="0.0101836"  n="Highway Church" t="place_of_worship" st="christian"/>
+<node id="275070293" lat="51.5461754" lon="0.0264228"  n="Emmanuel" t="place_of_worship" st="christian"/>
+<node id="275071604" lat="51.5397324" lon="0.0036175"  n="Stratford Unitarian Church" t="place_of_worship" st="christian"/>
+<node id="276084617" lat="51.5171878" lon="-0.2531489"  n="Old Oak Methodist Church" t="place_of_worship" st="christian"/>
+<node id="276091365" lat="51.5129361" lon="-0.257988"  n="Saint Dunstans Church" t="place_of_worship" st="christian"/>
+<node id="276497694" lat="51.5008982" lon="-0.2378429"  n="Saint Andrew Bobola" t="place_of_worship" st="christian"/>
+<node id="276501188" lat="51.5057909" lon="-0.2290392"  n="Saint Stephen&#39;s" t="place_of_worship" st="christian"/>
+<node id="278080046" lat="51.3837818" lon="-0.1744693"  n="Assembly Walk Chapel" t="place_of_worship" st="christian"/>
+<node id="279061238" lat="51.3894005" lon="-0.1806819"  n="St. Teresa of the Child Jesus" t="place_of_worship" st="christian"/>
+<node id="279150356" lat="51.5578527" lon="0.012923"  n="St Margaret with Saint Columba" t="place_of_worship" st="christian"/>
+<node id="279654666" lat="51.5599433" lon="-0.1039309"  n="Parish Church of St. Thomas" t="place_of_worship" st="christian"/>
+<node id="279939867" lat="51.5542519" lon="-0.1383259"  n="Saint Benet and All Saints&#39; Church" t="place_of_worship" st="christian"/>
+<node id="280131884" lat="51.4542201" lon="-0.3211921"  n="Amyand Park Chapel" t="place_of_worship" st="christian"/>
+<node id="280606843" lat="51.4684457" lon="-0.0237628"  n="St Johns With Holy Trinity" t="place_of_worship" st="christian"/>
+<node id="281852906" lat="51.4722415" lon="-0.2873363"  n="Kew Baptist Church" t="place_of_worship" st="christian"/>
+<node id="282594749" lat="51.5149028" lon="0.0316381"  n="Custom House Baptist Church" t="place_of_worship" st="christian"/>
+<node id="283119542" lat="51.5735091" lon="-0.4264933"  n="Ruislip Methodist Church" t="place_of_worship" st="christian"/>
+<node id="283162532" lat="51.5165841" lon="0.0094622"  n="St. Margarets Catholic Church" t="place_of_worship" st="christian"/>
+<node id="283614060" lat="51.447777" lon="-0.1489771"  n="Balham Salvation Army Community Church" t="place_of_worship" st="christian"/>
+<node id="286077666" lat="51.4655498" lon="-0.0547631"  n="Peckham Christian Centre (London City Mission)" t="place_of_worship" st="christian"/>
+<node id="286350113" lat="51.4814222" lon="-0.0573832"  n="The Holy Michael Church of the Lord" t="place_of_worship" st="christian"/>
+<node id="286478778" lat="51.4467179" lon="-0.1478784"  n="Balham Pentecostal Church" t="place_of_worship" st="christian"/>
+<node id="286479004" lat="51.4465338" lon="-0.1491658"  n="Balham Mosque" t="place_of_worship" st="muslim"/>
+<node id="286480614" lat="51.4444101" lon="-0.1452519"  n="St Andrews United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="287844545" lat="51.5880657" lon="-0.3495066"  n="St George, Headstone" t="place_of_worship" st="christian"/>
+<node id="287908276" lat="51.5103994" lon="-0.2831033"  n="St. Martin&#39;s" t="place_of_worship" st="christian"/>
+<node id="287917198" lat="51.51972" lon="-0.2667011"  n="St. Gabriel&#39;s" t="place_of_worship" st="christian"/>
+<node id="288044071" lat="51.5066776" lon="-0.269744"  n="Our Lady of Lourdes" t="place_of_worship" st="christian"/>
+<node id="288562204" lat="51.495832" lon="-0.2630276"  n="Church of St. Alban" t="place_of_worship" st="christian"/>
+<node id="288980731" lat="51.5066741" lon="-0.2701464"  n="Acton Mosque" t="place_of_worship" st="muslim"/>
+<node id="289342554" lat="51.4979921" lon="-0.1737293"  n="Hyde Park Chapel" t="place_of_worship" st="christian"/>
+<node id="289563812" lat="51.4889297" lon="-0.1775698"  n="church" t="place_of_worship" st="christian"/>
+<node id="289806960" lat="51.4360853" lon="-0.1162769"  n="Hitherfield Road Baptist Church" t="place_of_worship" st="christian"/>
+<node id="289834949" lat="51.4360477" lon="-0.1009034"  n="Chatsworth Baptist Church" t="place_of_worship" st="christian"/>
+<node id="290017176" lat="51.4468882" lon="-0.1225356"  n="Streatham Meeting House (Quakers)" t="place_of_worship" st="christian"/>
+<node id="290025606" lat="51.4540142" lon="-0.1190426"  n="Raleigh Park Baptist Church" t="place_of_worship" st="christian"/>
+<node id="290973487" lat="51.4166595" lon="-0.1581637"  n="St Barnabas" t="place_of_worship" st="christian"/>
+<node id="290973760" lat="51.4183135" lon="-0.1500355"  n="Our Lady of the Assumption" t="place_of_worship" st="christian"/>
+<node id="291427458" lat="51.438429" lon="-0.1196015"  n="St. Margaret the Queen" t="place_of_worship" st="christian"/>
+<node id="291438598" lat="51.4577341" lon="-0.0466882"  n="Saint Antony with Saint Silas" t="place_of_worship" st="christian"/>
+<node id="291671981" lat="51.4470453" lon="-0.1491056"  n="Radha Krishna Temple Shyama Ashram" t="place_of_worship" st="hindu"/>
+<node id="291673985" lat="51.4425545" lon="-0.1543184"  n="St Mary and St John the Divine" t="place_of_worship" st="christian"/>
+<node id="291673988" lat="51.4408169" lon="-0.1554392"  n="Christ the King Church" t="place_of_worship" st="christian"/>
+<node id="291675486" lat="51.3808754" lon="-0.1157681"  n="The Holy Redeemer St Marks Mission" t="place_of_worship" st="christian"/>
+<node id="291716159" lat="51.3682152" lon="-0.0941644"  n="Croydon Spiritualist Church" t="place_of_worship" st="christian"/>
+<node id="291899856" lat="51.3703336" lon="-0.0858291"  n="St Matthews Parish Church" t="place_of_worship" st="christian"/>
+<node id="291967374" lat="51.555371" lon="-0.0750278"  n="Aziziye Mosque and Community Centre" t="place_of_worship" st="muslim"/>
+<node id="292016693" lat="51.4358962" lon="-0.3109089"  n="St Thomas Aquinas Roman Catholic Church" t="place_of_worship" st="christian"/>
+<node id="292128578" lat="51.5771861" lon="-0.1409761"  n="London Mennonite Centre" t="place_of_worship" st="christian"/>
+<node id="292177319" lat="51.6074454" lon="-0.4801186"  n="Harefield Baptist Church" t="place_of_worship" st="christian"/>
+<node id="292180542" lat="51.5349199" lon="-0.1301894"  n="Saint Pancras Old Church" t="place_of_worship" st="christian"/>
+<node id="293190026" lat="51.4384168" lon="0.1227435"  n="Albany Park Baptist" t="place_of_worship" st="christian"/>
+<node id="293228402" lat="51.4577161" lon="0.1384927"  n="Trinity" t="place_of_worship" st="christian"/>
+<node id="293246276" lat="51.4317451" lon="0.1268453"  n="St. Andrew&#39;s" t="place_of_worship" st="christian"/>
+<node id="293505032" lat="51.4787445" lon="-0.0942871"  n="Nigerian mosque" t="place_of_worship" st="muslim"/>
+<node id="293544382" lat="51.4420659" lon="-0.3355639"  n="St. James RC Church" t="place_of_worship" st="christian"/>
+<node id="293649265" lat="51.5891001" lon="-0.1449843"  n="St James&#39;" t="place_of_worship" st="christian"/>
+<node id="293652893" lat="51.5914944" lon="-0.1411048"  n="Dukes Avenue Methodist church" t="place_of_worship" st="christian"/>
+<node id="294277236" lat="51.4210661" lon="-0.1457443"  n="Mitcham Lane Baptist Church" t="place_of_worship" st="christian"/>
+<node id="294277237" lat="51.4208199" lon="-0.1460276"  n="St James" t="place_of_worship" st="christian"/>
+<node id="294745606" lat="51.527302" lon="-0.1374519"  n="Shahjalal Jame Masjid Euston Mosque" t="place_of_worship" st="muslim"/>
+<node id="296540409" lat="51.5399413" lon="0.0356896"  n="Shree Kutch Satsang Swaminarayan Temple" t="place_of_worship" st="hindu"/>
+<node id="296556623" lat="51.5395231" lon="0.0253714"  n="Saint Antony&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="296889730" lat="51.5386696" lon="-0.1379804"  n="Greek Orthodox Cathedral Church of All Saints" t="place_of_worship" st="christian"/>
+<node id="298371235" lat="51.4356841" lon="-0.1590884"  n="Saint Anselm&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="299869247" lat="51.4893362" lon="-0.4790468"  n="St Mary the Virgin Church, Harmondsworth" t="place_of_worship" st="christian"/>
+<node id="300385521" lat="51.4650913" lon="0.1069579"  n="Welling Gospel Chapel" t="place_of_worship" st="christian"/>
+<node id="300387058" lat="51.4861741" lon="0.0811402"  n="Richmond Gospel Hall" t="place_of_worship" st="christian"/>
+<node id="301068236" lat="51.5324661" lon="-0.0828566"  n="True Jesus Church" t="place_of_worship" st="christian"/>
+<node id="302060330" lat="51.4719325" lon="0.1213423"  n="Welling Baptist Church" t="place_of_worship" st="christian"/>
+<node id="302060883" lat="51.4689385" lon="0.1347834"  n="St Peter&#39;s" t="place_of_worship" st="christian"/>
+<node id="302061875" lat="51.4522376" lon="0.1738363"  n="Crayford Baptist Church" t="place_of_worship" st="christian"/>
+<node id="302063410" lat="51.4605688" lon="0.1590062"  n="Lyndhurst Chapel" t="place_of_worship" st="christian"/>
+<node id="302063635" lat="51.4631195" lon="0.1590148"  n="Barnehurst Methodist Church" t="place_of_worship" st="christian"/>
+<node id="302168201" lat="51.508182" lon="-0.2756089"  n="Acton Hill Church" t="place_of_worship" st="christian"/>
+<node id="302172071" lat="51.5066932" lon="-0.2712831"  n="Acton Baptist Church" t="place_of_worship" st="christian"/>
+<node id="302173383" lat="51.504512" lon="-0.2689663"  n="Berrymead Evangelical Church" t="place_of_worship" st="christian"/>
+<node id="302173385" lat="51.5042426" lon="-0.268953"  n="Ukrainian Autocephalous Orthodox Church" t="place_of_worship" st="christian"/>
+<node id="302384946" lat="51.4494299" lon="-0.0520125"  n="Maha Lakshmi Vidya Bhavan" t="place_of_worship" st="hindu"/>
+<node id="304316280" lat="51.5411575" lon="-0.2592018"  n="Saint Michael and All Angels" t="place_of_worship" st="christian"/>
+<node id="304318228" lat="51.5410775" lon="-0.2604292"  n="Stonebridge Evangelical Church" t="place_of_worship" st="christian"/>
+<node id="304599682" lat="51.6668925" lon="-0.170869"  n="St Paul" t="place_of_worship" st="christian"/>
+<node id="304944920" lat="51.5522823" lon="0.266192"  n="All Saints&#39;, Cranham" t="place_of_worship" st="christian"/>
+<node id="305084565" lat="51.5553993" lon="-0.2932998"  n="Park Lane Methodist Church" t="place_of_worship" st="christian"/>
+<node id="305442663" lat="51.5624433" lon="-0.3061477"  n="North Wembley Community Seventh-Day Adventist Church" t="place_of_worship" st="christian"/>
+<node id="305496651" lat="51.4322131" lon="-0.0786209"  n="The Parish Church of Saint Stephen South Dulwich" t="place_of_worship" st="christian"/>
+<node id="305758720" lat="51.6436784" lon="-0.0485989"  n="Lincoln Road Chapel" t="place_of_worship" st="christian"/>
+<node id="305995480" lat="51.6230094" lon="-0.1871674"  n="name?" t="place_of_worship" st="christian"/>
+<node id="306472233" lat="51.4976566" lon="-0.1626479"  n="St Saviours" t="place_of_worship" st="christian"/>
+<node id="306501359" lat="51.4678386" lon="-0.0474501"  n="Church Of God of Prosperity, House of Bread" t="place_of_worship" st="christian"/>
+<node id="307536211" lat="51.5441876" lon="0.0319951"  n="The Muslim community Centre &#38; Mosque" t="place_of_worship" st="muslim"/>
+<node id="308053696" lat="51.3987982" lon="-0.040892"  n="St John&#39;s Coptic Orthodox Church" t="place_of_worship" st="christian"/>
+<node id="309503007" lat="51.4064896" lon="-0.1593352"  n="St. Mark&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="309545199" lat="51.4098843" lon="-0.0596289"  n="St Anthony of Padua Catholic Church" t="place_of_worship" st="christian"/>
+<node id="309985384" lat="51.4081107" lon="-0.0505941"  n="Avenue Baptist Church" t="place_of_worship" st="christian"/>
+<node id="309985385" lat="51.4078425" lon="-0.0519793"  n="Saint Michael&#39;s Beckenham Church" t="place_of_worship" st="christian"/>
+<node id="312185614" lat="51.4328368" lon="-0.3031787"  n="St Andrews" t="place_of_worship" st="christian"/>
+<node id="312534081" lat="51.4042319" lon="-0.1695672"  n="Elim Pentecostal Church" t="place_of_worship" st="christian"/>
+<node id="312559630" lat="51.5508511" lon="0.0103473"  n="Grace Baptist Church" t="place_of_worship" st="christian"/>
+<node id="312559727" lat="51.5453923" lon="0.0019655"  n="Stratford Newtown Methodist Church" t="place_of_worship" st="christian"/>
+<node id="312915341" lat="51.5765519" lon="-0.3403328"  n="Our Lady &#38; St Thomas of Canterbury" t="place_of_worship" st="christian"/>
+<node id="313181173" lat="51.5392244" lon="-0.1220803"  n="Paget Christian Centre" t="place_of_worship" st="christian"/>
+<node id="313617783" lat="51.4929178" lon="-0.236068"  n="Rivercourt Methodist Church" t="place_of_worship" st="christian"/>
+<node id="313617816" lat="51.4940568" lon="-0.2369048"  n="Ravenscourt Baptist Church" t="place_of_worship" st="christian"/>
+<node id="314003091" lat="51.5668587" lon="-0.0133797"  n="Yada Christian Ministries" t="place_of_worship" st="christian"/>
+<node id="314003151" lat="51.5685877" lon="-0.0160028"  n="St Joseph&#39;s Catholic Junior School" t="place_of_worship" st="christian"/>
+<node id="314948932" lat="51.4407285" lon="-0.0996353"  n="Thurlow Hall" t="place_of_worship" st="christian"/>
+<node id="315889958" lat="51.5640794" lon="-0.0122173"  n="Grange Park United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="315889959" lat="51.5645607" lon="-0.012851"  n="Redeemed Christian Church of God" t="place_of_worship" st="christian"/>
+<node id="315889960" lat="51.5652611" lon="-0.0144178"  n="St Joseph&#39;s" t="place_of_worship" st="christian"/>
+<node id="315889961" lat="51.5654471" lon="-0.0146641"  n="Bible Faith Holiness Church" t="place_of_worship" st="christian"/>
+<node id="316022600" lat="51.564985" lon="-0.0228683"  n="St Joseph&#39;s Catholic nursery / infants&#39; school" t="place_of_worship" st="christian"/>
+<node id="316022622" lat="51.5691732" lon="-0.0293129"  n="Emmanuel Community Hall" t="place_of_worship" st="christian"/>
+<node id="316580811" lat="51.5611335" lon="-0.0098295"  n="Leyton Jamia Masjid" t="place_of_worship" st="muslim"/>
+<node id="316763479" lat="51.5148199" lon="-0.0962657"  n="St Vedast" t="place_of_worship" st="christian"/>
+<node id="317421400" lat="51.3632497" lon="-0.2955152"  n="Chessington Methodist Church" t="place_of_worship" st="christian"/>
+<node id="318696717" lat="51.5537198" lon="0.0084197"  n="Cann Hall and Harrow Green Baptist Church" t="place_of_worship" st="christian"/>
+<node id="318696722" lat="51.5573866" lon="0.0164044"  n="Cann Hall Methodist Church" t="place_of_worship" st="christian"/>
+<node id="318696748" lat="51.5527095" lon="0.0216865"  n="New Mercies Church" t="place_of_worship" st="christian"/>
+<node id="318907452" lat="51.5440195" lon="0.0420277"  n="Manor Park Spiritualist Church" t="place_of_worship" st="christian"/>
+<node id="319512037" lat="51.5581658" lon="-0.1943426"  n="St Luke&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="320500461" lat="51.5713627" lon="-0.0148879"  n="All Saints" t="place_of_worship" st="christian"/>
+<node id="320500480" lat="51.5717499" lon="-0.0214873"  n="Ghousia" t="place_of_worship" st="muslim"/>
+<node id="320728071" lat="51.5478637" lon="0.0566192"  n="London Sri Murugan Temple" t="place_of_worship" st="hindu"/>
+<node id="322120316" lat="51.5371806" lon="0.0385135"  n="Full Gospel Hall" t="place_of_worship" st="christian"/>
+<node id="322764682" lat="51.3225302" lon="-0.1406668"  n="St Andrew&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="326122889" lat="51.6414759" lon="-0.0787452"  n="St Stephen&#39;s Parish Church" t="place_of_worship" st="christian"/>
+<node id="326122980" lat="51.649815" lon="-0.0804782"  n="Our Lady of Mt. Carmel and St. George" t="place_of_worship" st="christian"/>
+<node id="327404126" lat="51.6453405" lon="-0.1268254"  n="St. Thomas&#39;s, Oakwood" t="place_of_worship" st="christian"/>
+<node id="330035110" lat="51.6317727" lon="-0.1236772"  n="Southgate (The Bourne) Methodist Church" t="place_of_worship" st="christian"/>
+<node id="330128354" lat="51.6354997" lon="-0.1058696"  n="St. Paul&#39;s, Winchmore Hill" t="place_of_worship" st="christian"/>
+<node id="330563788" lat="51.6324524" lon="-0.1015095"  n="Winchmore Hill URC" t="place_of_worship" st="christian"/>
+<node id="331320253" lat="51.5490776" lon="0.0421994"  n="All saints" t="place_of_worship" st="christian"/>
+<node id="331358060" lat="51.5438166" lon="0.0552343"  n="St Barabas Parish Church" t="place_of_worship" st="christian"/>
+<node id="331919384" lat="51.5469911" lon="0.0489768"  n="Manor Park Christian Centre" t="place_of_worship" st="christian"/>
+<node id="331927973" lat="51.5438525" lon="0.0559463"  n="Gurdwara Dasmesh Darbar" t="place_of_worship" st="sikh"/>
+<node id="332311026" lat="51.5707024" lon="-0.1970513"  n="Trinity Church" t="place_of_worship" st="christian"/>
+<node id="333245263" lat="51.6001734" lon="-0.0058458"  n="Living Flames Baptist Church" t="place_of_worship" st="christian"/>
+<node id="336253001" lat="51.5502249" lon="-0.1005795"  n="Highbury Baptist Church" t="place_of_worship" st="christian"/>
+<node id="336350472" lat="51.5767602" lon="-0.4262219"  n="St Martins of Tours" t="place_of_worship" st="christian"/>
+<node id="340127646" lat="51.5395633" lon="0.0629499"  n="St Paul&#39;s Church Centre" t="place_of_worship" st="christian"/>
+<node id="343537927" lat="51.5847939" lon="-0.0969925"  n="Kingdom Hall of Jehovas Witnesses" t="place_of_worship" st="christian"/>
+<node id="343569713" lat="51.5671075" lon="-0.1109575"  n="Stround Green Christian Assembly" t="place_of_worship" st="christian"/>
+<node id="346409361" lat="51.5682749" lon="0.0128114"  n="Leytonstone Mosque" t="place_of_worship" st="muslim"/>
+<node id="348496999" lat="51.5545738" lon="0.0601381"  n="Little Ilford Baptist Church" t="place_of_worship" st="christian"/>
+<node id="348723877" lat="51.5510261" lon="0.0498463"  n="Manor Park Methodist Church" t="place_of_worship" st="christian"/>
+<node id="350687669" lat="51.4016354" lon="-0.0984784"  n="St. Paul&#39;s" t="place_of_worship" st="christian"/>
+<node id="353336458" lat="51.4903717" lon="0.082589"  n="Greenwich Islamic Centre" t="place_of_worship" st="muslim"/>
+<node id="353890463" lat="51.5242485" lon="-0.2234673"  n="St Francis Community Church" t="place_of_worship" st="christian"/>
+<node id="354076486" lat="51.561525" lon="-0.0030342"  n="Christ Church Leyton" t="place_of_worship" st="christian"/>
+<node id="354076488" lat="51.5613476" lon="-0.0029354"  n="Gurdwara Sikh Sangat London East" t="place_of_worship" st="sikh"/>
+<node id="354428764" lat="51.5567592" lon="-0.0111261"  n="ΑΓΙΟΥ ΕΛΕΘΕΡΙΟΥ" t="place_of_worship" st="christian"/>
+<node id="354466446" lat="51.55311" lon="-0.0044819"  n="Masjid Tawhid" t="place_of_worship" st="muslim"/>
+<node id="354687021" lat="51.6133303" lon="-0.0179552"  n="South Chingford Congregational Church" t="place_of_worship" st="christian"/>
+<node id="354687042" lat="51.6151924" lon="-0.0166145"  n="St Edmund&#39;s" t="place_of_worship" st="christian"/>
+<node id="354834418" lat="51.6173769" lon="0.0006441"  n="St Anne&#39;s" t="place_of_worship" st="christian"/>
+<node id="354838751" lat="51.6231406" lon="-0.0167235"  n="Chingford Mount Baptist Church" t="place_of_worship" st="christian"/>
+<node id="354838754" lat="51.6225188" lon="-0.0169765"  n="All Saints (The Old Church)" t="place_of_worship" st="christian"/>
+<node id="354838777" lat="51.6168524" lon="-0.016289"  n="The Methodist Church, South Chingford" t="place_of_worship" st="christian"/>
+<node id="355034031" lat="51.43163" lon="0.1669609"  n="St Barnabas Church" t="place_of_worship" st="christian"/>
+<node id="355876333" lat="51.5625211" lon="-0.0665542"  n="St Michael and All Angels" t="place_of_worship" st="christian"/>
+<node id="356790744" lat="51.5372055" lon="0.0023259"  n="The Salvation Army" t="place_of_worship" st="christian"/>
+<node id="356930658" lat="51.5230549" lon="0.0240575"  n="Memorial Community Church" t="place_of_worship" st="christian"/>
+<node id="362347495" lat="51.5494177" lon="-0.1077444"  n="North London Buddhist Centre" t="place_of_worship" st="buddhist"/>
+<node id="364555343" lat="51.5178883" lon="0.0269584"  n="London Ghana Seventh Day Adventist church" t="place_of_worship" st="christian"/>
+<node id="364654042" lat="51.4851374" lon="-0.1787177"  n="St Andrew&#39;s" t="place_of_worship" st="christian"/>
+<node id="364779963" lat="51.548214" lon="-0.1018394"  n="Highbury Evangelical Fellowship" t="place_of_worship" st="christian"/>
+<node id="366903451" lat="51.4784656" lon="0.0675079"  n="All Saints Shooters Hill" t="place_of_worship" st="christian"/>
+<node id="370092701" lat="51.5873603" lon="-0.1156065"  n="Hornsey Parish Church" t="place_of_worship" st="christian"/>
+<node id="370187938" lat="51.587506" lon="-0.131498"  n="Hornsey Moravian Church" t="place_of_worship" st="christian"/>
+<node id="371762073" lat="51.3679831" lon="-0.2066819"  n="St Albans" t="place_of_worship" st="christian"/>
+<node id="376454386" lat="51.4541875" lon="-0.3339219"  n="All Hallows" t="place_of_worship" st="christian"/>
+<node id="376836069" lat="51.4436309" lon="-0.3511585"  n="All Saints" t="place_of_worship" st="christian"/>
+<node id="379422452" lat="51.4011951" lon="-0.2884516"  n="Gurdwarari Guru Har Rai Sahib Ji" t="place_of_worship" st="sikh"/>
+<node id="380774800" lat="51.6090393" lon="-0.3601605"  n="Hatch End Free Church" t="place_of_worship" st="christian"/>
+<node id="380774828" lat="51.6084369" lon="-0.3584096"  n="St Teresa" t="place_of_worship" st="christian"/>
+<node id="380775452" lat="51.6097748" lon="-0.3708379"  n="St Anselm" t="place_of_worship" st="christian"/>
+<node id="384619386" lat="51.4602914" lon="-0.2749298"  n="Christ Church" t="place_of_worship" st="christian"/>
+<node id="384620890" lat="51.4649277" lon="-0.2584331"  n="Elim Pentecostal Church" t="place_of_worship" st="christian"/>
+<node id="387531758" lat="51.5734008" lon="-0.2026419"  n="Munks" t="place_of_worship" st="jewish"/>
+<node id="389892734" lat="51.463581" lon="-0.2715989"  n="East Sheen Baptist Church" t="place_of_worship" st="christian"/>
+<node id="391657553" lat="51.5150667" lon="-0.2140009"  n="Notting Hill Methodist Church" t="place_of_worship" st="christian"/>
+<node id="392506696" lat="51.5076454" lon="-0.2144221"  n="Spanish and Portugese Synagogue" t="place_of_worship" st="jewish"/>
+<node id="392506723" lat="51.5099674" lon="-0.2108986"  n="St Francis of Assisi Catholic Church" t="place_of_worship" st="christian"/>
+<node id="393523299" lat="51.5655515" lon="-0.1005926"  n="St John the Evangelist" t="place_of_worship" st="christian"/>
+<node id="394951041" lat="51.419661" lon="-0.1953264"  n="Holy Trinity" t="place_of_worship" st="christian"/>
+<node id="395491378" lat="51.4792457" lon="0.1794842"  n="Queen Street Baptist Church" t="place_of_worship" st="christian"/>
+<node id="402385569" lat="51.5068293" lon="-0.2347976"  n="Uxbridge Road Tabernacle" t="place_of_worship" st="christian"/>
+<node id="402390241" lat="51.5066577" lon="-0.2399028"  n="Saint Luke" t="place_of_worship" st="christian"/>
+<node id="403850652" lat="51.4523859" lon="-0.0594061"  n="Honor Oak Baptist Church" t="place_of_worship" st="christian"/>
+<node id="403893307" lat="51.4905026" lon="0.1610411"  n="Guru Nanak Durbar Sikh Temple" t="place_of_worship" st="sikh"/>
+<node id="405530075" lat="51.5498608" lon="-0.2025473"  n="St Cuthbert’s Church West Hampstead" t="place_of_worship" st="christian"/>
+<node id="406948518" lat="51.415705" lon="-0.2978722"  n="Kingston Mosque" t="place_of_worship" st="muslim"/>
+<node id="411821053" lat="51.4479878" lon="0.0366019"  n="St Saviour&#39;s" t="place_of_worship" st="christian"/>
+<node id="412961867" lat="51.4486798" lon="0.1008605"  n="Catholic Church of Our Lady of the Rosary" t="place_of_worship" st="christian"/>
+<node id="413566834" lat="51.4489974" lon="0.0989483"  n="Days Lane Baptist Church" t="place_of_worship" st="christian"/>
+<node id="415395338" lat="51.4544131" lon="0.1493141"  n="Grace Baptist Church" t="place_of_worship" st="christian"/>
+<node id="415406729" lat="51.4538408" lon="0.1728918"  n="St Mary of the Crays Roman Catholic Church" t="place_of_worship" st="christian"/>
+<node id="415416306" lat="51.4548837" lon="0.1746599"  n="St Paulinus" t="place_of_worship" st="christian"/>
+<node id="416898332" lat="51.608171" lon="-0.2893676"  n="St Lawrence Little Stanmore" t="place_of_worship" st="christian"/>
+<node id="417570359" lat="51.4269005" lon="0.0965156"  n="Christ Church" t="place_of_worship" st="christian"/>
+<node id="417621810" lat="51.4240572" lon="0.1049456"  n="St Johns CofE" t="place_of_worship" st="christian"/>
+<node id="419139345" lat="51.4913752" lon="-0.241835"  n="Parish church of St Peter" t="place_of_worship" st="christian"/>
+<node id="419265599" lat="51.4269357" lon="0.1053199"  n="Emmanuel Methodist and United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="420293961" lat="51.4822061" lon="-0.0540199"  n="Christ the King Chapel" t="place_of_worship" st="christian"/>
+<node id="420319327" lat="51.401279" lon="0.0361366"  n="Kingdom Hall of Jehovah&#39;s Witnesses" t="place_of_worship" st="christian"/>
+<node id="420339956" lat="51.4021041" lon="0.0497615"  n="St. George" t="place_of_worship" st="christian"/>
+<node id="420364309" lat="51.3959427" lon="0.0377776"  n="Jubilee Centre" t="place_of_worship" st="christian"/>
+<node id="420364311" lat="51.3956257" lon="0.0356627"  n="St. Swithun&#39;s Catholic Church" t="place_of_worship" st="christian"/>
+<node id="420765325" lat="51.4881823" lon="0.0666428"  n="St. Peter the Apostle" t="place_of_worship" st="christian"/>
+<node id="420771880" lat="51.4071082" lon="0.0164025"  n="East Street Evangelical Church" t="place_of_worship" st="christian"/>
+<node id="420774372" lat="51.4080289" lon="0.0142783"  n="Bromley Methodist Church" t="place_of_worship" st="christian"/>
+<node id="420786888" lat="51.4021715" lon="0.0148551"  n="The Salvation Army" t="place_of_worship" st="christian"/>
+<node id="420897861" lat="51.3887718" lon="0.051679"  n="Holmcroft Church" t="place_of_worship" st="christian"/>
+<node id="423213358" lat="51.4276169" lon="0.0419799"  n="Court Farm Angelical Church" t="place_of_worship" st="christian"/>
+<node id="425137372" lat="51.478153" lon="-0.1211752"  n="St Stephen&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="425176496" lat="51.5353112" lon="-0.1165625"  n="All Saint&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="425712858" lat="51.4290968" lon="0.056647"  n="St Albans" t="place_of_worship" st="christian"/>
+<node id="425713973" lat="51.4294125" lon="0.0560376"  n="Coldharbour Evangelical Free Church" t="place_of_worship" st="christian"/>
+<node id="427019026" lat="51.4191616" lon="0.0672826"  n="Church of the Annunciation" t="place_of_worship" st="christian"/>
+<node id="427531604" lat="51.4203762" lon="0.0654174"  n="St Patrick&#39;s" t="place_of_worship" st="christian"/>
+<node id="427671760" lat="51.500071" lon="-0.0417784"  n="Our Lady of the Immaculate Conception" t="place_of_worship" st="christian"/>
+<node id="428964039" lat="51.4941374" lon="-0.1510616"  n="St. Michael&#39;s" t="place_of_worship" st="christian"/>
+<node id="429640060" lat="51.5195038" lon="0.0128353"  n="Cliff Walk Church" t="place_of_worship" st="christian"/>
+<node id="429906523" lat="51.4036394" lon="0.1038659"  n="Kings Church Centre" t="place_of_worship" st="christian"/>
+<node id="430809472" lat="51.4004352" lon="0.014843"  n="Friends Meeting House" t="place_of_worship" st="humanist"/>
+<node id="430935936" lat="51.4423364" lon="0.1494538"  n="St John Fisher" t="place_of_worship" st="christian"/>
+<node id="432034318" lat="51.5360575" lon="-0.024217"  n="New Bethel Revival Ministry International" t="place_of_worship" st="christian"/>
+<node id="437109131" lat="51.4574515" lon="-0.3035083"  n="Vineyard Church" t="place_of_worship" st="christian"/>
+<node id="438117305" lat="51.5415006" lon="-0.0523032"  n="Frampton Park Baptist Church" t="place_of_worship" st="christian"/>
+<node id="441290641" lat="51.4871125" lon="0.100483"  n="St Nicholas" t="place_of_worship" st="christian"/>
+<node id="441303926" lat="51.4871728" lon="0.0878954"  n="St Patrick&#39;s Catholic Church" t="place_of_worship" st="christian"/>
+<node id="441306444" lat="51.4894656" lon="0.0866766"  n="Seventh day Adventist Church" t="place_of_worship" st="christian"/>
+<node id="441950767" lat="51.5116579" lon="-0.0982012"  n="The Salvation Army International HQ" t="place_of_worship" st="christian"/>
+<node id="443032185" lat="51.4881406" lon="-0.1627719"  n="The Chelsea Synagogue" t="place_of_worship" st="jewish"/>
+<node id="443606665" lat="51.3797298" lon="0.0196365"  n="Assembly Hall" t="place_of_worship" st="christian"/>
+<node id="444543208" lat="51.4749577" lon="-0.0283331"  n="New Cross Baptist Church" t="place_of_worship" st="christian"/>
+<node id="444859533" lat="51.4524474" lon="-0.0070274"  n="St Swithun&#39;s" t="place_of_worship" st="christian"/>
+<node id="445373905" lat="51.4741163" lon="-0.025534"  n="Celestial Church of Christ" t="place_of_worship" st="christian"/>
+<node id="447081289" lat="51.4283142" lon="-0.0112187"  n="St John the Baptist" t="place_of_worship" st="christian"/>
+<node id="447357536" lat="51.4097156" lon="0.0076058"  n="Christ Church Bromley" t="place_of_worship" st="christian"/>
+<node id="447434462" lat="51.4129952" lon="0.0150215"  n="Parish Church of St Mary, Plaistow" t="place_of_worship" st="christian"/>
+<node id="449215357" lat="51.4576183" lon="0.0081726"  n="Lee new Testament Church of God" t="place_of_worship" st="christian"/>
+<node id="449215555" lat="51.4573081" lon="0.0084644"  n="Emmanuel Pentecostal Church of God" t="place_of_worship" st="christian"/>
+<node id="449216072" lat="51.4566931" lon="0.0078808"  n="Icthus Christian Fellowship" t="place_of_worship" st="christian"/>
+<node id="451698384" lat="51.4945109" lon="-0.0802016"  n="Nasrul-Lahi-i-Fathi Society of Nigeria" t="place_of_worship" st="muslim"/>
+<node id="452318978" lat="51.4187458" lon="-0.048705"  n="Holy Trinity" t="place_of_worship" st="christian"/>
+<node id="452318979" lat="51.4095898" lon="-0.0614743"  n="Christ Church" t="place_of_worship" st="christian"/>
+<node id="452980478" lat="51.5028285" lon="-0.2226787"  n="The Great Commission Ministry" t="place_of_worship" st="christian"/>
+<node id="454338556" lat="51.5158107" lon="-0.4194746"  n="Hayes Town Chapel" t="place_of_worship" st="christian"/>
+<node id="457013887" lat="51.4481317" lon="0.016503"  n="Brethrens Meeting Room" t="place_of_worship" st="christian"/>
+<node id="457016071" lat="51.447647" lon="0.0139744"  n="Our Lady of Lourdes" t="place_of_worship" st="christian"/>
+<node id="458749858" lat="51.5634377" lon="-0.0589468"  n="Upper Clapton URC" t="place_of_worship" st="christian"/>
+<node id="459654489" lat="51.6013284" lon="-0.1125483"  n="The Redeemed Christian Church of God" t="place_of_worship" st="christian"/>
+<node id="464367497" lat="51.3407538" lon="-0.0081547"  n="Salvation Army" t="place_of_worship" st="christian"/>
+<node id="464559364" lat="51.3393677" lon="-0.0126774"  n="St Edwards" t="place_of_worship" st="christian"/>
+<node id="464599331" lat="51.3397859" lon="-0.0093815"  n="New Addington Baptist Church" t="place_of_worship" st="christian"/>
+<node id="464615813" lat="51.3442522" lon="-0.0054333"  n="Christ&#39;s Day Evangelical Ministry" t="place_of_worship" st="christian"/>
+<node id="465964309" lat="51.3542049" lon="-0.0185976"  n="Addington Community Church" t="place_of_worship" st="christian"/>
+<node id="469967548" lat="51.4240378" lon="-0.0890076"  n="Kingdom Hall of Jehovah&#39;s Witnesses" t="place_of_worship" st="christian"/>
+<node id="470067184" lat="51.5734857" lon="-0.4156802"  n="Church of the Most Sacred Heart" t="place_of_worship" st="christian"/>
+<node id="470628808" lat="51.5277071" lon="-0.0763802"  n="Shoreditch Tabernacle" t="place_of_worship" st="christian"/>
+<node id="472881512" lat="51.4821331" lon="0.0728653"  n="Trinity Methodist Church" t="place_of_worship" st="christian"/>
+<node id="474813871" lat="51.4886094" lon="0.050615"  n="Woolwich Evangelical Church" t="place_of_worship" st="christian"/>
+<node id="475877953" lat="51.5932725" lon="-0.0691359"  n="Brook Street Chapel" t="place_of_worship" st="christian"/>
+<node id="478688703" lat="51.528205" lon="-0.1212167"  n="King&#39;s Cross Mosque and Islamic Centre" t="place_of_worship" st="muslim"/>
+<node id="478774596" lat="51.4408315" lon="-0.1546467"  n="Balham Seventh Day Adventist Church" t="place_of_worship" st="christian"/>
+<node id="481644156" lat="51.475797" lon="-0.093862"  n="Redeemed Christian Church of God" t="place_of_worship" st="christian"/>
+<node id="482699108" lat="51.4887513" lon="0.0466896"  n="St Thomas&#39; Church" t="place_of_worship" st="christian"/>
+<node id="483488265" lat="51.4373319" lon="-0.1579182"  n="Upper Tooting Methodist Church" t="place_of_worship" st="christian"/>
+<node id="485848564" lat="51.4655459" lon="-0.3636412"  n="Hounslow Evangelical" t="place_of_worship" st="christian"/>
+<node id="490575052" lat="51.4610386" lon="-0.0984892"  n="Saints Philip and James Church" t="place_of_worship" st="christian"/>
+<node id="496105732" lat="51.6135406" lon="-0.1228963"  n="Assembly Hall of Jehovah&#39;s Witnesses" t="place_of_worship" st="christian"/>
+<node id="498824576" lat="51.5215041" lon="-0.2036421"  n="Al Manaar Mosque" t="place_of_worship" st="muslim"/>
+<node id="499350860" lat="51.511212" lon="-0.1378308"  n="Our Lady of The Assumption and Saint Gregory" t="place_of_worship" st="christian"/>
+<node id="499992689" lat="51.5633678" lon="-0.0169541"  n="Al-Birr" t="place_of_worship" st="muslim"/>
+<node id="500103669" lat="51.4936338" lon="-0.2349489"  n="The Salvation Army" t="place_of_worship" st="christian"/>
+<node id="502584174" lat="51.5170887" lon="-0.1382731"  n="Fo Guang Temple" t="place_of_worship" st="buddhist"/>
+<node id="506426979" lat="51.4287556" lon="-0.2697876"  n="St. Ann&#39;s Catholic Church" t="place_of_worship" st="christian"/>
+<node id="506427035" lat="51.4401529" lon="-0.1966177"  n="Southfields Methodist Church" t="place_of_worship" st="christian"/>
+<node id="510150480" lat="51.42481" lon="-0.1426946"  n="Parish Church of St Alban" t="place_of_worship" st="christian"/>
+<node id="519547865" lat="51.5968237" lon="-0.1153813"  n="St Paul&#39;s Catholic Church" t="place_of_worship" st="christian"/>
+<node id="522095806" lat="51.4376063" lon="-0.1057731"  n="The Salvation Army" t="place_of_worship" st="christian"/>
+<node id="522096242" lat="51.4367697" lon="-0.1054281"  n="West Norwood Spiritualist Church" t="place_of_worship" st="spiritualist"/>
+<node id="524171511" lat="51.4881179" lon="-0.2670568"  n="Chiswick Methodist Church" t="place_of_worship" st="christian"/>
+<node id="526348248" lat="51.6138179" lon="-0.3040343"  n="St William of York" t="place_of_worship" st="christian"/>
+<node id="529116465" lat="51.5920489" lon="-0.0700447"  n="St Marks Methodist Church" t="place_of_worship" st="christian"/>
+<node id="536126431" lat="51.58597" lon="-0.3077102"  n="Kenton Methodist Church" t="place_of_worship" st="christian"/>
+<node id="538187694" lat="51.5147175" lon="-0.0210179"  n="St. Saviour&#39;s" t="place_of_worship" st="christian"/>
+<node id="538343235" lat="51.3879906" lon="0.0673554"  n="St James the Great" t="place_of_worship" st="christian"/>
+<node id="539104809" lat="51.6161575" lon="0.1822685"  n="St John the Evangelist" t="place_of_worship" st="christian"/>
+<node id="541172872" lat="51.578187" lon="-0.3675862"  n="Rayners Lane Baptist Church" t="place_of_worship" st="christian"/>
+<node id="544325840" lat="51.5402877" lon="-0.4506826"  n="Saint Bernadette R.C. Primary School" t="place_of_worship" st="christian"/>
+<node id="544325842" lat="51.5454459" lon="-0.44923"  n="North Hillingdon Methodist Church" t="place_of_worship" st="christian"/>
+<node id="544325848" lat="51.5480779" lon="-0.4486851"  n="All Saints Hillingdon" t="place_of_worship" st="christian"/>
+<node id="547143035" lat="51.5806827" lon="-0.3662278"  n="Saint John Fisher RC Church" t="place_of_worship" st="christian"/>
+<node id="548660255" lat="51.5821559" lon="-0.3061376"  n="Haridham" t="place_of_worship" st="hindu"/>
+<node id="566829327" lat="51.4087726" lon="0.0230874"  n="St. John&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="566996116" lat="51.4087656" lon="0.0247907"  n="Trinity" t="place_of_worship" st="christian"/>
+<node id="567598087" lat="51.4106022" lon="0.0279488"  n="St Josephs" t="place_of_worship" st="christian"/>
+<node id="568031045" lat="51.4986525" lon="-0.3063433"  n="Assyrian Society" t="place_of_worship" st="christian"/>
+<node id="577268245" lat="51.6045599" lon="-0.193123"  n="Brethren Meeting House" t="place_of_worship" st="christian"/>
+<node id="588867128" lat="51.5810459" lon="0.024371"  n="Hermon Hill Methodist Church" t="place_of_worship" st="christian"/>
+<node id="596544735" lat="51.5512618" lon="0.1432317"  n="Catholic Church of the Holy Family, Dagenham" t="place_of_worship" st="christian"/>
+<node id="596548532" lat="51.5592534" lon="0.1220529"  n="Catholic Church of St Vincent, Becontree" t="place_of_worship" st="christian"/>
+<node id="596550701" lat="51.5510484" lon="0.106496"  n="Catholic Church of St Thomas More, Barking" t="place_of_worship" st="christian"/>
+<node id="596552448" lat="51.539412" lon="0.0776784"  n="Catholic Church of  St Mary &#38; St Ethelburga, Barking" t="place_of_worship" st="christian"/>
+<node id="596573956" lat="51.5560095" lon="0.1401091"  n="St Mary, Dagenham" t="place_of_worship" st="christian"/>
+<node id="596583266" lat="51.5460638" lon="0.151913"  n="St George&#39;s, Becontree" t="place_of_worship" st="christian"/>
+<node id="596590533" lat="51.5283852" lon="0.0996317"  n="Christ Church, Barking Thames View" t="place_of_worship" st="christian"/>
+<node id="596593191" lat="51.5434376" lon="0.0945007"  n="St Erkenwald, Barking" t="place_of_worship" st="christian"/>
+<node id="596595182" lat="51.5355428" lon="0.0758681"  n="St Margaret, Barking" t="place_of_worship" st="christian"/>
+<node id="596603409" lat="51.5856017" lon="0.1348615"  n="St Mark&#39;s, Marks Gate" t="place_of_worship" st="christian"/>
+<node id="597235878" lat="51.5226194" lon="0.1898438"  n="Catholic Church of Our Lady of La Salette, Rainham" t="place_of_worship" st="christian"/>
+<node id="597236981" lat="51.5967131" lon="0.1602073"  n="Catholic Church of Corpus Christi, Collier Row" t="place_of_worship" st="christian"/>
+<node id="601079410" lat="51.6133335" lon="-0.1785062"  n="Trinity Church" t="place_of_worship" st="christian"/>
+<node id="601079426" lat="51.6135768" lon="-0.1805704"  n="St Albans" t="place_of_worship" st="christian"/>
+<node id="601082883" lat="51.613393" lon="-0.1821367"  n="Finchley Progressive Synagogue" t="place_of_worship" st="jewish"/>
+<node id="601087446" lat="51.6176166" lon="-0.1844916"  n="Woodside Park Synagogue" t="place_of_worship" st="jewish"/>
+<node id="602132841" lat="51.5223836" lon="-0.0907457"  n="Catholic Church of St Joseph, Bunhill Row" t="place_of_worship" st="christian"/>
+<node id="617356916" lat="51.5859001" lon="0.2005007"  n="Friends Meeting House" t="place_of_worship" st="christian"/>
+<node id="618954402" lat="51.5409142" lon="-0.0475064"  n="Hampden Chapel" t="place_of_worship" st="christian"/>
+<node id="619362787" lat="51.6258101" lon="-0.0657699"  n="All Saints Church" t="place_of_worship" st="christian"/>
+<node id="632528654" lat="51.4616642" lon="-0.3038994"  n="Duke Street Baptist Church" t="place_of_worship" st="christian"/>
+<node id="640446921" lat="51.5142028" lon="-0.0056094"  n="St Nicholas and All Hallows, East India Docks" t="place_of_worship" st="christian"/>
+<node id="641481513" lat="51.5177511" lon="-0.0101027"  n="Poplar Baptist Church" t="place_of_worship" st="christian"/>
+<node id="653956868" lat="51.5793901" lon="-0.1963299"  n="North Western Reform Synagogue" t="place_of_worship" st="jewish"/>
+<node id="655425274" lat="51.4020406" lon="-0.3076016"  n="St. Raphael&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="658958421" lat="51.555639" lon="-0.074838"  n="Stoke Newington Baptist Church" t="place_of_worship" st="christian"/>
+<node id="662188642" lat="51.5133652" lon="0.0149056"  n="St Luke&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="662947742" lat="51.4085395" lon="-0.2350806"  n="London Full Gospel Church" t="place_of_worship" st="christian"/>
+<node id="663037496" lat="51.6510099" lon="-0.0845498"  n="Enfield Baptist Church" t="place_of_worship" st="christian"/>
+<node id="663945526" lat="51.6152904" lon="-0.1046737"  n="Palmers Green Mosque" t="place_of_worship" st="muslim"/>
+<node id="664479573" lat="51.5149312" lon="0.038446"  n="Lighthouse Christian Fellowship" t="place_of_worship" st="christian"/>
+<node id="671371847" lat="51.49223" lon="-0.093391"  n="Foursquare Gospel Church" t="place_of_worship" st="christian"/>
+<node id="671737531" lat="51.5703972" lon="-0.0406445"  n="Cherubim and Seraphim Church" t="place_of_worship" st="christian"/>
+<node id="671737536" lat="51.5704221" lon="-0.0407516"  n="Christ Apostolic Church" t="place_of_worship" st="christian"/>
+<node id="671737631" lat="51.5697026" lon="-0.0412068"  n="Oke-Igbala Cherubim And Seraphim Holy Temple Of Christ Church" t="place_of_worship" st="christian"/>
+<node id="671737633" lat="51.5695149" lon="-0.0414243"  n="Celestial Church of Christ" t="place_of_worship" st="christian"/>
+<node id="671737635" lat="51.5704192" lon="-0.0419177"  n="Deliverance Outreach Ministries" t="place_of_worship" st="christian"/>
+<node id="671741773" lat="51.5706952" lon="-0.0411059"  n="Cherubim &#38; Seraphim Church Oke Ayo Ona Iwa Mimo" t="place_of_worship" st="christian"/>
+<node id="671741775" lat="51.5703642" lon="-0.0419094"  n="Christ United Pentecostal Ministries" t="place_of_worship" st="christian"/>
+<node id="677640825" lat="51.4318659" lon="-0.1259687"  n="Streatham church of the New Covenant" t="place_of_worship" st="christian"/>
+<node id="681626737" lat="51.465156" lon="0.0070687"  n="Quaker Meeting House" t="place_of_worship" st="christian"/>
+<node id="684240132" lat="51.4707075" lon="-0.0167979"  n="Holy Trinity Centre" t="place_of_worship" st="christian"/>
+<node id="684240447" lat="51.4706674" lon="-0.0086547"  n="Church of the Ascension" t="place_of_worship" st="christian"/>
+<node id="685800450" lat="51.4556954" lon="-0.0159634"  n="Parish Church of Saint Mary the Virgin" t="place_of_worship" st="christian"/>
+<node id="686486975" lat="51.4309033" lon="0.0115574"  n="St Lukes" t="place_of_worship" st="christian"/>
+<node id="686725615" lat="51.4201525" lon="0.0204353"  n="St Andrew" t="place_of_worship" st="christian"/>
+<node id="701445818" lat="51.5462846" lon="-0.0493808"  n="St Luke&#39;s" t="place_of_worship" st="christian"/>
+<node id="703330318" lat="51.4738948" lon="-0.2891867"  n="St. Luke&#39;s Parish Church and Community Centre" t="place_of_worship" st="christian"/>
+<node id="706611730" lat="51.4551128" lon="-0.2290246"  n="The Yard" t="place_of_worship" st="christian"/>
+<node id="713773250" lat="51.5179003" lon="-0.4201507"  n="St. Mary the Virgin" t="place_of_worship" st="christian"/>
+<node id="718988705" lat="51.4702571" lon="-0.2158253"  n="Fulham Palace Chapel" t="place_of_worship" st="christian"/>
+<node id="718989293" lat="51.4725227" lon="-0.1864533"  n="Our Lady of Perpetual Help" t="place_of_worship" st="christian"/>
+<node id="719032328" lat="51.5354409" lon="-0.2198954"  n="Church of the Transfiguration" t="place_of_worship" st="christian"/>
+<node id="719032342" lat="51.5356211" lon="-0.2200402"  n="Kensal Rise Methodist Church" t="place_of_worship" st="christian"/>
+<node id="721134634" lat="51.4905646" lon="-0.2230611"  n="St Augustine&#39;s" t="place_of_worship" st="christian"/>
+<node id="721134646" lat="51.481714" lon="-0.2060138"  n="St Thomas of Canterbury" t="place_of_worship" st="christian"/>
+<node id="721134650" lat="51.4807234" lon="-0.2046578"  n="Fulham Baptist Church" t="place_of_worship" st="christian"/>
+<node id="721134688" lat="51.4964861" lon="-0.2189774"  n="The Chinese Church in London" t="place_of_worship" st="christian"/>
+<node id="721496926" lat="51.4777602" lon="-0.2169865"  n="Fulham United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="721496930" lat="51.4824227" lon="-0.2189796"  n="St Clement" t="place_of_worship" st="christian"/>
+<node id="724398573" lat="51.5399973" lon="0.0753296"  n="Gurdwara Singh Sabha" t="place_of_worship" st="sikh"/>
+<node id="724398575" lat="51.5377734" lon="0.0776872"  n="Barking Methodist Church" t="place_of_worship" st="christian"/>
+<node id="724398607" lat="51.5603868" lon="0.0819143"  n="Baptist Church at High Road" t="place_of_worship" st="christian"/>
+<node id="724398609" lat="51.5605812" lon="0.0829761"  n="St. Peter and Paul Catholic Church" t="place_of_worship" st="christian"/>
+<node id="724398610" lat="51.5609189" lon="0.0842024"  n="Ilford Spiritualist Church" t="place_of_worship" st="spiritualist"/>
+<node id="730046775" lat="51.4360215" lon="0.0720193"  n="All Saints Church" t="place_of_worship" st="christian"/>
+<node id="733226450" lat="51.3580423" lon="-0.1893677"  n="Sutton Friends Meeting House" t="place_of_worship" st="christian"/>
+<node id="746268444" lat="51.5516564" lon="0.1591774"  n="Oxlow Lane Baptist Church" t="place_of_worship" st="christian"/>
+<node id="746805735" lat="51.6144337" lon="-0.1398208"  n="Nanak Darbar North London" t="place_of_worship" st="sikh"/>
+<node id="746805736" lat="51.615373" lon="-0.1414516"  n="St Paul, New Southgate" t="place_of_worship" st="christian"/>
+<node id="746815308" lat="51.5348797" lon="0.1963219"  n="St. Johns Church" t="place_of_worship" st="christian"/>
+<node id="750027049" lat="51.5350503" lon="-0.4598761"  n="St John the Baptist" t="place_of_worship" st="christian"/>
+<node id="750925781" lat="51.5609764" lon="-0.0001291"  n="Christ Apostolic Church" t="place_of_worship" st="christian"/>
+<node id="753602037" lat="51.5535888" lon="-0.2171772"  n="Dar al-Islam Foundation" t="place_of_worship" st="muslim"/>
+<node id="770646173" lat="51.5053008" lon="-0.4195609"  n="St Anselm&#39;s" t="place_of_worship" st="christian"/>
+<node id="776255283" lat="51.6353575" lon="-0.1042756"  n="The Religious Society of Friends" t="place_of_worship" st="christian"/>
+<node id="776279266" lat="51.6246445" lon="-0.127997"  n="Christ Church Southgate" t="place_of_worship" st="christian"/>
+<node id="788691200" lat="51.6431952" lon="-0.0663466"  n="Leighton Road Gospel Hall" t="place_of_worship" st="christian"/>
+<node id="800178107" lat="51.5721591" lon="-0.1393234"  n="Saint Augustine of Canterbury" t="place_of_worship" st="christian"/>
+<node id="815217583" lat="51.4888004" lon="-0.4763816"  n="Harmondsworth Baptist Church" t="place_of_worship" st="christian"/>
+<node id="815520225" lat="51.515853" lon="-0.132801"  n="Radha Krishna Temple" t="place_of_worship" st="hindu"/>
+<node id="823702029" lat="51.4003059" lon="-0.2647385"  n="New Malden Baptist Church" t="place_of_worship" st="christian"/>
+<node id="823703829" lat="51.4022068" lon="-0.2565846"  n="New Malden Methodist Church" t="place_of_worship" st="christian"/>
+<node id="841211604" lat="51.3767124" lon="-0.0171255"  n="St Francis of Assisi" t="place_of_worship" st="christian"/>
+<node id="847357928" lat="51.5865233" lon="-0.134395"  n="St Mary with St George" t="place_of_worship" st="christian"/>
+<node id="857275938" lat="51.5570067" lon="0.0044"  n="Holy Trinity with St Augustine" t="place_of_worship" st="christian"/>
+<node id="871966074" lat="51.5869132" lon="-0.2305132"  n="Porat Yousef" t="place_of_worship" st="jewish"/>
+<node id="900937946" lat="51.5251256" lon="-0.0525743"  n="Baitul Aman Mosque" t="place_of_worship" st="muslim"/>
+<node id="906725049" lat="51.5976267" lon="-0.151295"  n="Wlton Chapel" t="place_of_worship" st="christian"/>
+<node id="930200088" lat="51.546636" lon="-0.152433"  n="St Silas The Martyr" t="place_of_worship" st="christian"/>
+<node id="931615027" lat="51.5401895" lon="-0.1423689"  n="Trinity United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="931645188" lat="51.5415611" lon="-0.1561201"  n="Chalk Farm Baptist Church" t="place_of_worship" st="christian"/>
+<node id="935908855" lat="51.513419" lon="-0.1209833"  n="Crown Court" t="place_of_worship" st="christian"/>
+<node id="958685230" lat="51.408043" lon="-0.0370286"  n="Beckenham Baptist Church" t="place_of_worship" st="christian"/>
+<node id="963201870" lat="51.6103035" lon="-0.0177385"  n="Chingford Islamic Society" t="place_of_worship" st="muslim"/>
+<node id="968663964" lat="51.6138063" lon="-0.1099919"  n="Palmers Green Baptist Church" t="place_of_worship" st="christian"/>
+<node id="974027365" lat="51.5320574" lon="-0.2374315"  n="Willesden City Mission" t="place_of_worship" st="christian"/>
+<node id="974064426" lat="51.5296019" lon="-0.1306907"  n="Somers Town Islamic Cultural and Education Centre" t="place_of_worship" st="muslim"/>
+<node id="1010802641" lat="51.5360909" lon="-0.2461729"  n="Dominion Christ Church" t="place_of_worship" st="christian"/>
+<node id="1010802772" lat="51.5334623" lon="-0.2413135"  n="Church of God of Prophecy" t="place_of_worship" st="christian"/>
+<node id="1010802775" lat="51.5314427" lon="-0.2310933"  n="Divine Redeemers Church" t="place_of_worship" st="christian"/>
+<node id="1102388200" lat="51.3800897" lon="-0.1556754"  n="Hackbridge Christian Spiritualist Church" t="place_of_worship" st="christian"/>
+<node id="1118458780" lat="51.4676248" lon="-0.1703216"  n="Battersea Mosque" t="place_of_worship" st="muslim"/>
+<node id="1137513223" lat="51.513133" lon="-0.199688"  n="Sion Centre for Dialogue and Encounter" t="place_of_worship" st="multifaith"/>
+<node id="1149900668" lat="51.5658697" lon="-0.1343913"  n="Archway Methodist Church" t="place_of_worship" st="christian"/>
+<node id="1164916988" lat="51.4902234" lon="-0.053795"  n="St Gertrude Catholic Church" t="place_of_worship" st="christian"/>
+<node id="1164988378" lat="51.4899128" lon="-0.0502813"  n="St Katharine with St Bartholomew" t="place_of_worship" st="christian"/>
+<node id="1191178206" lat="51.4870737" lon="0.081244"  n="St John&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="1200058832" lat="51.4764653" lon="0.0905062"  n="Parish Church of the Ascension" t="place_of_worship" st="christian"/>
+<node id="1206611882" lat="51.4904789" lon="0.1172353"  n="St Benet Catholic Church" t="place_of_worship" st="christian"/>
+<node id="1212967018" lat="51.514035" lon="-0.2498237"  n="Ezzeitouna" t="place_of_worship" st="muslim"/>
+<node id="1227687383" lat="51.5284709" lon="-0.0498609"  n="Baitul Mamur Academy" t="place_of_worship" st="muslim"/>
+<node id="1238595270" lat="51.5578447" lon="-0.1939991"  n="St Luke&#39;s Church of England Primary School" t="place_of_worship" st="christian"/>
+<node id="1240663074" lat="51.4721124" lon="-0.1482145"  n="Ridley Hall Evangelical Church" t="place_of_worship" st="christian"/>
+<node id="1275719367" lat="51.5653264" lon="-0.0545831"  n="St Matthew" t="place_of_worship" st="christian"/>
+<node id="1283783691" lat="51.5252066" lon="-0.197893"  n="Agape Community Project" t="place_of_worship" st="christian"/>
+<node id="1290899327" lat="51.4923666" lon="-0.1875912"  n="Mosque of the Embassy of Qatar" t="place_of_worship" st="muslim"/>
+<node id="1295945015" lat="51.4163247" lon="-0.1834283"  n="Darul Aman Mosque" t="place_of_worship" st="muslim"/>
+<node id="1304896460" lat="51.4155151" lon="-0.1769613"  n="Oasis Church" t="place_of_worship" st="christian"/>
+<node id="1307629895" lat="51.542004" lon="-0.1573207"  n="Drukpa UK Buddhist Centre" t="place_of_worship" st="buddhist"/>
+<node id="1312736602" lat="51.6096451" lon="-0.4215478"  n="Saint Matthew&#39;s Catholic Church" t="place_of_worship" st="christian"/>
+<node id="1314639082" lat="51.4317002" lon="-0.1626528"  n="Tooting Islamic Centre" t="place_of_worship" st="muslim"/>
+<node id="1315244950" lat="51.6435475" lon="-0.1255555"  n="Oakwood Baptist Church" t="place_of_worship" st="christian"/>
+<node id="1315247592" lat="51.6477189" lon="-0.1362521"  n="Oakwood Methodist Church" t="place_of_worship" st="christian"/>
+<node id="1319476810" lat="51.5917459" lon="-0.3808724"  n="Pinner Synagogue" t="place_of_worship" st="jewish"/>
+<node id="1322048410" lat="51.6441103" lon="-0.1315269"  n="Southgate Progressive Synagogue" t="place_of_worship" st="jewish"/>
+<node id="1322784296" lat="51.506311" lon="0.11475"  n="Titmuss Avenue Baptist Church" t="place_of_worship" st="christian"/>
+<node id="1352692791" lat="51.406884" lon="-0.2576066"  n="Christ Church New Malden" t="place_of_worship" st="christian"/>
+<node id="1389436794" lat="51.4757537" lon="-0.0179611"  n="Greenwich Baptist Church at Devonshire Drive" t="place_of_worship" st="christian"/>
+<node id="1426244203" lat="51.4221218" lon="-0.2028866"  n="Queens Road Church" t="place_of_worship" st="christian"/>
+<node id="1479075920" lat="51.4277582" lon="0.0941778"  n="Sidcup Baptist Church" t="place_of_worship" st="christian"/>
+<node id="1490680047" lat="51.4552521" lon="0.0186158"  n="St Peter&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="1503481393" lat="51.5503845" lon="0.0137229"  n="St James Church" t="place_of_worship" st="christian"/>
+<node id="1538006912" lat="51.5004881" lon="-0.0346959"  n="Holy Trinity" t="place_of_worship" st="christian"/>
+<node id="1562686704" lat="51.5162705" lon="-0.1715488"  n="Salahuddin Islamic Centr" t="place_of_worship" st="muslim"/>
+<node id="1569032857" lat="51.4188958" lon="-0.1860402"  n="All Saints" t="place_of_worship" st="christian"/>
+<node id="1576848228" lat="51.5238491" lon="0.0211099"  n="St Philip &#38; St James" t="place_of_worship" st="christian"/>
+<node id="1585614077" lat="51.5005101" lon="-0.2149613"  n="The Parish Church of Saint Matthew" t="place_of_worship" st="christian"/>
+<node id="1602185634" lat="51.4194907" lon="-0.1936179"  n="St Winifriedes" t="place_of_worship" st="christian"/>
+<node id="1612368115" lat="51.5130659" lon="-0.1637113"  n="Tyburn Convent" t="place_of_worship" st="christian"/>
+<node id="1638167698" lat="51.641296" lon="-0.0937389"  n="Grange Park Methodist Church" t="place_of_worship" st="christian"/>
+<node id="1640945746" lat="51.3649388" lon="-0.1702021"  n="Chapel" t="place_of_worship" st="christian"/>
+<node id="1656342372" lat="51.4743651" lon="-0.0356604"  n="Goldsmiths Multifaith Prayer Room" t="place_of_worship" st="multifaith"/>
+<node id="1658258348" lat="51.4597847" lon="-0.3081147"  n="Friends Meeting House" t="place_of_worship" st="christian"/>
+<node id="1663594131" lat="51.4102164" lon="-0.2024643"  n="St.Mary the Virgin" t="place_of_worship" st="christian"/>
+<node id="1686456183" lat="51.4749569" lon="-0.0347009"  n="The Believers Mission Church of God" t="place_of_worship" st="christian"/>
+<node id="1687398049" lat="51.4739394" lon="-0.0353998"  n="prayer room" t="place_of_worship" st="multifaith"/>
+<node id="1688804350" lat="51.4763899" lon="-0.0941184"  n="House of Praise" t="place_of_worship" st="christian"/>
+<node id="1689892654" lat="51.4803526" lon="0.0894194"  n="The Slade Evangelical Church" t="place_of_worship" st="christian"/>
+<node id="1737829084" lat="51.4447328" lon="-0.1901328"  n="St John the Divine" t="place_of_worship" st="christian"/>
+<node id="1807548151" lat="51.323375" lon="-0.1341185"  n="Coulsdon Methodist Church" t="place_of_worship" st="christian"/>
+<node id="1818851536" lat="51.6459707" lon="-0.0470331"  n="Jalalia Jamme Masjeed" t="place_of_worship" st="muslim"/>
+<node id="1830999249" lat="51.587008" lon="-0.1462597"  n="Friends Meeting House" t="place_of_worship" st="christian"/>
+<node id="1831089766" lat="51.488107" lon="-0.098897"  n="Church Of Jesus Christ Of The Latter Day Saints" t="place_of_worship" st="christian"/>
+<node id="1831945079" lat="51.489707" lon="-0.096998"  n="2 Churches" t="place_of_worship" st="christian"/>
+<node id="1843990237" lat="51.480452" lon="-0.094601"  n="Power Church International" t="place_of_worship" st="christian"/>
+<node id="1844004961" lat="51.4838547" lon="-0.0938605"  n="Iglesia De Dios Ministerial De Jesucristo Internacional" t="place_of_worship" st="christian"/>
+<node id="1893971972" lat="51.5723104" lon="-0.0735571"  n="Lubavitch Synogogue" t="place_of_worship" st="jewish"/>
+<node id="1920521753" lat="51.3072007" lon="-0.1193632"  n="Old Coulsdon Congregational Church" t="place_of_worship" st="christian"/>
+<node id="1955888995" lat="51.5919903" lon="-0.3321382"  n="Sri Ayyappan Kovil" t="place_of_worship" st="hindu"/>
+<node id="1977202060" lat="51.5849053" lon="-0.3325311"  n="Harrow International Christian Centre" t="place_of_worship" st="christian"/>
+<node id="2014573555" lat="51.6610989" lon="-0.0873243"  n="St Michael&#39;s and All Angels" t="place_of_worship" st="christian"/>
+<node id="2028840400" lat="51.4889997" lon="-0.0136564"  n="Quaystone Church" t="place_of_worship" st="christian"/>
+<node id="2028924721" lat="51.5166298" lon="-0.0484484"  n="Redcoat Community Centre and Mosque" t="place_of_worship" st="muslim"/>
+<node id="2204421493" lat="51.5274395" lon="-0.0212824"  n="Gurdwara Sikh Sangat" t="place_of_worship" st="sikh"/>
+<node id="2252333473" lat="51.5654065" lon="-0.3733966"  n="St. Andrew’s Church, Roxbourne" t="place_of_worship" st="christian"/>
+<node id="2255886126" lat="51.3564282" lon="-0.1743436"  n="Carshalton Beeches Baptist Church" t="place_of_worship" st="christian"/>
+<node id="2261973364" lat="51.4749762" lon="-0.2418602"  n="St Mary&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="2263370757" lat="51.4695502" lon="-0.2616657"  n="St Mary the Virgin" t="place_of_worship" st="christian"/>
+<node id="2263383901" lat="51.468272" lon="-0.2618159"  n="St Mary Magdalen RC Church" t="place_of_worship" st="christian"/>
+<node id="2287912481" lat="51.5504229" lon="-0.3310905"  n="Bilal Masjid Trust (Greenford)" t="place_of_worship" st="muslim"/>
+<node id="2313649166" lat="51.3786466" lon="-0.1030312"  n="UCKG" t="place_of_worship" st="christian"/>
+<node id="2331106676" lat="51.6107537" lon="-0.4222598"  n="St John&#39;s" t="place_of_worship" st="christian"/>
+<node id="2340413543" lat="51.5762173" lon="0.0755127"  n="Ashurst Drive Baptist Church" t="place_of_worship" st="christian"/>
+<node id="2340414435" lat="51.5809244" lon="0.0745417"  n="St. Augustine Catholic Church" t="place_of_worship" st="christian"/>
+<node id="2340416555" lat="51.579231" lon="0.0819867"  n="Saint Lawrence Methodist Church" t="place_of_worship" st="christian"/>
+<node id="2340418984" lat="51.5781243" lon="0.0882362"  n="Bet Tikvah Synagogue" t="place_of_worship" st="jewish"/>
+<node id="2342481925" lat="51.5685167" lon="0.0818246"  n="St. Margaret of Antioch" t="place_of_worship" st="christian"/>
+<node id="2342487632" lat="51.3895122" lon="0.0824081"  n="St Francis Church" t="place_of_worship" st="christian"/>
+<node id="2349228867" lat="51.6312377" lon="0.0040506"  n="North Chingford Methodist Church" t="place_of_worship" st="christian"/>
+<node id="2355855721" lat="51.5959929" lon="-0.3854012"  n="Christian Science Society Pinner" t="place_of_worship" st="christian"/>
+<node id="2381852177" lat="51.3941475" lon="-0.0940842"  n="Pawson&#39;s Road Baptist Church" t="place_of_worship" st="christian"/>
+<node id="2413996183" lat="51.5228557" lon="-0.1941616"  n="Asian Muslim Cultural Centre" t="place_of_worship" st="muslim"/>
+<node id="2429319312" lat="51.5619251" lon="-0.2915049"  n="St Augutine Church" t="place_of_worship" st="christian"/>
+<node id="2429319313" lat="51.5622327" lon="-0.2929177"  n="Wembley Park United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="2440447594" lat="51.481184" lon="0.0189904"  n="St George&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="2445372590" lat="51.6306536" lon="-0.0560044"  n="ICC House of Prayer" t="place_of_worship" st="christian"/>
+<node id="2459239590" lat="51.4832495" lon="-0.0051329"  n="Chapel of Saint Peter and Saint Paul" t="place_of_worship" st="christian"/>
+<node id="2476883222" lat="51.5792275" lon="-0.3430947"  n="Harrow Spiritualist Church" t="place_of_worship" st="christian"/>
+<node id="2484278788" lat="51.5799323" lon="-0.3161361"  n="Kenton Spiritualist Church" t="place_of_worship" st="spiritualist"/>
+<node id="2510303891" lat="51.4487467" lon="-0.1240323"  n="Brixton Hill Islamic Centre" t="place_of_worship" st="muslim"/>
+<node id="2510307091" lat="51.4486598" lon="-0.1240914"  n="Calvary Pentecostal Ministries" t="place_of_worship" st="christian"/>
+<node id="2510671513" lat="51.4461793" lon="-0.1238237"  n="Brixton Hill United Reform Church" t="place_of_worship" st="christian"/>
+<node id="2623167697" lat="51.4372087" lon="-0.0458137"  n="Forest Hill Methodist Church" t="place_of_worship" st="christian"/>
+<node id="2629340984" lat="51.5893028" lon="0.081252"  n="The Manna House" t="place_of_worship" st="christian"/>
+<node id="2706219349" lat="51.3285971" lon="-0.0741698"  n="Sanderstead Methodist Church" t="place_of_worship" st="christian"/>
+<node id="2714881330" lat="51.3469053" lon="-0.0316747"  n="Kingdom Halls of Jehovah&#39;s Witnesses" t="place_of_worship" st="christian"/>
+<node id="2765225506" lat="51.4737932" lon="-0.0435981"  n="Kingdom Hall of Jehovah&#39;s Witnesses" t="place_of_worship" st="christian"/>
+<node id="2778488884" lat="51.5205168" lon="-0.1431433"  n="Central Synagogue" t="place_of_worship" st="jewish"/>
+<node id="2883389847" lat="51.5259391" lon="0.048611"  n="St George &#38; St Ethelbert" t="place_of_worship" st="christian"/>
+<node id="2883958259" lat="51.5259318" lon="0.0570321"  n="High Street South Methodist" t="place_of_worship" st="christian"/>
+<node id="2924051715" lat="51.4518614" lon="-0.0165136"  n="Lewisham Islamic Centre" t="place_of_worship" st="muslim"/>
+<node id="2925135836" lat="51.4574317" lon="-0.0130168"  n="Lewisham United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="2950107873" lat="51.526893" lon="-0.055794"  n="New Life Bible Church" t="place_of_worship" st="christian"/>
+<node id="2968115658" lat="51.3783661" lon="0.018083"  n="Hayes Church" t="place_of_worship" st="christian"/>
+<node id="2990261223" lat="51.4737541" lon="-0.0677412"  n="Peckham High Street Islamic Centre" t="place_of_worship" st="muslim"/>
+<node id="3038021707" lat="51.5515397" lon="-0.0555175"  n="The Episcopalian Church of Archangel Michael" t="place_of_worship" st="christian"/>
+<node id="3046565061" lat="51.4739674" lon="-0.1130421"  n="North Brixton Islamic Cultural Centre" t="place_of_worship" st="muslim"/>
+<node id="3088758039" lat="51.6582825" lon="-0.2012285"  n="High Barnet Baptist Church" t="place_of_worship" st="christian"/>
+<node id="3135613726" lat="51.649741" lon="-0.046869"  n="Ponders End Methodist Church" t="place_of_worship" st="christian"/>
+<node id="3179642883" lat="51.5228703" lon="-0.0146564"  n="Coventry Cross Mosque" t="place_of_worship" st="muslim"/>
+<node id="3197987525" lat="51.5366682" lon="0.0782594"  n="Rehoboth Temple" t="place_of_worship" st="christian"/>
+<node id="3209999023" lat="51.5404774" lon="0.0831184"  n="The Sacraments Church" t="place_of_worship" st="christian"/>
+<node id="3217293424" lat="51.5209194" lon="-0.3779111"  n="Dominion Chapel" t="place_of_worship" st="christian"/>
+<node id="3217512661" lat="51.588705" lon="-0.083007"  n="St Philip the Apostle" t="place_of_worship" st="christian"/>
+<node id="3238741484" lat="51.4571855" lon="-0.1887295"  n="East Hill Baptist Church" t="place_of_worship" st="christian"/>
+<node id="3262077781" lat="51.3748424" lon="-0.0164962"  n="Emmanuel United Reformed Church" t="place_of_worship" st="christian"/>
+<node id="3359160199" lat="51.4233648" lon="-0.1891293"  n="Shree Ghanapathy Temple" t="place_of_worship" st="hindu"/>
+<node id="3368904718" lat="51.5338597" lon="0.0246355"  n="Islamic Centre Upton Park" t="place_of_worship" st="muslim"/>
+<node id="3378371270" lat="51.643563" lon="-0.0431044"  n="St Matthews Church" t="place_of_worship" st="christian"/>
+<node id="3473832713" lat="51.4641855" lon="-0.3003243"  n="St John the Divine" t="place_of_worship" st="christian"/>
+<node id="3495911001" lat="51.5233158" lon="0.0202284"  n="St Philip and St James" t="place_of_worship" st="christian"/>
+<node id="3547717995" lat="51.542796" lon="-0.269904"  n="New Life Christian Centre" t="place_of_worship" st="christian"/>
+<node id="3563509636" lat="51.5882267" lon="-0.2137153"  n="Alei Tzion" t="place_of_worship" st="jewish"/>
+<node id="3563509675" lat="51.5895574" lon="-0.2184262"  n="Od Yoseph Chai" t="place_of_worship" st="jewish"/>
+<node id="3569219696" lat="51.5310782" lon="0.0380425"  n="Our Lady of Compassion" t="place_of_worship" st="christian"/>
+<node id="3578529313" lat="51.6032144" lon="-0.4837057"  n="St Paul&#39;s" t="place_of_worship" st="christian"/>
+<node id="3594168893" lat="51.3509194" lon="-0.0971001"  n="St Gertrude&#39;s Catholic Church (South Croydon)" t="place_of_worship" st="christian"/>
+<node id="3600522254" lat="51.5043474" lon="-0.0142105"  n="Canary Wharf Prayer Room" t="place_of_worship" st="multifaith"/>
+<node id="3624932561" lat="51.5248303" lon="-0.2032758"  n="Emanuel Parish Church" t="place_of_worship" st="christian"/>
+<node id="3633500012" lat="51.532991" lon="-0.1981383"  n="Tabot Centre" t="place_of_worship" st="rastafarian"/>
+<node id="3639403528" lat="51.4344133" lon="-0.1981231"  n="Christ the King" t="place_of_worship" st="christian"/>
+<node id="3662252434" lat="51.4766936" lon="-0.2030569"  n="Aetherius House" t="place_of_worship" st="aetherius_society"/>
+<node id="3687970997" lat="51.5142168" lon="-0.1253448"  n="London City Mission" t="place_of_worship" st="christian"/>
+<node id="3688442901" lat="51.5639623" lon="-0.1184276"  n="Tollington Baptist Church" t="place_of_worship" st="christian"/>
+<node id="3730347764" lat="51.5678702" lon="-0.1416876"  n="St Joseph&#39;s entrance for vehicles" t="place_of_worship" st="christian"/>
+<node id="3781068774" lat="51.50636" lon="-0.2313898"  n="Shepherds Bush Masjid" t="place_of_worship" st="muslim"/>
+<node id="3791258123" lat="51.5702478" lon="-0.0253568"  n="Potters House" t="place_of_worship" st="christian"/>
+<node id="3799641431" lat="51.5121837" lon="-0.1007828"  n="Church of Scientology" t="place_of_worship" st="scientologist"/>
+<node id="3860013657" lat="51.4419613" lon="-0.0015087"  n="St Andrew the Apostle" t="place_of_worship" st="christian"/>
+<node id="3881014214" lat="51.4454774" lon="0.0114013"  n="St Mildred&#39;s Church" t="place_of_worship" st="christian"/>
+<node id="3881014215" lat="51.4439511" lon="0.014636"  n="Trinity Presbyterian Church" t="place_of_worship" st="christian"/>
+<node id="3884136906" lat="51.4310226" lon="-0.0233696"  n="St Dunstan" t="place_of_worship" st="christian"/>
+<node id="3884136951" lat="51.431148" lon="-0.0256092"  n="Christ Church" t="place_of_worship" st="christian"/>
+<node id="3935941798" lat="51.4760748" lon="-0.131307"  n="Springfield Methodist Church" t="place_of_worship" st="christian"/>
+<node id="3956995713" lat="51.5294813" lon="-0.0158716"  n="Bow Baptist Church" t="place_of_worship" st="christian"/>
+<node id="4006847317" lat="51.41967" lon="-0.2930998"  n="St Agatha&#39;s" t="place_of_worship" st="christian"/>
+<node id="4007888354" lat="51.4999721" lon="-0.0525107"  n="Finnish Church in London" t="place_of_worship" st="christian"/>
+<node id="4052174685" lat="51.5208266" lon="0.1085466"  n="Rivergate Church" t="place_of_worship" st="christian"/>
+<node id="4070435997" lat="51.5907985" lon="-0.0381577"  n="The Rockhouse Baptist Church" t="place_of_worship" st="christian"/>
+<node id="4108024896" lat="51.5788393" lon="-0.030203"  n="South Grove Free Presbyterian Church" t="place_of_worship" st="christian"/>
+<node id="4134264395" lat="51.5942216" lon="-0.0420159"  n="Eden Girl&#39;s School" t="place_of_worship" st="muslim"/>
+<node id="4167188273" lat="51.5319084" lon="-0.0424564"  n="East End Church" t="place_of_worship" st="christian"/>
+<node id="4170993533" lat="51.5166367" lon="-0.1385423"  n="The Welsh Church" t="place_of_worship" st="christian"/>
+<node id="4226795336" lat="51.516575" lon="-0.0842224"  n="All Hallows on the Wall" t="place_of_worship" st="christian"/>
+<node id="4267918127" lat="51.4094417" lon="-0.2265767"  n="Diocese of Southwark, The Kingston Episcopal Area Office" t="place_of_worship" st="christian"/>

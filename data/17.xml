@@ -1,0 +1,484 @@
+<node id="22358952" lat="52.4831095" lon="-1.9657516"  n="Hadley Stadium" t="leisure" st="stadium"/>
+<node id="26568768" lat="52.5865951" lon="-1.884366"  n="Streetly Methodist Recreation Centre" t="leisure" st="sports_centre"/>
+<node id="50741204" lat="52.5802668" lon="-1.89627"  n="Blackwood Park Play Area" t="leisure" st="playground"/>
+<node id="137479636" lat="52.5874241" lon="-1.903723"  n="Veseyans Sports &#38; Social Club" t="leisure" st="social_club"/>
+<node id="137479637" lat="52.5927273" lon="-1.8978728"  n="Aldridge Rugby Club" t="leisure" st="sport"/>
+<node id="145910038" lat="52.621652" lon="-1.9155262"  n="Coppy Hall Play Area" t="leisure" st="playground"/>
+<node id="223409470" lat="52.471538" lon="-1.8569444"  n="Small Heath Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="232390188" lat="52.539103" lon="-1.9110337"  n="Turnberry Woods Play Area" t="leisure" st="playground"/>
+<node id="240126729" lat="52.6056636" lon="-2.1504351"  n="Aldersley Stadium" t="leisure" st="stadium"/>
+<node id="245563804" lat="52.4767666" lon="-1.9228561"  n="St Johns Play Area" t="leisure" st="playground"/>
+<node id="250098232" lat="52.6060911" lon="-2.1484179"  n="National Indoor Shooting Centre" t="leisure" st="sports_centre"/>
+<node id="281518237" lat="52.5000447" lon="-1.909703"  n="Graham Street Play Area" t="leisure" st="playground"/>
+<node id="309912750" lat="52.4800795" lon="-1.9537775"  n="Portland Road Pavilion Sports &#38; Social Club" t="leisure" st="social_club"/>
+<node id="313887731" lat="52.4354838" lon="-2.0043059"  n="Adams Hill Play Area" t="leisure" st="playground"/>
+<node id="315805529" lat="52.4323969" lon="-1.9948725"  n="Bartley Sailing Club" t="leisure" st="sports_centre"/>
+<node id="316416000" lat="52.4278515" lon="-1.9713219"  n="Shenley Green Play Area" t="leisure" st="playground"/>
+<node id="317004993" lat="52.4047195" lon="-1.9809719"  n="School Close Play Area" t="leisure" st="playground"/>
+<node id="319102098" lat="52.4106936" lon="-1.933171"  n="Kings Norton Play Area" t="leisure" st="playground"/>
+<node id="319780140" lat="52.5182377" lon="-1.7953504"  n="Castle Vale Residents Association" t="leisure" st="social_club"/>
+<node id="346987909" lat="52.4509579" lon="-1.9527675"  n="The Grove Playground" t="leisure" st="playground"/>
+<node id="353807904" lat="52.4986263" lon="-2.0295878"  n="Oldbury Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="367105836" lat="52.6080486" lon="-1.9600126"  n="Rushall Labour Club" t="leisure" st="social_club"/>
+<node id="369791686" lat="52.520308" lon="-1.9949514"  n="MECCA Bingo" t="leisure" st="bingo"/>
+<node id="411169344" lat="52.4800626" lon="-2.1226043"  n="Mecca" t="leisure" st="bingo"/>
+<node id="429834809" lat="52.4027764" lon="-1.9957822"  n="Hollymoor Park Play Area" t="leisure" st="playground"/>
+<node id="431757466" lat="52.4596463" lon="-2.0264451"  n="Leasowe Sports Centre" t="leisure" st="sports_centre"/>
+<node id="484792822" lat="52.6343651" lon="-1.9678185"  n="Pelsall Social Club" t="leisure" st="social_club"/>
+<node id="503730427" lat="52.648265" lon="-1.9240733"  n="Ogley Hay Working Mens Club" t="leisure" st="social_club"/>
+<node id="503730436" lat="52.6506139" lon="-1.9244285"  n="Sankey Working Mens Club" t="leisure" st="social_club"/>
+<node id="528885521" lat="52.6405265" lon="-1.9878136"  n="Fishley Park" t="leisure" st="banqueting_suite"/>
+<node id="617751507" lat="52.594352" lon="-2.1608667"  n="Wolverhampton Lawn Tennis and Squash Club" t="leisure" st="sports_centre"/>
+<node id="656485987" lat="52.5985903" lon="-1.9871603"  n="West Midlands Travel Sports &#38; Social Club" t="leisure" st="social_club"/>
+<node id="676070334" lat="52.4309329" lon="-1.8926868"  n="Sports Direct Fitness.com" t="leisure" st="fitness_centre"/>
+<node id="678821356" lat="52.398629" lon="-1.8492853"  n="Jovialities" t="leisure" st="marina"/>
+<node id="683651825" lat="52.6124979" lon="-1.9991844"  n="Bloxwich Leisure Centre Function Hall" t="leisure" st="function_hall"/>
+<node id="795606222" lat="52.4831512" lon="-2.0927144"  n="Dudley Water Sports Centre Ltd" t="leisure" st="sports_centre"/>
+<node id="823773722" lat="52.5828417" lon="-1.9661265"  n="Chuckery Mutual Sports &#38; Social Club" t="leisure" st="social_club"/>
+<node id="842194439" lat="52.572281" lon="-1.9890726"  n="Station Street Working Mens Club" t="leisure" st="social_club"/>
+<node id="842195826" lat="52.5724481" lon="-1.9843656"  n="Palfrey &#38; Caldmore Senior Citizens Club" t="leisure" st="social_club"/>
+<node id="897232446" lat="52.4731161" lon="-1.9040713"  n="BudoKan Martial Arts Centre" t="leisure" st="sports_centre"/>
+<node id="1098125984" lat="52.4817935" lon="-1.896461"  n="Cashino" t="leisure" st="adult_gaming_centre"/>
+<node id="1127794971" lat="52.473795" lon="-1.9161036"  n="Pure Gym" t="leisure" st="sports_centre"/>
+<node id="1135417093" lat="52.4847442" lon="-1.9015805"  n="Fitbody Boot Camp" t="leisure" st="fitness_centre"/>
+<node id="1216166387" lat="52.55423" lon="-1.8913266"  n="No More Gyms" t="leisure" st="sauna"/>
+<node id="1350378701" lat="52.4041532" lon="-1.8845366"  n="Carrefour Health &#38; Fitness Centre" t="leisure" st="sports_centre"/>
+<node id="1493268136" lat="52.4487854" lon="-1.4968409"  n="Grosvenor G Casino" t="leisure" st="gambling"/>
+<node id="1572047352" lat="52.4207728" lon="-1.8599239"  n="Chinbrook playground" t="leisure" st="playground"/>
+<node id="1634262433" lat="52.5945557" lon="-2.0999619"  n="Heath Town Park" t="leisure" st="playground"/>
+<node id="1654557216" lat="52.5601478" lon="-1.8025837"  n="Sutton body therapies" t="leisure" st="fitness_centre"/>
+<node id="1864948941" lat="52.5653158" lon="-2.1565909"  n="Windsor Avenue Playing Fields" t="leisure" st="playground"/>
+<node id="1864948944" lat="52.571056" lon="-2.1578703"  n="Bradmore Recreation Ground" t="leisure" st="playground"/>
+<node id="1980131565" lat="52.606116" lon="-2.1503061"  n="Aldersley Leisure Village" t="leisure" st="sports_centre"/>
+<node id="2142495767" lat="52.5452015" lon="-1.9332177"  n="Cashino Adult Gaming Centre" t="leisure" st="adult_gaming_centre"/>
+<node id="2142526767" lat="52.5467237" lon="-1.9345822"  n="Sportwise" t="leisure" st="sports_centre"/>
+<node id="2142615872" lat="52.5316501" lon="-1.9289027"  n="Arriba Wellness Club" t="leisure" st="sports_centre"/>
+<node id="2143696261" lat="52.5387884" lon="-2.1195457"  n="Felines" t="leisure" st="sports_centre"/>
+<node id="2143885181" lat="52.5402308" lon="-2.1213792"  n="Figures Gym: Mens Fitness Centre" t="leisure" st="sports_centre"/>
+<node id="2459837373" lat="52.4342135" lon="-1.8561075"  n="Sam&#39;s Flower Garden" t="leisure" st="garden"/>
+<node id="2493188095" lat="52.5028018" lon="-2.0137226"  n="Spotlight Dance Studios" t="leisure" st="sports_centre"/>
+<node id="2513511313" lat="52.3790165" lon="-1.5605813"  n="IKEA Membership Space" t="leisure" st="dance"/>
+<node id="2517583462" lat="52.478853" lon="-1.9003473"  n="Fitness4less" t="leisure" st="sports_centre"/>
+<node id="2519250899" lat="52.4807171" lon="-1.897736"  n="LA Fitness" t="leisure" st="sports_centre"/>
+<node id="2519250936" lat="52.4791303" lon="-1.8950767"  n="The Gym" t="leisure" st="sports_centre"/>
+<node id="2520425388" lat="52.4811559" lon="-1.8940082"  n="Quicksilver" t="leisure" st="adult_gaming_centre"/>
+<node id="2525940953" lat="52.4382102" lon="-1.9703541"  n="Cashino" t="leisure" st="adult_gaming_centre"/>
+<node id="2556578561" lat="52.4757329" lon="-1.8976579"  n="The Misfitted Hub" t="leisure" st="sports_centre"/>
+<node id="2587329582" lat="52.4761549" lon="-1.9035141"  n="Yoga Sweat" t="leisure" st="sports_centre"/>
+<node id="2642258392" lat="52.4775103" lon="-1.9182002"  n="Vibro-Suite" t="leisure" st="sports_centre"/>
+<node id="2693033250" lat="52.4309891" lon="-1.497652"  n="Body Worx Gym" t="leisure" st="sports_centre"/>
+<node id="2693046499" lat="52.4322908" lon="-1.496724"  n="Pro Gym" t="leisure" st="sports_centre"/>
+<node id="2693076140" lat="52.4335353" lon="-1.4958067"  n="Body Work Gym For Women" t="leisure" st="sports_centre"/>
+<node id="2693080015" lat="52.4337528" lon="-1.4954526"  n="Spiritual Warrior Martial Arts Centre" t="leisure" st="sports_centre"/>
+<node id="2694349886" lat="52.4753152" lon="-2.0306559"  n="Pro-Fitness (Blackheath) International" t="leisure" st="sports_centre"/>
+<node id="2694402049" lat="52.4773492" lon="-2.0360096"  n="Base Gym" t="leisure" st="gymnastics"/>
+<node id="2694620075" lat="52.4762432" lon="-2.0680138"  n="Youth Only Zone" t="leisure" st="sports_centre"/>
+<node id="2694725052" lat="52.4765095" lon="-2.0735632"  n="Rhythmic&#39;s Dance Centre" t="leisure" st="sports_centre"/>
+<node id="2694763576" lat="52.4479179" lon="-1.4859844"  n="Capitol Gym" t="leisure" st="sports_centre"/>
+<node id="2696749027" lat="52.4800917" lon="-2.1192509"  n="The Dojo" t="leisure" st="sports_centre"/>
+<node id="2696749241" lat="52.4800444" lon="-2.1193716"  n="Zig Zags" t="leisure" st="playground"/>
+<node id="2697350936" lat="52.466736" lon="-2.1139467"  n="FITNESS 4 LESS" t="leisure" st="sports_centre"/>
+<node id="2697465345" lat="52.4828008" lon="-2.0717073"  n="Central House Fitness centre" t="leisure" st="sports_centre"/>
+<node id="2697619459" lat="52.475992" lon="-2.0414895"  n="SOLAR TANNING AND FITNESS CENTRE" t="leisure" st="sports_centre"/>
+<node id="2821895902" lat="52.4839001" lon="-1.9036004"  n="Fighting Fit" t="leisure" st="sports_centre"/>
+<node id="2853281101" lat="52.5300078" lon="-1.8770659"  n="Wyrley Birch" t="leisure" st="common"/>
+<node id="2853281102" lat="52.5223418" lon="-1.8146849"  n="Pype Hayes" t="leisure" st="common"/>
+<node id="2853281103" lat="52.5299986" lon="-1.7977933"  n="Eachelhurst" t="leisure" st="common"/>
+<node id="2853281104" lat="52.5465911" lon="-1.8015373"  n="New Hall Avenue" t="leisure" st="common"/>
+<node id="2853291511" lat="52.5606598" lon="-1.8063074"  n="Mount View" t="leisure" st="common"/>
+<node id="2853291706" lat="52.5553726" lon="-1.7949726"  n="Berryfields" t="leisure" st="common"/>
+<node id="2853305601" lat="52.5049062" lon="-1.8152832"  n="Bromford" t="leisure" st="common"/>
+<node id="2853305602" lat="52.5389209" lon="-1.7902453"  n="Walmley Oak" t="leisure" st="common"/>
+<node id="2853309201" lat="52.5067838" lon="-1.8011851"  n="Tame Valley" t="leisure" st="common"/>
+<node id="2853326301" lat="52.5560771" lon="-1.8087838"  n="Newhall" t="leisure" st="common"/>
+<node id="2860414451" lat="52.4708337" lon="-1.8947058"  n="Keyhunter" t="leisure" st="escape_game"/>
+<node id="2876970102" lat="52.4698417" lon="-1.8929099"  n="Team-des Fitness Lts" t="leisure" st="sports_centre"/>
+<node id="2876970104" lat="52.4703193" lon="-1.8932458"  n="Yin Yang Gym" t="leisure" st="sports_centre"/>
+<node id="2906500395" lat="52.4620785" lon="-1.8145911"  n="Anytime Fitness" t="leisure" st="fitness_centre"/>
+<node id="2915316622" lat="52.4754152" lon="-1.8883031"  n="Cashpot" t="leisure" st="adult_gaming_centre"/>
+<node id="2946730846" lat="52.5845356" lon="-1.9769126"  n="Body Zone" t="leisure" st="fitness_centre"/>
+<node id="2946730905" lat="52.5834962" lon="-1.9813428"  n="Fitness Inc" t="leisure" st="fitness_centre"/>
+<node id="2946730927" lat="52.5837374" lon="-1.9782558"  n="Isis Health &#38; Fitness" t="leisure" st="fitness_centre"/>
+<node id="2946730943" lat="52.5838777" lon="-1.980588"  n="Luvgym" t="leisure" st="fitness_centre"/>
+<node id="2946730948" lat="52.5846371" lon="-1.9773081"  n="Midlands Snooker Academy" t="leisure" st="sports_centre"/>
+<node id="2946730976" lat="52.5849825" lon="-1.9828658"  n="Playland Amusements" t="leisure" st="adult_gaming_centre"/>
+<node id="2946730977" lat="52.583708" lon="-1.9808706"  n="Playland" t="leisure" st="playground"/>
+<node id="2946730982" lat="52.5860439" lon="-1.9856428"  n="Pure Gym" t="leisure" st="fitness_centre"/>
+<node id="2946730983" lat="52.5838432" lon="-1.9824238"  n="Quicksilver" t="leisure" st="adult_gaming_centre"/>
+<node id="2946730997" lat="52.5859688" lon="-1.9783283"  n="Simkim Martial Arts Academy" t="leisure" st="sports_centre"/>
+<node id="2963306568" lat="52.4747794" lon="-1.8773749"  n="Pat Benson Boxing" t="leisure" st="sports_centre"/>
+<node id="2963306573" lat="52.4747988" lon="-1.8773866"  n="Small Heath Boxing Club" t="leisure" st="sports_centre"/>
+<node id="2995130251" lat="52.4877724" lon="-1.9074285"  n="Team Fearless MMA &#38; Fitness Studio" t="leisure" st="sports_centre"/>
+<node id="3048296926" lat="52.4097745" lon="-1.5125533"  n="Solutions4health" t="leisure" st="wellness"/>
+<node id="3048296928" lat="52.4102137" lon="-1.511653"  n="Spa Beauty" t="leisure" st="spa"/>
+<node id="3048297092" lat="52.4063902" lon="-1.5155039"  n="8 Limbs Muay Thai" t="leisure" st="sports_centre"/>
+<node id="3049175307" lat="52.4095326" lon="-1.5092406"  n="Cashino" t="leisure" st="adult_gaming_centre"/>
+<node id="3049178175" lat="52.4096276" lon="-1.5103795"  n="Motorcise" t="leisure" st="fitness_centre"/>
+<node id="3108516115" lat="52.4139049" lon="-1.9719201"  n="Funspot" t="leisure" st="adult_gaming_centre"/>
+<node id="3108516116" lat="52.4147658" lon="-1.9714894"  n="Funspot" t="leisure" st="adult_gaming_centre"/>
+<node id="3108527380" lat="52.4157198" lon="-1.9710082"  n="The Babylon Amusements" t="leisure" st="adult_gaming_centre"/>
+<node id="3108527392" lat="52.418313" lon="-1.9649166"  n="Treasure Island" t="leisure" st="playground"/>
+<node id="3129830678" lat="52.6367484" lon="-1.9295118"  n="Crash Bang Wallop" t="leisure" st="playground"/>
+<node id="3129832066" lat="52.6189469" lon="-1.9281224"  n="Adventureland" t="leisure" st="playground"/>
+<node id="3166867532" lat="52.489643" lon="-1.8993609"  n="Healthier Body" t="leisure" st="fitness_centre"/>
+<node id="3177898073" lat="52.4851467" lon="-1.901749"  n="Archgym" t="leisure" st="fitness_centre"/>
+<node id="3177898085" lat="52.485762" lon="-1.9025813"  n="Cordão De Ouro" t="leisure" st="sports_centre"/>
+<node id="3177898090" lat="52.4916075" lon="-1.909594"  n="Elite Fitness and Martial Arts Gym" t="leisure" st="fitness_centre"/>
+<node id="3181847507" lat="52.4580566" lon="-1.885018"  n="Fitness for Ladies" t="leisure" st="fitness_centre"/>
+<node id="3248044195" lat="52.4801988" lon="-1.9155284"  n="Community Hall" t="leisure" st="sports_centre"/>
+<node id="3319937905" lat="52.4511715" lon="-1.7334771"  n="GameDeck" t="leisure" st="video_arcade"/>
+<node id="3319937906" lat="52.4517697" lon="-1.732961"  n="Gamedeck" t="leisure" st="video_arcade"/>
+<node id="3319937907" lat="52.4532971" lon="-1.732636"  n="Gamedeck" t="leisure" st="video_arcade"/>
+<node id="3319937908" lat="52.4538128" lon="-1.7329618"  n="Gamedeck" t="leisure" st="video_arcade"/>
+<node id="3319937918" lat="52.4520003" lon="-1.7332426"  n="Softek Sim" t="leisure" st="video_arcade"/>
+<node id="3369949963" lat="52.4207057" lon="-1.5993497"  n="Rec Playground" t="leisure" st="playground"/>
+<node id="3398778103" lat="52.4909077" lon="-2.0019082"  n="Hotshots Snooker Club" t="leisure" st="sports_centre"/>
+<node id="3406978052" lat="52.4711538" lon="-1.9226571"  n="Anytime Fitness" t="leisure" st="fitness_centre"/>
+<node id="3406978059" lat="52.4719004" lon="-1.9222903"  n="Indigo Sun" t="leisure" st="tanning_salon"/>
+<node id="3429212014" lat="52.5024675" lon="-1.9913341"  n="Horizon Health and Fitness club" t="leisure" st="sports_centre"/>
+<node id="3431531077" lat="52.5022843" lon="-1.9929782"  n="Legion Fitness" t="leisure" st="sports_centre"/>
+<node id="3436003855" lat="52.5129893" lon="-2.0766379"  n="Unique Fitness" t="leisure" st="fitness_centre"/>
+<node id="3470524723" lat="52.4693835" lon="-1.8583378"  n="Pure Fitness" t="leisure" st="fitness_centre"/>
+<node id="3470525523" lat="52.4716355" lon="-1.8638183"  n="Cashino" t="leisure" st="adult_gaming_centre"/>
+<node id="3470525631" lat="52.4705187" lon="-1.8601702"  n="Olympia" t="leisure" st="fitness_centre"/>
+<node id="3562369469" lat="52.4888183" lon="-1.849587"  n="Kashmir" t="leisure" st="adult_gaming_centre"/>
+<node id="3574870565" lat="52.5119076" lon="-1.8868994"  n="Mix It Up" t="leisure" st="fitness_centre"/>
+<node id="3575611910" lat="52.4872992" lon="-1.9609622"  n="Pure Gym" t="leisure" st="sports_centre"/>
+<node id="3697412326" lat="52.4780677" lon="-2.0346324"  n="The Golden Cue Snooker Club" t="leisure" st="sports_centre"/>
+<node id="3835646671" lat="52.6132062" lon="-2.024358"  n="Wood Farm" t="leisure" st="nature_reserve"/>
+<node id="3922859293" lat="52.410598" lon="-1.5144838"  n="JD Gyms" t="leisure" st="fitness_centre"/>
+<node id="4025507672" lat="52.457646" lon="-1.8841484"  n="24/7 Gym" t="leisure" st="sports_centre"/>
+<node id="4161877891" lat="52.4436195" lon="-2.0115512"  n="Bartley Green Amateur Boxing Club" t="leisure" st="fitness_centre"/>
+<node id="4161877900" lat="52.4436873" lon="-2.0115405"  n="Narna&#39;s Gym" t="leisure" st="fitness_centre"/>
+<node id="283885" lat="51.4949874" lon="0.0155375"  n="Ecology Park" t="leisure" st="park"/>
+<node id="20851184" lat="51.4044344" lon="-0.3362247"  n="The Royal Tennis Court" t="leisure" st="pitch"/>
+<node id="26545058" lat="51.4003707" lon="-0.1628676"  n="Canons Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="29144685" lat="51.6491438" lon="-0.08668"  n="Enfield Town Park" t="leisure" st="park"/>
+<node id="30442275" lat="51.4784188" lon="-0.3007569"  n="Bamboo Garden" t="leisure" st="garden"/>
+<node id="30692909" lat="51.483015" lon="-0.2796052"  n="Snail Reserve" t="leisure" st="nature_reserve"/>
+<node id="32456175" lat="51.6480394" lon="-0.0682314"  n="Bush Hill Park" t="leisure" st="park"/>
+<node id="32456943" lat="51.6340047" lon="-0.1139625"  n="Grovelands Park" t="leisure" st="park"/>
+<node id="32681066" lat="51.4870035" lon="-0.3533581"  n="Osterley Park" t="leisure" st="park"/>
+<node id="52787118" lat="51.5422368" lon="-0.071346"  n="Queensbridge Sports &#38; Community Centre" t="leisure" st="sports_centre"/>
+<node id="63035295" lat="51.4691899" lon="-0.0450801"  n="Telegraph Hill Park" t="leisure" st="park"/>
+<node id="89484781" lat="51.362973" lon="-0.0869613"  n="South Croydon Sports Club" t="leisure" st="sports_centre"/>
+<node id="130159100" lat="51.4179782" lon="-0.1741587"  n="memorial garden" t="leisure" st="garden"/>
+<node id="130223626" lat="51.4141736" lon="-0.1802204"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="132565484" lat="51.4155623" lon="-0.1730821"  n="Myrna Close Nature Reserve" t="leisure" st="nature_reserve"/>
+<node id="206144536" lat="51.4147861" lon="-0.363824"  n="Hampton and Richmond Borough Football Club" t="leisure" st="stadium"/>
+<node id="207110707" lat="51.4825004" lon="-0.2892762"  n="Grass Garden" t="leisure" st="garden"/>
+<node id="207110829" lat="51.4826165" lon="-0.2910387"  n="Secluded Garden" t="leisure" st="garden"/>
+<node id="207111044" lat="51.4811186" lon="-0.2893721"  n="Order Beds" t="leisure" st="garden"/>
+<node id="207111138" lat="51.4828628" lon="-0.2890616"  n="The Duke&#39;s Garden" t="leisure" st="garden"/>
+<node id="207113336" lat="51.4841235" lon="-0.2953009"  n="The Queen&#39;s Garden" t="leisure" st="garden"/>
+<node id="207126970" lat="51.4831029" lon="-0.2898185"  n="The Director&#39;s Garden" t="leisure" st="garden"/>
+<node id="207137399" lat="51.4815485" lon="-0.2898856"  n="Rock Garden" t="leisure" st="garden"/>
+<node id="207138240" lat="51.4803829" lon="-0.2898038"  n="Woodland Garden" t="leisure" st="garden"/>
+<node id="207139285" lat="51.4790025" lon="-0.2975504"  n="Azalea Garden" t="leisure" st="garden"/>
+<node id="207141757" lat="51.4768294" lon="-0.2952823"  n="Mediterranean Garden" t="leisure" st="garden"/>
+<node id="207141983" lat="51.4788768" lon="-0.2935425"  n="Rose Garden" t="leisure" st="garden"/>
+<node id="207264486" lat="51.4807692" lon="-0.2940522"  n="Seven Sisters" t="leisure" st="garden"/>
+<node id="207272295" lat="51.4732329" lon="-0.3046692"  n="Queen&#39;s Cottage Grounds" t="leisure" st="garden"/>
+<node id="207337355" lat="51.4821434" lon="-0.2959614"  n="Treehouse Towers" t="leisure" st="playground"/>
+<node id="207513563" lat="51.5066413" lon="-0.1688741"  n="The Cockpit" t="leisure" st="garden"/>
+<node id="243750675" lat="51.4721024" lon="0.038376"  n="London Marathon Playing Fields" t="leisure" st="park"/>
+<node id="244064876" lat="51.4370199" lon="0.0257616"  n="Bannatyne&#39;s Health Club" t="leisure" st="sports_centre"/>
+<node id="247328086" lat="51.5831971" lon="-0.1303205"  n="Park Road Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="248042427" lat="51.353216" lon="-0.1328794"  n="The Phoenix Centre" t="leisure" st="sports_centre"/>
+<node id="255282554" lat="51.493598" lon="-0.140318"  n="Queen Mother Sports Centre" t="leisure" st="sports_centre"/>
+<node id="255469609" lat="51.5015075" lon="-0.2035468"  n="Ecology Centre" t="leisure" st="nature_reserve"/>
+<node id="255470189" lat="51.5138225" lon="-0.1888073"  n="All Star Lanes" t="leisure" st="bowling_alley"/>
+<node id="266748268" lat="51.3683047" lon="-0.2244665"  n="Cheam Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="278010474" lat="51.5334657" lon="-0.1395458"  n="Kieser Training" t="leisure" st="sports_centre"/>
+<node id="278317169" lat="51.507802" lon="-0.0671636"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="287912592" lat="51.5089998" lon="-0.2779878"  n="Twyford Sports Centre" t="leisure" st="sports_centre"/>
+<node id="291658736" lat="51.3762969" lon="-0.1030082"  n="Mecca Bingo" t="leisure" st="bingo_hall"/>
+<node id="302164074" lat="51.5048199" lon="-0.27959"  n="Heathfield Nature Garden" t="leisure" st="garden"/>
+<node id="306241407" lat="51.4868008" lon="-0.1364708"  n="Dolphin Square Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="312536709" lat="51.4052224" lon="-0.1704513"  n="Miles Road Recreation Ground" t="leisure" st="playground"/>
+<node id="313181119" lat="51.5243645" lon="-0.1278575"  n="Bannatyne&#39;s health club" t="leisure" st="sports_centre"/>
+<node id="314023076" lat="51.5258852" lon="0.0295679"  n="The Castle" t="leisure" st="sports_centre"/>
+<node id="330128417" lat="51.6343965" lon="-0.1244283"  n="Southgate Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="332323277" lat="51.4212291" lon="-0.0301035"  n="FitnessFirst" t="leisure" st="sports_centre"/>
+<node id="335902691" lat="51.4824526" lon="-0.0856553"  n="Lynn Athletic Boxing Club" t="leisure" st="sports_centre"/>
+<node id="336356831" lat="51.5797894" lon="-0.4090365"  n="Highgrove Swimming Pool" t="leisure" st="sports_centre"/>
+<node id="364121975" lat="51.4762447" lon="0.1049733"  n="William Barefoot Gardens" t="leisure" st="garden"/>
+<node id="366753512" lat="51.4077075" lon="-0.1020129"  n="Beauty and the Beast Gym" t="leisure" st="fitness_centre"/>
+<node id="371528879" lat="51.5230119" lon="-0.0895188"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="384889365" lat="51.4734245" lon="0.1130989"  n="Lodge Hill Playground" t="leisure" st="playground"/>
+<node id="387541558" lat="51.405525" lon="-0.2223524"  n="David Lloyd Raynes Park" t="leisure" st="sports_centre"/>
+<node id="408121748" lat="51.5360684" lon="-0.1910047"  n="Bannatyne&#39;s Gym Maida Vale" t="leisure" st="sports_centre"/>
+<node id="414016054" lat="51.456577" lon="0.1377632"  n="Bowling Alley" t="leisure" st="sports_centre"/>
+<node id="434446769" lat="51.417164" lon="-0.2130936"  n="Wimbledon Racquets &#38; Fitness Club" t="leisure" st="sports_centre"/>
+<node id="455178032" lat="51.6260509" lon="0.0046305"  n="Dovecott" t="leisure" st="dovecote"/>
+<node id="469789265" lat="51.5884592" lon="-0.1028088"  n="Ducketts Common playground" t="leisure" st="playground"/>
+<node id="475251875" lat="51.4684223" lon="-0.1029348"  n="Grove Adventure Playground" t="leisure" st="playground"/>
+<node id="481644055" lat="51.4763792" lon="-0.0943103"  n="gala" t="leisure" st="bingo"/>
+<node id="497394455" lat="51.5167576" lon="-0.2016509"  n="The Tabernacle" t="leisure" st="music_venue"/>
+<node id="505801347" lat="51.537093" lon="-0.101675"  n="Esporta" t="leisure" st="sports_centre"/>
+<node id="519175243" lat="51.5171527" lon="-0.1657302"  n="Quicksilver" t="leisure" st="adult_gaming_centre"/>
+<node id="521689965" lat="51.5192107" lon="-0.1798733"  n="Nuffield Health" t="leisure" st="sports_centre"/>
+<node id="528226142" lat="51.4510917" lon="-0.3427919"  n="Nuffield Health" t="leisure" st="sports_centre"/>
+<node id="528226318" lat="51.4530084" lon="-0.3315122"  n="Grimwood Road recreation ground" t="leisure" st="playground"/>
+<node id="529096635" lat="51.595712" lon="-0.068428"  n="EasyGym" t="leisure" st="fitness_centre"/>
+<node id="534672948" lat="51.5171887" lon="-0.1883767"  n="Porchester Spa" t="leisure" st="spa"/>
+<node id="534971563" lat="51.5174382" lon="-0.118879"  n="FitnessFirst" t="leisure" st="fitness_centre"/>
+<node id="583329974" lat="51.4618085" lon="-0.216781"  n="Agora Amusements" t="leisure" st="adult_gaming_centre"/>
+<node id="596826425" lat="51.5156987" lon="-0.1257682"  n="Oasis Sports Centre" t="leisure" st="sports_centre"/>
+<node id="603109728" lat="51.510515" lon="-0.126751"  n="Gymbox" t="leisure" st="sports_centre"/>
+<node id="610465198" lat="51.503337" lon="-0.219174"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="611967792" lat="51.3405759" lon="-0.0157817"  n="New Addington Pools" t="leisure" st="sports_centre"/>
+<node id="612024074" lat="51.4261399" lon="0.0121102"  n="Downham Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="613090366" lat="51.531151" lon="-0.104843"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="647872838" lat="51.5207604" lon="-0.1180955"  n="LA Fitness" t="leisure" st="sports_centre"/>
+<node id="652802018" lat="51.5805991" lon="-0.0400944"  n="Playground" t="leisure" st="playground"/>
+<node id="653950088" lat="51.606883" lon="-0.1707032"  n="Wingate &#38; Finchley F.C." t="leisure" st="stadium"/>
+<node id="660760083" lat="51.5028252" lon="0.0446957"  n="Camel Road Play Area" t="leisure" st="playground"/>
+<node id="663673334" lat="51.5187379" lon="-0.0771869"  n="Wayang Centre" t="leisure" st="spa"/>
+<node id="666918630" lat="51.511876" lon="-0.074605"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="668842793" lat="51.512664" lon="-0.078879"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="692129385" lat="51.5187343" lon="-0.140279"  n="Good Vibes" t="leisure" st="gymnasium"/>
+<node id="694471389" lat="51.511247" lon="-0.076255"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="702318525" lat="51.482217" lon="-0.2886585"  n="Aquatic Garden" t="leisure" st="garden"/>
+<node id="703359261" lat="51.5178353" lon="-0.1189539"  n="GymBox" t="leisure" st="sports_centre"/>
+<node id="706670412" lat="51.4856666" lon="-0.0943986"  n="New Fitness Exchange" t="leisure" st="sports_centre"/>
+<node id="727367251" lat="51.549529" lon="-0.1968053"  n="Sumatra Road Play Area" t="leisure" st="playground"/>
+<node id="766975655" lat="51.4892273" lon="0.0976572"  n="Plumstead Gardens" t="leisure" st="park"/>
+<node id="776563995" lat="51.5330721" lon="-0.1991667"  n="Royal British Legion" t="leisure" st="club"/>
+<node id="833378493" lat="51.5008338" lon="-0.09079"  n="Soho Gyms" t="leisure" st="sports_centre"/>
+<node id="835904193" lat="51.3577715" lon="-0.2170339"  n="Dance Options Cheam" t="leisure" st="dance"/>
+<node id="841253788" lat="51.3763783" lon="0.1020997"  n="Walnuts Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="895874399" lat="51.5559331" lon="-0.2302823"  n="Kilburn Cosmos RFC" t="leisure" st="pitch"/>
+<node id="915410138" lat="51.5055035" lon="-0.1114232"  n="Kinetic" t="leisure" st="sports_centre"/>
+<node id="931615210" lat="51.543758" lon="-0.1517968"  n="Mosaic" t="leisure" st="sports_centre"/>
+<node id="931620909" lat="51.5563267" lon="-0.1386115"  n="Maximum Fitness" t="leisure" st="sports_centre"/>
+<node id="931622092" lat="51.5437313" lon="-0.1496081"  n="Pilates Clinic" t="leisure" st="sports_centre"/>
+<node id="977469702" lat="51.6529648" lon="-0.0889117"  n="Drill Hall" t="leisure" st="sports_centre"/>
+<node id="977489975" lat="51.6553753" lon="-0.1385106"  n="Southgate Hockey Club" t="leisure" st="sports_centre"/>
+<node id="977489982" lat="51.6564793" lon="-0.1390321"  n="Trent Park Running Club" t="leisure" st="sports_centre"/>
+<node id="1000042929" lat="51.3584512" lon="-0.2924714"  n="Castle Hill" t="leisure" st="nature_reserve"/>
+<node id="1120009215" lat="51.5582304" lon="-0.3164302"  n="Partyman World of Play, Wembley" t="leisure" st="playground"/>
+<node id="1141415201" lat="51.5197284" lon="-0.0850676"  n="Slim Jim&#39;s" t="leisure" st="sports_centre"/>
+<node id="1145233938" lat="51.5261214" lon="-0.1028763"  n="Brunswick Estate Play Area" t="leisure" st="playground"/>
+<node id="1150003439" lat="51.5199571" lon="-0.0818579"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="1153505407" lat="51.4634134" lon="-0.1695235"  n="Fitness First Clapham Junction Station" t="leisure" st="sports_centre"/>
+<node id="1163863417" lat="51.5097075" lon="-0.1216567"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="1165199681" lat="51.4935452" lon="-0.0395831"  n="Surrey Docks Watersports Centre" t="leisure" st="sports_centre"/>
+<node id="1174225863" lat="51.4745151" lon="-0.1029528"  n="Sand pit" t="leisure" st="playground"/>
+<node id="1184391096" lat="51.4728913" lon="-0.0133773"  n="Dabin Crescent Play Area" t="leisure" st="playground"/>
+<node id="1233761894" lat="51.5215148" lon="-0.3808094"  n="Willowtree Marina" t="leisure" st="marina"/>
+<node id="1233761897" lat="51.5296115" lon="-0.3769173"  n="Engineer&#39;s Wharf Moorings" t="leisure" st="marina"/>
+<node id="1268874626" lat="51.5117385" lon="-0.0970366"  n="Fitness First Gym" t="leisure" st="sports_centre"/>
+<node id="1272466316" lat="51.4907591" lon="-0.1573303"  n="The Sloane Club" t="leisure" st="social_club"/>
+<node id="1304102855" lat="51.5676806" lon="-0.2023333"  n="Childs Hill Park Play Area" t="leisure" st="playground"/>
+<node id="1304652368" lat="51.46031" lon="-0.214224"  n="Pure Gym" t="leisure" st="sports_centre"/>
+<node id="1304809948" lat="51.5195465" lon="-0.1226543"  n="All Star Lanes (Holborn)" t="leisure" st="bowling_alley"/>
+<node id="1306199271" lat="51.4987892" lon="-0.1279128"  n="Fives Courts" t="leisure" st="sports_centre"/>
+<node id="1313193709" lat="51.4192441" lon="-0.0507832"  n="Alexandra Recreation Ground" t="leisure" st="playground"/>
+<node id="1313310839" lat="51.5308805" lon="-0.2164007"  n="Moberly Sports Centre" t="leisure" st="sports_centre"/>
+<node id="1319428303" lat="51.5823697" lon="-0.4042729"  n="Enigma Square" t="leisure" st="playground"/>
+<node id="1320961192" lat="51.5972678" lon="-0.3031229"  n="Centanary Play Park" t="leisure" st="playground"/>
+<node id="1320961228" lat="51.5986594" lon="-0.3032571"  n="Centanary Sports" t="leisure" st="sports_centre"/>
+<node id="1322790808" lat="51.5378025" lon="-0.0019392"  n="Gala Bingo" t="leisure" st="gambling"/>
+<node id="1332679783" lat="51.5993923" lon="-0.3038687"  n="Park High School Sports Hall" t="leisure" st="sports_centre"/>
+<node id="1348978158" lat="51.4815315" lon="-0.2917295"  n="Winter Garden" t="leisure" st="garden"/>
+<node id="1348978159" lat="51.4735563" lon="-0.3070311"  n="Conservation Area" t="leisure" st="garden"/>
+<node id="1348978160" lat="51.4763693" lon="-0.2926569"  n="Berberis Dell" t="leisure" st="garden"/>
+<node id="1348978161" lat="51.4742169" lon="-0.2990379"  n="Woodland Glade" t="leisure" st="garden"/>
+<node id="1348978162" lat="51.4734762" lon="-0.3006819"  n="Redwood Grove" t="leisure" st="garden"/>
+<node id="1348978163" lat="51.4795538" lon="-0.3003275"  n="Rhododendron Dell" t="leisure" st="garden"/>
+<node id="1348978164" lat="51.4817004" lon="-0.2883234"  n="Student Vegetable Plots" t="leisure" st="garden"/>
+<node id="1376804057" lat="51.6071178" lon="0.2491087"  n="Maylands Golf Club" t="leisure" st="sports_centre"/>
+<node id="1387329578" lat="51.5142183" lon="-0.0592578"  n="Mulberry Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="1430375855" lat="51.630775" lon="-0.3121112"  n="Aspire National Training Centre" t="leisure" st="sports_centre"/>
+<node id="1442134652" lat="51.4693813" lon="-0.1479211"  n="Montefiore Gardens" t="leisure" st="playground"/>
+<node id="1467996265" lat="51.4928471" lon="-0.220027"  n="Virgin Active Hammersmith" t="leisure" st="sports_centre"/>
+<node id="1483529279" lat="51.4733842" lon="-0.180668"  n="Imperial Wharf Marina" t="leisure" st="marina"/>
+<node id="1489891514" lat="51.4627199" lon="-0.009746"  n="Soho Gyms" t="leisure" st="sports_centre"/>
+<node id="1499049189" lat="51.5875633" lon="-0.1430589"  n="Tree Swing" t="leisure" st="playground"/>
+<node id="1514530064" lat="51.5884315" lon="-0.074246"  n="Tottenham Green Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="1531141111" lat="51.5128272" lon="-0.4008404"  n="Hillingdon Cycle Circuit" t="leisure" st="sports_centre"/>
+<node id="1531146000" lat="51.5069911" lon="-0.4010775"  n="Minet Country Park" t="leisure" st="park"/>
+<node id="1545262757" lat="51.4881369" lon="-0.0109983"  n="Millwall Rugby Club" t="leisure" st="sports_centre"/>
+<node id="1563453710" lat="51.393459" lon="-0.06757"  n="South Norwood Leisure Centre" t="leisure" st="swimming_pool"/>
+<node id="1631430623" lat="51.4730736" lon="-0.0374306"  n="Goldsmiths Gym" t="leisure" st="sports_centre"/>
+<node id="1638242145" lat="51.6412105" lon="-0.0693894"  n="The Fitness Station" t="leisure" st="gymnasium"/>
+<node id="1639696408" lat="51.588605" lon="-0.058931"  n="The Gym" t="leisure" st="sports_centre"/>
+<node id="1648342162" lat="51.5031219" lon="-0.20702"  n="nature play garden" t="leisure" st="playground"/>
+<node id="1663372741" lat="51.3547622" lon="-0.1616762"  n="Del Toro Dance School" t="leisure" st="sports_centre"/>
+<node id="1668643152" lat="51.4867195" lon="0.1103232"  n="bostal gardens" t="leisure" st="playground"/>
+<node id="1668876224" lat="51.5192255" lon="-0.14259"  n="BBC Club" t="leisure" st="social_club"/>
+<node id="1673416207" lat="51.591793" lon="0.2099264"  n="Romford Hockey Club" t="leisure" st="sports_centre"/>
+<node id="1678283228" lat="51.5132074" lon="-0.0801529"  n="LA Fitness" t="leisure" st="sports_centre"/>
+<node id="1687141609" lat="51.4771997" lon="-0.0373545"  n="Children playground" t="leisure" st="playground"/>
+<node id="1713257252" lat="51.5096752" lon="-0.0914835"  n="Nuffield Health Fitness &#38; Wellbeing Centre City" t="leisure" st="sports_centre"/>
+<node id="1735696650" lat="51.4887093" lon="-0.0298121"  n="Upper Pepys Park Playground" t="leisure" st="playground"/>
+<node id="1779248047" lat="51.5891032" lon="-0.1029906"  n="Football and basketball courts " t="leisure" st="sports_centre"/>
+<node id="1787108615" lat="51.5146313" lon="-0.0853835"  n="Active Classic" t="leisure" st="sports_centre"/>
+<node id="1798811866" lat="51.5825995" lon="-0.2265016"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="1802628015" lat="51.4487096" lon="0.0754116"  n="Avery Hill Park Playground" t="leisure" st="playground"/>
+<node id="1813026668" lat="51.3729405" lon="-0.1010837"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="1825849217" lat="51.4689492" lon="0.0575755"  n="Eltham Common" t="leisure" st="park"/>
+<node id="1841699824" lat="51.3478737" lon="0.1418437"  n="Springwood - Kent Paintball Centre" t="leisure" st="sports_centre"/>
+<node id="1874493759" lat="51.4451692" lon="-0.3285153"  n="Diamond Jubilee" t="leisure" st="playground"/>
+<node id="1893960879" lat="51.5401225" lon="-0.0040796"  n="Carpenters &#38; Dockland Centre" t="leisure" st="sports_centre"/>
+<node id="1970112367" lat="51.4942553" lon="-0.0623943"  n="The Arch Climbing Wall (Biscuit Factory)" t="leisure" st="sports_centre"/>
+<node id="1971691996" lat="51.5235775" lon="-0.0839076"  n="The Vault Gym" t="leisure" st="sports_centre"/>
+<node id="1972267492" lat="51.4046031" lon="-0.2839023"  n="Kingsmeadow" t="leisure" st="sports_centre"/>
+<node id="1973260534" lat="51.5286593" lon="-0.0882054"  n="Bikram Yoga" t="leisure" st="sports_centre"/>
+<node id="1982055860" lat="51.5045297" lon="-0.1580207"  n="Nannies&#39; Lawn" t="leisure" st="garden"/>
+<node id="1982085230" lat="51.5107745" lon="-0.1662814"  n="The Meadow" t="leisure" st="garden"/>
+<node id="1982085234" lat="51.5082101" lon="-0.1589965"  n="The Parade Ground" t="leisure" st="garden"/>
+<node id="1990694628" lat="51.509777" lon="-0.0929331"  n="Little Ship Club" t="leisure" st="club"/>
+<node id="1993188847" lat="51.5852333" lon="-0.2799092"  n="FitnessFirst" t="leisure" st="sports_centre"/>
+<node id="2007317587" lat="51.340413" lon="-0.0616961"  n="Croydon High Sports Club" t="leisure" st="sports_centre"/>
+<node id="2026304995" lat="51.425099" lon="-0.1517037"  n="Furzedown Recreation Ground" t="leisure" st="playground"/>
+<node id="2026305365" lat="51.4175121" lon="-0.1541392"  n="North Mitcham Children&#39;s playground" t="leisure" st="playground"/>
+<node id="2026306053" lat="51.433688" lon="-0.1454864"  n="Tooting Bec Common Chldren&#39;s Playground" t="leisure" st="playground"/>
+<node id="2048127670" lat="51.4197623" lon="-0.2045963"  n="Nuffield Health Wimbledon Fitness &#38; Wellbeing Centre" t="leisure" st="sports_centre"/>
+<node id="2048669657" lat="51.5643565" lon="0.0455634"  n="Aldersbrook Riding School &#38; Livery Stables" t="leisure" st="horse_riding"/>
+<node id="2124626804" lat="51.374216" lon="-0.1037563"  n="FX Power Gym" t="leisure" st="sports_centre"/>
+<node id="2124626806" lat="51.3741024" lon="-0.1035074"  n="Lion&#39;s Pride MMA" t="leisure" st="sports_centre"/>
+<node id="2136193534" lat="51.3625476" lon="0.077115"  n="Skate Park" t="leisure" st="playground"/>
+<node id="2166009440" lat="51.511809" lon="-0.1217587"  n="Jubilee Hall Trust" t="leisure" st="sports_centre"/>
+<node id="2175185019" lat="51.4563514" lon="-0.1947233"  n="Virgin Active Wandsworth" t="leisure" st="sports_centre"/>
+<node id="2190841358" lat="51.5392428" lon="-0.1202953"  n="Crumbles Castle" t="leisure" st="playground"/>
+<node id="2196145368" lat="51.3904851" lon="0.0150742"  n="Calso Health and Fitness Centre" t="leisure" st="sports_centre"/>
+<node id="2196152747" lat="51.3905622" lon="0.0146315"  n="Julian Hitch Martial Arts" t="leisure" st="sports_centre"/>
+<node id="2218654057" lat="51.5321142" lon="-0.0608219"  n="London Hackspace" t="leisure" st="hackerspace"/>
+<node id="2239847818" lat="51.4921038" lon="-0.2213839"  n="Hammersmith fitness and squash centre" t="leisure" st="sports_centre"/>
+<node id="2272756682" lat="51.588035" lon="-0.0714294"  n="avi" t="leisure" st="pitch"/>
+<node id="2285457303" lat="51.415467" lon="-0.3032694"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="2294941855" lat="51.5972343" lon="-0.1080958"  n="The Gym" t="leisure" st="sports_centre"/>
+<node id="2300710373" lat="51.5764632" lon="-0.0976523"  n="Fitness First" t="leisure" st="fitness_centre"/>
+<node id="2314750952" lat="51.531407" lon="-0.3695815"  n="Greenford Sports Centre" t="leisure" st="sports_centre"/>
+<node id="2333320764" lat="51.5846558" lon="-0.0998032"  n="Langham Working Mens Club" t="leisure" st="social_club"/>
+<node id="2333408426" lat="51.5829559" lon="-0.0996235"  n="Harringey Snooker Club" t="leisure" st="sports_centre"/>
+<node id="2333408434" lat="51.5829372" lon="-0.0996208"  n="Legends Gym" t="leisure" st="sports_centre"/>
+<node id="2344481654" lat="51.5763073" lon="-0.4246608"  n="Churchfield Gardens" t="leisure" st="playground"/>
+<node id="2378981839" lat="51.5522784" lon="-0.3111089"  n="Barham Park Veterans Club" t="leisure" st="social_club"/>
+<node id="2388400884" lat="51.5278102" lon="-0.1537431"  n="Queen Mary&#39;s gardens" t="leisure" st="garden"/>
+<node id="2389890389" lat="51.5148938" lon="-0.0841972"  n="Bannatyne&#39;s Health Club" t="leisure" st="sports_centre"/>
+<node id="2409376454" lat="51.5376041" lon="-0.1443561"  n="FitnessFirst" t="leisure" st="sports_centre"/>
+<node id="2417949821" lat="51.4404062" lon="-0.0631736"  n="Outdoor climbing wall" t="leisure" st="playground"/>
+<node id="2434595818" lat="51.5770856" lon="-0.124922"  n="truGym" t="leisure" st="fitness_centre"/>
+<node id="2440890658" lat="51.6520379" lon="-0.1263055"  n="Trent Park Equestrian Centre" t="leisure" st="horse_riding"/>
+<node id="2443788233" lat="51.5478763" lon="-0.0076833"  n="Prize Walk Playground" t="leisure" st="playground"/>
+<node id="2451260030" lat="51.6241422" lon="-0.0604115"  n="Edmonton Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="2497144540" lat="51.4084247" lon="0.1242021"  n="L.A. Fitness Orpington" t="leisure" st="sports_centre"/>
+<node id="2501842125" lat="51.4614942" lon="-0.173496"  n="Kula Hot Yoga &#38; Wellbeing" t="leisure" st="sports_centre"/>
+<node id="2512646368" lat="51.5223795" lon="-0.1348101"  n="Fitness First TCR Gym" t="leisure" st="sports_centre"/>
+<node id="2528652090" lat="51.3805698" lon="-0.1053581"  n="easyGym" t="leisure" st="sports_centre"/>
+<node id="2543183237" lat="51.4315101" lon="0.0757236"  n="World of Golf" t="leisure" st="miniature_golf"/>
+<node id="2545451248" lat="51.5185695" lon="-0.0840269"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="2619667222" lat="51.5200805" lon="-0.066148"  n="Start The Dance" t="leisure" st="dance"/>
+<node id="2659475642" lat="51.5110647" lon="-0.1358825"  n="The Third Space" t="leisure" st="sports_centre"/>
+<node id="2667700510" lat="51.519931" lon="-0.105449"  n="Gymbox" t="leisure" st="fitness_centre"/>
+<node id="2675377426" lat="51.485212" lon="-0.126699"  n="The Gym" t="leisure" st="sports_centre"/>
+<node id="2677429698" lat="51.49757" lon="-0.141797"  n="LA Fitness" t="leisure" st="fitness_centre"/>
+<node id="2686817210" lat="51.487563" lon="-0.122773"  n="Paris Gym" t="leisure" st="fitness_centre"/>
+<node id="2696918582" lat="51.5161936" lon="0.0096661"  n="Fitness4Less" t="leisure" st="sports_centre"/>
+<node id="2707274390" lat="51.4508672" lon="0.0356876"  n="Badgers Sports Club" t="leisure" st="yes"/>
+<node id="2715355205" lat="51.455203" lon="-0.037099"  n="Rivoli Ballroom" t="leisure" st="dance"/>
+<node id="2735327665" lat="51.3192599" lon="-0.0640576"  n="Total" t="leisure" st="sports_centre"/>
+<node id="2793892926" lat="51.5132665" lon="-0.0848896"  n="Matt Roberts" t="leisure" st="sports_centre"/>
+<node id="2810046327" lat="51.4634631" lon="-0.3017605"  n="Combat Company Martial Arts" t="leisure" st="sports_centre"/>
+<node id="2872682830" lat="51.5220352" lon="-0.0814367"  n="Moss Pilates" t="leisure" st="sports_centre"/>
+<node id="2904988369" lat="51.4936951" lon="0.0168493"  n="Southern Park" t="leisure" st="park"/>
+<node id="2910015285" lat="51.532175" lon="-0.0417923"  n="Soho Gyms" t="leisure" st="sports_centre"/>
+<node id="2911951649" lat="51.5583114" lon="-0.1022917"  n="Fitness First Highbury" t="leisure" st="sports_centre"/>
+<node id="2914392296" lat="51.5169716" lon="-0.0788044"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="2916606549" lat="51.5153732" lon="-0.1231194"  n="Top Secret Comedy Club" t="leisure" st="comedy"/>
+<node id="2932682278" lat="51.5177118" lon="-0.0771325"  n="Fitness First Shoreditch Tower" t="leisure" st="sports_centre"/>
+<node id="2941603203" lat="51.5078231" lon="-0.1314729"  n="Impact hub Westminster" t="leisure" st="hackerspace"/>
+<node id="2960079342" lat="51.5250769" lon="-0.2654367"  n="The Heart of Gaming" t="leisure" st="amusement_arcade"/>
+<node id="3005606033" lat="51.561627" lon="-0.315258"  n="Stallions Training field" t="leisure" st="pitch"/>
+<node id="3018116500" lat="51.5150418" lon="-0.0829711"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="3063724430" lat="51.5314141" lon="-0.1031605"  n="FitnessFirst" t="leisure" st="sports_centre"/>
+<node id="3065516762" lat="51.5296035" lon="-0.0553296"  n="York Hall Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="3092189700" lat="51.6152753" lon="0.1246442"  n="Go Ape" t="leisure" st="high_ropes_course"/>
+<node id="3096129974" lat="51.4850472" lon="-0.1227612"  n="VauxWall Climbing Centre" t="leisure" st="sports_centre"/>
+<node id="3098754099" lat="51.4980362" lon="-0.0888867"  n="Outdoor gym" t="leisure" st="fitness_station"/>
+<node id="3099087374" lat="51.6497689" lon="-0.085635"  n="Junior Playground" t="leisure" st="playground"/>
+<node id="3107557331" lat="51.6495846" lon="-0.0466704"  n="Ponders End Community Centre" t="leisure" st="community_centre"/>
+<node id="3118263525" lat="51.5169362" lon="-0.0763984"  n="Ignite PT" t="leisure" st="sports_centre"/>
+<node id="3160126955" lat="51.6439367" lon="-0.044059"  n="Ponders End Working Mens Club" t="leisure" st="social_club"/>
+<node id="3160210317" lat="51.6489271" lon="-0.0568155"  n="Pure Gym" t="leisure" st="fitness_centre"/>
+<node id="3164383488" lat="51.5155316" lon="-0.0799153"  n="1Rebel" t="leisure" st="sports_centre"/>
+<node id="3191230457" lat="51.4720521" lon="-0.2175524"  n="Winnington Bowls Club" t="leisure" st="sports_centre"/>
+<node id="3197254712" lat="51.5182621" lon="-0.2086181"  n="Westway Sports &#38; Fitness" t="leisure" st="sports_centre"/>
+<node id="3201102293" lat="51.5480259" lon="-0.181497"  n="Virgin Active Swiss Cottage" t="leisure" st="sports_centre"/>
+<node id="3217508171" lat="51.5514013" lon="-0.3823286"  n="Larkspur Rovers FC" t="leisure" st="sports_centre"/>
+<node id="3230591744" lat="51.4641728" lon="-0.1677678"  n="Fitness First Clapham Hill " t="leisure" st="sports_centre"/>
+<node id="3246373071" lat="51.5970325" lon="-0.1921571"  n="The Bothy" t="leisure" st="garden"/>
+<node id="3248473472" lat="51.5111879" lon="-0.0846748"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="3248887452" lat="51.486822" lon="-0.1229942"  n="Chariots Roman Spa" t="leisure" st="sauna"/>
+<node id="3251204027" lat="51.648676" lon="-0.0515145"  n="Anytime Fitness" t="leisure" st="sports_centre"/>
+<node id="3260045878" lat="51.5120604" lon="-0.3029906"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="3278527461" lat="51.5369788" lon="-0.2061844"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="3299666971" lat="51.5299354" lon="-0.0617822"  n="Outdoor gym" t="leisure" st="fitness_station"/>
+<node id="3307141938" lat="51.5678103" lon="-0.3563384"  n="ama fitness" t="leisure" st="fitness_station"/>
+<node id="3337978527" lat="51.5504002" lon="-0.1105849"  n="Fit4less Highbury &#38; Islington" t="leisure" st="sports_centre"/>
+<node id="3358156632" lat="51.425199" lon="0.0947724"  n="Carlton Rd Playground" t="leisure" st="playground"/>
+<node id="3359114893" lat="51.375161" lon="-0.1023385"  n="Totstars Academy" t="leisure" st="sports_centre"/>
+<node id="3371561551" lat="51.4437442" lon="-0.0234637"  n="St Dunstans Jubilee Ground" t="leisure" st="sports_centre"/>
+<node id="3387400187" lat="51.4626065" lon="-0.1973779"  n="Riverside Quarter Leisure Centre" t="leisure" st="sports_centre"/>
+<node id="3390903172" lat="51.4948367" lon="-0.275695"  n="Virgin Active, Chiswick Park" t="leisure" st="sports_centre"/>
+<node id="3412460193" lat="51.52807" lon="-0.216575"  n="Her&#39;s Gym and Spa" t="leisure" st="fitness_centre"/>
+<node id="3455988456" lat="51.4980338" lon="-0.1404543"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="3456391971" lat="51.4662818" lon="-0.2142937"  n="Putney Public Slipway" t="leisure" st="slipway"/>
+<node id="3468345300" lat="51.509091" lon="-0.1434431"  n="Rififi Club" t="leisure" st="social_club"/>
+<node id="3495091093" lat="51.59313" lon="-0.088631"  n="Lordship Rec Model Traffic Area" t="leisure" st="playground"/>
+<node id="3532664301" lat="51.5236373" lon="0.1762646"  n="Origin" t="leisure" st="sports_centre"/>
+<node id="3553319192" lat="51.5246215" lon="-0.0903465"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="3560950600" lat="51.5180666" lon="-0.1505286"  n="thethirdspace" t="leisure" st="fitness_centre"/>
+<node id="3574484193" lat="51.523275" lon="-0.0839792"  n="BoomCycle" t="leisure" st="sports_centre"/>
+<node id="3596425484" lat="51.5117094" lon="-0.0902658"  n="Virgin Active" t="leisure" st="sports_centre"/>
+<node id="3625956647" lat="51.4162903" lon="-0.1797982"  n="Wacky Warehouse" t="leisure" st="indoor_play"/>
+<node id="3657003825" lat="51.589151" lon="-0.056903"  n="Linear Park" t="leisure" st="park"/>
+<node id="3688003145" lat="51.5139286" lon="-0.1239162"  n="Nuffield Health" t="leisure" st="sports_centre"/>
+<node id="3722170358" lat="51.5138269" lon="-0.1881465"  n="All Star Lanes" t="leisure" st="bowling_alley"/>
+<node id="3722823754" lat="51.4942659" lon="-0.1413063"  n="iFit Personal Training" t="leisure" st="sports_centre"/>
+<node id="3729864008" lat="51.5941929" lon="-0.1267113"  n="Alexandra Palace Pitch &#38; Putt" t="leisure" st="golf_course"/>
+<node id="3735134810" lat="51.5265444" lon="-0.084316"  n="Bounce" t="leisure" st="sports_centre"/>
+<node id="3741565027" lat="51.512723" lon="-0.1187295"  n="LA Fitness Waldorf" t="leisure" st="sports_centre"/>
+<node id="3749219160" lat="51.5883563" lon="0.1896805"  n="Percy&#39;s Park" t="leisure" st="picnic_table"/>
+<node id="3750958357" lat="51.4485853" lon="0.0750191"  n="Avery Hill Outdoor Gym" t="leisure" st="sports_centre"/>
+<node id="3758158913" lat="51.483163" lon="-0.0263091"  n="Richard MacVicar Adventure Playground" t="leisure" st="playground"/>
+<node id="3761407244" lat="51.4362068" lon="-0.1582775"  n="Fitness First Balham" t="leisure" st="sports_centre"/>
+<node id="3777957704" lat="51.5308272" lon="-0.1905766"  n="Better" t="leisure" st="sports_centre"/>
+<node id="3794345288" lat="51.5175023" lon="-0.0807859"  n="Fitness First Liverpool Street Platinum" t="leisure" st="sports_centre"/>
+<node id="3805599539" lat="51.4949078" lon="-0.2260117"  n="Fitness First" t="leisure" st="sports_centre"/>
+<node id="3813667443" lat="51.5256515" lon="-0.0900473"  n="Gym Box" t="leisure" st="sports_centre"/>
+<node id="3816403742" lat="51.538392" lon="-0.1169795"  n="Better" t="leisure" st="sports_centre"/>
+<node id="3817925518" lat="51.4662341" lon="-0.1497016"  n="Acacia School of Dance" t="leisure" st="dance"/>
+<node id="3837617533" lat="51.5469579" lon="-0.0074219"  n="Better Gym" t="leisure" st="sports_centre"/>
+<node id="3839921201" lat="51.5014363" lon="-0.1195416"  n="Namco Funscape" t="leisure" st="yes"/>
+<node id="3840885062" lat="51.5418756" lon="-0.1801059"  n="GTC Studio" t="leisure" st="sports_centre"/>
+<node id="3900663908" lat="51.5739617" lon="-0.1128574"  n="N4 workout" t="leisure" st="fitness_centre"/>
+<node id="3906391799" lat="51.515173" lon="-0.0797979"  n="No1 Fitness" t="leisure" st="sports_centre"/>
+<node id="3909744770" lat="51.5594021" lon="-0.0736253"  n="Muslceworks Gym" t="leisure" st="sports_centre"/>
+<node id="3933125451" lat="51.420368" lon="-0.0054871"  n="Ten-Em-Bee Sports Development Centre" t="leisure" st="sports_centre"/>
+<node id="3936798451" lat="51.5183566" lon="-0.0907248"  n="Pure Ride" t="leisure" st="sports_centre"/>
+<node id="3945034842" lat="51.4496638" lon="-0.3298671"  n="Anytime Fitness" t="leisure" st="fitness_centre"/>
+<node id="3953705945" lat="51.4656068" lon="-0.1932395"  n="Energie Fitness Clubs" t="leisure" st="sports_centre"/>
+<node id="3998968424" lat="51.5178552" lon="-0.0974636"  n="Virgin Active Health Club" t="leisure" st="sports_centre"/>
+<node id="4061331467" lat="51.515492" lon="-0.0787402"  n="Crossfit Aldgate" t="leisure" st="sports_centre"/>
+<node id="4075042399" lat="51.5185607" lon="-0.0836918"  n="1Rebel" t="leisure" st="sports_centre"/>
+<node id="4086076962" lat="51.4677578" lon="-0.0147604"  n="SilkWork Gym" t="leisure" st="sports_centre"/>
+<node id="4136266962" lat="51.5145187" lon="-0.0771143"  n="LAX Aldgate" t="leisure" st="sports_centre"/>
+<node id="4151710126" lat="51.6048587" lon="-0.0244675"  n="Jurassic Falls" t="leisure" st="miniature_golf"/>
+<node id="4161767294" lat="51.4145964" lon="-0.3656264"  n="Curves" t="leisure" st="fitness_centre"/>
+<node id="4161768923" lat="51.4145964" lon="-0.3656264"  n="Curves" t="leisure" st="fitness_centre"/>
+<node id="4167188277" lat="51.5318784" lon="-0.0422171"  n="Fighting Fit Studio" t="leisure" st="sports_centre"/>
+<node id="4170117683" lat="51.5316964" lon="0.0757879"  n="Benita Yoga" t="leisure" st="sports_centre"/>
+<node id="4173168207" lat="51.5348157" lon="0.0788625"  n="Abbey Sports Centre" t="leisure" st="sports_centre"/>
+<node id="4187125866" lat="51.444182" lon="-0.152532"  n="Casino" t="leisure" st="adult_gaming_centre"/>
+<node id="4196591202" lat="51.4853357" lon="0.0091421"  n="Greenwich Square Gym" t="leisure" st="fitness_centre"/>
+<node id="4209480093" lat="51.5070642" lon="-0.1373699"  n="Ten" t="leisure" st="sports_centre"/>
+<node id="4232000755" lat="51.4276566" lon="-0.3547863"  n="Little Gym" t="leisure" st="sports_centre"/>
+<node id="4239989410" lat="51.4764349" lon="-0.1171642"  n="The Gym" t="leisure" st="sports_centre"/>
+<node id="4242497378" lat="51.4649224" lon="-0.1720427"  n="Crossfit Shapesmiths" t="leisure" st="sports_centre"/>
+<node id="4263046639" lat="51.4092624" lon="-0.2273029"  n="Revivals" t="leisure" st="sports_centre"/>
+<node id="4265328795" lat="51.4929394" lon="-0.0606032"  n="The Arch Climbing Wall (Building One)" t="leisure" st="sports_centre"/>
+<node id="4274476003" lat="51.4858987" lon="-0.3218898"  n="Topnotch health club" t="leisure" st="sports_centre"/>

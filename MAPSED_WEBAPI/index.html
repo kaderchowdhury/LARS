@@ -1,0 +1,657 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<meta name="author" content="">
+
+		<title>mapsed.js - jQuery plug-in for Google Maps and Places API integration</title>
+
+		<!-- Bootstrap core CSS -->
+		<link href="ws/css/bootstrap.css" rel="stylesheet">
+
+		<!-- Core mapsed styles -->
+		<link href="mapsed.css" rel="stylesheet">
+
+		<!-- Add custom CSS here -->
+		<link href="ws/css/stylish-portfolio.css" rel="stylesheet">
+		<link href="ws/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+		<link href="examples/examples.css" rel="stylesheet">
+		<link href="index.css" rel="stylesheet">
+	</head>
+
+	<body>
+		<div class="leader-banner">
+			<a href="http://toepoke.co.uk?mapsed=1"><img src="ws/img/leaderboard-banner.gif" alt="Lose the faff, bring back the fun with toepoke.co.uk"></a>
+		</div>	
+
+		<!-- Side Menu -->
+		<a id="menu-toggle" href="#" class="btn btn-primary btn-lg toggle"><i class="fa fa-bars"></i></a>
+		<div id="sidebar-wrapper">
+			<ul class="sidebar-nav">
+				<a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
+				<li class="sidebar-brand"><a href="https://toepoke.co.uk?ref=mapsed1">built by toepoke.co.uk</a></li>
+				<li><a href="#top">Home</a></li>
+				<li><a href="#about">About</a></li>
+				<li><a href="#examples">Examples</a></li>
+				<li><a href="#code">Code &amp; Dependencies</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</div>
+		<!-- /Side Menu -->
+	
+		<!-- Full Page Image Header Area -->
+		<div id="top" class="header">
+			<div class="vert-text">
+				<h1>Mapsed.js!</h1>
+				<h3>Google <em>maps</em> &amp; <em>places</em> jQuery integration plug-in</h3>
+				<a href="#about" class="btn btn-default btn-lg">Find Out More</a>
+			</div>
+		</div>
+		<!-- /Full Page Image Header Area -->
+	
+		<!-- Intro -->
+		<div id="about" class="intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 text-center">
+						<h2>Google Map Picker</h2>
+						<p class="lead">
+							On <a href="https://toepoke.co.uk?ref=mapsed2">my little website</a> I need to allow users to
+							be able to <em>pick</em> somewhere to play football.
+						</p>
+						<p class="lead">
+							Couldn't really find anything that did what I was after (even
+							<a href="https://mapsengine.google.com/map/">Google Map Engine</a> 
+							didn't quite do it)
+							so I built <em>mapsed.js</em><br/>
+							(<strong>MAP</strong> <strong>S</strong>elect, <strong>E</strong>dit &amp; <strong>D</strong>elete).  
+						</p>
+						<p class="lead">
+							As well as <em>selecting</em> places, you can add/edit ones to integrate with your
+							own database; check out the examples to see what else it does.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- /Intro -->
+
+		<!-- Callout -->
+		<div class="callout">
+			<div class="vert-text">
+				<h1>Show me the <strike>money</strike> demos ...</h1>
+			</div>
+		</div>
+		<!-- /Callout -->
+
+		<!-- Examples -->
+		<div id="examples" class="portfolio">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-md-offset-4 text-center">
+						<h2>Examples</h2>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+						<div class="portfolio-item">
+							<h3 class="text-center">Loading Places</h3>
+								<p class="lead">
+									Here we're illustrating loading places from our own database,
+									and telling <em>mapsed</em> what places to draw
+									(via the <a href="https://github.com/toepoke/mapsed/blob/master/README.md#showonload-array">showOnLoad</a>
+									array).
+								</p>
+								<p class="lead">
+									The top marker stores a lookup to a <a href="https://github.com/toepoke/mapsed/blob/master/README.md#google-place">Google Place reference</a>,
+									the bottom one stores a <a href="https://github.com/toepoke/mapsed/blob/master/README.md#custom-place">custom place</a> object.
+								</p>
+								<div id="custom-places" class="small-map"></div>
+								<p class="pull-right">
+									<a class="show-code">show/hide code illustration</a>
+								</p>
+								<div class="clearfix"></div>
+								<div class="code">
+									<pre class="prettyprint lang-js">
+$("#custom-places").mapsed({
+  showOnLoad:
+  [
+    // City Varieties
+    {
+      // flag that this place should have the tooltip shown when the map is first loaded
+      autoShow: true,
+      // flags the user can edit this place
+      canEdit: false,
+      lat: 53.798823,
+      lng:-1.5426760000000286,
+      reference: "CoQBfAAAAPw-5BTCS53grSLDwX8rwo5BnWnEWnA72lmOjxdgWg2ODGfC5lLjGyoz428IEaln1vJ6rq1jI96Npzlm-N-wmPH2jdJMGfOLxno_rmgnajAnMPzNzuI8UjexIOdHVZPBPvQGloC-tRhudGeKkbdTT-IWNP5hp4DIl4XOLWuYFOVYEhBxNPxaXZdW9uhKIETXf60hGhTc9yKchnS6oO-6z5XZJkK2ekewYQ"
+    },
+    // Random made up CUSTOM place
+    {
+      // flag that this place should have the tooltip shown when the map is first loaded
+      autoShow: true,
+      lat: 53.79,
+      lng:-1.5426760000000286,
+      name: "Somewhere",
+      street: "Over the rainbow, Up high way"
+    }
+  ]
+});									
+									</pre>
+								</div>
+								<p class="lead">
+									So far, so uninteresting :oD
+								</p>
+						</div>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+						<div class="portfolio-item">
+							<h3 class="text-center">Place Picker</h3>
+							<p class="lead">
+								Ooooh, this time there's a <em>Select</em> button!
+							</p>
+							<div id="place-picker" class="small-map"></div>
+							<p class="pull-right">
+								<a class="show-code">show/hide code illustration</a>
+							</p>
+							<div class="clearfix"></div>
+							<div class="code">
+								<pre class="prettyprint lang-js">
+$("#place-picker").mapsed({
+  // allow user to select somewhere
+  onSelect: function(mapsed, details) {
+    var msg = 
+      "Name: " + details.name + 
+      "Address: " + 
+        details.street + ", " + 
+        details.town + ", " + 
+        details.area + ", " + 
+        details.postCode +
+      "website: " + details.website +
+      "g+: " + details.url +
+      "Tel: " + details.telNo						
+      ;
+		mapsed.showMsg("Place selected!", msg);
+      
+    // indicate tip should be closed
+    return true;
+  },
+  
+  showOnLoad: 
+    // City Varieties - note there's only one place here, we don't need an array
+    {
+      // flag that this place should have the tooltip shown when the map is first loaded
+      autoShow: true,
+      lat: 53.798823,
+      lng:-1.5426760000000286,
+      reference: "CoQBfAAAAPw-5BTCS53grSLDwX8rwo5BnWnEWnA72lmOjxdgWg2ODGfC5lLjGyoz428IEaln1vJ6rq1jI96Npzlm-N-wmPH2jdJMGfOLxno_rmgnajAnMPzNzuI8UjexIOdHVZPBPvQGloC-tRhudGeKkbdTT-IWNP5hp4DIl4XOLWuYFOVYEhBxNPxaXZdW9uhKIETXf60hGhTc9yKchnS6oO-6z5XZJkK2ekewYQ"
+    }
+});
+								</pre>
+							</div>
+							<p class="lead">
+								The <em>Select</em> button is turned on simply by implementing 
+								the <a href="https://github.com/toepoke/mapsed/blob/master/README.md#onselect">onSelect</a> 
+								callback.
+							</p>
+						</div>
+					</div>
+				</div>
+				<hr>
+
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+						<div class="portfolio-item">
+							<h3 class="text-center">Adding Places</h3>
+							<p class="lead">
+								Being able to <em>Select</em> places is pretty useful,
+								but a waste of time if we can't create them!
+							</p>
+							<p class="lead">
+								This time we have a new icon at the
+								top-right of the map.  Simply click <strong>+</strong> 
+								to add a new place.
+								The marker can be dragged around to refine the location.
+							</p>
+							<p class="lead">
+								There's noddy validation support too, try hitting <em>Save</em>
+								without a <strong>Name</strong> property.
+							</p>
+							<div id="add-places" class="small-map"></div>
+							<p class="pull-right">
+								<a class="show-code">show/hide code illustration</a>
+							</p>
+							<div class="clearfix"></div>
+							<div class="code">
+								<pre class="prettyprint lang-js">
+$("#add-places").mapsed({
+
+  // Adds the "+" button to the control bar at the top right of the map
+  allowAdd: true,
+  
+  // Enables edit of custom places (to your web application, not Google Maps!)
+  // ... again the presence of the callback enables the functionality
+  onSave: function(mapsed, newPlace) {
+    var missing = [];
+    
+    // detect errors starting at bottom
+    // ... we only have space for one error at a time, so this way we'll report 
+    // ... from the top down
+    if (newPlace.postCode === "") missing.push("postcode");
+    if (newPlace.street === "")   missing.push("street");
+    if (newPlace.name === "")     missing.push("name");
+    
+    // anything missing?
+    if (missing.length > 0) {
+      // return the error message so the callback doesn't progress
+      return "Required: " + missing.join();
+    }
+    
+    if (newPlace) {
+      if (newPlace.markerType == "new") {
+        // simulate a primary key being save to a db
+        newPlace.userData = parseInt(Math.random() * 100000);
+      }
+      var title = "";
+      var msg = 
+        "userData: " + newPlace.userData + 
+        "name: " + newPlace.name +
+        "street: " + newPlace.street + ", " + 
+        newPlace.area + ", " + 
+        newPlace.town + ", " + newPlace.postCode + 
+        "telNo: " + newPlace.telNo + 
+        "website: " + newPlace.website + 
+        "g+: " + newPlace.url
+      ;
+      if (newPlace.markerType == "new")
+        title = "New place added!";
+      else
+        title = "Place saved!";
+			mapsed.showMsg(title, msg);
+    }
+  
+    // indicate form was OK and saved
+    return "";
+  }
+});
+								</pre>
+							</div>
+							<p class="lead">
+								Notice once we've saved a place, we get an <em>Edit</em>
+								button to make changes.
+							</p>
+							<p class="lead">
+								Simply set the <a href="https://github.com/toepoke/mapsed/blob/master/README.md#allowadd-bool">allowAdd</a>
+								property to <strong>true</strong> to enable the icon, and an 
+								<a href="https://github.com/toepoke/mapsed/blob/master/README.md#onsave">onSave</a>
+								callback to save the new place (and subsequent edits).
+							</p>
+							
+						</div>
+					</div>
+				</div>
+				<hr>
+
+				<div class="row">
+					 <div class="col-md-10 col-md-offset-1">
+						<div class="portfolio-item">
+							<h3 class="text-center">Deleting Places</h3>
+							<p class="lead">
+								Completing our <a href="http://en.wikipedia.org/wiki/Create,_read,_update_and_delete">cruddy</a>
+								demos we can <strong>delete</strong> places too.
+							</p>
+							<div id="delete-places" class="small-map"></div>
+							<p class="pull-right">
+								<a class="show-code">show/hide code illustration</a>
+							</p>
+							<div class="clearfix"></div>
+							<div class="code">
+								<pre class="prettyprint lang-js">
+  $("#delete-places").mapsed({
+    showOnLoad: 
+    [
+      // City Varieties
+      {
+        autoShow: true,
+        canEdit: true,
+        lat: 53.798823,
+        lng:-1.5426760000000286,
+        name: "CITY Varieties Music Hall",
+        url: "https://plus.google.com/103655993956272197223/about?hl=en-GB",
+        website: "http://www.cityvarieties.co.uk/",
+        telNo: "0845 644 1881",
+        street: "Swan Street,",
+        town: "Leeds",
+        area: "West Yorkshire",
+        postCode: "LS1 6LW"
+      }
+    ],
+    
+    // Allows the user to delete a "custom" place they've previously 
+    // ... added
+    onDelete: function(mapsed, placeToDelete) {
+			mapsed.showMsg(
+        "YOUR DELETE CODE HERE",
+        "&lt;strong&gt;" + placeToDelete.name + "&lt;/strong&gt; has been removed."
+      );
+      
+      // here would be code your application to do the actual delete
+      
+      // return true to confirm it was deleted OK and remove marker from the map
+      // return false if the delete failed
+      return true;
+    },
+		
+    // Flag that we want the user to confirm the delete before we actually do it 
+    confirmDelete: true		
+  });
+								</pre>
+							</div>
+							<p class="lead">
+								Enabling <em<>deletes</em> is simply a matter of implementing the
+								<a href="https://github.com/toepoke/mapsed/blob/master/README.md#ondelete">onDelete</a>
+								callback and the <strong>Delete</strong> button will appear when appropriate.
+							</p>
+							<p class="lead">
+								You can also ask the user to 
+								<a href="https://github.com/toepoke/mapsed/blob/master/README.md#confirmdelete-bool">confirm the delete</a>							
+								before they actually do it.
+							</p>
+						</div>
+					</div>
+				</div>
+				<hr>
+
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+						<div class="portfolio-item">
+							<h3 class="text-center">Searching for Places</h3>
+							<p class="lead">
+								All this viewing and editing <em>custom</em> places
+								is nice, but a bit limiting.  &ldquo;I want to hook-up
+								into <a href="https://developers.google.com/places/documentation/">Google's places API</a>!&rdquo;
+							</p>
+							<div id="search-for-places" class="small-map"></div>
+							<p class="pull-right">
+								<a class="show-code">show/hide code illustration</a>
+							</p>
+							<div class="clearfix"></div>
+							<div class="code">
+								<pre class="prettyprint lang-js">
+$("#search-for-places").mapsed({
+  // Adds a predictive search box
+  searchOptions: {
+    enabled: true,
+    initSearch: "Football in Leeds",
+    placeholder: "Search ..."
+  },
+  
+  // allow user to select somewhere
+  onSelect: function(mapsed, details) {
+    var msg = 
+      "name: " + details.name +
+      "street: " + details.street + ", " + 
+      details.area + ", " + 
+      details.town + ", " + details.postCode + 
+      "telNo: " + details.telNo + 
+      "website: " + details.website + 
+      "g+: " + details.url
+    ;
+		mapsed.showMsg("You selected ...", msg);
+    // indicate tip should be closed
+    return true;
+  },
+  
+  // shows additional instructions to the user	
+  getHelpWindow: function(mapsed) {
+    var html = 
+      "&lt;div class='mapsed-help'&gt;" +
+        "&lt;h3&gt;Find a venue&lt;/h3&gt;" +
+        "&lt;ol&gt;" +
+          "&lt;li&gt;Simply use the &lt;strong&gt;search&lt;/strong&gt; box to find a venue in your area.&lt;/li&gt;" +
+          "&lt;li&gt;On the pop-up, click &lt;strong&gt;Select&lt;/strong&gt; to pick a pitch.&lt;/li&gt;" + 
+        "&lt;/ol&gt;" +
+        "&lt;h3&gt;New venues&lt;/h3&gt;" +
+        "&lt;ol&gt;" +
+          "&lt;li&gt;Your venue isn't displayed?  Simply click on the map where your pitch is.&lt;/li&gt;" +
+          "&lt;li&gt;Fill in the details in the dialog.&lt;/li&gt;" + 
+          "&lt;li&gt;You can drag the marker around to pinpoint the right location.&lt;/li&gt;" + 
+          "&lt;li&gt;Once you're happy, click the &lt;strong&gt;OK&lt;/strong&gt; button&lt;/li&gt;" + 
+        "&lt;/ol&gt;" +
+      "&lt;/div&gt;"
+    ;
+    return html;
+  }
+  
+});
+								</pre>
+							</div>
+							<p class="lead">
+								Searching is enabled through the <a href="https://github.com/toepoke/mapsed/blob/master/README.md#searchoptions-object">searchOptions</a>
+								object (you simply flip a flag to enable it).
+								The <strong>More</strong> button returns the 
+								<a href="https://developers.google.com/maps/documentation/javascript/places#PlaceSearchPaging">next 20 hits</a>.
+							</p>
+							<p class="lead">
+								Also notice that little <em>[?]</em> in the top-right corner of the
+								map?  This brings up a window telling your users what
+								to do, and it's <a href="https://github.com/toepoke/mapsed/blob/master/README.md#gethelpwindow-string">configurable</a> 
+								of course, and you can have it show 
+								<a href="https://github.com/toepoke/mapsed/blob/master/README.md#showhelponload-bool">straight away</a>.
+							</p>
+							<p class="lead">
+								And finally a GEO location icon (&otimes;) has been added to move the map location to that of the 
+								user's device, added simply by setting the <a href="https://github.com/toepoke/mapsed/blob/master/README.md#allowgeo-bool">allowGeo</a>
+								setting to <strong>true</strong>.
+							</p>
+						</div>
+					</div>
+				</div>
+				<hr>
+				
+			</div>
+
+		</div>
+		<!-- /Examples -->
+
+		<!-- Call to Action -->
+		<div class="call-to-action">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 text-center">
+						<h3>Bringing it all together ...</h3>
+						<p>
+							One last feature is opening a map and taking
+							over the full window, plus an illustration of adding in more
+							controls (map style picker).
+						</p>
+						<p>You'll notice a little <em>[X]</em> 
+							at the top-right corner to close it when you've finished.
+						</p>
+						<a id="show-full-window" href="#" class="btn btn-lg btn-primary">Go full!</a>
+						<br/>
+						<p>
+							... added advantage of <em>full window mode</em> is you don't even
+							need a <em>DIV</em> as a placeholder for the map!
+						</p>
+						<a href="https://github.com/toepoke/mapsed/blob/master/examples/06-full-example.js">see 06-full-example.js</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Intro -->
+		<div id="code" class="intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center">
+						<h2>Dependencies</h2>
+						<ul class="list-unstyled">
+							<li><a href="http://jquery.com/">jQuery</a> (10.2 used in development)</li>
+							<li><a href="https://developers.google.com/maps/">Google Maps API</a></li>
+							<li><a href="https://developers.google.com/places/">Google Places API (typically loaded with the Maps API)</a></li>
+						</ul>
+						<h2>Codebase</h2>
+						<p>
+							<em>Mapsed</em> was build to <a href="https://toepoke.co.uk?mapsed=2">fulfil a need</a>.
+							The code is up on <a href="https://github.com/toepoke/mapsed">Github</a>.
+							I wouldn't look ... the code's horrible, but the plug-in does the job.
+						</p>
+						<p>
+							Unlike the <a href="http://startbootstrap.com/stylish-portfolio">theme</a>
+							I've used to tell you about <em>mapsed</em> which is very nice and clearly build with love.
+						</p>
+						<h2>License</h2>
+						<p>
+							<em>Mapsed</em> is released under a &ldquo;<a href="https://jquery.org/license/">Do what you like with it</a>&rdquo; license.
+						</p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<!-- /Intro -->
+		
+		
+		<!-- Footer -->
+		<footer>
+			<div id="contact" class="container">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 text-center">
+						<ul class="list-inline">
+							<li><a href="https://github.com/toepoke/mapsed"><i class="fa fa-github fa-3x"></i></a></li>
+							<li><a href="https://twitter.com/toepoke_co_uk"><i class="fa fa-twitter fa-3x"></i></a></li>
+							<li><a href="https://plus.google.com/+ToepokeCoUk"><i class="fa fa-google-plus fa-3x"></i></a></li>
+							<li><a href="https://www.facebook.com/toepoke"><i class="fa fa-facebook fa-3x"></i></a></li>
+						</ul>
+						<div class="top-scroll">
+							<a href="#top"><i class="fa fa-circle-arrow-up scroll fa-4x"></i></a>
+						</div>
+						<hr>
+						<p>Required by <a href="https://developers.google.com/maps/documentation/localsearch/">necessity</a>, built by <a href="http://toepoke.co.uk?mapsed=3">toepoke.co.uk</a></p>
+						<p>Lovely template provided by <a href="http://startbootstrap.com/stylish-portfolio">start Bootstrap</a></p>
+						<hr>
+					</div>
+				</div>
+
+				<div class="call-to-action small">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6 col-md-offset-3 text-center">
+								<h3>Issues and Assistance</h3>
+								<p>
+									If you have any problems or questions, please raise them on <a href="https://github.com/toepoke/mapsed/issues?state=open">Github</a>.  
+									You can find all the samples on <a href="http://plnkr.co/tags/mapsed">Plunker</a> - feel free to fork one
+									for your issue.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1 text-center">
+						<div id="disqus_thread"></div>
+						<script type="text/javascript">
+						/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+							var disqus_shortname = 'mapsed'; // required: replace example with your forum shortname
+
+						/* * * DON'T EDIT BELOW THIS LINE * * */
+						(function() {
+						var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+						dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+						(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+						})();
+						</script>
+						<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+						<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+					</div>
+				</div>
+
+			</div>
+		</footer>
+		<!-- /Footer -->
+
+		<!-- Dependencies -->
+		<script src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
+		<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+		<script src="ws/js/jquery-1.10.2.js"></script>
+		<script src="ws/js/bootstrap.js"></script>
+
+		<!-- Mapsed JavaScript -->
+		<script src="mapsed.js"></script>
+		
+		<!-- Examples JavaScript -->
+		<script src="examples/01-custom-places-example.js"></script>
+		<script src="examples/02-place-picker-example.js"></script>
+		<script src="examples/03-add-places-example.js"></script>
+		<script src="examples/04-delete-places-example.js"></script>
+		<script src="examples/05-search-for-places-example.js"></script>
+		<script src="examples/06-full-example.js"></script>
+		
+		
+		
+		<!-- Custom JavaScript for the Side Menu and Smooth Scrolling -->
+		<script>
+				$("#menu-close").click(function(e) {
+						e.preventDefault();
+						$("#sidebar-wrapper").toggleClass("active");
+				});
+		</script>
+		<script>
+				$("#menu-toggle").click(function(e) {
+						e.preventDefault();
+						$("#sidebar-wrapper").toggleClass("active");
+				});
+		</script>
+		<script>
+			$(function() {
+				$('a[href*=#]:not([href=#])').click(function() {
+					if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
+						|| location.hostname == this.hostname) {
+
+						var target = $(this.hash);
+						target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+						if (target.length) {
+							$('html,body').animate({
+								scrollTop: target.offset().top
+							}, 1000);
+							return false;
+						}
+					}
+				});
+			});
+		</script>
+		<script>
+			try {
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-1524341-6', 'apphb.com');
+				ga('send', 'pageview');
+			}
+			catch (e) {
+			}
+		</script>
+		<script>
+			$(document).ready(function() {
+				$(".show-code").on("click", function() {
+					event.preventDefault();
+					$(this).parent().parent().find(".code").slideToggle("fast");
+				});
+			});
+		</script>
+	
+
+	</body>
+
+</html>

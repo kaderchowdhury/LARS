@@ -1,0 +1,507 @@
+<node id="276206775" lat="52.5137027" lon="-2.0756358"  n="JB&#39;s" t="bar" st=""/>
+<node id="314749508" lat="52.4744601" lon="-1.9153513"  n="Gatecrasher Birmingham" t="bar" st=""/>
+<node id="315463333" lat="52.474787" lon="-1.8985649"  n="Rabbean" t="bar" st=""/>
+<node id="319268747" lat="52.4746519" lon="-1.8958633"  n="Missoula" t="bar" st=""/>
+<node id="319268748" lat="52.4744137" lon="-1.8961689"  n="indi" t="bar" st=""/>
+<node id="319268749" lat="52.474853" lon="-1.8962009"  n="Sobar" t="bar" st=""/>
+<node id="319268750" lat="52.4745813" lon="-1.8965974"  n="Poppy Red" t="bar" st=""/>
+<node id="319268757" lat="52.4747011" lon="-1.8966251"  n="Arca Bar" t="bar" st=""/>
+<node id="319527821" lat="52.4724211" lon="-1.896481"  n="Club DV8" t="bar" st=""/>
+<node id="319527822" lat="52.4729828" lon="-1.8956637"  n="Equator" t="bar" st=""/>
+<node id="319539777" lat="52.4712236" lon="-1.8947707"  n="Boltz" t="bar" st=""/>
+<node id="319562865" lat="52.4745379" lon="-1.8959171"  n="Mono" t="bar" st=""/>
+<node id="319562867" lat="52.4745382" lon="-1.8965422"  n="Glee" t="bar" st=""/>
+<node id="319562870" lat="52.4746481" lon="-1.8967935"  n="Apartment 101" t="bar" st=""/>
+<node id="338534319" lat="52.4762976" lon="-1.9084902"  n="Panama Bar" t="bar" st=""/>
+<node id="338539706" lat="52.4774259" lon="-1.9109863"  n="Mooch Bar" t="bar" st=""/>
+<node id="338539707" lat="52.4773161" lon="-1.9111174"  n="Risa" t="bar" st=""/>
+<node id="411320736" lat="52.4871742" lon="-2.1150611"  n="53 Degrees" t="bar" st=""/>
+<node id="411320741" lat="52.4860657" lon="-2.1145433"  n="Maya Bar" t="bar" st=""/>
+<node id="411320743" lat="52.4857247" lon="-2.1143131"  n="Bar Edge" t="bar" st=""/>
+<node id="411320744" lat="52.4863419" lon="-2.1148237"  n="PJ&#39;s Bar" t="bar" st=""/>
+<node id="538207838" lat="52.4778817" lon="-2.0696743"  n="The Regis Banqueting &#38; Conference Centre" t="bar" st=""/>
+<node id="540662255" lat="52.5768858" lon="-2.1067245"  n="Kings Hall Banqueting Suite &#38; Conference Centre" t="bar" st=""/>
+<node id="667524022" lat="52.3787811" lon="-1.5606349"  n="Terrace Bar" t="bar" st=""/>
+<node id="900945679" lat="52.4768261" lon="-1.9143072"  n="Nuvo" t="bar" st=""/>
+<node id="973779250" lat="52.4761807" lon="-1.8967395"  n="GR" t="bar" st=""/>
+<node id="1246980394" lat="52.3783715" lon="-1.5613194"  n="The Bar" t="bar" st=""/>
+<node id="1261655663" lat="52.4766599" lon="-1.912035"  n="Players" t="bar" st=""/>
+<node id="1287877613" lat="52.4767891" lon="-1.9124773"  n="Coast to Coast" t="bar" st=""/>
+<node id="1294246028" lat="52.473224" lon="-1.8953967"  n="RSVP" t="bar" st=""/>
+<node id="1294250863" lat="52.4712205" lon="-1.8944905"  n="The Core" t="bar" st=""/>
+<node id="1297861268" lat="52.4753907" lon="-1.913733"  n="Sugar Suite" t="bar" st=""/>
+<node id="1343951487" lat="52.4822676" lon="-1.9032834"  n="Chi Bar" t="bar" st=""/>
+<node id="1371471896" lat="52.4563994" lon="-1.9365008"  n="Pritchatts Bar" t="bar" st=""/>
+<node id="1379873686" lat="52.4748638" lon="-1.9145974"  n="Mischka&#39;s" t="bar" st=""/>
+<node id="1511850947" lat="52.4908488" lon="-2.0020919"  n="Hotshots Snooker Club" t="bar" st=""/>
+<node id="1636149722" lat="52.4747828" lon="-1.8997629"  n="Jester" t="bar" st=""/>
+<node id="1640887170" lat="52.4135723" lon="-1.512314"  n="The Tin Music &#38; Arts" t="bar" st=""/>
+<node id="1699331656" lat="52.4752642" lon="-1.8971247"  n="Bambu" t="bar" st=""/>
+<node id="1744431542" lat="52.4788916" lon="-1.9028265"  n="Chameleon" t="bar" st=""/>
+<node id="1887079944" lat="52.5700454" lon="-2.1520138"  n="Pennfields Bowling and Social Club" t="bar" st=""/>
+<node id="1979407887" lat="52.4086047" lon="-1.5169595"  n="Igloo" t="bar" st=""/>
+<node id="1979408466" lat="52.4068981" lon="-1.5176569"  n="Crosbys" t="bar" st=""/>
+<node id="1987366263" lat="52.407987" lon="-1.5085569"  n="The Establishment" t="bar" st=""/>
+<node id="2069026693" lat="52.4850658" lon="-1.9045776"  n="The Jam House" t="bar" st=""/>
+<node id="2196606535" lat="52.3798124" lon="-1.5616471"  n="Warwick Arts Centre Cafe Bar" t="bar" st=""/>
+<node id="2297452715" lat="52.407142" lon="-1.5111801"  n="The Dog" t="bar" st=""/>
+<node id="2451316609" lat="52.4535946" lon="-1.7341435"  n="No. 1 Traveller Lounge" t="bar" st=""/>
+<node id="2453397157" lat="52.573733" lon="-1.9709052"  n="Walsall Cricket Club" t="bar" st=""/>
+<node id="2523807515" lat="52.4843952" lon="-1.892676"  n="Sound Bar" t="bar" st=""/>
+<node id="2535769676" lat="52.4765765" lon="-1.8990148"  n="Majestic Snooker &#38; Pool" t="bar" st=""/>
+<node id="2535904120" lat="52.4770193" lon="-1.8940877"  n="Brown&#39;s" t="bar" st=""/>
+<node id="2556578502" lat="52.4749362" lon="-1.8996757"  n="Circle Centre" t="bar" st=""/>
+<node id="2556578520" lat="52.4744333" lon="-1.896191"  n="Iguanas" t="bar" st=""/>
+<node id="2556578558" lat="52.4728668" lon="-1.8955179"  n="Sidewalk" t="bar" st=""/>
+<node id="2556578562" lat="52.473234" lon="-1.8959004"  n="The Morgue Live" t="bar" st=""/>
+<node id="2587329552" lat="52.4781296" lon="-1.9094609"  n="Bar Pravda" t="bar" st=""/>
+<node id="2587329565" lat="52.4780378" lon="-1.9100407"  n="Lloyds No. 1 Bar" t="bar" st=""/>
+<node id="2590963415" lat="52.4772692" lon="-1.9111695"  n="Berkleys Lounge" t="bar" st=""/>
+<node id="2654208933" lat="52.5858341" lon="-1.9872645"  n="Brewer&#39;s Fayre" t="bar" st=""/>
+<node id="2733766582" lat="52.4454142" lon="-1.784805"  n="Riley&#39;s Snooker" t="bar" st=""/>
+<node id="2860414444" lat="52.4715305" lon="-1.8942535"  n="Cobbs Bar" t="bar" st=""/>
+<node id="2860414461" lat="52.4726599" lon="-1.8953267"  n="Route 2" t="bar" st=""/>
+<node id="2984138516" lat="52.5859812" lon="-2.1298931"  n="Numa Bar" t="bar" st=""/>
+<node id="3225052074" lat="52.483272" lon="-1.8982862"  n="Bar Opus" t="bar" st=""/>
+<node id="3239887270" lat="52.4587305" lon="-1.9478385"  n="Benga Lounge" t="bar" st=""/>
+<node id="3319937878" lat="52.4533293" lon="-1.7330431"  n="All Bar One" t="bar" st=""/>
+<node id="3319937886" lat="52.453106" lon="-1.733518"  n="Blanc et Noir" t="bar" st=""/>
+<node id="3374036975" lat="52.4868082" lon="-2.0099082"  n="Langley Ward Conservative Club" t="bar" st=""/>
+<node id="3407012347" lat="52.4753764" lon="-1.8840572"  n="Nomad" t="bar" st=""/>
+<node id="3470525071" lat="52.4707093" lon="-1.8615014"  n="Indulge" t="bar" st=""/>
+<node id="3556690936" lat="52.4777523" lon="-1.8511013"  n="Q Club" t="bar" st=""/>
+<node id="3556690954" lat="52.4917237" lon="-1.8592072"  n="Shah Gee" t="bar" st=""/>
+<node id="3556691538" lat="52.4766392" lon="-1.8576823"  n="Paradise Snooker Club" t="bar" st=""/>
+<node id="3562350095" lat="52.4895659" lon="-1.8518346"  n="Bigshot Snooker Club" t="bar" st=""/>
+<node id="3562369470" lat="52.4888541" lon="-1.850277"  n="Khan Brothers Pool Hall" t="bar" st=""/>
+<node id="3599406900" lat="52.4452946" lon="-1.9337634"  n="Urban Village" t="bar" st=""/>
+<node id="3764951092" lat="52.4777322" lon="-1.8993355"  n="Frizzenti" t="bar" st=""/>
+<node id="4075418278" lat="52.5861734" lon="-2.1283666"  n="Slater&#39;s Wolverhampton" t="bar" st=""/>
+<node id="4075418279" lat="52.5869834" lon="-2.1261694"  n="Royal London" t="bar" st=""/>
+<node id="4100046714" lat="52.5609882" lon="-2.0601924"  n="Ale House" t="bar" st=""/>
+<node id="21593237" lat="51.5173465" lon="-0.1189566"  n="Bar Polski" t="bar" st=""/>
+<node id="26198343" lat="51.5646068" lon="-0.1053998"  n="The Silver Bullet" t="bar" st=""/>
+<node id="31452360" lat="51.4695231" lon="-0.0698846"  n="Bar Story" t="bar" st=""/>
+<node id="32544807" lat="51.5503528" lon="-0.3392639"  n="Ryan&#39;s Bar" t="bar" st=""/>
+<node id="230058460" lat="51.4640796" lon="-0.1625527"  n="Four Thieves" t="bar" st=""/>
+<node id="264513354" lat="51.5171827" lon="-0.1255515"  n="The Bowery Bar" t="bar" st=""/>
+<node id="289009571" lat="51.4792589" lon="-0.1233719"  n="Estrela" t="bar" st=""/>
+<node id="292615241" lat="51.4255562" lon="-0.2193217"  n="Hemingways" t="bar" st=""/>
+<node id="295448577" lat="51.5165838" lon="-0.1647585"  n="Alarez Bar-Restaurant" t="bar" st=""/>
+<node id="296610093" lat="51.5128956" lon="-0.0928093"  n="Apt" t="bar" st=""/>
+<node id="304687769" lat="51.5431182" lon="-0.2851586"  n="Lush" t="bar" st=""/>
+<node id="304693169" lat="51.541967" lon="-0.2975525"  n="Panthers" t="bar" st=""/>
+<node id="312158938" lat="51.5221691" lon="-0.1388177"  n="Simmons" t="bar" st=""/>
+<node id="316763576" lat="51.5153585" lon="-0.0956641"  n="Balls Brothers" t="bar" st=""/>
+<node id="323796747" lat="51.5258622" lon="-0.0835236"  n="Floripa" t="bar" st=""/>
+<node id="331362140" lat="51.5873893" lon="-0.0980581"  n="Oli&#39;s Cafe Bar" t="bar" st=""/>
+<node id="338505255" lat="51.5182205" lon="-0.1153109"  n="Davy&#39;s Wine House" t="bar" st=""/>
+<node id="339719862" lat="51.524577" lon="-0.0726744"  n="Brewdog Shoreditch" t="bar" st=""/>
+<node id="344652892" lat="51.507901" lon="-0.131531"  n="Riley&#39;s" t="bar" st=""/>
+<node id="344791681" lat="51.5612441" lon="-0.1126253"  n="Arda2" t="bar" st=""/>
+<node id="345884989" lat="51.511791" lon="-0.129588"  n="Ku Bar" t="bar" st=""/>
+<node id="345886748" lat="51.5078488" lon="-0.1241116"  n="Champagne Charlies" t="bar" st=""/>
+<node id="348357935" lat="51.5381265" lon="-0.1026881"  n="Slim Jim&#39;s Liquor Store" t="bar" st=""/>
+<node id="348605966" lat="51.5360619" lon="-0.1038983"  n="Ladybird" t="bar" st=""/>
+<node id="348812894" lat="51.5108756" lon="-0.1290453"  n="Kink" t="bar" st=""/>
+<node id="348875260" lat="51.5120252" lon="-0.1339504"  n="The Yard" t="bar" st=""/>
+<node id="349284766" lat="51.515728" lon="-0.132622"  n="Soho Square" t="bar" st=""/>
+<node id="355416909" lat="51.5185662" lon="-0.1002516"  n="Cellar Gascon" t="bar" st=""/>
+<node id="364655204" lat="51.481808" lon="-0.196587"  n="The Lazy Fox" t="bar" st=""/>
+<node id="369829177" lat="51.543172" lon="-0.1176255"  n="Ideo&#39;s" t="bar" st=""/>
+<node id="369879097" lat="51.5619117" lon="-0.0734779"  n="Kimos" t="bar" st=""/>
+<node id="369879712" lat="51.5616499" lon="-0.0735261"  n="Stokey Stop" t="bar" st=""/>
+<node id="371050910" lat="51.515471" lon="-0.126639"  n="Freud" t="bar" st=""/>
+<node id="371601279" lat="51.5268568" lon="-0.0781882"  n="Bar Kick" t="bar" st=""/>
+<node id="372516561" lat="51.5141232" lon="-0.1454459"  n="Loop" t="bar" st=""/>
+<node id="372519530" lat="51.5134461" lon="-0.1315987"  n="Ronnie Scotts Jazz Club" t="bar" st=""/>
+<node id="377500818" lat="51.5149918" lon="-0.0803276"  n="Balls Brothers" t="bar" st=""/>
+<node id="379822491" lat="51.4736108" lon="-0.1331057"  n="Shake Down Bar" t="bar" st=""/>
+<node id="379822622" lat="51.4678957" lon="-0.1445239"  n="Lost Society" t="bar" st=""/>
+<node id="381582794" lat="51.4111271" lon="-0.0251308"  n="Friction Lounge Bar" t="bar" st=""/>
+<node id="384891535" lat="51.5109448" lon="-0.1141854"  n="Walkabout" t="bar" st=""/>
+<node id="385597414" lat="51.5276711" lon="-0.0800098"  n="Troy Bar" t="bar" st=""/>
+<node id="390366617" lat="51.5359588" lon="-0.0965883"  n="Zenith Bar" t="bar" st=""/>
+<node id="390923468" lat="51.5374139" lon="-0.1405903"  n="Silk Bar" t="bar" st=""/>
+<node id="401529148" lat="51.5140094" lon="-0.1292936"  n="Salsa!" t="bar" st=""/>
+<node id="408124683" lat="51.535697" lon="-0.1904489"  n="Bar Hemia" t="bar" st=""/>
+<node id="425177250" lat="51.5332241" lon="-0.1222"  n="Lincoln Lounge" t="bar" st=""/>
+<node id="425451848" lat="51.5313188" lon="-0.1167116"  n="Meat House London" t="bar" st=""/>
+<node id="425720634" lat="51.5352086" lon="-0.1213509"  n="Rotunda" t="bar" st=""/>
+<node id="452235371" lat="51.5144598" lon="-0.1434339"  n="The Chopper Lump" t="bar" st=""/>
+<node id="452236137" lat="51.5126223" lon="-0.1455711"  n="Mews" t="bar" st=""/>
+<node id="452980469" lat="51.5028445" lon="-0.2239317"  n="BrewDog Shepherds Bush" t="bar" st=""/>
+<node id="452980474" lat="51.5024891" lon="-0.2255494"  n="Green Room" t="bar" st=""/>
+<node id="454212886" lat="51.5090309" lon="-0.1445799"  n="Babble" t="bar" st=""/>
+<node id="456245566" lat="51.5114298" lon="-0.1426963"  n="Polo Bar" t="bar" st=""/>
+<node id="456408660" lat="51.4108161" lon="-0.0251387"  n="Bridge Bar" t="bar" st=""/>
+<node id="469446860" lat="51.5211679" lon="0.0196233"  n="The Red House" t="bar" st=""/>
+<node id="469777910" lat="51.5374101" lon="-0.1455359"  n="Toasted" t="bar" st=""/>
+<node id="470247703" lat="51.5200102" lon="-0.0800422"  n="Davy&#39;s" t="bar" st=""/>
+<node id="471488497" lat="51.5127702" lon="-0.0809609"  n="Corney &#38; Barrow" t="bar" st=""/>
+<node id="478551571" lat="51.4093894" lon="-0.3083069"  n="Brown&#39;s" t="bar" st=""/>
+<node id="485261846" lat="51.5318874" lon="-0.1355664"  n="Elixir Bar" t="bar" st=""/>
+<node id="490699731" lat="51.3587882" lon="-0.2168117"  n="Claret&#39;s Wine Bar" t="bar" st=""/>
+<node id="497149330" lat="51.5178386" lon="-0.1356966"  n="Nordic Bar" t="bar" st=""/>
+<node id="520235585" lat="51.5305284" lon="-0.1198026"  n="6 St Chad&#39;s Place" t="bar" st=""/>
+<node id="528136420" lat="51.5807242" lon="-0.1245705"  n="Kiss the Sky" t="bar" st=""/>
+<node id="534961998" lat="51.5041995" lon="-0.0935508"  n="The Boot And Flogger Wine Bar" t="bar" st=""/>
+<node id="534993842" lat="51.5153397" lon="-0.1224929"  n="Guanabara" t="bar" st=""/>
+<node id="537769564" lat="51.5192167" lon="-0.1034438"  n="Beduin" t="bar" st=""/>
+<node id="546305120" lat="51.542991" lon="-0.1037691"  n="Public House" t="bar" st=""/>
+<node id="548866030" lat="51.5709117" lon="-0.2946193"  n="Rickshaw London" t="bar" st=""/>
+<node id="551435125" lat="51.4985675" lon="-0.3031925"  n="West 5" t="bar" st=""/>
+<node id="566357928" lat="51.512359" lon="-0.133217"  n="The Friendly Society" t="bar" st=""/>
+<node id="567930992" lat="51.5116122" lon="-0.1229418"  n="Print Room" t="bar" st=""/>
+<node id="582929620" lat="51.5333594" lon="-0.4737155"  n="Loccos" t="bar" st=""/>
+<node id="583330036" lat="51.4652046" lon="-0.2146873"  n="Be At One" t="bar" st=""/>
+<node id="583330037" lat="51.4651549" lon="-0.2147187"  n="The Toy Shop" t="bar" st=""/>
+<node id="583330039" lat="51.465664" lon="-0.2144499"  n="Wahoo Sports Bar &#38; Grill" t="bar" st=""/>
+<node id="583344668" lat="51.4017468" lon="0.0149441"  n="Ivory Lounge" t="bar" st=""/>
+<node id="587741450" lat="51.5041555" lon="-0.105828"  n="Jack&#39;s" t="bar" st=""/>
+<node id="587754668" lat="51.5010525" lon="-0.1119501"  n="Lounge 34" t="bar" st=""/>
+<node id="587768035" lat="51.5012906" lon="-0.1158882"  n="Spectrum" t="bar" st=""/>
+<node id="588512651" lat="51.5020571" lon="-0.1095279"  n="Pit Bar" t="bar" st=""/>
+<node id="592642006" lat="51.510472" lon="-0.0870841"  n="Dizzy&#39;s" t="bar" st=""/>
+<node id="595696911" lat="51.509311" lon="-0.125677"  n="Barrafina" t="bar" st=""/>
+<node id="616235574" lat="51.455955" lon="-0.036568"  n="Jam Circus" t="bar" st=""/>
+<node id="639114112" lat="51.513184" lon="-0.13095"  n="Bar Soho" t="bar" st=""/>
+<node id="639184315" lat="51.508902" lon="-0.130126"  n="Gravity" t="bar" st=""/>
+<node id="641295518" lat="51.4849414" lon="-0.2197895"  n="Southern Belle" t="bar" st=""/>
+<node id="650712834" lat="51.5135406" lon="-0.0829611"  n="Revolution" t="bar" st=""/>
+<node id="651030613" lat="51.5048046" lon="-0.0827351"  n="More Bar &#38; Brasserie" t="bar" st=""/>
+<node id="652828891" lat="51.504248" lon="-0.2195445"  n="Ginglik Club" t="bar" st=""/>
+<node id="653956137" lat="51.5224247" lon="-0.1037538"  n="The Fourteenth" t="bar" st=""/>
+<node id="658951692" lat="51.5514267" lon="-0.0752382"  n="Bar 23" t="bar" st=""/>
+<node id="658958403" lat="51.554433" lon="-0.0749119"  n="Scenario Bar" t="bar" st=""/>
+<node id="658958431" lat="51.5563654" lon="-0.074647"  n="Bar a bar" t="bar" st=""/>
+<node id="661145403" lat="51.518014" lon="-0.1426532"  n="The Heights" t="bar" st=""/>
+<node id="661280195" lat="51.51754" lon="-0.137154"  n="Long Bar" t="bar" st=""/>
+<node id="663260803" lat="51.515545" lon="-0.120776"  n="Sway" t="bar" st=""/>
+<node id="666475908" lat="51.5135167" lon="-0.0938786"  n="The Fine Line" t="bar" st=""/>
+<node id="666755080" lat="51.51367" lon="-0.070783"  n="The Zeppelin Shelter" t="bar" st=""/>
+<node id="666918952" lat="51.5118709" lon="-0.0756786"  n="Mary Janes" t="bar" st=""/>
+<node id="666920103" lat="51.512367" lon="-0.0754101"  n="Abbey" t="bar" st=""/>
+<node id="675938370" lat="51.5088286" lon="-0.1358278"  n="5th View" t="bar" st=""/>
+<node id="679823648" lat="51.4607034" lon="-0.1674054"  n="BeAtOne" t="bar" st=""/>
+<node id="691114548" lat="51.5182986" lon="-0.1407528"  n="The Riding House Cafe" t="bar" st=""/>
+<node id="692190799" lat="51.5137002" lon="-0.1300597"  n="Lab" t="bar" st=""/>
+<node id="694158855" lat="51.511972" lon="-0.076207"  n="The Emporer" t="bar" st=""/>
+<node id="694471966" lat="51.511608" lon="-0.076692"  n="Charlie&#39;s" t="bar" st=""/>
+<node id="694474726" lat="51.510773" lon="-0.076834"  n="Isis" t="bar" st=""/>
+<node id="696926983" lat="51.51068" lon="-0.080093"  n="Ruskin&#39;s" t="bar" st=""/>
+<node id="699785449" lat="51.5165793" lon="-0.1326737"  n="The Bar" t="bar" st=""/>
+<node id="701608598" lat="51.512785" lon="-0.1367616"  n="Alphabet" t="bar" st=""/>
+<node id="703362527" lat="51.51743" lon="-0.118339"  n="The Bar At Chancery Court" t="bar" st=""/>
+<node id="734468159" lat="51.5082177" lon="-0.0803107"  n="Sugar Quay" t="bar" st=""/>
+<node id="746614966" lat="51.514796" lon="-0.124808"  n="The Hospital Club" t="bar" st=""/>
+<node id="748074700" lat="51.513466" lon="-0.100932"  n="Davys Wine Bar" t="bar" st=""/>
+<node id="752177862" lat="51.52603" lon="-0.0799005"  n="Strongroom" t="bar" st=""/>
+<node id="761830979" lat="51.5126389" lon="-0.1082695"  n="Jamies" t="bar" st=""/>
+<node id="766467561" lat="51.5133275" lon="-0.1018443"  n="Patch" t="bar" st=""/>
+<node id="772052353" lat="51.4811044" lon="-0.1993362"  n="Sugar hut" t="bar" st=""/>
+<node id="775502768" lat="51.5428929" lon="-0.0555429"  n="Heart of Hackney" t="bar" st=""/>
+<node id="796931869" lat="51.5126831" lon="-0.0827842"  n="Corney &#38; Barrow" t="bar" st=""/>
+<node id="799284828" lat="51.5142658" lon="-0.1396564"  n="22 below" t="bar" st=""/>
+<node id="815265120" lat="51.5364905" lon="-0.1010422"  n="69 Colebrooke Row" t="bar" st=""/>
+<node id="821344037" lat="51.5107087" lon="-0.1241523"  n="All Bar One" t="bar" st=""/>
+<node id="821344055" lat="51.5108312" lon="-0.1247818"  n="Adventure Bar" t="bar" st=""/>
+<node id="821921254" lat="51.5021076" lon="-0.1103662"  n="Da Vinci&#39;s" t="bar" st=""/>
+<node id="821930893" lat="51.5244555" lon="-0.1279556"  n="Jacques Wine Bar" t="bar" st=""/>
+<node id="849731685" lat="51.5076753" lon="-0.124379"  n="The Players" t="bar" st=""/>
+<node id="854973527" lat="51.515355" lon="-0.075473"  n="Luna" t="bar" st=""/>
+<node id="855066534" lat="51.515305" lon="-0.076696"  n="La Piazetta" t="bar" st=""/>
+<node id="858433342" lat="51.517434" lon="-0.073544"  n="Drop East" t="bar" st=""/>
+<node id="899035537" lat="51.511154" lon="-0.076019"  n="Revolution" t="bar" st=""/>
+<node id="931625768" lat="51.5396138" lon="-0.143941"  n="Out on the Floor" t="bar" st=""/>
+<node id="931625776" lat="51.539713" lon="-0.1436452"  n="Gansa" t="bar" st=""/>
+<node id="931625778" lat="51.5397059" lon="-0.143672"  n="Uno" t="bar" st=""/>
+<node id="931625780" lat="51.5396925" lon="-0.1437122"  n="Vinyi" t="bar" st=""/>
+<node id="931631872" lat="51.5395402" lon="-0.1441533"  n="Iensai" t="bar" st=""/>
+<node id="931649005" lat="51.5515489" lon="-0.1412462"  n="Kentish Delight Wine Bar" t="bar" st=""/>
+<node id="931652865" lat="51.5432424" lon="-0.1488774"  n="Motas" t="bar" st=""/>
+<node id="931652897" lat="51.5431794" lon="-0.1489069"  n="Spiritual" t="bar" st=""/>
+<node id="938138467" lat="51.5271226" lon="-0.0580247"  n="La Forchetta" t="bar" st=""/>
+<node id="947338311" lat="51.5135587" lon="-0.2277443"  n="Davy&#39;s Wine Bar" t="bar" st=""/>
+<node id="954731754" lat="51.576708" lon="0.065921"  n="Red Corner" t="bar" st=""/>
+<node id="963510001" lat="51.5059419" lon="-0.0917245"  n="Wine Wharf" t="bar" st=""/>
+<node id="968771158" lat="51.5112577" lon="-0.1229441"  n="Henry&#39;s" t="bar" st=""/>
+<node id="968780398" lat="51.5118304" lon="-0.124251"  n="Palmcourt brasserie" t="bar" st=""/>
+<node id="1039290554" lat="51.5170851" lon="-0.0805763"  n="Dirty Martini" t="bar" st=""/>
+<node id="1100604243" lat="51.3623107" lon="-0.1917676"  n="Chicago Rock Cafe" t="bar" st=""/>
+<node id="1100604260" lat="51.3598845" lon="-0.1917881"  n="Revolution" t="bar" st=""/>
+<node id="1103275895" lat="51.4806333" lon="-0.1139987"  n="The Oval Lounge" t="bar" st=""/>
+<node id="1110892586" lat="51.4429452" lon="-0.1489901"  n="Adventure" t="bar" st=""/>
+<node id="1110892593" lat="51.4432996" lon="-0.151447"  n="Exhibit" t="bar" st=""/>
+<node id="1110994663" lat="51.4622866" lon="-0.1373096"  n="Bison &#38; Bird" t="bar" st=""/>
+<node id="1110994698" lat="51.4626987" lon="-0.1359301"  n="Inferno" t="bar" st=""/>
+<node id="1111062141" lat="51.4639211" lon="-0.1326672"  n="Kazbar" t="bar" st=""/>
+<node id="1111062153" lat="51.4641443" lon="-0.1320888"  n="Rinky Dink" t="bar" st=""/>
+<node id="1112173685" lat="51.4647613" lon="-0.1592463"  n="The Lavender" t="bar" st=""/>
+<node id="1112173743" lat="51.4641622" lon="-0.1631679"  n="Sugar Cane Bar" t="bar" st=""/>
+<node id="1112173745" lat="51.4641929" lon="-0.1628109"  n="Bar Social" t="bar" st=""/>
+<node id="1112173815" lat="51.4637422" lon="-0.1682895"  n="The Slug &#38; Lettuce" t="bar" st=""/>
+<node id="1112173831" lat="51.464037" lon="-0.1676357"  n="Revolution" t="bar" st=""/>
+<node id="1112173871" lat="51.4631057" lon="-0.1694453"  n="Clapham Grand" t="bar" st=""/>
+<node id="1112205258" lat="51.4660347" lon="-0.1527746"  n="Mishmash" t="bar" st=""/>
+<node id="1112279181" lat="51.4595785" lon="-0.1666808"  n="All Bar One" t="bar" st=""/>
+<node id="1112279196" lat="51.459035" lon="-0.1660946"  n="The Holy Drinker" t="bar" st=""/>
+<node id="1112279217" lat="51.4608686" lon="-0.1629322"  n="Brewdog" t="bar" st=""/>
+<node id="1112279241" lat="51.4604207" lon="-0.1666379"  n="Babel" t="bar" st=""/>
+<node id="1112295730" lat="51.4606347" lon="-0.1677988"  n="Adventure Bar" t="bar" st=""/>
+<node id="1129680498" lat="51.361454" lon="-0.193087"  n="Wonderland" t="bar" st=""/>
+<node id="1164110889" lat="51.5222905" lon="-0.0868419"  n="Singer Tavern" t="bar" st=""/>
+<node id="1230966452" lat="51.4972113" lon="-0.1412386"  n="Browns bar and brasserie" t="bar" st=""/>
+<node id="1235254621" lat="51.5105937" lon="-0.1373278"  n="The Warwick" t="bar" st=""/>
+<node id="1242549284" lat="51.5518304" lon="-0.1412195"  n="Ladies and Gentlemen" t="bar" st=""/>
+<node id="1251663447" lat="51.5238982" lon="-0.1283084"  n="Bloomsbury Lanes" t="bar" st=""/>
+<node id="1252535365" lat="51.4609649" lon="-0.1651402"  n="Frieda B&#39;s" t="bar" st=""/>
+<node id="1263373873" lat="51.3954125" lon="0.1404583"  n="Jubilee Bar" t="bar" st=""/>
+<node id="1265087042" lat="51.5170244" lon="-0.1417238"  n="The Aviary Bar" t="bar" st=""/>
+<node id="1280271962" lat="51.4941632" lon="-0.1366277"  n="Rochester Wine Bar" t="bar" st=""/>
+<node id="1296827402" lat="51.4269324" lon="-0.1667623"  n="Graveney and Meadow" t="bar" st=""/>
+<node id="1314925438" lat="51.4537195" lon="-0.146493"  n="Gigalum" t="bar" st=""/>
+<node id="1314925484" lat="51.456217" lon="-0.1438869"  n="Firefly" t="bar" st=""/>
+<node id="1319499739" lat="51.5775171" lon="-0.3986165"  n="Champers" t="bar" st=""/>
+<node id="1319513716" lat="51.5783023" lon="-0.3990229"  n="RE Bar" t="bar" st=""/>
+<node id="1321975568" lat="51.5425302" lon="0.0006398"  n="Theatre Royal Bar" t="bar" st=""/>
+<node id="1360505700" lat="51.4939212" lon="-0.1824265"  n="Olives Bar" t="bar" st=""/>
+<node id="1368247051" lat="51.4839487" lon="-0.1772156"  n="Eight Over Eight" t="bar" st=""/>
+<node id="1368258354" lat="51.4855081" lon="-0.1738201"  n="JuJu" t="bar" st=""/>
+<node id="1374255594" lat="51.4739554" lon="-0.207085"  n="The Fulham Wine Rooms" t="bar" st=""/>
+<node id="1374259772" lat="51.4803347" lon="-0.1983538"  n="The Slug" t="bar" st=""/>
+<node id="1375172419" lat="51.4751183" lon="-0.2063771"  n="Manson" t="bar" st=""/>
+<node id="1376881308" lat="51.6567743" lon="-0.2020638"  n="The Reks" t="bar" st=""/>
+<node id="1389431871" lat="51.4774895" lon="-0.0148042"  n="Davys" t="bar" st=""/>
+<node id="1419238401" lat="51.5005004" lon="-0.189291"  n="Kensington Square Kitchen" t="bar" st=""/>
+<node id="1427488527" lat="51.5372374" lon="-0.1457438"  n="Green Note" t="bar" st=""/>
+<node id="1433216639" lat="51.5046995" lon="-0.0871997"  n="All Bar One" t="bar" st=""/>
+<node id="1448838369" lat="51.5220074" lon="-0.1354632"  n="TCR Lounge Bar" t="bar" st=""/>
+<node id="1449441689" lat="51.5433186" lon="-0.0059303"  n="Zumo" t="bar" st=""/>
+<node id="1489585778" lat="51.5790642" lon="-0.3337638"  n="Trinity" t="bar" st=""/>
+<node id="1574814548" lat="51.5114477" lon="-0.0431028"  n="Courtyard of Cable Street Studios" t="bar" st=""/>
+<node id="1601832269" lat="51.5199788" lon="-0.1011867"  n="Gaucho" t="bar" st=""/>
+<node id="1620855355" lat="51.5150941" lon="-0.1570285"  n="The Churchill Bar" t="bar" st=""/>
+<node id="1654412746" lat="51.5207048" lon="-0.0978544"  n="Indulgence Bar &#38; Grill" t="bar" st=""/>
+<node id="1656384035" lat="51.474592" lon="-0.0363029"  n="Student Union Bar" t="bar" st=""/>
+<node id="1658382438" lat="51.43725" lon="-0.1271528"  n="Mint" t="bar" st=""/>
+<node id="1662542806" lat="51.5003631" lon="-0.0848347"  n="the Leather Exchange" t="bar" st=""/>
+<node id="1662606928" lat="51.5059247" lon="-0.0996621"  n="The Refinery" t="bar" st=""/>
+<node id="1669491400" lat="51.5205044" lon="-0.098053"  n="Neo" t="bar" st=""/>
+<node id="1671187231" lat="51.5129769" lon="-0.182498"  n="No 31 Lounge Bar" t="bar" st=""/>
+<node id="1675589404" lat="51.4755043" lon="-0.0368604"  n="THe New Cross House" t="bar" st=""/>
+<node id="1684709914" lat="51.5163243" lon="-0.0940154"  n="Cape" t="bar" st=""/>
+<node id="1686330171" lat="51.4758187" lon="-0.0365582"  n="The Venue" t="bar" st=""/>
+<node id="1686457367" lat="51.4752153" lon="-0.0351716"  n="Night Spot" t="bar" st=""/>
+<node id="1686470730" lat="51.4745579" lon="-0.0362277"  n="Club Sandwich" t="bar" st=""/>
+<node id="1689387894" lat="51.5102938" lon="-0.0834471"  n="Jamie&#39;s Wine Bar &#38; Restaurant" t="bar" st=""/>
+<node id="1689387895" lat="51.5103011" lon="-0.0846475"  n="Steam Wine Bar" t="bar" st=""/>
+<node id="1689475289" lat="51.5111093" lon="-0.0793864"  n="Gilt" t="bar" st=""/>
+<node id="1695378571" lat="51.5163282" lon="-0.0808141"  n="The Drift Bar" t="bar" st=""/>
+<node id="1708682030" lat="51.5014806" lon="-0.018934"  n="Hazev" t="bar" st=""/>
+<node id="1718233820" lat="51.5146398" lon="-0.0916993"  n="Harry&#39;s Bar" t="bar" st=""/>
+<node id="1735320598" lat="51.5027163" lon="0.0032613"  n="Stella Artois Bar" t="bar" st=""/>
+<node id="1735320599" lat="51.5026411" lon="0.0031728"  n="Beck&#39;s Vier Bar" t="bar" st=""/>
+<node id="1735320602" lat="51.5026762" lon="0.0025049"  n="Beck&#39;s Vier Bar" t="bar" st=""/>
+<node id="1735320604" lat="51.5032338" lon="0.0032318"  n="Beck&#39;s Vier Bar" t="bar" st=""/>
+<node id="1737829083" lat="51.4529621" lon="-0.1910743"  n="GJ&#39;s bar" t="bar" st=""/>
+<node id="1751837991" lat="51.5469365" lon="-0.2035586"  n="366" t="bar" st=""/>
+<node id="1754142781" lat="51.5135309" lon="-0.1053049"  n="The Press House" t="bar" st=""/>
+<node id="1769294100" lat="51.5091099" lon="-0.0897444"  n="The Oyster Shed" t="bar" st=""/>
+<node id="1773750316" lat="51.4983868" lon="-0.1357967"  n="Tapsters" t="bar" st=""/>
+<node id="1779091997" lat="51.510124" lon="-0.0903711"  n="Loose Cannon Bar" t="bar" st=""/>
+<node id="1781715095" lat="51.4359332" lon="-0.1599027"  n="Honey &#38; Venom" t="bar" st=""/>
+<node id="1804468526" lat="51.3730256" lon="-0.1004823"  n="The Milan Bar" t="bar" st=""/>
+<node id="1804468527" lat="51.3731498" lon="-0.1004936"  n="Tiger Tiger" t="bar" st=""/>
+<node id="1852985416" lat="51.4034588" lon="-0.2565095"  n="Bar Malden" t="bar" st=""/>
+<node id="1895129841" lat="51.5119785" lon="-0.1368642"  n="Graphic Bar" t="bar" st=""/>
+<node id="1902267378" lat="51.4945758" lon="-0.2312698"  n="Secrets Hammersmith" t="bar" st=""/>
+<node id="1903127186" lat="51.4803616" lon="-0.1851071"  n="Rumi" t="bar" st=""/>
+<node id="1936274782" lat="51.494678" lon="-0.131481"  n="The Loose Box" t="bar" st=""/>
+<node id="1949536810" lat="51.5924964" lon="0.0269453"  n="Red Mantra" t="bar" st=""/>
+<node id="1956516406" lat="51.5706288" lon="-0.3398221"  n="Blues Restaurant &#38; Bar" t="bar" st=""/>
+<node id="1963417781" lat="51.4196057" lon="-0.2057528"  n="Suburban" t="bar" st=""/>
+<node id="1963875541" lat="51.5271018" lon="-0.0781998"  n="The Corner Shop" t="bar" st=""/>
+<node id="1973224803" lat="51.5067986" lon="0.0683628"  n="Aqua East - Student Union Bar" t="bar" st=""/>
+<node id="1973224858" lat="51.5078637" lon="0.0643449"  n="Students&#39; Union Underground Bar" t="bar" st=""/>
+<node id="1975218563" lat="51.5945249" lon="0.0239555"  n="Lizard Lounge" t="bar" st=""/>
+<node id="1985574418" lat="51.5050283" lon="-0.0188279"  n="Parlour" t="bar" st=""/>
+<node id="1998691296" lat="51.3618698" lon="-0.1925462"  n="Bar 67" t="bar" st=""/>
+<node id="1998691300" lat="51.3609135" lon="-0.1921674"  n="Ivory Lounge" t="bar" st=""/>
+<node id="2007363135" lat="51.514285" lon="-0.1321344"  n="Circa" t="bar" st=""/>
+<node id="2019120092" lat="51.5276883" lon="-0.0837032"  n="Charlie Writes International" t="bar" st=""/>
+<node id="2036576895" lat="51.5157481" lon="-0.30207"  n="2nv" t="bar" st=""/>
+<node id="2060616134" lat="51.505475" lon="-0.2246616"  n="The Albertine" t="bar" st=""/>
+<node id="2068080583" lat="51.5898793" lon="-0.016444"  n="Arubar Lounge" t="bar" st=""/>
+<node id="2070674723" lat="51.4199264" lon="-0.0803482"  n="The Crows Nest Bar" t="bar" st=""/>
+<node id="2080592566" lat="51.4946586" lon="-0.1868806"  n="CheckMate" t="bar" st=""/>
+<node id="2103297804" lat="51.3725691" lon="-0.1004971"  n="Dice" t="bar" st=""/>
+<node id="2103297906" lat="51.3726001" lon="-0.1004868"  n="Twilight" t="bar" st=""/>
+<node id="2118622430" lat="51.5177374" lon="-0.0968215"  n="London Wall Bar and Kitchen" t="bar" st=""/>
+<node id="2124574348" lat="51.4546212" lon="-0.0371099"  n="Mr Lawrence Wine Bar" t="bar" st=""/>
+<node id="2148897828" lat="51.5015603" lon="-0.1617557"  n="The Buddha Bar" t="bar" st=""/>
+<node id="2208150035" lat="51.5337144" lon="-0.1069716"  n="&#39;Round Midnight Jazz and Blues Bar" t="bar" st=""/>
+<node id="2244795347" lat="51.4632606" lon="-0.13326"  n="The Loft" t="bar" st=""/>
+<node id="2252043080" lat="51.5838166" lon="-0.0082602"  n="Mother&#39;s Ruin Gin Factory" t="bar" st=""/>
+<node id="2261568916" lat="51.4238566" lon="-0.1725143"  n="The Manor Bar &#38; Grill" t="bar" st=""/>
+<node id="2294709596" lat="51.5553515" lon="-0.3370624"  n="Gerry Mac&#39;s Irish Bar" t="bar" st=""/>
+<node id="2299920902" lat="51.5682617" lon="0.0101312"  n="Luna Lounge" t="bar" st=""/>
+<node id="2331622305" lat="51.5246216" lon="-0.07258"  n="Underdog" t="bar" st=""/>
+<node id="2343155744" lat="51.5195586" lon="-0.1796533"  n="The Union Bar &#38; Grill" t="bar" st=""/>
+<node id="2343155745" lat="51.5191403" lon="-0.1789423"  n="Smiths Bar and Grill" t="bar" st=""/>
+<node id="2343903783" lat="51.5047863" lon="-0.1133151"  n="Yog" t="bar" st=""/>
+<node id="2346247895" lat="51.4901682" lon="-0.1909867"  n="Mango Lounge" t="bar" st=""/>
+<node id="2357363018" lat="51.4447145" lon="-0.1509999"  n="Lost &#38; Found Bar" t="bar" st=""/>
+<node id="2359033039" lat="51.3449686" lon="-0.1045234"  n="Big Slick Club" t="bar" st=""/>
+<node id="2366231797" lat="51.4935762" lon="-0.2241065"  n="be at one" t="bar" st=""/>
+<node id="2386586656" lat="51.5158896" lon="-0.0894555"  n="The Cellar" t="bar" st=""/>
+<node id="2386591474" lat="51.5156828" lon="-0.0904706"  n="Corney &#38; Barrow" t="bar" st=""/>
+<node id="2461438271" lat="51.4203336" lon="-0.2063058"  n="Bertie&#39;s Bar" t="bar" st=""/>
+<node id="2476365293" lat="51.5064723" lon="0.0173897"  n="The Oiler" t="bar" st=""/>
+<node id="2476984665" lat="51.5310789" lon="-0.1208228"  n="The Flying Scotsman" t="bar" st=""/>
+<node id="2492718707" lat="51.5189226" lon="-0.1705643"  n="Grand Union" t="bar" st=""/>
+<node id="2496846936" lat="51.346574" lon="-0.0420901"  n="The Forum" t="bar" st=""/>
+<node id="2501843518" lat="51.4608859" lon="-0.1626492"  n="Loungin" t="bar" st=""/>
+<node id="2501851387" lat="51.4611265" lon="-0.1384771"  n="Honky Tonk" t="bar" st=""/>
+<node id="2517463831" lat="51.5701438" lon="-0.2944576"  n="Club 182" t="bar" st=""/>
+<node id="2520452019" lat="51.5175843" lon="-0.1341857"  n="Jerusalem Bar &#38; Kitchen" t="bar" st=""/>
+<node id="2553965483" lat="51.5144775" lon="-0.1434177"  n="Dirty Martini" t="bar" st=""/>
+<node id="2558617434" lat="51.5184348" lon="-0.1544704"  n="Purl" t="bar" st=""/>
+<node id="2559609959" lat="51.5115201" lon="-0.1337968"  n="Archer Street" t="bar" st=""/>
+<node id="2573598074" lat="51.5189729" lon="-0.136459"  n="The London Cocktail Club" t="bar" st=""/>
+<node id="2604725263" lat="51.5622733" lon="-0.0762327"  n="Moustache Bar" t="bar" st=""/>
+<node id="2625208550" lat="51.6326823" lon="-0.1289146"  n="Southgate Club" t="bar" st=""/>
+<node id="2625945295" lat="51.4963074" lon="-0.1358689"  n="Greencoat Boy" t="bar" st=""/>
+<node id="2626207035" lat="51.5286112" lon="-0.1433735"  n="SKYLINE fresh food" t="bar" st=""/>
+<node id="2627107099" lat="51.3621797" lon="-0.1922603"  n="New York New York" t="bar" st=""/>
+<node id="2632761630" lat="51.519909" lon="-0.0793085"  n="All Bar One" t="bar" st=""/>
+<node id="2645677328" lat="51.4247368" lon="-0.1635566"  n="The Little Bar" t="bar" st=""/>
+<node id="2652399072" lat="51.4568373" lon="-0.0142552"  n="The Fox &#38; Firkin" t="bar" st=""/>
+<node id="2663943027" lat="51.5190465" lon="-0.0900083"  n="Corney &#38; Barrow" t="bar" st=""/>
+<node id="2664108831" lat="51.486311" lon="-0.119304"  n="Eagle London" t="bar" st=""/>
+<node id="2686818516" lat="51.487631" lon="-0.122749"  n="Pico Bar" t="bar" st=""/>
+<node id="2686831352" lat="51.4883499" lon="-0.1226612"  n="Ashtar" t="bar" st=""/>
+<node id="2686843329" lat="51.487298" lon="-0.122843"  n="Embankment Bar" t="bar" st=""/>
+<node id="2714325413" lat="51.4797782" lon="-0.1684617"  n="Doodle Bar" t="bar" st=""/>
+<node id="2716322305" lat="51.4657258" lon="-0.2144497"  n="Munki" t="bar" st=""/>
+<node id="2733558748" lat="51.5697301" lon="0.1252891"  n="Neuvo Bar &#38; Grill" t="bar" st=""/>
+<node id="2736321581" lat="51.4863778" lon="-0.1115604"  n="South London Pacific" t="bar" st=""/>
+<node id="2737653447" lat="51.5111068" lon="-0.0858836"  n="Folly" t="bar" st=""/>
+<node id="2737935558" lat="51.5184572" lon="-0.0741531"  n="Blessings" t="bar" st=""/>
+<node id="2749842102" lat="51.5145487" lon="-0.1114035"  n="Bar Anis" t="bar" st=""/>
+<node id="2766493522" lat="51.5219211" lon="-0.1406555"  n="Jetlag Bar" t="bar" st=""/>
+<node id="2766493528" lat="51.5238136" lon="-0.1449335"  n="Ishbar" t="bar" st=""/>
+<node id="2782322520" lat="51.5208325" lon="-0.1419965"  n="The Lucky Pig" t="bar" st=""/>
+<node id="2783857128" lat="51.5113749" lon="-0.071961"  n="Vout-O-Reeneés" t="bar" st=""/>
+<node id="2790237846" lat="51.4740301" lon="-0.0901699"  n="Communion" t="bar" st=""/>
+<node id="2800561600" lat="51.4955876" lon="-0.2751754"  n="Union Chiswick" t="bar" st=""/>
+<node id="2842926233" lat="51.5077081" lon="-0.1371205"  n="Directors Lodge Club" t="bar" st=""/>
+<node id="2877480458" lat="51.5140465" lon="-0.1329631"  n="Zenna" t="bar" st=""/>
+<node id="2878409925" lat="51.5508664" lon="-0.1096571"  n="Zubi Bar &#38; Lounge" t="bar" st=""/>
+<node id="2905885501" lat="51.511002" lon="-0.134172"  n="Grace" t="bar" st=""/>
+<node id="2916237763" lat="51.5117918" lon="-0.1187974"  n="Radio Rooftop Bar" t="bar" st=""/>
+<node id="2917627046" lat="51.517346" lon="-0.0808019"  n="Champagne Bar" t="bar" st=""/>
+<node id="2917627047" lat="51.5173227" lon="-0.0808609"  n="Catch Lounge" t="bar" st=""/>
+<node id="2922043802" lat="51.5377804" lon="-0.0212524"  n="The Cygnet" t="bar" st=""/>
+<node id="2935383885" lat="51.51071" lon="-0.0816753"  n="Davy’s at Plantation Place" t="bar" st=""/>
+<node id="2945792753" lat="51.5135721" lon="-0.0808723"  n="The President&#39;s Bar" t="bar" st=""/>
+<node id="2952462958" lat="51.5154674" lon="-0.1489408"  n="Sophisticats" t="bar" st=""/>
+<node id="2957167676" lat="51.5599719" lon="-0.0135625"  n="Leyton Orient Supporters Club" t="bar" st=""/>
+<node id="2961946211" lat="51.4974984" lon="-0.1367852"  n="All Bar One" t="bar" st=""/>
+<node id="2971461755" lat="51.520688" lon="-0.116982"  n="Coco Momo" t="bar" st=""/>
+<node id="2979737106" lat="51.5207829" lon="-0.0791426"  n="Rocket" t="bar" st=""/>
+<node id="2993795433" lat="51.51661" lon="-0.133093"  n="Roxy" t="bar" st=""/>
+<node id="3006497038" lat="51.5163318" lon="-0.172049"  n="CADS Sports Bar" t="bar" st=""/>
+<node id="3010451545" lat="51.5309535" lon="-0.0721432"  n="Sager + Wilde" t="bar" st=""/>
+<node id="3012445338" lat="51.6549889" lon="-0.2019927"  n="Barnet Snooker Lounge" t="bar" st=""/>
+<node id="3014236564" lat="51.5170285" lon="-0.0786661"  n="Anise" t="bar" st=""/>
+<node id="3050203354" lat="51.4642621" lon="-0.1317975"  n="Adventure Bar" t="bar" st=""/>
+<node id="3058770654" lat="51.511837" lon="-0.13856"  n="Gem" t="bar" st=""/>
+<node id="3083080233" lat="51.5222727" lon="0.0045956"  n="Arch 1" t="bar" st=""/>
+<node id="3085263819" lat="51.5167554" lon="-0.1285798"  n="Artigiano" t="bar" st=""/>
+<node id="3095255026" lat="51.5284929" lon="-0.056209"  n="Craft Cocktail Company" t="bar" st=""/>
+<node id="3095255027" lat="51.5282496" lon="-0.0561698"  n="Mission" t="bar" st=""/>
+<node id="3099813407" lat="51.359701" lon="-0.0976019"  n="Earl of Eldon" t="bar" st=""/>
+<node id="3114630761" lat="51.515105" lon="-0.0840846"  n="City Social" t="bar" st=""/>
+<node id="3149352741" lat="51.552357" lon="-0.0713771"  n="The Shacklewell Arms" t="bar" st=""/>
+<node id="3154058988" lat="51.5247986" lon="-0.0821197"  n="Casita" t="bar" st=""/>
+<node id="3239546486" lat="51.5140476" lon="-0.1057964"  n="Lutyens Bar" t="bar" st=""/>
+<node id="3247084435" lat="51.5318569" lon="-0.1205545"  n="Simmons Rooms" t="bar" st=""/>
+<node id="3272712570" lat="51.511109" lon="-0.0838139"  n="Sky Garden" t="bar" st=""/>
+<node id="3280571384" lat="51.5423326" lon="-0.0080809"  n="Cafe Football" t="bar" st=""/>
+<node id="3292939264" lat="51.5150522" lon="-0.0795744"  n="The Alchemist" t="bar" st=""/>
+<node id="3307352611" lat="51.5129232" lon="-0.0856165"  n="Todd&#39;s Wine Bar" t="bar" st=""/>
+<node id="3320744028" lat="51.5156221" lon="-0.0852274"  n="The Gallery" t="bar" st=""/>
+<node id="3340684901" lat="51.5144208" lon="-0.0977845"  n="Dion" t="bar" st=""/>
+<node id="3357569144" lat="51.5285742" lon="-0.1327055"  n="Sloe" t="bar" st=""/>
+<node id="3357569149" lat="51.5282898" lon="-0.1330307"  n="Virgin First Class Lounge" t="bar" st=""/>
+<node id="3357928609" lat="51.5103504" lon="-0.134978"  n="Jewel Bar" t="bar" st=""/>
+<node id="3357929194" lat="51.5087707" lon="-0.1372057"  n="Swans Bar" t="bar" st=""/>
+<node id="3357929212" lat="51.5071719" lon="-0.1414051"  n="The Rivoli Bar" t="bar" st=""/>
+<node id="3358823520" lat="51.5173408" lon="-0.1407553"  n="The Social" t="bar" st=""/>
+<node id="3368957896" lat="51.5066496" lon="0.0730271"  n="The Reach Bar and Kitchen" t="bar" st=""/>
+<node id="3370865591" lat="51.5481534" lon="-0.0723399"  n="Ridley Road Bar" t="bar" st=""/>
+<node id="3371176988" lat="51.4810178" lon="-0.0212349"  n="The Duke" t="bar" st=""/>
+<node id="3390901140" lat="51.4948042" lon="-0.275158"  n="Moot" t="bar" st=""/>
+<node id="3447788453" lat="51.488415" lon="-0.1226534"  n="Dar Alamar" t="bar" st=""/>
+<node id="3468565224" lat="51.4740839" lon="-0.1570824"  n="The Lost Angel" t="bar" st=""/>
+<node id="3474141373" lat="51.5128681" lon="-0.0927367"  n="Core Bar" t="bar" st=""/>
+<node id="3537180023" lat="51.4449119" lon="-0.1667298"  n="The Althorn" t="bar" st=""/>
+<node id="3546349672" lat="51.5060678" lon="-0.1396396"  n="The American Bar, The Stafford Hotel" t="bar" st=""/>
+<node id="3555182838" lat="51.450642" lon="0.0127195"  n="Bar Lucianos" t="bar" st=""/>
+<node id="3568630094" lat="51.3382603" lon="-0.1156641"  n="Elliotts" t="bar" st=""/>
+<node id="3592458098" lat="51.542816" lon="-0.02259"  n="Howling Hops Tank Bar" t="bar" st=""/>
+<node id="3636961931" lat="51.51897" lon="-0.0798691"  n="Jamies" t="bar" st=""/>
+<node id="3639031393" lat="51.525667" lon="-0.077385"  n="Ace Hotel London Shoreditch" t="bar" st=""/>
+<node id="3639233622" lat="51.5262223" lon="-0.0781879"  n="The Dragon Bar" t="bar" st=""/>
+<node id="3639471792" lat="51.5259174" lon="-0.0780296"  n="the Shoreditch" t="bar" st=""/>
+<node id="3651488845" lat="51.4734489" lon="-0.0513074"  n="The Montagu Arms" t="bar" st=""/>
+<node id="3685937548" lat="51.5134702" lon="-0.1161055"  n="ROKA" t="bar" st=""/>
+<node id="3686805282" lat="51.5126919" lon="-0.1392445"  n="Jinjuu" t="bar" st=""/>
+<node id="3703086367" lat="51.5369863" lon="-0.0616564"  n="Bar" t="bar" st=""/>
+<node id="3727939637" lat="51.5554954" lon="0.0187581"  n="The Wanstead Tap" t="bar" st=""/>
+<node id="3740809968" lat="51.5253353" lon="-0.1783635"  n="LV lounge" t="bar" st=""/>
+<node id="3761643192" lat="51.5615032" lon="-0.0821623"  n="The Fox Reformed" t="bar" st=""/>
+<node id="3767594694" lat="51.5229616" lon="-0.1081365"  n="The Piano Works" t="bar" st=""/>
+<node id="3782136983" lat="51.506213" lon="-0.0904881"  n="Alcoholic Architecture" t="bar" st=""/>
+<node id="3787420113" lat="51.5046899" lon="-0.0824531"  n="TwoRuba" t="bar" st=""/>
+<node id="3790295357" lat="51.4932715" lon="-0.2244783"  n="Belushi&#39;s" t="bar" st=""/>
+<node id="3790320757" lat="51.4972271" lon="-0.2230086"  n="Smith&#39;s Cocktail Bar" t="bar" st=""/>
+<node id="3796258892" lat="51.5116706" lon="-0.1220387"  n="Roadhouse" t="bar" st=""/>
+<node id="3796265628" lat="51.4836075" lon="-0.0949703"  n="D&#39;Connect" t="bar" st=""/>
+<node id="3796266697" lat="51.5116638" lon="-0.1227948"  n="21" t="bar" st=""/>
+<node id="3796992525" lat="51.4923355" lon="-0.207418"  n="Nell&#39;s Jazz &#38; Blues" t="bar" st=""/>
+<node id="3798766943" lat="51.5130647" lon="-0.1310315"  n="Ku" t="bar" st=""/>
+<node id="3799624401" lat="51.5179943" lon="-0.10831"  n="Bounce Farringdon" t="bar" st=""/>
+<node id="3801496832" lat="51.5033757" lon="-0.0820609"  n="Cecil&#39;s" t="bar" st=""/>
+<node id="3822113518" lat="51.5144282" lon="-0.0775758"  n="Zebrano" t="bar" st=""/>
+<node id="3835357195" lat="51.5047402" lon="-0.0193629"  n="Nicolas Wine Bar" t="bar" st=""/>
+<node id="3845915784" lat="51.5075969" lon="-0.1136504"  n="The Understudy" t="bar" st=""/>
+<node id="3868765589" lat="51.5021734" lon="-0.1874952"  n="Basement" t="bar" st=""/>
+<node id="3874533411" lat="51.4980478" lon="-0.0815045"  n="214" t="bar" st=""/>
+<node id="3886785057" lat="51.5130787" lon="-0.0862062"  n="Number 25" t="bar" st=""/>
+<node id="3898185143" lat="51.511414" lon="-0.1193661"  n="Cellar Door" t="bar" st=""/>
+<node id="3898995474" lat="51.5191245" lon="-0.1037443"  n="Grand Union Farringdon" t="bar" st=""/>
+<node id="3905956266" lat="51.5072512" lon="-0.0944791"  n="我家" t="bar" st=""/>
+<node id="3918520306" lat="51.4997028" lon="-0.0173911"  n="The Attic" t="bar" st=""/>
+<node id="3918520307" lat="51.4997445" lon="-0.0173107"  n="Tomkins" t="bar" st=""/>
+<node id="3925313694" lat="51.4633025" lon="-0.116133"  n="Arch" t="bar" st=""/>
+<node id="3932136290" lat="51.4923687" lon="0.0717925"  n="Tap Room" t="bar" st=""/>
+<node id="3950944487" lat="51.4453124" lon="-0.3301063"  n="Rileys Sports Bar" t="bar" st=""/>
+<node id="3978378565" lat="51.4609193" lon="-0.1656311"  n="South Sider" t="bar" st=""/>
+<node id="3985644391" lat="51.523555" lon="-0.0980205"  n="De Santis" t="bar" st=""/>
+<node id="4057825389" lat="51.4568105" lon="-0.2040197"  n="Dutch Courage" t="bar" st=""/>
+<node id="4084537482" lat="51.5838726" lon="-0.0087106"  n="Unit 7 Ravenswood Industrial Estate" t="bar" st=""/>
+<node id="4085695498" lat="51.5059419" lon="-0.0541688"  n="Victualler" t="bar" st=""/>
+<node id="4117637268" lat="51.4641698" lon="-0.1630988"  n="Barsocial" t="bar" st=""/>
+<node id="4130496749" lat="51.5455809" lon="-0.0760151"  n="Molly Bloom&#39;s" t="bar" st=""/>
+<node id="4153133582" lat="51.5243782" lon="-0.0724991"  n="The Cocktail Trading Company" t="bar" st=""/>
+<node id="4167188270" lat="51.5320144" lon="-0.0416547"  n="East London Liquor Company" t="bar" st=""/>
+<node id="4171866104" lat="51.5309898" lon="-0.124741"  n="GNH Bar" t="bar" st=""/>
+<node id="4172844859" lat="51.4913821" lon="-0.0587851"  n="EeBria" t="bar" st=""/>
+<node id="4174264289" lat="51.4862887" lon="-0.1194716"  n="Tiffany Bar" t="bar" st=""/>
+<node id="4197633418" lat="51.5313569" lon="-0.1263085"  n="The Champagne Bar" t="bar" st=""/>
+<node id="4225629089" lat="51.4760477" lon="-0.0225713"  n="Wunderlust" t="bar" st=""/>
+<node id="4232559416" lat="51.4793707" lon="-0.1119378"  n="Bar 48" t="bar" st=""/>
+<node id="4255515336" lat="51.5105814" lon="-0.1355845"  n="Bar Américain" t="bar" st=""/>
+<node id="4270686794" lat="51.5254268" lon="-0.1401543"  n="The Refinery" t="bar" st=""/>

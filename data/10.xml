@@ -1,0 +1,390 @@
+<node id="59057679" lat="52.537708" lon="-1.8689931"  n="Perry Common Junior and Infant School" t="school" st=""/>
+<node id="59057680" lat="52.5373956" lon="-1.8693936"  n="The Brambles" t="school" st=""/>
+<node id="64798210" lat="52.5223708" lon="-1.8508274"  n="Featherstone Nursery School" t="school" st=""/>
+<node id="67266162" lat="52.5454238" lon="-1.9024226"  n="Great Barr Primary School" t="school" st=""/>
+<node id="74164955" lat="52.5396458" lon="-1.8872376"  n="Goodway Nursery School" t="school" st=""/>
+<node id="142130994" lat="52.6110353" lon="-1.9181851"  n="Leighswood School (KS2)" t="school" st=""/>
+<node id="142130998" lat="52.6116392" lon="-1.917802"  n="Leighswood Children&#39;s Centre" t="school" st=""/>
+<node id="142131002" lat="52.6122616" lon="-1.9181238"  n="Leighswood School (KS1)" t="school" st=""/>
+<node id="223409465" lat="52.4711018" lon="-1.8573362"  n="Small Heath School" t="school" st=""/>
+<node id="249821797" lat="52.5073033" lon="-1.8916629"  n="Birchfield Independent Girls School" t="school" st=""/>
+<node id="262892942" lat="52.5120987" lon="-1.903953"  n="Institute of Higher Excellence" t="school" st=""/>
+<node id="274303414" lat="52.5488298" lon="-2.0480857"  n="RSA Academy" t="school" st=""/>
+<node id="369786589" lat="52.5038061" lon="-2.0120141"  n="St. Francis Xavier Catholic Foundation Stage School" t="school" st=""/>
+<node id="369791714" lat="52.5041335" lon="-2.0121991"  n="St. Francis Xavier Catholic Primary School" t="school" st=""/>
+<node id="441217637" lat="52.601069" lon="-2.0996806"  n="Heath Park High School" t="school" st=""/>
+<node id="462356863" lat="52.600101" lon="-2.0878067"  n="The Children Village" t="school" st=""/>
+<node id="540480527" lat="52.5978143" lon="-2.1860882"  n="Woodthorne Primary School" t="school" st=""/>
+<node id="603107922" lat="52.6227442" lon="-2.1446918"  n="Priory Green Primary School" t="school" st=""/>
+<node id="806880609" lat="52.5704095" lon="-2.0943944"  n="Ettingshall Primary School" t="school" st=""/>
+<node id="810231345" lat="52.5231024" lon="-1.8624455"  n="Stockland Green School" t="school" st=""/>
+<node id="823773752" lat="52.5789412" lon="-1.968998"  n="Mayfield Preparatory School" t="school" st=""/>
+<node id="901522604" lat="52.4579635" lon="-1.885036"  n="Redstone Educational Academy" t="school" st=""/>
+<node id="1779503631" lat="52.6098297" lon="-2.0150304"  n="Charis Bible College" t="school" st=""/>
+<node id="2142627477" lat="52.5334418" lon="-1.9305944"  n="5 Star Day Nursery" t="school" st=""/>
+<node id="2407173040" lat="52.4306415" lon="-1.9041558"  n="King Edward VI Camp Hill school for Boys" t="school" st=""/>
+<node id="2407175229" lat="52.4310368" lon="-1.903001"  n="King Edward VI Camp Hill School for Girls" t="school" st=""/>
+<node id="2688707672" lat="52.4192547" lon="-1.507026"  n="Al-Madrasa-Tul-Munawwarah" t="school" st=""/>
+<node id="2692923682" lat="52.428742" lon="-1.4990736"  n="Graduators Tuiton Centre" t="school" st=""/>
+<node id="2693037104" lat="52.4317054" lon="-1.4971209"  n="CMS Nursery" t="school" st=""/>
+<node id="2694353624" lat="52.4799891" lon="-2.0377155"  n="Blackheath Primary School" t="school" st=""/>
+<node id="2694690139" lat="52.4349004" lon="-1.4950342"  n="Wonder Years Nursery And Holiday Club" t="school" st=""/>
+<node id="2694739416" lat="52.441107" lon="-1.490877"  n="Ramgarhia Community College" t="school" st=""/>
+<node id="2696746502" lat="52.4807321" lon="-2.118304"  n="Birmingham Metropolitan College Art &#38; Design Centre" t="school" st=""/>
+<node id="2698072567" lat="52.4157341" lon="-1.5028129"  n="The Quaran School" t="school" st=""/>
+<node id="2698214163" lat="52.4281556" lon="-1.4899112"  n="ESOL With Citizenship" t="school" st=""/>
+<node id="3167033437" lat="52.4844255" lon="-1.9149998"  n="Perry Beeches IV The Free School" t="school" st=""/>
+<node id="3177657676" lat="52.4685319" lon="-1.8561753"  n="Darul Uloom Islamic High School" t="school" st=""/>
+<node id="3697412331" lat="52.4783046" lon="-2.0347129"  n="Nail School &#38; Beauty Academy" t="school" st=""/>
+<node id="3964052601" lat="52.5257405" lon="-2.0548055"  n="Jalaliah Educational Institution" t="school" st=""/>
+<node id="4007403240" lat="52.4126813" lon="-1.8717818"  n="Highters Heath Nursery School" t="school" st=""/>
+<node id="4020130044" lat="52.4594981" lon="-1.9464952"  n="Harborne Food School" t="school" st=""/>
+<node id="228047" lat="51.6042042" lon="-0.2023061"  n="St Mary&#39;s CE Primary School" t="school" st=""/>
+<node id="26939332" lat="51.664409" lon="-0.0888129"  n="St Michaels Primary School" t="school" st=""/>
+<node id="26939905" lat="51.6618157" lon="-0.0767918"  n="Chace Community School" t="school" st=""/>
+<node id="27017549" lat="51.6472902" lon="-0.1429447"  n="Southgate School" t="school" st=""/>
+<node id="27017719" lat="51.649935" lon="-0.1064298"  n="Highlands School" t="school" st=""/>
+<node id="27022166" lat="51.4494775" lon="-0.038884"  n="Stillness Junior School" t="school" st=""/>
+<node id="27049101" lat="51.4290042" lon="-0.0006854"  n="Bonus Pastor Catholic school" t="school" st=""/>
+<node id="27087917" lat="51.6544197" lon="-0.0836682"  n="Enfield County School (Upper - Years 10 - 13)" t="school" st=""/>
+<node id="27088264" lat="51.6530563" lon="-0.0835301"  n="Enfield Grammar School (Upper)" t="school" st=""/>
+<node id="27091368" lat="51.6512216" lon="-0.0611936"  n="Kingsmead School" t="school" st=""/>
+<node id="27280696" lat="51.6735643" lon="-0.0551499"  n="St Ignatius College" t="school" st=""/>
+<node id="30553260" lat="51.4520215" lon="-0.2822973"  n="The Holly Lodge Centre" t="school" st=""/>
+<node id="31098620" lat="51.5840032" lon="0.1938834"  n="Gidea Park Primary School" t="school" st=""/>
+<node id="31098621" lat="51.586083" lon="0.1995669"  n="Gidea Park College" t="school" st=""/>
+<node id="31304329" lat="51.5772313" lon="0.2053041"  n="Squirrels Heath School" t="school" st=""/>
+<node id="31307601" lat="51.5849613" lon="0.2101285"  n="The Royal Liberty School" t="school" st=""/>
+<node id="31462986" lat="51.5501872" lon="-0.3354402"  n="Horsenden Primary School and Children&#39;s Centre" t="school" st=""/>
+<node id="32544804" lat="51.5535239" lon="-0.3493892"  n="Wood End Infant School" t="school" st=""/>
+<node id="34469638" lat="51.6564946" lon="-0.1717862"  n="JCoSS" t="school" st=""/>
+<node id="34469642" lat="51.6557432" lon="-0.1667229"  n="Livingstone School" t="school" st=""/>
+<node id="36470220" lat="51.5537407" lon="-0.3474633"  n="Wood End Academy (Junior)" t="school" st=""/>
+<node id="36872838" lat="51.3565129" lon="-0.2192653"  n="Saint Dunstans Church of England Primary School" t="school" st=""/>
+<node id="36926581" lat="51.3546203" lon="-0.2236825"  n="Nonsuch High School" t="school" st=""/>
+<node id="37124474" lat="51.3645013" lon="-0.1666987"  n="St Mary&#39;s Junior School" t="school" st=""/>
+<node id="48742619" lat="51.5283448" lon="-0.0624004"  n="Lawdale School" t="school" st=""/>
+<node id="48941851" lat="51.5570716" lon="-0.0633125"  n="St Scholastics RC Primary School" t="school" st=""/>
+<node id="49317368" lat="51.6265792" lon="-0.1770291"  n="St John&#39;s C of E Primary School" t="school" st=""/>
+<node id="60266196" lat="51.5380817" lon="-0.3110536"  n="Perivale Primary School" t="school" st=""/>
+<node id="60473138" lat="51.6217494" lon="0.2259836"  n="Noak Hill School" t="school" st=""/>
+<node id="73788154" lat="51.6109621" lon="-0.0673414"  n="St John and St James CofE Primary School" t="school" st=""/>
+<node id="90090749" lat="51.4773153" lon="0.0285398"  n="Old Dover Rd" t="school" st=""/>
+<node id="91849891" lat="51.6343049" lon="-0.1281628"  n="St Andrew&#39;s CofE Primary School" t="school" st=""/>
+<node id="91851734" lat="51.644152" lon="-0.1402661"  n="De Bohun Primary School" t="school" st=""/>
+<node id="91854313" lat="51.6699735" lon="-0.1728939"  n="Hadley Wood School" t="school" st=""/>
+<node id="91858431" lat="51.6771567" lon="-0.0500483"  n="Honilands Primary School" t="school" st=""/>
+<node id="91859883" lat="51.670644" lon="-0.0313012"  n="Chesterfield Junior School" t="school" st=""/>
+<node id="91860315" lat="51.6683649" lon="-0.0236851"  n="Prince of Wales Primary School" t="school" st=""/>
+<node id="91862276" lat="51.6544514" lon="-0.0363636"  n="Brimsdown School" t="school" st=""/>
+<node id="91863527" lat="51.6480218" lon="-0.0392622"  n="St Mary&#39;s RC Primary School" t="school" st=""/>
+<node id="91864054" lat="51.6448967" lon="-0.0358289"  n="Alma Primary School" t="school" st=""/>
+<node id="91865865" lat="51.6581364" lon="-0.0461185"  n="St James CofE Primary School" t="school" st=""/>
+<node id="91868754" lat="51.6364211" lon="-0.0432918"  n="Cuckoo Hall Primary School" t="school" st=""/>
+<node id="91876810" lat="51.643212" lon="-0.1149657"  n="Eversley Primary School" t="school" st=""/>
+<node id="91878059" lat="51.6480347" lon="-0.1070168"  n="Grange Park Primary School" t="school" st=""/>
+<node id="91878635" lat="51.6524113" lon="-0.1099145"  n="Merryhills Primary School" t="school" st=""/>
+<node id="91891381" lat="51.6454965" lon="-0.0624854"  n="Bush Hill Park Primary School" t="school" st=""/>
+<node id="91894670" lat="51.6576628" lon="-0.0785716"  n="St Andrew&#39;s CofE Primary School" t="school" st=""/>
+<node id="91895003" lat="51.6595854" lon="-0.0814328"  n="St George&#39;s RC Primary School" t="school" st=""/>
+<node id="92532854" lat="51.6516632" lon="-0.0678116"  n="George Spicer Primary School" t="school" st=""/>
+<node id="92534147" lat="51.6499098" lon="-0.048258"  n="Southbury Primary School" t="school" st=""/>
+<node id="92536760" lat="51.6739765" lon="-0.0398988"  n="Freezywater St George&#39;s Primary School" t="school" st=""/>
+<node id="171318675" lat="51.5265798" lon="0.0582157"  n="Vicarage Primary School" t="school" st=""/>
+<node id="181702273" lat="51.6330624" lon="-0.0781163"  n="Edmonton County School" t="school" st=""/>
+<node id="183889590" lat="51.3522004" lon="-0.1960656"  n="Overton Grange High School" t="school" st=""/>
+<node id="194613918" lat="51.3678805" lon="-0.1287841"  n="The Link Primary School" t="school" st=""/>
+<node id="203659845" lat="51.5146517" lon="-0.0379382"  n="Cayley Primary School" t="school" st=""/>
+<node id="215582904" lat="51.580629" lon="-0.354683"  n="Vaughan Primary School" t="school" st=""/>
+<node id="240649131" lat="51.3439476" lon="-0.1321989"  n="Laleham Lea School" t="school" st=""/>
+<node id="242925478" lat="51.5050928" lon="-0.3309585"  n="Oaklands" t="school" st=""/>
+<node id="243762363" lat="51.4768174" lon="-0.0092935"  n="Charlton School (Royal Hill Site)" t="school" st=""/>
+<node id="245097346" lat="51.4636891" lon="-0.0023261"  n="St Matthew Academy West Campus" t="school" st=""/>
+<node id="247911877" lat="51.3445696" lon="-0.2023728"  n="Hopscotch Day Nursery" t="school" st=""/>
+<node id="248439600" lat="51.3746322" lon="-0.2965289"  n="Tolworth Girls School" t="school" st=""/>
+<node id="248443928" lat="51.3818653" lon="-0.292373"  n="Tolworth Infants School" t="school" st=""/>
+<node id="248443969" lat="51.3820689" lon="-0.2921156"  n="Tolworth Junior School" t="school" st=""/>
+<node id="249250221" lat="51.6171411" lon="-0.2976616"  n="Aylward First and Middle School" t="school" st=""/>
+<node id="250830616" lat="51.5522769" lon="-0.150676"  n="Carlton Primary School" t="school" st=""/>
+<node id="251385772" lat="51.4855842" lon="-0.4398324"  n="The Pheasant Nursery" t="school" st=""/>
+<node id="252163731" lat="51.4384927" lon="0.1143369"  n="Hurstmere School" t="school" st=""/>
+<node id="255467833" lat="51.5189693" lon="-0.1957269"  n="St Stephens School" t="school" st=""/>
+<node id="255468099" lat="51.5155238" lon="-0.2032809"  n="Colville Nursery" t="school" st=""/>
+<node id="255469834" lat="51.511563" lon="-0.1937082"  n="Pembridge Hall" t="school" st=""/>
+<node id="262362410" lat="51.5099014" lon="-0.0188641"  n="Holy Family Roman Catholic School" t="school" st=""/>
+<node id="262374872" lat="51.5105308" lon="-0.008217"  n="Woolmore Primary School" t="school" st=""/>
+<node id="263057514" lat="51.5328926" lon="-0.0391362"  n="Chisenhale Primary School" t="school" st=""/>
+<node id="266743354" lat="51.3726819" lon="-0.2036774"  n="Westbourne Primary School" t="school" st=""/>
+<node id="266746531" lat="51.3652342" lon="-0.2186386"  n="Cheam Field Primary School" t="school" st=""/>
+<node id="266889085" lat="51.3884272" lon="-0.2201349"  n="Aragon Primary School" t="school" st=""/>
+<node id="266889086" lat="51.3882933" lon="-0.2200384"  n="Aragon Extended School" t="school" st=""/>
+<node id="267103163" lat="51.3507024" lon="-0.2207502"  n="Cuddington Croft" t="school" st=""/>
+<node id="268521593" lat="51.5305627" lon="0.0574162"  n="St Michaels Primary School" t="school" st=""/>
+<node id="268585984" lat="51.5306594" lon="0.0097149"  n="Ranelagh Primary School" t="school" st=""/>
+<node id="270801800" lat="51.5841912" lon="0.1185925"  n="Little Heath Primary School" t="school" st=""/>
+<node id="274343540" lat="51.5136609" lon="-0.0162461"  n="Lansbury Lawrence Primary School" t="school" st=""/>
+<node id="279104459" lat="51.5362813" lon="-0.0801221"  n="Comet Nursery School" t="school" st=""/>
+<node id="281613916" lat="51.4695018" lon="0.0035897"  n="All Saints Church of England Primary School" t="school" st=""/>
+<node id="282393641" lat="51.5105457" lon="0.0619482"  n="Windsor Primary School" t="school" st=""/>
+<node id="282843564" lat="51.5036134" lon="0.0254847"  n="Britannia Village Primary School" t="school" st=""/>
+<node id="283261792" lat="51.4919077" lon="-0.2419418"  n="St Peter&#39;s Church of England school" t="school" st=""/>
+<node id="287912434" lat="51.5092348" lon="-0.2787002"  n="Twyford C. of E. High School" t="school" st=""/>
+<node id="287913106" lat="51.5119592" lon="-0.2734903"  n="St Vincent&#39;s Catholic Primary School" t="school" st=""/>
+<node id="287913963" lat="51.5171937" lon="-0.2782539"  n="West Acton Primary School" t="school" st=""/>
+<node id="288562237" lat="51.5010146" lon="-0.2633948"  n="Carlton Day Centre" t="school" st=""/>
+<node id="290017298" lat="51.448645" lon="-0.1201696"  n="Little Gems Nursery" t="school" st=""/>
+<node id="292270039" lat="51.5146498" lon="-0.2031425"  n="Colville Primary" t="school" st=""/>
+<node id="292381365" lat="51.3879101" lon="-0.2993266"  n="St Matthew&#39;s Church of England Primary School" t="school" st=""/>
+<node id="293190053" lat="51.4412197" lon="0.1275953"  n="Hurst Primary School" t="school" st=""/>
+<node id="293649751" lat="51.5863012" lon="-0.1491056"  n="St James&#39; Primary" t="school" st=""/>
+<node id="293653329" lat="51.5881562" lon="-0.1395427"  n="North London Performing Arts College" t="school" st=""/>
+<node id="293732014" lat="51.5331548" lon="-0.1691721"  n="Barrow Hill Junior School" t="school" st=""/>
+<node id="293973273" lat="51.5112031" lon="-0.303787"  n="Saint Saviours Infant and Nursery School" t="school" st=""/>
+<node id="294758605" lat="51.5314094" lon="-0.1335601"  n="Children&#39;s Centre Services SureStart Euston" t="school" st=""/>
+<node id="294758628" lat="51.5328177" lon="-0.131964"  n="St. Aloysius&#39; School Nursery" t="school" st=""/>
+<node id="299913225" lat="51.4047659" lon="-0.0394033"  n="Balgowan Primary School" t="school" st=""/>
+<node id="301017044" lat="51.5353305" lon="-0.1701535"  n="Robinsfield Infants School" t="school" st=""/>
+<node id="301479877" lat="51.534866" lon="-0.1767159"  n="American School in London" t="school" st=""/>
+<node id="302158163" lat="51.502779" lon="-0.2728235"  n="Berrymede Infants School" t="school" st=""/>
+<node id="304321688" lat="51.5406824" lon="-0.2635448"  n="Stonebridge School" t="school" st=""/>
+<node id="304464897" lat="51.5483467" lon="-0.252185"  n="St Mary&#39;s C.of.E. Primary School" t="school" st=""/>
+<node id="304945872" lat="51.5563469" lon="0.2714625"  n="The James Oglethorpe" t="school" st=""/>
+<node id="305084567" lat="51.555827" lon="-0.2938277"  n="Park Lane Nursery and Primary School" t="school" st=""/>
+<node id="305169168" lat="51.5419337" lon="-0.2439078"  n="Newfield Primary School" t="school" st=""/>
+<node id="305527927" lat="51.5627817" lon="-0.3076734"  n="East Lane Montessori School" t="school" st=""/>
+<node id="309506571" lat="51.4046096" lon="-0.1579544"  n="St. Thomas of Canterbury Nursery" t="school" st=""/>
+<node id="309508556" lat="51.4066013" lon="-0.1615679"  n="St. Mark&#39;s Primary School" t="school" st=""/>
+<node id="309530210" lat="51.4089628" lon="-0.1663563"  n="Bond Primary School" t="school" st=""/>
+<node id="309740076" lat="51.4975695" lon="-0.2656566"  n="Teddies Nursery" t="school" st=""/>
+<node id="311189590" lat="51.557925" lon="-0.1767148"  n="New End" t="school" st=""/>
+<node id="312559593" lat="51.5552741" lon="0.0087221"  n="Jenny Hammond Primary School" t="school" st=""/>
+<node id="313617806" lat="51.4992448" lon="-0.2404322"  n="Ladybird Montessori Nursery" t="school" st=""/>
+<node id="314003088" lat="51.566815" lon="-0.0134501"  n="Tiny Tots nursery" t="school" st=""/>
+<node id="315565267" lat="51.5872633" lon="-0.4133966"  n="Coteford Junior School" t="school" st=""/>
+<node id="315565957" lat="51.5844261" lon="-0.4105985"  n="Coteford Infant School" t="school" st=""/>
+<node id="315889992" lat="51.5661256" lon="-0.018942"  n="Riverley Primary School" t="school" st=""/>
+<node id="316022598" lat="51.5658895" lon="-0.0215315"  n="Willow Brook Primary School" t="school" st=""/>
+<node id="325005689" lat="51.48982" lon="-0.1916122"  n="Wetherby Mansions" t="school" st=""/>
+<node id="326122985" lat="51.6503915" lon="-0.0795178"  n="Saint Anne&#39;s Catholic High School for Girls" t="school" st=""/>
+<node id="332323290" lat="51.4162521" lon="-0.0266949"  n="Worsley Bridge Junior School" t="school" st=""/>
+<node id="333244709" lat="51.6083675" lon="-0.0229498"  n="The Chingford Primary Pupil Referral Unit" t="school" st=""/>
+<node id="333244726" lat="51.6083054" lon="-0.0238749"  n="Chingford Hall Primary School" t="school" st=""/>
+<node id="333245288" lat="51.6014291" lon="-0.0062177"  n="Magic Roundabout Nurseries Ltd" t="school" st=""/>
+<node id="338808518" lat="51.6227027" lon="-0.1814255"  n="Finchley Catholic High School" t="school" st=""/>
+<node id="345380440" lat="51.5756835" lon="-0.0080593"  n="Summerfield Centre" t="school" st=""/>
+<node id="353309815" lat="51.4903788" lon="0.0655952"  n="formerly University of Greenwich" t="school" st=""/>
+<node id="354076470" lat="51.5631931" lon="-0.0061452"  n="Noor Ul Islam Primary School" t="school" st=""/>
+<node id="354076473" lat="51.5627872" lon="-0.0053387"  n="Newport Children Centre" t="school" st=""/>
+<node id="366346399" lat="51.4930958" lon="0.1079972"  n="Abbey Wood School" t="school" st=""/>
+<node id="369536007" lat="51.5078799" lon="0.11351"  n="Linton Mead primary School" t="school" st=""/>
+<node id="369763560" lat="51.503893" lon="0.1085657"  n="Woolwich Polytechnic School" t="school" st=""/>
+<node id="369772683" lat="51.5043471" lon="0.1127199"  n="Hawksmoor School" t="school" st=""/>
+<node id="370091161" lat="51.5009329" lon="0.0954713"  n="Discovery Primary School" t="school" st=""/>
+<node id="387652349" lat="51.5337283" lon="-0.0808029"  n="Burbage Primary School" t="school" st=""/>
+<node id="395034872" lat="51.51101" lon="-0.2141349"  n="Avondale Park Primary School" t="school" st=""/>
+<node id="402378969" lat="51.5139728" lon="-0.2425041"  n="Ark Conway Primary Academy" t="school" st=""/>
+<node id="404746917" lat="51.552786" lon="0.1493555"  n="Trinity School" t="school" st=""/>
+<node id="408434172" lat="51.3395962" lon="-0.1400853"  n="Lodge School" t="school" st=""/>
+<node id="410522713" lat="51.5104494" lon="0.121497"  n="Castillion Primary School" t="school" st=""/>
+<node id="412953065" lat="51.3950417" lon="-0.3070887"  n="Maple Infants School" t="school" st=""/>
+<node id="412953066" lat="51.395363" lon="-0.3066939"  n="St Andrew&#39;s and St Mark&#39;s CofE Junior School" t="school" st=""/>
+<node id="414230739" lat="51.5356322" lon="0.008131"  n="Rebecca Cheetham Nursery" t="school" st=""/>
+<node id="415406874" lat="51.4537071" lon="0.1721451"  n="St Josephs RC Primary School" t="school" st=""/>
+<node id="415408178" lat="51.4539638" lon="0.1713468"  n="Shenstone School" t="school" st=""/>
+<node id="420309252" lat="51.4014782" lon="0.0293543"  n="Bickley Primary School" t="school" st=""/>
+<node id="420314117" lat="51.4031858" lon="0.0339775"  n="St George&#39;s, Bickley" t="school" st=""/>
+<node id="420364301" lat="51.4098604" lon="0.0466371"  n="Bullers Wood School" t="school" st=""/>
+<node id="420364313" lat="51.3948707" lon="0.032873"  n="Raglan Primary School" t="school" st=""/>
+<node id="420844457" lat="51.4024737" lon="0.0312395"  n="Bickley Primary School" t="school" st=""/>
+<node id="420888706" lat="51.3894024" lon="0.0651466"  n="St. James&#39; R.C. Primary School" t="school" st=""/>
+<node id="425362368" lat="51.4958913" lon="-0.2367612"  n="Ravenscourt Park Pre School" t="school" st=""/>
+<node id="425745774" lat="51.5393655" lon="-0.1512926"  n="Primrose Hill School" t="school" st=""/>
+<node id="426993438" lat="51.4255663" lon="0.0716189"  n="Edgebury Primary School" t="school" st=""/>
+<node id="429283837" lat="51.4191474" lon="0.0726559"  n="Mead Road Infant School" t="school" st=""/>
+<node id="429483976" lat="51.4184406" lon="0.0892118"  n="Beaverwood School for Girls" t="school" st=""/>
+<node id="430433247" lat="51.5335305" lon="-0.0320358"  n="Old Ford Primary School" t="school" st=""/>
+<node id="441303276" lat="51.4871202" lon="0.0887812"  n="Conway Primary School" t="school" st=""/>
+<node id="443032038" lat="51.4870182" lon="-0.166248"  n="Violet Melchett Children&#39;s Centre" t="school" st=""/>
+<node id="447193265" lat="51.4257561" lon="-0.0049306"  n="Oakridge Lane Curriculum Centre" t="school" st=""/>
+<node id="447322407" lat="51.4288814" lon="-0.0112102"  n="St John the Baptist CofE primary School" t="school" st=""/>
+<node id="461044101" lat="51.5342161" lon="0.1911553"  n="Whybridge Infant School" t="school" st=""/>
+<node id="465648616" lat="51.340217" lon="-0.0134272"  n="CALAT (Croydon Adult Learning and Training)" t="school" st=""/>
+<node id="467140487" lat="51.3499016" lon="-0.0131148"  n="Wolsey Infant, Nursery and Junior Schools" t="school" st=""/>
+<node id="469733620" lat="51.4132941" lon="-0.0155538"  n="St Marys Catholic Primary School" t="school" st=""/>
+<node id="474160397" lat="51.3838225" lon="0.0943389"  n="Perry Hall Primary School" t="school" st=""/>
+<node id="484206463" lat="51.4355644" lon="-0.1587266"  n="Christian Education Centre" t="school" st=""/>
+<node id="500065665" lat="51.5737517" lon="-0.1500698"  n="St Michael&#39;s CofE Primary School" t="school" st=""/>
+<node id="500066535" lat="51.57244" lon="-0.1548819"  n="Highgate" t="school" st=""/>
+<node id="504465154" lat="51.5357879" lon="0.1284979"  n="Campbell Junior School" t="school" st=""/>
+<node id="512564706" lat="51.3644999" lon="-0.0052114"  n="Wickham Court School" t="school" st=""/>
+<node id="517752749" lat="51.5229387" lon="0.1898958"  n="Lafayette Primary School" t="school" st=""/>
+<node id="524171513" lat="51.4959318" lon="-0.2526585"  n="The Arts Educational School" t="school" st=""/>
+<node id="529116421" lat="51.5883814" lon="-0.0708924"  n="name of school?" t="school" st=""/>
+<node id="547142983" lat="51.5792582" lon="-0.3713525"  n="Buckingham College Preparatory School" t="school" st=""/>
+<node id="548660241" lat="51.5781287" lon="-0.3032563"  n="Mount Stewart Junior School" t="school" st=""/>
+<node id="596178632" lat="51.5411581" lon="0.1713249"  n="John Perry Junior School" t="school" st=""/>
+<node id="596178637" lat="51.542079" lon="0.1711747"  n="John Perry Infant School" t="school" st=""/>
+<node id="596463908" lat="51.5365031" lon="0.1458752"  n="Thomas Arnold Primary School" t="school" st=""/>
+<node id="597295791" lat="51.504847" lon="-0.107881"  n="International Language Schools" t="school" st=""/>
+<node id="615733146" lat="51.5109715" lon="0.0594574"  n="Alphabet House" t="school" st=""/>
+<node id="632008982" lat="51.3950955" lon="-0.2476815"  n="Coombe Boys&#39; School" t="school" st=""/>
+<node id="634133889" lat="51.5640876" lon="0.2624164"  n="Hall Mead" t="school" st=""/>
+<node id="648261552" lat="51.5215962" lon="-0.0203384"  n="The Clara Grant Nursery" t="school" st=""/>
+<node id="648861180" lat="51.5283192" lon="-0.0744167"  n="Columbia Market Nursery School" t="school" st=""/>
+<node id="651539991" lat="51.5696574" lon="-0.4518335"  n="Breakspear School" t="school" st=""/>
+<node id="652802554" lat="51.6295387" lon="-0.0074799"  n="Chingford Foundation School" t="school" st=""/>
+<node id="652832590" lat="51.4751467" lon="-0.2064696"  n="London Study Centre" t="school" st=""/>
+<node id="653885845" lat="51.5262829" lon="-0.017489"  n="Children&#39;s House Nursery School" t="school" st=""/>
+<node id="660666378" lat="51.500855" lon="0.0577205"  n="St Johns Pre-school" t="school" st=""/>
+<node id="664479572" lat="51.5150598" lon="0.0377647"  n="Eleanor Smith School" t="school" st=""/>
+<node id="671545190" lat="51.3671102" lon="0.0773305"  n="Newstead Woods" t="school" st=""/>
+<node id="671823045" lat="51.3869896" lon="-0.2974818"  n="Dysart School" t="school" st=""/>
+<node id="683133501" lat="51.330562" lon="-0.1081882"  n="Oakwood Independent School" t="school" st=""/>
+<node id="683397887" lat="51.3045405" lon="-0.1177503"  n="Keston Primary School" t="school" st=""/>
+<node id="686667351" lat="51.4240466" lon="0.0035536"  n="Rangefield Primary School" t="school" st=""/>
+<node id="686667365" lat="51.4307896" lon="0.0122118"  n="The Learning Tree Day Nursery" t="school" st=""/>
+<node id="700983152" lat="51.5376635" lon="0.1987459"  n="St Alban&#39;s School" t="school" st=""/>
+<node id="700998795" lat="51.5393184" lon="0.1917078"  n="Scargill Junior and Infants Schools" t="school" st=""/>
+<node id="702052235" lat="51.5529722" lon="-0.1764217"  n="Devonshire House" t="school" st=""/>
+<node id="702749118" lat="51.3920087" lon="-0.0208531"  n="Unicorn Primary School" t="school" st=""/>
+<node id="702785516" lat="51.3828896" lon="-0.0198553"  n="St David&#39;s College" t="school" st=""/>
+<node id="704398278" lat="51.3079932" lon="-0.1238379"  n="Coulsdon C of E Primary" t="school" st=""/>
+<node id="705444832" lat="51.4045726" lon="0.1149202"  n="Riverside School" t="school" st=""/>
+<node id="713773207" lat="51.5236148" lon="-0.4500627"  n="Hillingdon Manor Lower and Middle School" t="school" st=""/>
+<node id="713773513" lat="51.511317" lon="-0.40807"  n="Minet Junior School" t="school" st=""/>
+<node id="713773645" lat="51.5306434" lon="-0.3951632"  n="Brookside Primary School" t="school" st=""/>
+<node id="713773718" lat="51.5268456" lon="-0.4172539"  n="Grange Park Schools" t="school" st=""/>
+<node id="713773962" lat="51.5317981" lon="-0.4015254"  n="Belmore Primary School" t="school" st=""/>
+<node id="713773992" lat="51.5310573" lon="-0.3983605"  n="Barnhill Community High School" t="school" st=""/>
+<node id="717698162" lat="51.5242104" lon="-0.4662768"  n="The Meadow School" t="school" st=""/>
+<node id="724398600" lat="51.562351" lon="0.0694939"  n="Ursuline School" t="school" st=""/>
+<node id="724398867" lat="51.5325376" lon="0.0810563"  n="Gascoigne Primary School" t="school" st=""/>
+<node id="724399552" lat="51.532164" lon="0.0617765"  n="Nelson Primary School" t="school" st=""/>
+<node id="746249185" lat="51.5586117" lon="0.1408799"  n="Grafton Primary School" t="school" st=""/>
+<node id="746815316" lat="51.5467626" lon="0.1885996"  n="Dunningford Primary School" t="school" st=""/>
+<node id="747154049" lat="51.6194737" lon="0.182009"  n="Dame Tipping Primary School" t="school" st=""/>
+<node id="747951962" lat="51.4878364" lon="-0.2574489"  n="St Mary&#39;s Catholic School" t="school" st=""/>
+<node id="769140153" lat="51.5605262" lon="-0.2109732"  n="St Agnes RC Primary School" t="school" st=""/>
+<node id="776604520" lat="51.4070648" lon="0.0061371"  n="Valley Primary School" t="school" st=""/>
+<node id="812151501" lat="51.56442" lon="-0.2246789"  n="Sakutu organization Montessori" t="school" st=""/>
+<node id="840180984" lat="51.5136237" lon="-0.1233285"  n="One To One English" t="school" st=""/>
+<node id="843454613" lat="51.594274" lon="0.0799085"  n="Clore Tikva Primary School" t="school" st=""/>
+<node id="892761094" lat="51.6072504" lon="-0.3037341"  n="Whitchurch Primary School" t="school" st=""/>
+<node id="892761101" lat="51.6064908" lon="-0.3087552"  n="Stanburn Primary School" t="school" st=""/>
+<node id="909388318" lat="51.558535" lon="-0.1765474"  n="Heathside Preparatory School" t="school" st=""/>
+<node id="920264487" lat="51.5089137" lon="-0.0291097"  n="Tower Hamlets Opportunity Group" t="school" st=""/>
+<node id="942445847" lat="51.57272" lon="0.154173"  n="St Edwards C of E" t="school" st=""/>
+<node id="942820536" lat="51.5195176" lon="-0.1619812"  n="Abercorn School" t="school" st=""/>
+<node id="956316547" lat="51.5341227" lon="-0.1343077"  n="Medburn Centre" t="school" st=""/>
+<node id="957642916" lat="51.5508906" lon="-0.1748033"  n="Tavistock Children&#39;s Day Unit" t="school" st=""/>
+<node id="975770943" lat="51.5197684" lon="-0.3160976"  n="Notting Hill and Ealing High School Junior Department" t="school" st=""/>
+<node id="975771539" lat="51.5212771" lon="-0.3160117"  n="Notting Hill and Ealing High School (NHEHS)" t="school" st=""/>
+<node id="977475197" lat="51.643893" lon="-0.1389774"  n="Salcombe Infants School" t="school" st=""/>
+<node id="995085399" lat="51.5474084" lon="-0.15887"  n="The Village School" t="school" st=""/>
+<node id="1073944239" lat="51.4661769" lon="-0.3005856"  n="Falcon&#39;s Preparatory School for Boys" t="school" st=""/>
+<node id="1096803406" lat="51.4802004" lon="-0.3410142"  n="Isleworth and Syon School for Boys" t="school" st=""/>
+<node id="1106253296" lat="51.3840882" lon="-0.1615258"  n="Spencer Rd Nursery School" t="school" st=""/>
+<node id="1124698511" lat="51.5386365" lon="-0.2071263"  n="Rainbow Montessori School" t="school" st=""/>
+<node id="1125267086" lat="51.5498576" lon="0.214849"  n="Sanders Draper School" t="school" st=""/>
+<node id="1125267093" lat="51.5441597" lon="0.2118257"  n="Scott&#39;s Primary School" t="school" st=""/>
+<node id="1131337751" lat="51.5532666" lon="0.2080062"  n="Abbs Cross Academy and Arts College" t="school" st=""/>
+<node id="1199043385" lat="51.4743396" lon="0.0622162"  n="Shooters Hill Post 16 campus" t="school" st=""/>
+<node id="1221718414" lat="51.515972" lon="-0.190713"  n="Paint Pots Montessori School" t="school" st=""/>
+<node id="1230534001" lat="51.515658" lon="-0.197106"  n="Cherry Tree Nursery" t="school" st=""/>
+<node id="1275637180" lat="51.4851704" lon="-0.1782192"  n="Chelsea Pre-Prep" t="school" st=""/>
+<node id="1319395599" lat="51.3490423" lon="-0.0130224"  n="Wolsey juinor School" t="school" st=""/>
+<node id="1349719045" lat="51.5308653" lon="0.152262"  n="Marsh Green Primary School" t="school" st=""/>
+<node id="1373926000" lat="51.6212506" lon="0.0247271"  n="Bancroft&#39;s Prep School" t="school" st=""/>
+<node id="1391515923" lat="51.5588977" lon="-0.2251239"  n="Mora Road Primary School" t="school" st=""/>
+<node id="1437305576" lat="51.5115119" lon="-0.1911235"  n="Bayswater Maria Montessori Children&#39;s House" t="school" st=""/>
+<node id="1455586200" lat="51.5259809" lon="-0.1227311"  n="Chandler House (UCL)" t="school" st=""/>
+<node id="1488908679" lat="51.4526557" lon="-0.0246514"  n="Abbey Manor College" t="school" st=""/>
+<node id="1493047136" lat="51.5179468" lon="-0.2865838"  n="Acton Yochien School" t="school" st=""/>
+<node id="1563492171" lat="51.3891834" lon="-0.0704812"  n="Thomas Becket RC Primary School" t="school" st=""/>
+<node id="1584048747" lat="51.4923798" lon="-0.2312538"  n="Macbeth Business School" t="school" st=""/>
+<node id="1590160096" lat="51.3925404" lon="-0.2872291"  n="Christ Church, Surbiton" t="school" st=""/>
+<node id="1596151337" lat="51.5994711" lon="-0.2803762"  n="Stag Lane Schools" t="school" st=""/>
+<node id="1597843368" lat="51.4674678" lon="-0.3684871"  n="New London College" t="school" st=""/>
+<node id="1675539077" lat="51.359937" lon="-0.0802095"  n="Rutherford School" t="school" st=""/>
+<node id="1703378016" lat="51.5352328" lon="-0.0856499"  n="Whitmore Primary School" t="school" st=""/>
+<node id="1738491735" lat="51.4609092" lon="0.1263723"  n="Adult Education College Bexley" t="school" st=""/>
+<node id="1774147225" lat="51.5256916" lon="-0.0812967"  n="The Prince&#39;s Foundation" t="school" st=""/>
+<node id="1779417050" lat="51.5784113" lon="0.0914206"  n="Oaks Park High School" t="school" st=""/>
+<node id="1809671170" lat="51.4891429" lon="-0.0136203"  n="Canary Wharf College" t="school" st=""/>
+<node id="1893971980" lat="51.5721193" lon="-0.0732644"  n="Lubavitch House School (Senior Girls)" t="school" st=""/>
+<node id="1919129686" lat="51.518064" lon="-0.1216262"  n="Bloomsbury International" t="school" st=""/>
+<node id="1935772836" lat="51.5195777" lon="0.1955895"  n="Rainham Village Primary School" t="school" st=""/>
+<node id="1938378726" lat="51.5872534" lon="-0.2317027"  n="St Joseph&#39;s RC Junior and Infant School" t="school" st=""/>
+<node id="1979056786" lat="51.561278" lon="-0.2946137"  n="Wembley Primary School" t="school" st=""/>
+<node id="2121912676" lat="51.5141982" lon="-0.1659468"  n="Ravenstone House School" t="school" st=""/>
+<node id="2129566556" lat="51.5335209" lon="-0.0719681"  n="Hackney Tuition Centre" t="school" st=""/>
+<node id="2189535694" lat="51.5060581" lon="-0.0552066"  n="St Peters London Docks Primary School" t="school" st=""/>
+<node id="2211170180" lat="51.4362934" lon="0.0805518"  n="Dulverton Primary School" t="school" st=""/>
+<node id="2260323117" lat="51.6123586" lon="-0.4054138"  n="St. John&#39;s School, Northwood" t="school" st=""/>
+<node id="2264971269" lat="51.5168642" lon="-0.3190573"  n="Avenue House School" t="school" st=""/>
+<node id="2280790467" lat="51.5499238" lon="-0.3367436"  n="Mandeville School" t="school" st=""/>
+<node id="2291210551" lat="51.5379883" lon="-0.3122177"  n="St John Fisher Catholic Primary School" t="school" st=""/>
+<node id="2294043174" lat="51.5508358" lon="-0.3332682"  n="Sudbury Hill Montessori School" t="school" st=""/>
+<node id="2299323263" lat="51.5540783" lon="-0.3501593"  n="Greenwood Primary School" t="school" st=""/>
+<node id="2326323082" lat="51.5880173" lon="0.0883608"  n="Ilford Jewish Primary School" t="school" st=""/>
+<node id="2334473840" lat="51.5683952" lon="0.085858"  n="Seven Kings High School" t="school" st=""/>
+<node id="2334474644" lat="51.5649939" lon="0.0926387"  n="The Palmer Catholic Academy" t="school" st=""/>
+<node id="2340414599" lat="51.580511" lon="0.0742842"  n="St. Augustine Catholic Primary School" t="school" st=""/>
+<node id="2342482523" lat="51.5666027" lon="0.0894954"  n="St. Aidan&#39;s Catholic Primary School" t="school" st=""/>
+<node id="2387857172" lat="51.5906258" lon="-0.3651456"  n="Nower Hill High School" t="school" st=""/>
+<node id="2417795046" lat="51.5118758" lon="-0.287219"  n="Muslim College" t="school" st=""/>
+<node id="2494054442" lat="51.5833245" lon="-0.3042944"  n="St Catherine of Siena 6th Form Centre" t="school" st=""/>
+<node id="2511315808" lat="51.4563679" lon="-0.0799751"  n="Alleyn&#39;s Junior School" t="school" st=""/>
+<node id="2602932206" lat="51.4203411" lon="-0.2057311"  n="A2Z School of English" t="school" st=""/>
+<node id="2625325473" lat="51.386784" lon="-0.1099267"  n="Oshwal Gujurati School" t="school" st=""/>
+<node id="2706219304" lat="51.3779317" lon="-0.0895302"  n="ARK Oval Primary Academy" t="school" st=""/>
+<node id="2706219314" lat="51.3871935" lon="-0.0623001"  n="Ashburton Primary School" t="school" st=""/>
+<node id="2706219320" lat="51.3210977" lon="-0.1398859"  n="CALAT Smitham Centre" t="school" st=""/>
+<node id="2706219326" lat="51.3638861" lon="-0.0922032"  n="Elmhurst School" t="school" st=""/>
+<node id="2706219347" lat="51.3531047" lon="-0.0959447"  n="Purley Oaks Primary School" t="school" st=""/>
+<node id="2706219348" lat="51.3428384" lon="-0.0069931"  n="Rowdown Primary School" t="school" st=""/>
+<node id="2706219351" lat="51.3377151" lon="-0.1230482"  n="St David&#39;s Preparatory School" t="school" st=""/>
+<node id="2706219353" lat="51.399376" lon="-0.1144352"  n="Winterbourne School" t="school" st=""/>
+<node id="2932474260" lat="51.4617617" lon="0.0221872"  n="Wingfield Primary School" t="school" st=""/>
+<node id="2932567512" lat="51.6257896" lon="0.0096522"  n="The Davis School" t="school" st=""/>
+<node id="2932996617" lat="51.4194819" lon="-0.1980978"  n="Milner School Of English" t="school" st=""/>
+<node id="2946415286" lat="51.5785958" lon="-0.3378398"  n="The Jubilee Academy" t="school" st=""/>
+<node id="3078993289" lat="51.4381095" lon="-0.3116509"  n="Grey Court Sixth Form" t="school" st=""/>
+<node id="3132055568" lat="51.6087276" lon="0.1776935"  n="Immanuel School" t="school" st=""/>
+<node id="3137410909" lat="51.6055631" lon="0.1813697"  n="Bower Park School" t="school" st=""/>
+<node id="3154948432" lat="51.6114863" lon="0.2084407"  n="Harold Hill Community School" t="school" st=""/>
+<node id="3154948448" lat="51.612992" lon="0.214835"  n="Ingrebourne School" t="school" st=""/>
+<node id="3174731007" lat="51.6136679" lon="-0.1549634"  n="Dwight School" t="school" st=""/>
+<node id="3217450161" lat="51.4987413" lon="-0.1115481"  n="Oasis Academy" t="school" st=""/>
+<node id="3238425637" lat="51.525025" lon="-0.1934147"  n="Paddington Academy" t="school" st=""/>
+<node id="3356938593" lat="51.455556" lon="-0.120384"  n="Corpus Christi School" t="school" st=""/>
+<node id="3375223893" lat="51.536689" lon="-0.244505"  n="Convent of Jesus and Mary Language College" t="school" st=""/>
+<node id="3437262320" lat="51.6143735" lon="0.0237696"  n="Trinity Catholic High School (lower school)" t="school" st=""/>
+<node id="3466474033" lat="51.5656858" lon="-0.0657832"  n="Jubilee Primary School" t="school" st=""/>
+<node id="3466480078" lat="51.5664366" lon="-0.0658479"  n="Jubilee Primary School" t="school" st=""/>
+<node id="3526299968" lat="51.4518435" lon="0.1554393"  n="St Columba&#39;s Catholic Boys School" t="school" st=""/>
+<node id="3564129270" lat="51.6515666" lon="-0.0447497"  n="Kingfisker Hall Primary Academy" t="school" st=""/>
+<node id="3574461599" lat="51.6148673" lon="0.1017635"  n="Wells Park School" t="school" st=""/>
+<node id="3578496395" lat="51.6039906" lon="-0.4835439"  n="Harefield Junior School" t="school" st=""/>
+<node id="3578529350" lat="51.6068057" lon="-0.4729543"  n="Harefield Academy" t="school" st=""/>
+<node id="3587386952" lat="51.5769268" lon="0.1415321"  n="The Warren School" t="school" st=""/>
+<node id="3684572660" lat="51.6647746" lon="-0.0768853"  n="Enfield County School (Lower - Years 7 - 9)" t="school" st=""/>
+<node id="3726087629" lat="51.5482772" lon="-0.1789716"  n="North Bridge House Junior School" t="school" st=""/>
+<node id="3778919666" lat="51.5170275" lon="-0.138676"  n="SGI" t="school" st=""/>
+<node id="3798621440" lat="51.4994301" lon="-0.1885453"  n="Thomas&#39;s" t="school" st=""/>
+<node id="3827778664" lat="51.5205706" lon="0.1085967"  n="Rivergate Centre" t="school" st=""/>
+<node id="3911006575" lat="51.4673998" lon="-0.1875357"  n="Explore Learning" t="school" st=""/>
+<node id="3957999201" lat="51.4807369" lon="-0.0380861"  n="Kings Kids Christian School" t="school" st=""/>
+<node id="4007141242" lat="51.4332636" lon="0.0037153"  n="Greenvale School" t="school" st=""/>
+<node id="4009990096" lat="51.4663032" lon="-0.0731544"  n="Belham Primary School" t="school" st=""/>
+<node id="4046256862" lat="51.6372043" lon="-0.0454071"  n="Heron Hall Academy" t="school" st=""/>
+<node id="4046270057" lat="51.6361457" lon="-0.044848"  n="Woodpecker Hall Primary Academy" t="school" st=""/>
+<node id="4046270673" lat="51.6358843" lon="-0.0433069"  n="Cuckoo Hall Academy" t="school" st=""/>
+<node id="4065358594" lat="51.6134528" lon="-0.1098908"  n="St Andrew&#39;s Church of England Primary School" t="school" st=""/>
+<node id="4167409325" lat="51.5074769" lon="-0.0712799"  n="Ivory House" t="school" st=""/>
+<node id="4168183996" lat="51.47406" lon="-0.175183"  n="Royal Academy Of Dance" t="school" st=""/>
+<node id="4200464391" lat="51.5457765" lon="-0.2309221"  n="The Islamic College" t="school" st=""/>
+<node id="4238032170" lat="51.5089084" lon="-0.0584918"  n="Green Gables Montessori School" t="school" st=""/>
+<node id="4256633755" lat="51.5622369" lon="0.0907431"  n="Isaac Newton Academy Primary" t="school" st=""/>
+<node id="4280235900" lat="51.5229195" lon="0.0179683"  n="St. Helen&#39;s Catholic Primary School" t="school" st=""/>
+<node id="4281071736" lat="51.5157988" lon="-0.0721293"  n="Queensgate College" t="school" st=""/>

@@ -1,0 +1,1002 @@
+[
+  {
+    "place_id": "282475853",
+    "distance": "0.0km",
+    "lon": "-0.044014",
+    "name": "A\u0026S Cycles",
+    "sub_type": "bicycle\" class\u003d\"264",
+    "user_id": "1",
+    "type": "shop",
+    "lat": "51.5516538"
+  },
+  {
+    "place_id": "469767355",
+    "distance": "0.016584382133316145km",
+    "lon": "-0.043798",
+    "name": "Brooksby\u0027s Walk  Clifden Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5517184"
+  },
+  {
+    "place_id": "2668355809",
+    "distance": "0.09980452539100211km",
+    "lon": "-0.044165",
+    "name": "Caballo Bikes \u0026 Cafe",
+    "sub_type": "bicycle\" class\u003d\"264",
+    "user_id": "1",
+    "type": "shop",
+    "lat": "51.5525458"
+  },
+  {
+    "place_id": "469765735",
+    "distance": "0.11322274281245887km",
+    "lon": "-0.044536",
+    "name": "Chatsworth Road  Dunlace Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5526187"
+  },
+  {
+    "place_id": "469771527",
+    "distance": "0.18938096959267955km",
+    "lon": "-0.043792",
+    "name": "Homerton Hospital",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5499578"
+  },
+  {
+    "place_id": "469771526",
+    "distance": "0.2134810046250903km",
+    "lon": "-0.044635",
+    "name": "Homerton Hospital / Wardle Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5497749"
+  },
+  {
+    "place_id": "469789707",
+    "distance": "0.2471025705411934km",
+    "lon": "-0.042704",
+    "name": "Brooksby\u0027s Walk / Homerton Station",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5495862"
+  },
+  {
+    "place_id": "469788944",
+    "distance": "0.2851584944501591km",
+    "lon": "-0.043761",
+    "name": "Homerton Hospital / Wardle Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.549096"
+  },
+  {
+    "place_id": "469779833",
+    "distance": "0.31318489643877173km",
+    "lon": "-0.04112",
+    "name": "Redwald Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5538231"
+  },
+  {
+    "place_id": "469771525",
+    "distance": "0.3407185035781603km",
+    "lon": "-0.047132",
+    "name": "Homerton Hospital / Homerton Row",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5492833"
+  },
+  {
+    "place_id": "469789702",
+    "distance": "0.34610178794907553km",
+    "lon": "-0.045422",
+    "name": "Chatsworth Estate",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.55464"
+  },
+  {
+    "place_id": "469779832",
+    "distance": "0.369514752465238km",
+    "lon": "-0.040010",
+    "name": "Redwald Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5538578"
+  },
+  {
+    "place_id": "469774813",
+    "distance": "0.3974268407208611km",
+    "lon": "-0.049336",
+    "name": "Median Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5530067"
+  },
+  {
+    "place_id": "469789703",
+    "distance": "0.4173701688020526km",
+    "lon": "-0.045540",
+    "name": "Chatsworth Estate",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5552868"
+  },
+  {
+    "place_id": "469768217",
+    "distance": "0.4180296193680167km",
+    "lon": "-0.045354",
+    "name": "Banister House",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5479876"
+  },
+  {
+    "place_id": "469771279",
+    "distance": "0.42078659768547855km",
+    "lon": "-0.0399",
+    "name": "Glyn Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5488665"
+  },
+  {
+    "place_id": "469768859",
+    "distance": "0.4235254378655892km",
+    "lon": "-0.047157",
+    "name": "Fenn Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5483856"
+  },
+  {
+    "place_id": "469768219",
+    "distance": "0.42945719161756735km",
+    "lon": "-0.046259",
+    "name": "Homerton High Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5480544"
+  },
+  {
+    "place_id": "469771280",
+    "distance": "0.4387722095431582km",
+    "lon": "-0.03958",
+    "name": "Glyn Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5488323"
+  },
+  {
+    "place_id": "469768218",
+    "distance": "0.447737801584841km",
+    "lon": "-0.046638",
+    "name": "Homerton High Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5479728"
+  },
+  {
+    "place_id": "469789907",
+    "distance": "0.4674774130375957km",
+    "lon": "-0.040726",
+    "name": "Rushmore Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5553266"
+  },
+  {
+    "place_id": "469789914",
+    "distance": "0.4744997621650614km",
+    "lon": "-0.037318",
+    "name": "Daubeney Road  Marsh Hill",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5507193"
+  },
+  {
+    "place_id": "469769649",
+    "distance": "0.4993024442491795km",
+    "lon": "-0.051226",
+    "name": "Glenarm Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5514278"
+  },
+  {
+    "place_id": "469778446",
+    "distance": "0.5116342159568898km",
+    "lon": "-0.047699",
+    "name": "Powerscroft Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.555646"
+  },
+  {
+    "place_id": "469773400",
+    "distance": "0.5133469220948038km",
+    "lon": "-0.051071",
+    "name": "Lower Clapton Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5502201"
+  },
+  {
+    "place_id": "469773399",
+    "distance": "0.5193087138840577km",
+    "lon": "-0.051185",
+    "name": "Lower Clapton Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.550267"
+  },
+  {
+    "place_id": "469772320",
+    "distance": "0.5293045818955554km",
+    "lon": "-0.049423",
+    "name": "Isabella Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5482863"
+  },
+  {
+    "place_id": "469782381",
+    "distance": "0.5356481839178532km",
+    "lon": "-0.050641",
+    "name": "Sutton Square",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5491608"
+  },
+  {
+    "place_id": "469789915",
+    "distance": "0.5469118547025679km",
+    "lon": "-0.036169",
+    "name": "Meeson Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5522828"
+  },
+  {
+    "place_id": "469787351",
+    "distance": "0.5505365604094452km",
+    "lon": "-0.051789",
+    "name": "Powerscroft Road  Almack Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5527234"
+  },
+  {
+    "place_id": "469771278",
+    "distance": "0.5586346883631568km",
+    "lon": "-0.051966",
+    "name": "Hackney Baths",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5507672"
+  },
+  {
+    "place_id": "469767025",
+    "distance": "0.5593780957463824km",
+    "lon": "-0.037334",
+    "name": "Daubeney Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5544936"
+  },
+  {
+    "place_id": "469778443",
+    "distance": "0.5609886875708385km",
+    "lon": "-0.046819",
+    "name": "Powerscroft Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5563876"
+  },
+  {
+    "place_id": "469769650",
+    "distance": "0.5655004977031808km",
+    "lon": "-0.052184",
+    "name": "Glenarm Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5518898"
+  },
+  {
+    "place_id": "469771276",
+    "distance": "0.5715284381104272km",
+    "lon": "-0.052176",
+    "name": "Hackney Baths",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5508406"
+  },
+  {
+    "place_id": "469771524",
+    "distance": "0.5736252573656623km",
+    "lon": "-0.037673",
+    "name": "Ickburgh School",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5483303"
+  },
+  {
+    "place_id": "469771277",
+    "distance": "0.5917181986409253km",
+    "lon": "-0.052430",
+    "name": "Hackney Baths",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5506886"
+  },
+  {
+    "place_id": "469771274",
+    "distance": "0.5918625470335135km",
+    "lon": "-0.052463",
+    "name": "Hackney Baths",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5507993"
+  },
+  {
+    "place_id": "1949832914",
+    "distance": "0.5933167542463034km",
+    "lon": "-0.052274",
+    "name": "Armourtex Cycles",
+    "sub_type": "bicycle\" class\u003d\"264",
+    "user_id": "1",
+    "type": "shop",
+    "lat": "51.5502082"
+  },
+  {
+    "place_id": "469769573",
+    "distance": "0.597637869045219km",
+    "lon": "-0.037774",
+    "name": "Mandeville Street Gilpin Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5553758"
+  },
+  {
+    "place_id": "469775346",
+    "distance": "0.5999060582775323km",
+    "lon": "-0.046807",
+    "name": "Morningside Estate",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5465486"
+  },
+  {
+    "place_id": "469780207",
+    "distance": "0.6144639433728861km",
+    "lon": "-0.045036",
+    "name": "Clapton Park  Millfields Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5571447"
+  },
+  {
+    "place_id": "469780209",
+    "distance": "0.6152867899893375km",
+    "lon": "-0.04586",
+    "name": "Clapton Park  Millfields Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5570668"
+  },
+  {
+    "place_id": "469771528",
+    "distance": "0.6193512345975198km",
+    "lon": "-0.048926",
+    "name": "Homerton Terrace",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5469955"
+  },
+  {
+    "place_id": "469774165",
+    "distance": "0.6252856519715392km",
+    "lon": "-0.035566",
+    "name": "Marsh Hill",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5496494"
+  },
+  {
+    "place_id": "469765362",
+    "distance": "0.6257196164761734km",
+    "lon": "-0.03735",
+    "name": "Ickburgh School",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5478491"
+  },
+  {
+    "place_id": "469771529",
+    "distance": "0.6335343612556952km",
+    "lon": "-0.049103",
+    "name": "Ponsford Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5469188"
+  },
+  {
+    "place_id": "469772954",
+    "distance": "0.6390273406283953km",
+    "lon": "-0.038712",
+    "name": "Mandeville Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5563631"
+  },
+  {
+    "place_id": "469789906",
+    "distance": "0.6440638025929363km",
+    "lon": "-0.041023",
+    "name": "Pedro Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5571391"
+  },
+  {
+    "place_id": "469773931",
+    "distance": "0.6549234166402742km",
+    "lon": "-0.053108",
+    "name": "Clapton Girls\u0027 Academy",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.553304"
+  },
+  {
+    "place_id": "469779668",
+    "distance": "0.6568100959281665km",
+    "lon": "-0.046642",
+    "name": "Morning Lane",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5459803"
+  },
+  {
+    "place_id": "2872770551",
+    "distance": "0.6611679492447006km",
+    "lon": "-0.046480",
+    "name": "Chatsworth Road Mildenhall Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.557401"
+  },
+  {
+    "place_id": "469776394",
+    "distance": "0.6715796284870494km",
+    "lon": "-0.041947",
+    "name": "Millfields Road  Glyn Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.557557"
+  },
+  {
+    "place_id": "469789916",
+    "distance": "0.6939243086341957km",
+    "lon": "-0.03427",
+    "name": "Kingsmead Primary School",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5531502"
+  },
+  {
+    "place_id": "2872770552",
+    "distance": "0.6993176147075327km",
+    "lon": "-0.046688",
+    "name": "Chatsworth Road Mildenhall Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5577217"
+  },
+  {
+    "place_id": "469762174",
+    "distance": "0.7114123162766062km",
+    "lon": "-0.034010",
+    "name": "Adley Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5501603"
+  },
+  {
+    "place_id": "469767282",
+    "distance": "0.7128051752612505km",
+    "lon": "-0.05395",
+    "name": "Clapton Square",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5499455"
+  },
+  {
+    "place_id": "469789908",
+    "distance": "0.7128872971744646km",
+    "lon": "-0.054269",
+    "name": "Clapton Square (Western Arm)",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5509927"
+  },
+  {
+    "place_id": "469773930",
+    "distance": "0.7209896948024342km",
+    "lon": "-0.053766",
+    "name": "Clapton Girls\u0027  Academy",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5539498"
+  },
+  {
+    "place_id": "469776694",
+    "distance": "0.7375259446321497km",
+    "lon": "-0.040900",
+    "name": "Oswald Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5580004"
+  },
+  {
+    "place_id": "469775134",
+    "distance": "0.7385565519679533km",
+    "lon": "-0.039688",
+    "name": "Mandeville Primary School",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5577271"
+  },
+  {
+    "place_id": "469787322",
+    "distance": "0.7505690699013267km",
+    "lon": "-0.045011",
+    "name": "Kenton Road / Well Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5449339"
+  },
+  {
+    "place_id": "469763758",
+    "distance": "0.7601164780579628km",
+    "lon": "-0.040411",
+    "name": "Barnabas Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5451954"
+  },
+  {
+    "place_id": "469773195",
+    "distance": "0.7780620898037177km",
+    "lon": "-0.032969",
+    "name": "Kingsmead Estate",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5503147"
+  },
+  {
+    "place_id": "469763113",
+    "distance": "0.8058134369040371km",
+    "lon": "-0.036492",
+    "name": "Kenworthy Road  Ballance Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5461191"
+  },
+  {
+    "place_id": "469785833",
+    "distance": "0.8242242440520794km",
+    "lon": "-0.044879",
+    "name": "Valentine Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5442628"
+  },
+  {
+    "place_id": "309376864",
+    "distance": "0.8288686963104029km",
+    "lon": "-0.054584",
+    "name": "Millfields Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5551709"
+  },
+  {
+    "place_id": "469771271",
+    "distance": "0.8356090207685901km",
+    "lon": "-0.052940",
+    "name": "Trelawney Estate",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.546587"
+  },
+  {
+    "place_id": "469776957",
+    "distance": "0.8393940035079559km",
+    "lon": "-0.055672",
+    "name": "Mare Street (Narrow Way)",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5495501"
+  },
+  {
+    "place_id": "469773194",
+    "distance": "0.8411693619989657km",
+    "lon": "-0.031918",
+    "name": "Kingsmead Estate",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5508446"
+  },
+  {
+    "place_id": "469789917",
+    "distance": "0.8545720410764925km",
+    "lon": "-0.031692",
+    "name": "Kingsmead Way  Homerton Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5510566"
+  },
+  {
+    "place_id": "469767267",
+    "distance": "0.855293669388462km",
+    "lon": "-0.054444",
+    "name": "Clapton Bus Garage",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5475196"
+  },
+  {
+    "place_id": "469764683",
+    "distance": "0.8587876061018177km",
+    "lon": "-0.035973",
+    "name": "Wick Road  Benn Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5457687"
+  },
+  {
+    "place_id": "469776954",
+    "distance": "0.8593156881124112km",
+    "lon": "-0.05597",
+    "name": "Mare Street (Narrow Way)",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5495461"
+  },
+  {
+    "place_id": "469767265",
+    "distance": "0.862026909470517km",
+    "lon": "-0.054449",
+    "name": "Clapton Bus Garage",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5474146"
+  },
+  {
+    "place_id": "469782417",
+    "distance": "0.8702574090567016km",
+    "lon": "-0.05479",
+    "name": "The NarrowayHackney Central",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5476116"
+  },
+  {
+    "place_id": "469767277",
+    "distance": "0.8736973391622558km",
+    "lon": "-0.05501",
+    "name": "Clapton Pond",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5555284"
+  },
+  {
+    "place_id": "469772589",
+    "distance": "0.8871823112844703km",
+    "lon": "-0.036626",
+    "name": "Wick Road / Kenworthy Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5451302"
+  },
+  {
+    "place_id": "469766245",
+    "distance": "0.9151793686838432km",
+    "lon": "-0.039267",
+    "name": "Christie Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5439713"
+  },
+  {
+    "place_id": "469769221",
+    "distance": "0.9159582352663669km",
+    "lon": "-0.043170",
+    "name": "Cassland Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5434339"
+  },
+  {
+    "place_id": "469785834",
+    "distance": "0.92023824512446km",
+    "lon": "-0.04684",
+    "name": "Valentine Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.543567"
+  },
+  {
+    "place_id": "469777071",
+    "distance": "0.9235997884528099km",
+    "lon": "-0.054965",
+    "name": "Newick Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5564119"
+  },
+  {
+    "place_id": "469772580",
+    "distance": "0.9261827327088383km",
+    "lon": "-0.04182",
+    "name": "Gascoyne Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5434394"
+  },
+  {
+    "place_id": "469761343",
+    "distance": "0.9291917289089797km",
+    "lon": "-0.05566",
+    "name": "Hackney Central",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5474846"
+  },
+  {
+    "place_id": "469772588",
+    "distance": "0.9361254978129935km",
+    "lon": "-0.036604",
+    "name": "Wick Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5446089"
+  },
+  {
+    "place_id": "469761344",
+    "distance": "0.9371697832788098km",
+    "lon": "-0.055679",
+    "name": "Hackney Central",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.547365"
+  },
+  {
+    "place_id": "469771269",
+    "distance": "0.9455269052529216km",
+    "lon": "-0.054223",
+    "name": "Trelawney Estate",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5459981"
+  },
+  {
+    "place_id": "469774084",
+    "distance": "0.9501440166728888km",
+    "lon": "-0.030368",
+    "name": "Lee Conservancy Road / Poplar Close",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5506477"
+  },
+  {
+    "place_id": "469790037",
+    "distance": "0.9539636777899433km",
+    "lon": "-0.047356",
+    "name": "Well Street  Terrace Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5433328"
+  },
+  {
+    "place_id": "469761345",
+    "distance": "0.955207387583149km",
+    "lon": "-0.056425",
+    "name": "Hackney Central",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5478805"
+  },
+  {
+    "place_id": "469768723",
+    "distance": "0.958026728985741km",
+    "lon": "-0.056951",
+    "name": "Cricketfield Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5547422"
+  },
+  {
+    "place_id": "469774083",
+    "distance": "0.9607550004193337km",
+    "lon": "-0.030280",
+    "name": "Poplar Close",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5503425"
+  },
+  {
+    "place_id": "469767280",
+    "distance": "0.9619718436393793km",
+    "lon": "-0.056116",
+    "name": "Clapton Pond",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5559228"
+  },
+  {
+    "place_id": "2872770550",
+    "distance": "0.9647993588632983km",
+    "lon": "-0.047933",
+    "name": "Chatsworth Road Lea Bridge Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.559984"
+  },
+  {
+    "place_id": "469761346",
+    "distance": "0.9789809636983072km",
+    "lon": "-0.056824",
+    "name": "Hackney Central",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5479055"
+  },
+  {
+    "place_id": "469774491",
+    "distance": "0.9835133175444563km",
+    "lon": "-0.055771",
+    "name": "Hackney Central / Mare Street",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5466775"
+  },
+  {
+    "place_id": "469777095",
+    "distance": "0.9850499208984261km",
+    "lon": "-0.058258",
+    "name": "Pembury Road  Downs Park Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5518321"
+  },
+  {
+    "place_id": "309376863",
+    "distance": "0.9889234955157181km",
+    "lon": "-0.055693",
+    "name": "Clapton Pond",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5567883"
+  },
+  {
+    "place_id": "469777094",
+    "distance": "0.9890447963559637km",
+    "lon": "-0.058287",
+    "name": "Pembury Road Downs Park Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5522472"
+  },
+  {
+    "place_id": "2872770549",
+    "distance": "0.9999296430330138km",
+    "lon": "-0.048368",
+    "name": "Chatsworth Road Lea Bridge Road",
+    "sub_type": "bus_stop\" class\u003d\"195",
+    "user_id": "1",
+    "type": "highway",
+    "lat": "51.5602308"
+  }
+]
